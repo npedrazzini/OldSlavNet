@@ -1,0 +1,3082 @@
+# source = Domostroj, Introduction
+# text = КНИГА ГЛАГОЛЕМАЯ ДОМОСТРОЙ
+# sent_id = 158235
+1	КНИГА	кънига	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=0
+2	ГЛАГОЛЕМАЯ	глаголати	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Pass	1	acl	_	ref=0
+3	ДОМОСТРОЙ	домострои	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	xcomp	_	ref=0
+
+# source = Domostroj, Introduction
+# text = ИМѢ ЕТЪ В СЕБѢ ВЕЩИ ПОЛЕЗНЫ ПОУЧЕНИЕ И НАКАЗАНИЕ ВСЯКОМУ ХРИСТИЯНИНУ МУЖУ И ЖЕНѢ И ЧАДОМ И РАБОМ И РАБЫНЯМ
+# sent_id = 158352
+1	ИМѢ	имѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=0
+2	ЕТЪ	ЕТЪ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	flat	_	ref=0
+3	В	въ	ADP	R-	_	4	case	_	ref=0
+4	СЕБѢ	себе	PRON	Pk	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	obl	_	ref=0
+5	ВЕЩИ	вещь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	1	obj:dir	_	ref=0
+6	ПОЛЕЗНЫ	пользьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Strong	5	amod	_	ref=0
+7	ПОУЧЕНИЕ	поучение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	appos	_	ref=0
+8	И	и	CCONJ	C-	_	7	cc	_	ref=0
+9	НАКАЗАНИЕ	наказание	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	conj	_	ref=0
+10	ВСЯКОМУ	вьсякыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	11	amod	_	ref=0
+11	ХРИСТИЯНИНУ	хрьстиянинъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	iobj	_	ref=0
+12	МУЖУ	мужь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	11	appos	_	ref=0
+13	И	и	CCONJ	C-	_	12	cc	_	ref=0
+14	ЖЕНѢ	жена	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	12	conj	_	ref=0
+15	И	и	CCONJ	C-	_	12	cc	_	ref=0
+16	ЧАДОМ	чадо	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	12	conj	_	ref=0
+17	И	и	CCONJ	C-	_	12	cc	_	ref=0
+18	РАБОМ	рабъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	12	conj	_	ref=0
+19	И	и	CCONJ	C-	_	12	cc	_	ref=0
+20	РАБЫНЯМ	рабыни	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	12	conj	_	ref=0
+
+# source = Domostroj, Introduction
+# text = В неиж иматъ сказание главам
+# sent_id = 158242
+1	В	въ	ADP	R-	_	2	case	_	ref=0
+2	неиж	иже	PRON	Pr	Case=Loc|Gender=Fem|Number=Sing|PronType=Rel	3	obl	_	ref=0
+3	иматъ	имѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=0
+4	сказание	съказание	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	3	obj:dir	_	ref=0
+5	главам	глава	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	4	nmod	_	ref=0
+
+# source = Domostroj, 1
+# text = а҃
+# sent_id = 158243
+1	а҃	единъ	NUM	Ma	_	0	root	_	ref=1
+
+# source = Domostroj, 1
+# text = Наказанїе ѿ оц҃а к сн҃ѹ
+# sent_id = 160848
+1	Наказанїе	наказание	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	0	root	_	ref=1
+2	ѿ	отъ	ADP	R-	_	3	case	_	ref=1
+3	оц҃а	отьць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	ref=1
+4	к	къ	ADP	R-	_	5	case	_	ref=1
+5	сн҃ѹ	сынъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	nmod	_	ref=1
+
+# source = Domostroj, 1
+# text = Бл҃гословлѧю азъ грѣшны̋ ιм ркъ ι поучаю и наказѹю и вразѹмлѧю сн҃а своего ιм ркъ и его женѹ ι ихъ чадъ и домочадцовъ быти во всѧкомъ хртсияньскомъ законе и во всѧкої чстои совести и правде с вѣрою творѧще волю бж҃ию и хранѧще заповеди его себе оутвержающе во всѧкомъ страсѣ бж҃їи и в законномъ жительствѣ и женѹ пооучающе тако же и домочадцовъ своихъ наказѹюще не нѹжею ни ранами ни роботою тѧжкою имѣюще яко дѣти во всѧкомъ покой сыты и ѡдѣны и в тепломъ храмѣ и во всѧкомъ оустрои
+# sent_id = 158244
+1	Бл҃гословлѧю	благословляти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1
+2	азъ	азъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	ref=1
+3	грѣшны̋	грѣшьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	2	appos	_	ref=1
+4	ιм	имя	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obj:dir	_	ref=1
+5	ркъ	рещи	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	2	acl	_	ref=1
+6	ι	и	CCONJ	C-	_	1	cc	_	ref=1
+7	поучаю	поучати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=1
+8	и	и	CCONJ	C-	_	1	cc	_	ref=1
+9	наказѹю	наказывати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=1
+10	и	и	CCONJ	C-	_	1	cc	_	ref=1
+11	вразѹмлѧю	въразумляти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=1
+12	сн҃а	сынъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	obj:dir	_	ref=1
+13	своего	свои	ADJ	Pt	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	12	nmod	_	ref=1
+14	ιм	имя	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	15	obj:dir	_	ref=1
+15	ркъ	рещи	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	12	acl	_	ref=1
+16	и	и	CCONJ	C-	_	12	cc	_	ref=1
+17	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	det	_	ref=1
+18	женѹ	жена	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	12	conj	_	ref=1
+19	ι	и	CCONJ	C-	_	12	cc	_	ref=1
+20	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	21	det	_	ref=1
+21	чадъ	чадо	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	12	conj	_	ref=1
+22	и	и	CCONJ	C-	_	12	cc	_	ref=1
+23	домочадцовъ	домочадьць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	12	conj	_	ref=1
+24	быти	быти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	ref=1
+25	во	въ	ADP	R-	_	28	case	_	ref=1
+26	всѧкомъ	вьсякыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	28	amod	_	ref=1
+27	хртсияньскомъ	хрьстияньскыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	28	amod	_	ref=1
+28	законе	законъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	24	xcomp	_	ref=1
+29	и	и	CCONJ	C-	_	28	cc	_	ref=1
+30	во	въ	ADP	R-	_	33	case	_	ref=1
+31	всѧкої	вьсякыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	33	amod	_	ref=1
+32	чстои	чистыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	33	amod	_	ref=1
+33	совести	съвѣсть	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	28	conj	_	ref=1
+34	и	и	CCONJ	C-	_	33	cc	_	ref=1
+35	правде	правьда	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	33	conj	_	ref=1
+36	с	съ	ADP	R-	_	37	case	_	ref=1
+37	вѣрою	вѣра	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	38	obl	_	ref=1
+38	творѧще	творити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	24	advcl	_	ref=1
+39	волю	воля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	38	obj:dir	_	ref=1
+40	бж҃ию	божии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	39	amod	_	ref=1
+41	и	и	CCONJ	C-	_	38	cc	_	ref=1
+42	хранѧще	хранити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	38	conj	_	ref=1
+43	заповеди	заповѣдь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	42	iobj	_	ref=1
+44	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	43	det	_	ref=1
+45	себе	себе	PRON	Pk	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	46	obl	_	ref=1
+46	оутвержающе	утвьржати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	38	conj	_	ref=1
+47	во	въ	ADP	R-	_	49	case	_	ref=1
+48	всѧкомъ	вьсякыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	49	amod	_	ref=1
+49	страсѣ	страхъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	46	obl	_	ref=1
+50	бж҃їи	божии	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	49	amod	_	ref=1
+51	и	и	CCONJ	C-	_	49	cc	_	ref=1
+52	в	въ	ADP	R-	_	54	case	_	ref=1
+53	законномъ	законьныи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	54	amod	_	ref=1
+54	жительствѣ	жительство	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	49	conj	_	ref=1
+55	и	и	CCONJ	C-	_	38	cc	_	ref=1
+56	женѹ	жена	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	57	obj:dir	_	ref=1
+57	пооучающе	поучати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	38	conj	_	ref=1
+58	тако	тако	ADV	Df	_	63	advmod	_	ref=1
+59	же	же	ADV	Df	_	58	advmod	_	ref=1
+60	и	и	ADV	Df	_	61	advmod	_	ref=1
+61	домочадцовъ	домочадьць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	63	obj:dir	_	ref=1
+62	своихъ	свои	ADJ	Pt	Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	61	nmod	_	ref=1
+63	наказѹюще	наказывати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	38	conj	_	ref=1
+64	не	не	ADV	Df	_	63	advmod	_	ref=1
+65	нѹжею	нужа	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	63	obl	_	ref=1
+66	ни	ни	CCONJ	C-	_	65	cc	_	ref=1
+67	ранами	рана	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	65	conj	_	ref=1
+68	ни	ни	CCONJ	C-	_	65	cc	_	ref=1
+69	роботою	работа	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	65	conj	_	ref=1
+70	тѧжкою	тяжькыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	69	amod	_	ref=1
+71	имѣюще	имѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	63	advcl	_	ref=1
+72	яко	яко	ADV	Df	_	71	advmod	_	ref=1
+73	дѣти	дѣтя	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	72	obj:dir	_	ref=1
+74	во	въ	ADP	R-	_	76	case	_	ref=1
+75	всѧкомъ	вьсякыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	76	amod	_	ref=1
+76	покой	покои	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	71	xcomp	_	ref=1
+77	сыты	сыть	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	76	conj	_	ref=1
+78	и	и	CCONJ	C-	_	76	cc	_	ref=1
+79	ѡдѣны	одѣти	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	76	conj	_	ref=1
+80	и	и	CCONJ	C-	_	76	cc	_	ref=1
+81	в	въ	ADP	R-	_	83	case	_	ref=1
+82	тепломъ	теплыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	83	amod	_	ref=1
+83	храмѣ	храмъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	76	conj	_	ref=1
+84	и	и	CCONJ	C-	_	83	cc	_	ref=1
+85	во	въ	ADP	R-	_	87	case	_	ref=1
+86	всѧкомъ	вьсякыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	87	amod	_	ref=1
+87	оустрои	устрои	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	83	conj	_	ref=1
+
+# source = Domostroj, 1
+# text = И вдаю вамъ хрстїѧньскомѹ жительствоу писанїе се на памѧт и вразѹмленїе вамъ и чадом вашимъ
+# sent_id = 158259
+1	И	и	CCONJ	C-	_	2	cc	_	ref=1
+2	вдаю	въдаяти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1
+3	вамъ	вы	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	2	iobj	_	ref=1
+4	хрстїѧньскомѹ	хрьстияньскыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	5	amod	_	ref=1
+5	жительствоу	жительство	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	3	appos	_	ref=1
+6	писанїе	писание	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obj:dir	_	ref=1
+7	се	сии	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	6	det	_	ref=1
+8	на	на	ADP	R-	_	9	case	_	ref=1
+9	памѧт	память	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	ref=1
+10	и	и	CCONJ	C-	_	9	cc	_	ref=1
+11	вразѹмленїе	въразумѣние	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	9	conj	_	ref=1
+12	вамъ	вы	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	9	det	_	ref=1
+13	и	и	CCONJ	C-	_	12	cc	_	ref=1
+14	чадом	чадо	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	12	conj	_	ref=1
+15	вашимъ	вашь	ADJ	Ps	Case=Dat|Gender=Neut|Number=Plur|Person=2|Poss=Yes	14	nmod	_	ref=1
+
+# source = Domostroj, 1
+# text = Аще сего моего писанїѧ не внемлете и назанїѧ не послѹшаете и по томѹ не оучнете жити и не тако творити яко же есть писано сами себѣ ѿвѣтъ дадите въ дн҃ь страшнаго сѹда
+# sent_id = 158262
+1	Аще	аще	SCONJ	G-	_	6	mark	_	ref=1
+2	сего	сии	DET	Pd	Case=Gen|Gender=Neut|Number=Sing	4	det	_	ref=1
+3	моего	мои	ADJ	Ps	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes	4	nmod	_	ref=1
+4	писанїѧ	писание	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	6	dep	_	ref=1
+5	не	не	ADV	Df	_	6	advmod	_	ref=1
+6	внемлете	вънимати	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	28	advcl	_	ref=1
+7	и	и	CCONJ	C-	_	6	cc	_	ref=1
+8	назанїѧ	назание	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	10	dep	_	ref=1
+9	не	не	ADV	Df	_	10	advmod	_	ref=1
+10	послѹшаете	послушати	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	ref=1
+11	и	и	CCONJ	C-	_	6	cc	_	ref=1
+12	по	по	ADP	R-	_	13	case	_	ref=1
+13	томѹ	тыи	ADJ	Pd	Case=Dat|Gender=Neut|Number=Sing	15	obl	_	ref=1
+14	не	не	ADV	Df	_	15	advmod	_	ref=1
+15	оучнете	учати	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	ref=1
+16	жити	жити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	15	xcomp	_	ref=1
+17	и	и	CCONJ	C-	_	16	cc	_	ref=1
+18	не	не	ADV	Df	_	20	advmod	_	ref=1
+19	тако	тако	ADV	Df	_	20	advmod	_	ref=1
+20	творити	творити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	16	conj	_	ref=1
+21	яко	яко	ADV	Dq	PronType=Rel	23	advmod	_	ref=1
+22	же	же	ADV	Df	_	21	advmod	_	ref=1
+23	есть	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	advcl	_	ref=1
+24	писано	пьсати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	23	xcomp	_	ref=1
+25	сами	самъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	28	nsubj	_	ref=1
+26	себѣ	себе	PRON	Pk	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	28	obl	_	ref=1
+27	ѿвѣтъ	отъвѣтъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	28	obj:dir	_	ref=1
+28	дадите	дати	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1
+29	въ	въ	ADP	R-	_	30	case	_	ref=1
+30	дн҃ь	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	28	obl	_	ref=1
+31	страшнаго	страшьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	32	amod	_	ref=1
+32	сѹда	судъ#1	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	30	nmod	_	ref=1
+
+# source = Domostroj, 1
+# text = и азъ вашимъ винамъ и грѣхѹ не причастенъ
+# sent_id = 158266
+1	и	и	CCONJ	C-	_	8	cc	_	ref=1
+2	азъ	азъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	ref=1
+3	вашимъ	вашь	ADJ	Ps	Case=Dat|Gender=Fem|Number=Plur|Person=2|Poss=Yes	4	nmod	_	ref=1
+4	винамъ	вина	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	8	iobj	_	ref=1
+5	и	и	CCONJ	C-	_	4	cc	_	ref=1
+6	грѣхѹ	грѣхъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	conj	_	ref=1
+7	не	не	ADV	Df	_	8	advmod	_	ref=1
+8	причастенъ	причастьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	0	root	_	ref=1
+
+# source = Domostroj, 1
+# text = кромѣ моеѧ дш҃а
+# sent_id = 158267
+1	кромѣ	кромѣ	ADP	R-	_	3	case	_	ref=1
+2	моеѧ	мои	ADJ	Ps	Case=Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes	3	nmod	_	ref=1
+3	дш҃а	душа	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	0	root	_	ref=1
+
+# source = Domostroj, 1
+# text = аз ѡ семъ о всѧкомъ бл҃гочинїи бл҃гословлѧлъ
+# sent_id = 158268
+1	аз	азъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	ref=1
+2	ѡ	о	ADP	R-	_	3	case	_	ref=1
+3	семъ	сии	ADJ	Pd	Case=Loc|Gender=Neut|Number=Sing	7	obl	_	ref=1
+4	о	о	ADP	R-	_	6	case	_	ref=1
+5	всѧкомъ	вьсякыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	6	amod	_	ref=1
+6	бл҃гочинїи	благочиние	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	2	appos	_	ref=1
+7	бл҃гословлѧлъ	благословляти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=1
+
+# source = Domostroj, 1
+# text = и плакалъ и молилъ и пооучалъ
+# sent_id = 158320
+1	и	и	CCONJ	C-	_	2	cc	_	ref=1
+2	плакалъ	плакати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=1
+3	и	и	CCONJ	C-	_	2	cc	_	ref=1
+4	молилъ	молити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	2	conj	_	ref=1
+5	и	и	CCONJ	C-	_	2	cc	_	ref=1
+6	пооучалъ	поучати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	2	conj	_	ref=1
+
+# source = Domostroj, 1
+# text = и писанїе предлагалъ вамъ
+# sent_id = 158272
+1	и	и	CCONJ	C-	_	3	cc	_	ref=1
+2	писанїе	писание	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	3	obj:dir	_	ref=1
+3	предлагалъ	прѣдълагати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=1
+4	вамъ	вы	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	iobj	_	ref=1
+
+# source = Domostroj, 1
+# text = и аще восприимете сие мое хѹдое оученїе и грѹбое наказанїе и сїе
+# sent_id = 158322
+1	и	и	CCONJ	C-	_	0	root	_	ref=1
+2	аще	аще	SCONJ	G-	_	3	mark	_	ref=1
+3	восприимете	въсприяти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	ref=1
+4	сие	сии	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	7	det	_	ref=1
+5	мое	мои	ADJ	Ps	Case=Acc|Gender=Neut|Number=Sing|Person=1|Poss=Yes	7	nmod	_	ref=1
+6	хѹдое	худыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	7	amod	_	ref=1
+7	оученїе	учение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	3	obj:dir	_	ref=1
+8	и	и	CCONJ	C-	_	7	cc	_	ref=1
+9	грѹбое	грубыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	10	amod	_	ref=1
+10	наказанїе	наказание	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	conj	_	ref=1
+11	и	и	CCONJ	C-	_	7	cc	_	ref=1
+12	сїе	сии	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	7	conj	_	ref=1
+
+# source = Domostroj, 1
+# text = но в мл҃тве си гл҃и и покланѧнїе твори и на помощь к бг҃ѹ призываи их мощи же ст҃ых с вѣрою цѣлѹи и покланѧи с им
+# sent_id = 189708
+1	но	нъ	CCONJ	C-	_	5	cc	_	ref=1
+2	в	въ	ADP	R-	_	3	case	_	ref=1
+3	мл҃тве	молитва	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	5	obl	_	ref=1
+4	си	сии	DET	Pd	Case=Loc|Gender=Fem|Number=Sing	3	det	_	ref=1
+5	гл҃и	глаголати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1
+6	и	и	CCONJ	C-	_	5	cc	_	ref=1
+7	покланѧнїе	покланяние	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	8	obj:dir	_	ref=1
+8	твори	творити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	ref=1
+9	и	и	CCONJ	C-	_	5	cc	_	ref=1
+10	на	на	ADP	R-	_	11	case	_	ref=1
+11	помощь	помощь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	14	obl	_	ref=1
+12	к	къ	ADP	R-	_	13	case	_	ref=1
+13	бг҃ѹ	богъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	14	obl	_	ref=1
+14	призываи	призывати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	ref=1
+15	их	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	det	_	ref=1
+16	мощи	мощи	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	21	obj:dir	_	ref=1
+17	же	же	ADV	Df	_	21	advmod	_	ref=1
+18	ст҃ых	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	15	appos	_	ref=1
+19	с	съ	ADP	R-	_	20	case	_	ref=1
+20	вѣрою	вѣра	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	21	obl	_	ref=1
+21	цѣлѹи	цѣловати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	ref=1
+22	и	и	CCONJ	C-	_	5	cc	_	ref=1
+23	покланѧи	покланяти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	ref=1
+24	с	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	23	aux	_	ref=1
+25	им	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	23	iobj	_	ref=1
+
+# source = Domostroj, 3
+# text = г҃
+# sent_id = 158278
+1	г҃	трие	NUM	Ma	_	0	root	_	ref=3
+
+# source = Domostroj, 3
+# text = Како таинамъ бж҃їимъ причащати с и вѣровати воскресенїю мр҃твыхъ и сътрашнаго сѹда чаѧти и касати сѧ всѧкои свѧтыни
+# sent_id = 163736
+1	Како	како	ADV	Du	PronType=Int	4	advmod	_	ref=3
+2	таинамъ	таина	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	4	iobj	_	ref=3
+3	бж҃їимъ	божии	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	2	amod	_	ref=3
+4	причащати	причащати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=3
+5	с	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	4	aux	_	ref=3
+6	и	и	CCONJ	C-	_	4	cc	_	ref=3
+7	вѣровати	вѣровати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	conj	_	ref=3
+8	воскресенїю	въскрьсение	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	7	iobj	_	ref=3
+9	мр҃твыхъ	мьртвыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	8	nmod	_	ref=3
+10	и	и	CCONJ	C-	_	4	cc	_	ref=3
+11	сътрашнаго	страшьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	12	amod	_	ref=3
+12	сѹда	судъ#1	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	13	iobj	_	ref=3
+13	чаѧти	чаяти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	conj	_	ref=3
+14	и	и	CCONJ	C-	_	4	cc	_	ref=3
+15	касати	касати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	conj	_	ref=3
+16	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	15	aux	_	ref=3
+17	всѧкои	вьсякыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	18	amod	_	ref=3
+18	свѧтыни	святыни	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	15	iobj	_	ref=3
+
+# source = Domostroj, 3
+# text = таинамъ бж҃їимъ вѣрѹи
+# sent_id = 186348
+1	таинамъ	таина	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	3	iobj	_	ref=3
+2	бж҃їимъ	божии	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	1	amod	_	ref=3
+3	вѣрѹи	вѣровати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+
+# source = Domostroj, 3
+# text = тѣлѹ его крови вѣрѹи
+# sent_id = 186349
+1	тѣлѹ	тѣло	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	4	iobj	_	ref=3
+2	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	det	_	ref=3
+3	крови	кръвь	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	1	conj	_	ref=3
+4	вѣрѹи	вѣровати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+
+# source = Domostroj, 3
+# text = причащати сѧ и со страхомъ на ѡчищенїе i ѡсщ҃енїе дш҃и же и тѣлѹ и во ѡставленїе грѣхомъ и в жизнь вѣчнѹю
+# sent_id = 158326
+1	причащати	причащати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=3
+2	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	1	aux	_	ref=3
+3	и	и	ADV	Df	_	4	advmod	_	ref=3
+4	со	съ	ADP	R-	_	5	case	_	ref=3
+5	страхомъ	страхъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	1	obl	_	ref=3
+6	на	на	ADP	R-	_	7	case	_	ref=3
+7	ѡчищенїе	очищение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	ref=3
+8	i	и	CCONJ	C-	_	7	cc	_	ref=3
+9	ѡсщ҃енїе	освящение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	conj	_	ref=3
+10	дш҃и	душа	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	9	nmod	_	ref=3
+11	же	же	ADV	Df	_	1	advmod	_	ref=3
+12	и	и	CCONJ	C-	_	10	cc	_	ref=3
+13	тѣлѹ	тѣло	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	10	conj	_	ref=3
+14	и	и	CCONJ	C-	_	16	cc	_	ref=3
+15	во	въ	ADP	R-	_	16	case	_	ref=3
+16	ѡставленїе	оставление	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	ref=3
+17	грѣхомъ	грѣхъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	16	nmod	_	ref=3
+18	и	и	CCONJ	C-	_	16	cc	_	ref=3
+19	в	въ	ADP	R-	_	20	case	_	ref=3
+20	жизнь	жизнь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	16	conj	_	ref=3
+21	вѣчнѹю	вѣчьныи#1	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	20	amod	_	ref=3
+
+# source = Domostroj, 3
+# text = вѣрѹи воскресенїю мертвым и жизни бѹдѹщаго вѣка
+# sent_id = 158281
+1	вѣрѹи	вѣровати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+2	воскресенїю	въскрьсение	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	1	iobj	_	ref=3
+3	мертвым	мьртвыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	2	nmod	_	ref=3
+4	и	и	CCONJ	C-	_	2	cc	_	ref=3
+5	жизни	жизнь	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	2	conj	_	ref=3
+6	бѹдѹщаго	быти	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Strength=Weak|Tense=Fut|VerbForm=Part|Voice=Act	7	acl	_	ref=3
+7	вѣка	вѣкъ#1	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	ref=3
+
+# source = Domostroj, 3
+# text = помѧни страшныи сѹдъ
+# sent_id = 158328
+1	помѧни	помянути	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+2	страшныи	страшьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	3	amod	_	ref=3
+3	сѹдъ	судъ#1	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	obj:dir	_	ref=3
+
+# source = Domostroj, 3
+# text = и воздаѧнїе по дѣломъ бѹдетъ намъ
+# sent_id = 158282
+1	и	и	CCONJ	C-	_	5	cc	_	ref=3
+2	воздаѧнїе	въздаяние	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	ref=3
+3	по	по	ADP	R-	_	4	case	_	ref=3
+4	дѣломъ	дѣло	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	5	obl	_	ref=3
+5	бѹдетъ	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+6	намъ	мы	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	5	iobj	_	ref=3
+
+# source = Domostroj, 3
+# text = аще когда приѡчистив себе дх҃овно в чистои совѣсти с молитвою и с молениемъ цѣловати животворѧщїи крстъ и ст҃ыи честны̋ ѡбразы чюдотворные многоцѣлебныѧ мощи
+# sent_id = 158283
+1	аще	аще	SCONJ	G-	_	3	mark	_	ref=3
+2	когда	къгда	ADV	Dq	PronType=Rel	3	advmod	_	ref=3
+3	приѡчистив	приочистити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	14	advcl	_	ref=3
+4	себе	себе	PRON	Pk	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	3	obj:dir	_	ref=3
+5	дх҃овно	духовьно	ADV	Df	_	3	advmod	_	ref=3
+6	в	въ	ADP	R-	_	8	case	_	ref=3
+7	чистои	чистыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	8	amod	_	ref=3
+8	совѣсти	съвѣсть	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	14	obl	_	ref=3
+9	с	съ	ADP	R-	_	10	case	_	ref=3
+10	молитвою	молитва	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	14	obl	_	ref=3
+11	и	и	CCONJ	C-	_	10	cc	_	ref=3
+12	с	съ	ADP	R-	_	13	case	_	ref=3
+13	молениемъ	моление	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	10	conj	_	ref=3
+14	цѣловати	цѣловати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=3
+15	животворѧщїи	животворити	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	16	acl	_	ref=3
+16	крстъ	крьстъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	14	obj:dir	_	ref=3
+17	и	и	CCONJ	C-	_	16	cc	_	ref=3
+18	ст҃ыи	святыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	20	amod	_	ref=3
+19	честны̋	чьстьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	20	amod	_	ref=3
+20	ѡбразы	образъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	16	conj	_	ref=3
+21	чюдотворные	чудотворьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	23	amod	_	ref=3
+22	многоцѣлебныѧ	мъногоцѣльбьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	23	amod	_	ref=3
+23	мощи	мощи	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	16	conj	_	ref=3
+
+# source = Domostroj, 3
+# text = по молении прекрестѧ сѧ поцеловати дх҃ъ в себѣ оудержавъ а гѹбъ не разѣваючи
+# sent_id = 158329
+1	по	по	ADP	R-	_	2	case	_	ref=3
+2	молении	моление	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	5	obl	_	ref=3
+3	прекрестѧ	прѣкрьстити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	5	advcl	_	ref=3
+4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=3
+5	поцеловати	поцѣловати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=3
+6	дх҃ъ	духъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	9	obj:dir	_	ref=3
+7	в	въ	ADP	R-	_	8	case	_	ref=3
+8	себѣ	себе	PRON	Pk	Case=Loc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	9	obl	_	ref=3
+9	оудержавъ	удьржати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	5	advcl	_	ref=3
+10	а	а	CCONJ	C-	_	9	cc	_	ref=3
+11	гѹбъ	губа	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	13	obj:dir	_	ref=3
+12	не	не	ADV	Df	_	13	advmod	_	ref=3
+13	разѣваючи	разѣвати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	9	conj	_	ref=3
+
+# source = Domostroj, 3
+# text = а бл҃говолитъ бг҃ъ комѹ причасьтити сѧ бж҃ственыхъ хв҃ыхъ таинъ
+# sent_id = 158332
+1	а	а	CCONJ	C-	_	2	cc	_	ref=3
+2	бл҃говолитъ	благоволити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+3	бг҃ъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=3
+4	комѹ	къто	ADJ	Px	Case=Dat|Gender=Masc|Number=Sing	5	nsubj	_	ref=3
+5	причасьтити	причастити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	ccomp	_	ref=3
+6	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	5	aux	_	ref=3
+7	бж҃ственыхъ	божьствьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	9	amod	_	ref=3
+8	хв҃ыхъ	христ(ос)овъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	9	amod	_	ref=3
+9	таинъ	таина	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	5	iobj	_	ref=3
+
+# source = Domostroj, 3
+# text = ино лжицею ѿ iереѧ прїимати во оуста ѡпасно гѹбами не сверкати рѹцѣ имѣти к персемъ согбен̋ крстаѡбразно
+# sent_id = 158333
+1	ино	ино	ADV	Df	_	5	advmod	_	ref=3
+2	лжицею	лъжица	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	5	obl	_	ref=3
+3	ѿ	отъ	ADP	R-	_	4	case	_	ref=3
+4	iереѧ	иереи	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	ref=3
+5	прїимати	приимати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=3
+6	во	въ	ADP	R-	_	7	case	_	ref=3
+7	оуста	уста	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	5	obl	_	ref=3
+8	ѡпасно	опасьно	ADV	Df	_	5	advmod	_	ref=3
+9	гѹбами	губа	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	11	obl	_	ref=3
+10	не	не	ADV	Df	_	11	advmod	_	ref=3
+11	сверкати	сверкати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	conj	_	ref=3
+12	рѹцѣ	рука	NOUN	Nb	Case=Acc|Gender=Fem|Number=Dual	13	obj:dir	_	ref=3
+13	имѣти	имѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	conj	_	ref=3
+14	к	къ	ADP	R-	_	15	case	_	ref=3
+15	персемъ	пьрси	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	16	obl	_	ref=3
+16	согбен̋	съгъбеныи	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	13	xcomp	_	ref=3
+17	крстаѡбразно	крьстообразьно	ADV	Df	_	16	advmod	_	ref=3
+
+# source = Domostroj, 3
+# text = а дора i просфира и всѧкаѧ ст҃аѧ вкѹшати бережно
+# sent_id = 158289
+1	а	а	CCONJ	C-	_	8	cc	_	ref=3
+2	дора	дора	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	8	obj:dir	_	ref=3
+3	i	и	CCONJ	C-	_	2	cc	_	ref=3
+4	просфира	просфора	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	ref=3
+5	и	и	CCONJ	C-	_	2	cc	_	ref=3
+6	всѧкаѧ	вьсякыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	7	amod	_	ref=3
+7	ст҃аѧ	святыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	2	conj	_	ref=3
+8	вкѹшати	въкушати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=3
+9	бережно	бережьно	ADV	Df	_	8	advmod	_	ref=3
+
+# source = Domostroj, 3
+# text = крохи на землю не оуронити
+# sent_id = 158334
+1	крохи	кроха	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	5	obj:dir	_	ref=3
+2	на	на	ADP	R-	_	3	case	_	ref=3
+3	землю	земля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	ref=3
+4	не	не	ADV	Df	_	5	advmod	_	ref=3
+5	оуронити	уронити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=3
+
+# source = Domostroj, 3
+# text = а зѹбами просфиры не кѹсати якоже прочїи
+# sent_id = 158290
+1	а	а	CCONJ	C-	_	5	cc	_	ref=3
+2	зѹбами	зубъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	5	iobj	_	ref=3
+3	просфиры	просфора	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	obj:dir	_	ref=3
+4	не	не	ADV	Df	_	5	advmod	_	ref=3
+5	кѹсати	кусати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=3
+6	якоже	якоже	ADV	Df	_	5	advcl	_	ref=3
+7	прочїи	прочии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	6	nsubj	_	ref=3
+
+# source = Domostroj, 3
+# text = хлѣбъ уломываючи невелики кѹсочки класти в рот
+# sent_id = 158291
+1	хлѣбъ	хлѣбъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	obj:dir	_	ref=3
+2	уломываючи	уломывати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	5	advcl	_	ref=3
+3	невелики	невеликыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	4	amod	_	ref=3
+4	кѹсочки	кусочекъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	2	obj:dir	_	ref=3
+5	класти	класти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=3
+6	в	въ	ADP	R-	_	7	case	_	ref=3
+7	рот	рътъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	obl	_	ref=3
+
+# source = Domostroj, 3
+# text = ести губами и ртомъ
+# sent_id = 158293
+1	ести	ѣсти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=3
+2	губами	губа	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	1	obl	_	ref=3
+3	и	и	CCONJ	C-	_	2	cc	_	ref=3
+4	ртомъ	рътъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	2	conj	_	ref=3
+
+# source = Domostroj, 3
+# text = не чавкати
+# sent_id = 158294
+1	не	не	ADV	Df	_	2	advmod	_	ref=3
+2	чавкати	чавкати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=3
+
+# source = Domostroj, 3
+# text = со опасенїем ести а просфиры с вологою не ести
+# sent_id = 158295
+1	со	съ	ADP	R-	_	2	case	_	ref=3
+2	опасенїем	опасение	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	3	obl	_	ref=3
+3	ести	ѣсти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=3
+4	а	а	CCONJ	C-	_	3	cc	_	ref=3
+5	просфиры	просфора	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	9	obj:dir	_	ref=3
+6	с	съ	ADP	R-	_	7	case	_	ref=3
+7	вологою	волога	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	9	obl	_	ref=3
+8	не	не	ADV	Df	_	9	advmod	_	ref=3
+9	ести	ясти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	conj	_	ref=3
+
+# source = Domostroj, 3
+# text = токмо воды прихлебывати или оукропѹ с виномъ слѹженымъ или без вина
+# sent_id = 158336
+1	токмо	тъкъмо#1	ADV	Df	_	3	advmod	_	ref=3
+2	воды	вода	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	obj:dir	_	ref=3
+3	прихлебывати	прихлебывати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=3
+4	или	или	CCONJ	C-	_	2	cc	_	ref=3
+5	оукропѹ	укропъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	conj	_	ref=3
+6	с	съ	ADP	R-	_	7	case	_	ref=3
+7	виномъ	вино	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	5	nmod	_	ref=3
+8	слѹженымъ	служити	VERB	V-	Case=Ins|Gender=Neut|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	_	ref=3
+9	или	или	CCONJ	C-	_	7	cc	_	ref=3
+10	без	без	ADP	R-	_	11	case	_	ref=3
+11	вина	вино	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	7	conj	_	ref=3
+
+# source = Domostroj, 3
+# text = а иного ничего не примешати
+# sent_id = 158296
+1	а	а	CCONJ	C-	_	5	cc	_	ref=3
+2	иного	иныи	DET	Px	Case=Gen|Gender=Neut|Number=Sing	3	det	_	ref=3
+3	ничего	ничьто	ADJ	Px	Case=Gen|Gender=Neut|Number=Sing	5	obj:dir	_	ref=3
+4	не	не	ADV	Df	_	5	advmod	_	ref=3
+5	примешати	примешати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=3
+
+# source = Domostroj, 3
+# text = преже всякїѧ ествы свершати просфира в црк҃ви їли в домѹ
+# sent_id = 158297
+1	преже	прѣже	ADP	R-	_	3	case	_	ref=3
+2	всякїѧ	вьсякыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	3	amod	_	ref=3
+3	ествы	ѣства	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	obl	_	ref=3
+4	свершати	съвьршати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=3
+5	просфира	просфора	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	obj:dir	_	ref=3
+6	в	въ	ADP	R-	_	7	case	_	ref=3
+7	црк҃ви	цьркы	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	4	obl	_	ref=3
+8	їли	или	CCONJ	C-	_	7	cc	_	ref=3
+9	в	въ	ADP	R-	_	10	case	_	ref=3
+10	домѹ	домъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	7	conj	_	ref=3
+
+# source = Domostroj, 3
+# text = а и с кѹтьею никако же просфиры не ести ни с канѹномъ
+# sent_id = 158298
+1	а	а	CCONJ	C-	_	9	cc	_	ref=3
+2	и	и	CCONJ	C-	_	4	cc	_	ref=3
+3	с	съ	ADP	R-	_	4	case	_	ref=3
+4	кѹтьею	кутия	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	9	obl	_	ref=3
+5	никако	никакоже	ADV	Df	_	9	advmod	_	ref=3
+6	же	же	ADV	Df	_	5	flat	_	ref=3
+7	просфиры	просфора	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	9	obj:dir	_	ref=3
+8	не	не	ADV	Df	_	9	advmod	_	ref=3
+9	ести	ѣсти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=3
+10	ни	ни	CCONJ	C-	_	4	cc	_	ref=3
+11	с	съ	ADP	R-	_	12	case	_	ref=3
+12	канѹномъ	канунъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	4	conj	_	ref=3
+
+# source = Domostroj, 3
+# text = и на кѹтью просфиры не класти
+# sent_id = 158300
+1	и	и	CCONJ	C-	_	6	cc	_	ref=3
+2	на	на	ADP	R-	_	3	case	_	ref=3
+3	кѹтью	кутия	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	ref=3
+4	просфиры	просфора	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	obj:dir	_	ref=3
+5	не	не	ADV	Df	_	6	advmod	_	ref=3
+6	класти	класти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=3
+
+# source = Domostroj, 3
+# text = аще с кѣмъ ѡ х҃ѣ цѣлованїе сотворити такоже дх҃ъ в себѣ оудержавъ поцѣловати сѧ а гѹбами не плюскатї
+# sent_id = 158301
+1	аще	аще	SCONJ	G-	_	7	mark	_	ref=3
+2	с	съ	ADP	R-	_	3	case	_	ref=3
+3	кѣмъ	къто	ADJ	Px	Case=Ins|Gender=Masc|Number=Sing	7	obl	_	ref=3
+4	ѡ	о	ADP	R-	_	5	case	_	ref=3
+5	х҃ѣ	христ(ос)ъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	7	obl	_	ref=3
+6	цѣлованїе	цѣлование	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	obj:dir	_	ref=3
+7	сотворити	сътворити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	13	advcl	_	ref=3
+8	такоже	такоже	ADV	Df	_	12	advmod	_	ref=3
+9	дх҃ъ	духъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	12	obj:dir	_	ref=3
+10	в	въ	ADP	R-	_	11	case	_	ref=3
+11	себѣ	себе	PRON	Pk	Case=Loc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	12	obl	_	ref=3
+12	оудержавъ	удьржати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	13	advcl	_	ref=3
+13	поцѣловати	поцѣловати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=3
+14	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	13	aux	_	ref=3
+15	а	а	CCONJ	C-	_	13	cc	_	ref=3
+16	гѹбами	губа	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	18	obl	_	ref=3
+17	не	не	ADV	Df	_	18	advmod	_	ref=3
+18	плюскатї	плюскати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	13	conj	_	ref=3
+
+# source = Domostroj, 3
+# text = поразсѹди
+# sent_id = 158337
+1	поразсѹди	порасудити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+
+# source = Domostroj, 3
+# text = чл҃ческїѧ немощи нечювьственаго дх҃а гнѹшаем сѧ чесночного хмелного болного и всѧкого смрада
+# sent_id = 158304
+1	чл҃ческїѧ	человѣчьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	2	amod	_	ref=3
+2	немощи	немощь	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	ref=3
+3	нечювьственаго	нечувьствьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=3
+4	дх҃а	духъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	iobj	_	ref=3
+5	гнѹшаем	гнушати	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+6	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	5	aux	_	ref=3
+7	чесночного	чеснъчьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	2	conj	_	ref=3
+8	хмелного	хъмельныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	2	conj	_	ref=3
+9	болного	больныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	2	conj	_	ref=3
+10	и	и	CCONJ	C-	_	2	cc	_	ref=3
+11	всѧкого	вьсякыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	12	amod	_	ref=3
+12	смрада	смрадъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	conj	_	ref=3
+
+# source = Domostroj, 3
+# text = коль мерско гв҃и нашь смрадъ и ѡбонѧнїе
+# sent_id = 158338
+1	коль	коль	ADV	Du	PronType=Int	2	advmod	_	ref=3
+2	мерско	мьрзъкыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	0	root	_	ref=3
+3	гв҃и	господь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	ref=3
+4	нашь	нашь	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=1|Poss=Yes	5	nmod	_	ref=3
+5	смрадъ	смрадъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=3
+6	и	и	CCONJ	C-	_	5	cc	_	ref=3
+7	ѡбонѧнїе	обоняние	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	conj	_	ref=3
+
+# source = Domostroj, 3
+# text = сего ради со ѡпасенїемъ творити
+# sent_id = 158309
+1	сего	сии	ADJ	Pd	Case=Gen|Gender=Neut|Number=Sing	5	obl	_	ref=3
+2	ради	ради	ADP	R-	_	1	case	_	ref=3
+3	со	съ	ADP	R-	_	4	case	_	ref=3
+4	ѡпасенїемъ	опасение	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	5	obl	_	ref=3
+5	творити	творити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=3
+
+# source = Domostroj, 4
+# text = д҃
+# sent_id = 160192
+1	д҃	четыре	NUM	Ma	_	0	root	_	ref=4
+
+# source = Domostroj, 4
+# text = Како любити бг҃а ѿ всеѧ дш҃а тако же брата своег и страх бж҃їи имѣти и памѧть смертнѹю
+# sent_id = 163573
+1	Како	како	ADV	Du	PronType=Int	2	advmod	_	ref=4
+2	любити	любити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=4
+3	бг҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	obj:dir	_	ref=4
+4	ѿ	отъ	ADP	R-	_	6	case	_	ref=4
+5	всеѧ	вьсь	DET	Px	Case=Gen|Gender=Fem|Number=Sing	6	det	_	ref=4
+6	дш҃а	душа	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	2	obl	_	ref=4
+7	тако	тако	ADV	Df	_	9	orphan	_	ref=4
+8	же	же	ADV	Df	_	7	advmod	_	ref=4
+9	брата	братъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	conj	_	ref=4
+10	своег	свои	ADJ	Pt	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	9	nmod	_	ref=4
+11	и	и	CCONJ	C-	_	2	cc	_	ref=4
+12	страх	страхъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	14	obj:dir	_	ref=4
+13	бж҃їи	божии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	12	nmod	_	ref=4
+14	имѣти	имѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	conj	_	ref=4
+15	и	и	CCONJ	C-	_	12	cc	_	ref=4
+16	памѧть	память	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	12	conj	_	ref=4
+17	смертнѹю	съмьртьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	16	amod	_	ref=4
+
+# source = Domostroj, 4
+# text = Посем же возлюбиши г҃а бг҃а твоего ѿ всеѧ дш҃а своеѧ и ѿ всеѧ крѣпости своеѧ и подвигни всѧ твоѧ дѣла и ѡбычаѧ и нравы оугоднаѧ творити по заповѣди его
+# sent_id = 160195
+1	Посем	посемь	ADV	Df	_	3	advmod	_	ref=4
+2	же	же	ADV	Df	_	3	advmod	_	ref=4
+3	возлюбиши	възлюбити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+4	г҃а	господь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	obj:dir	_	ref=4
+5	бг҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	appos	_	ref=4
+6	твоего	твои	ADJ	Ps	Case=Gen|Gender=Masc|Number=Sing|Person=2|Poss=Yes	4	nmod	_	ref=4
+7	ѿ	отъ	ADP	R-	_	9	case	_	ref=4
+8	всеѧ	вьсь	DET	Px	Case=Gen|Gender=Fem|Number=Sing	9	det	_	ref=4
+9	дш҃а	душа	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	obl	_	ref=4
+10	своеѧ	свои	ADJ	Pt	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	9	nmod	_	ref=4
+11	и	и	CCONJ	C-	_	9	cc	_	ref=4
+12	ѿ	отъ	ADP	R-	_	14	case	_	ref=4
+13	всеѧ	вьсь	DET	Px	Case=Gen|Gender=Fem|Number=Sing	14	det	_	ref=4
+14	крѣпости	крѣпость	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	9	conj	_	ref=4
+15	своеѧ	свои	ADJ	Pt	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	14	nmod	_	ref=4
+16	и	и	CCONJ	C-	_	3	cc	_	ref=4
+17	подвигни	подвигнути	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=4
+18	всѧ	вьсь	DET	Px	Case=Acc|Gender=Neut|Number=Plur	20	det	_	ref=4
+19	твоѧ	твои	ADJ	Ps	Case=Acc|Gender=Neut|Number=Plur|Person=2|Poss=Yes	20	nmod	_	ref=4
+20	дѣла	дѣло	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	26	obj:dir	_	ref=4
+21	и	и	CCONJ	C-	_	20	cc	_	ref=4
+22	ѡбычаѧ	обычаи	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	20	conj	_	ref=4
+23	и	и	CCONJ	C-	_	20	cc	_	ref=4
+24	нравы	нравъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	20	conj	_	ref=4
+25	оугоднаѧ	угодьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Plur|Strength=Weak	26	xcomp	_	ref=4
+26	творити	творити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	17	xcomp	_	ref=4
+27	по	по	ADP	R-	_	28	case	_	ref=4
+28	заповѣди	заповѣдь	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	25	obl	_	ref=4
+29	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	det	_	ref=4
+
+# source = Domostroj, 4
+# text = паки жи искренѧго си возлюби всѧкаго чл҃ка по ѡбразѹ бж҃їю созданна рекше всѧкаго хрстїѧнїна
+# sent_id = 160196
+1	паки	пакы	ADV	Df	_	5	advmod	_	ref=4
+2	жи	же	ADV	Df	_	5	advmod	_	ref=4
+3	искренѧго	искрьнии	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	7	amod	_	ref=4
+4	си	си	ADV	Df	_	5	advmod	_	ref=4
+5	возлюби	възлюбити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+6	всѧкаго	вьсякыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	7	amod	_	ref=4
+7	чл҃ка	человѣкъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	obj:dir	_	ref=4
+8	по	по	ADP	R-	_	9	case	_	ref=4
+9	ѡбразѹ	образъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	11	obl	_	ref=4
+10	бж҃їю	божии	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	9	amod	_	ref=4
+11	созданна	съзьдати	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	_	ref=4
+12	рекше	рещи	VERB	V-	Case=Acc|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	7	acl	_	ref=4
+13	всѧкаго	вьсякыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	14	amod	_	ref=4
+14	хрстїѧнїна	хрьстиянинъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	12	xcomp	_	ref=4
+
+# source = Domostroj, 4
+# text = страх бж҃їи всегда имѣи в срдцы своемъ и памѧть см҃ртнѹю
+# sent_id = 160481
+1	страх	страхъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj:dir	_	ref=4
+2	бж҃їи	божии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	1	nmod	_	ref=4
+3	всегда	вьсегда	ADV	Df	_	4	advmod	_	ref=4
+4	имѣи	имѣти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+5	в	въ	ADP	R-	_	6	case	_	ref=4
+6	срдцы	сьрдьце	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	4	obl	_	ref=4
+7	своемъ	свои	ADJ	Pt	Case=Loc|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	6	nmod	_	ref=4
+8	и	и	CCONJ	C-	_	1	cc	_	ref=4
+9	памѧть	память	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	conj	_	ref=4
+10	см҃ртнѹю	съмьртьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	9	amod	_	ref=4
+
+# source = Domostroj, 4
+# text = всегда волю бж҃їю творити
+# sent_id = 186481
+1	всегда	вьсегда	ADV	Df	_	4	advmod	_	ref=4
+2	волю	воля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj:dir	_	ref=4
+3	бж҃їю	божии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	2	amod	_	ref=4
+4	творити	творити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=4
+
+# source = Domostroj, 4
+# text = и по заповѣдемъ его ходи
+# sent_id = 186482
+1	и	и	CCONJ	C-	_	5	cc	_	ref=4
+2	по	по	ADP	R-	_	3	case	_	ref=4
+3	заповѣдемъ	заповѣдь	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	5	obl	_	ref=4
+4	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	det	_	ref=4
+5	ходи	ходити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+
+# source = Domostroj, 4
+# text = рече г҃ь
+# sent_id = 160482
+1	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+2	г҃ь	господь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=4
+
+# source = Domostroj, 4
+# text = в чемъ тѧ застанѹ в томъ и сѹжѹ
+# sent_id = 186483
+1	в	въ	ADP	R-	_	2	case	_	ref=4
+2	чемъ	чьто	PRON	Pi	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	4	obl	_	ref=4
+3	тѧ	ты	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obj:dir	_	ref=4
+4	застанѹ	застати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl	_	ref=4
+5	в	въ	ADP	R-	_	6	case	_	ref=4
+6	томъ	тыи	ADJ	Pd	Case=Loc|Gender=Neut|Number=Sing	8	obl	_	ref=4
+7	и	и	ADV	Df	_	8	advmod	_	ref=4
+8	сѹжѹ	судити	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+
+# source = Domostroj, 4
+# text = ино достоитъ всѧкомѹ хрстїѧнїнѹ готовѹ быти в добрых дѣлех в чтсоте и в покаѧнїи и во всѧкомъ исповѣданїи всегда чающе часа смертнаго
+# sent_id = 186484
+1	ино	ино	ADV	Df	_	2	advmod	_	ref=4
+2	достоитъ	достояти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+3	всѧкомѹ	вьсякыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=4
+4	хрстїѧнїнѹ	хрьстиянинъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	ref=4
+5	готовѹ	готовыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	6	xcomp	_	ref=4
+6	быти	быти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=4
+7	в	въ	ADP	R-	_	9	case	_	ref=4
+8	добрых	добрыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	9	amod	_	ref=4
+9	дѣлех	дѣло	NOUN	Nb	Case=Loc|Gender=Neut|Number=Plur	6	obl	_	ref=4
+10	в	въ	ADP	R-	_	11	case	_	ref=4
+11	чтсоте	чистота	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	9	conj	_	ref=4
+12	и	и	CCONJ	C-	_	9	cc	_	ref=4
+13	в	въ	ADP	R-	_	14	case	_	ref=4
+14	покаѧнїи	покаяние	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	9	conj	_	ref=4
+15	и	и	CCONJ	C-	_	9	cc	_	ref=4
+16	во	въ	ADP	R-	_	18	case	_	ref=4
+17	всѧкомъ	вьсякыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	18	amod	_	ref=4
+18	исповѣданїи	исповѣдание	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	9	conj	_	ref=4
+19	всегда	вьсегда	ADV	Df	_	20	advmod	_	ref=4
+20	чающе	чаяти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	ref=4
+21	часа	часъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	20	iobj	_	ref=4
+22	смертнаго	съмьртьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	21	amod	_	ref=4
+
+# source = Domostroj, 5
+# text = Како ст҃льскїи чинъ почитати тако же и сщ҃еннїческїи чинъ и мнишескїй
+# sent_id = 160202
+1	Како	како	ADV	Du	PronType=Int	4	advmod	_	ref=5
+2	ст҃льскїи	святительскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	3	amod	_	ref=5
+3	чинъ	чинъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj:dir	_	ref=5
+4	почитати	почитати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=5
+5	тако	тако	ADV	Df	_	9	orphan	_	ref=5
+6	же	же	ADV	Df	_	5	advmod	_	ref=5
+7	и	и	CCONJ	C-	_	8	cc	_	ref=5
+8	сщ҃еннїческїи	священичьскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	9	amod	_	ref=5
+9	чинъ	чинъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	conj	_	ref=5
+10	и	и	CCONJ	C-	_	8	cc	_	ref=5
+11	мнишескїй	мънишьскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	8	conj	_	ref=5
+
+# source = Domostroj, 5
+# text = е҃
+# sent_id = 163574
+1	е҃	пять	NUM	Ma	_	0	root	_	ref=5
+
+# source = Domostroj, 5
+# text = По ст҃льскомѹ чинѹ всегда прибѣгай и должнѹю честь имъ воздаваи ι блг҃ословенїѧ и дх҃овнаго пооученїѧ ѿ него требѹи ѿ них и припадаи к ногамъ их и во всемъ повинѹи сѧ имъ по боѕѣ
+# sent_id = 160521
+1	По	по	ADP	R-	_	3	case	_	ref=5
+2	ст҃льскомѹ	святительскыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	3	amod	_	ref=5
+3	чинѹ	чинъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	5	obl	_	ref=5
+4	всегда	вьсегда	ADV	Df	_	5	advmod	_	ref=5
+5	прибѣгай	прибѣгати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=5
+6	и	и	CCONJ	C-	_	5	cc	_	ref=5
+7	должнѹю	дължьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	8	amod	_	ref=5
+8	честь	чьсть	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	obj:dir	_	ref=5
+9	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	iobj	_	ref=5
+10	воздаваи	въздавати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	ref=5
+11	ι	и	CCONJ	C-	_	5	cc	_	ref=5
+12	блг҃ословенїѧ	благословение	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	18	obj:dir	_	ref=5
+13	и	и	CCONJ	C-	_	12	cc	_	ref=5
+14	дх҃овнаго	духовьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	15	amod	_	ref=5
+15	пооученїѧ	поучение	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	12	conj	_	ref=5
+16	ѿ	отъ	ADP	R-	_	17	case	_	ref=5
+17	него	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	det	_	ref=5
+18	требѹи	трѣбовати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	ref=5
+19	ѿ	отъ	ADP	R-	_	20	case	_	ref=5
+20	них	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	obl	_	ref=5
+21	и	и	CCONJ	C-	_	5	cc	_	ref=5
+22	припадаи	припадати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	ref=5
+23	к	къ	ADP	R-	_	24	case	_	ref=5
+24	ногамъ	нога	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	22	obl	_	ref=5
+25	их	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	24	det	_	ref=5
+26	и	и	CCONJ	C-	_	5	cc	_	ref=5
+27	во	въ	ADP	R-	_	28	case	_	ref=5
+28	всемъ	вьсь	ADJ	Px	Case=Loc|Gender=Neut|Number=Sing	29	obl	_	ref=5
+29	повинѹи	повиновати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	ref=5
+30	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	29	aux	_	ref=5
+31	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	29	iobj	_	ref=5
+32	по	по	ADP	R-	_	33	case	_	ref=5
+33	боѕѣ	богъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	29	obl	_	ref=5
+
+# source = Domostroj, 5
+# text = сщ҃енническомѹ чинѹ и мнишескомѹ вѣлїю вѣрѹ и любовь и повиновенїе и всѧкое покоренїе пред ними имѣи и дх҃овнѹю ползѹ ѿ нїхъ внимаи
+# sent_id = 160207
+1	сщ҃енническомѹ	священичьскыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	2	amod	_	ref=5
+2	чинѹ	чинъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	nmod	_	ref=5
+3	и	и	CCONJ	C-	_	1	cc	_	ref=5
+4	мнишескомѹ	мънишьскыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	1	conj	_	ref=5
+5	вѣлїю	велии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	6	amod	_	ref=5
+6	вѣрѹ	вѣра	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	16	obj:dir	_	ref=5
+7	и	и	CCONJ	C-	_	6	cc	_	ref=5
+8	любовь	любы	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	conj	_	ref=5
+9	и	и	CCONJ	C-	_	6	cc	_	ref=5
+10	повиновенїе	повиновение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	conj	_	ref=5
+11	и	и	CCONJ	C-	_	6	cc	_	ref=5
+12	всѧкое	вьсякыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	13	amod	_	ref=5
+13	покоренїе	покорение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	conj	_	ref=5
+14	пред	прѣдъ	ADP	R-	_	15	case	_	ref=5
+15	ними	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	det	_	ref=5
+16	имѣи	имѣти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=5
+17	и	и	CCONJ	C-	_	16	cc	_	ref=5
+18	дх҃овнѹю	духовьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	19	amod	_	ref=5
+19	ползѹ	польза	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	22	obj:dir	_	ref=5
+20	ѿ	отъ	ADP	R-	_	21	case	_	ref=5
+21	нїхъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	22	obl	_	ref=5
+22	внимаи	вънимати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	16	conj	_	ref=5
+
+# source = Domostroj, 5
+# text = тѣ оубо сѹть слѹги и молебники нбснаго цр҃ѧ имѣютъ дерзновенїе оу г҃а просити добрых и полезных дш҃амъ нашимъ и ѡставленїе грѣховъ и жизни вѣчьныѧ
+# sent_id = 160535
+1	тѣ	тыи	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	ref=5
+2	оубо	убо	ADV	Df	_	3	advmod	_	ref=5
+3	сѹть	быти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=5
+4	слѹги	слуга	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	xcomp	_	ref=5
+5	и	и	CCONJ	C-	_	4	cc	_	ref=5
+6	молебники	мольбьникъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	conj	_	ref=5
+7	нбснаго	небесьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	8	amod	_	ref=5
+8	цр҃ѧ	цѣсарь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	ref=5
+9	имѣютъ	имѣти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=5
+10	дерзновенїе	дьрзновение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	9	obj:dir	_	ref=5
+11	оу	у	ADP	R-	_	12	case	_	ref=5
+12	г҃а	господь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	13	obl	_	ref=5
+13	просити	просити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	acl	_	ref=5
+14	добрых	добрыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	13	iobj	_	ref=5
+15	и	и	CCONJ	C-	_	14	cc	_	ref=5
+16	полезных	пользьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	14	conj	_	ref=5
+17	дш҃амъ	душа	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	16	iobj	_	ref=5
+18	нашимъ	нашь	ADJ	Ps	Case=Dat|Gender=Masc|Number=Plur|Person=1|Poss=Yes	17	nmod	_	ref=5
+19	и	и	CCONJ	C-	_	14	cc	_	ref=5
+20	ѡставленїе	оставление	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	14	conj	_	ref=5
+21	грѣховъ	грѣхъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	ref=5
+22	и	и	CCONJ	C-	_	14	cc	_	ref=5
+23	жизни	жизнь	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	14	conj	_	ref=5
+24	вѣчьныѧ	вѣчьныи#1	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	23	amod	_	ref=5
+
+# source = Domostroj, 6
+# text = Како посещати в монастырех и в болницахъ и в темницах и всѧкаго скорб
+# sent_id = 160213
+1	Како	како	ADV	Du	PronType=Int	2	advmod	_	ref=6
+2	посещати	посѣщати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=6
+3	в	въ	ADP	R-	_	4	case	_	ref=6
+4	монастырех	монастырь	NOUN	Nb	Case=Loc|Gender=Masc|Number=Plur	2	obl	_	ref=6
+5	и	и	CCONJ	C-	_	4	cc	_	ref=6
+6	в	въ	ADP	R-	_	7	case	_	ref=6
+7	болницахъ	больница	NOUN	Nb	Case=Loc|Gender=Fem|Number=Plur	4	conj	_	ref=6
+8	и	и	CCONJ	C-	_	4	cc	_	ref=6
+9	в	въ	ADP	R-	_	10	case	_	ref=6
+10	темницах	тьмьница	NOUN	Nb	Case=Loc|Gender=Fem|Number=Plur	4	conj	_	ref=6
+11	и	и	CCONJ	C-	_	10	cc	_	ref=6
+12	всѧкаго	вьсякыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	13	amod	_	ref=6
+13	скорб	скърбь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	conj	_	ref=6
+
+# source = Domostroj, 6
+# text = ѕ҃
+# sent_id = 163737
+1	ѕ҃	шесть	NUM	Ma	_	0	root	_	ref=6
+
+# source = Domostroj, 6
+# text = В мнстри и в болницы и в пѹстыни и в темницы закълюченных посѣщаи
+# sent_id = 160214
+1	В	въ	ADP	R-	_	2	case	_	ref=6
+2	мнстри	монастырь	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	0	root	_	ref=6
+3	и	и	CCONJ	C-	_	2	cc	_	ref=6
+4	в	въ	ADP	R-	_	5	case	_	ref=6
+5	болницы	больница	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	2	conj	_	ref=6
+6	и	и	CCONJ	C-	_	2	cc	_	ref=6
+7	в	въ	ADP	R-	_	8	case	_	ref=6
+8	пѹстыни	пустыни	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	2	conj	_	ref=6
+9	и	и	CCONJ	C-	_	2	cc	_	ref=6
+10	в	въ	ADP	R-	_	11	case	_	ref=6
+11	темницы	тьмьница	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	12	nmod	_	ref=6
+12	закълюченных	заключити	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	13	obj:dir	_	ref=6
+13	посѣщаи	посѣщати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=6
+
+# source = Domostroj, 6
+# text = и милостыню по силѣ всѧких потребных подаваи елико требѹютъ
+# sent_id = 160346
+1	и	и	CCONJ	C-	_	7	cc	_	ref=6
+2	милостыню	милостыня	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj:dir	_	ref=6
+3	по	по	ADP	R-	_	4	case	_	ref=6
+4	силѣ	сила	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	7	obl	_	ref=6
+5	всѧких	вьсякыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	6	amod	_	ref=6
+6	потребных	потрѣбьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	7	iobj	_	ref=6
+7	подаваи	подавати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=6
+8	елико	елико	PRON	Pr	PronType=Rel	9	obj:dir	_	ref=6
+9	требѹютъ	трѣбовати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	ref=6
+
+# source = Domostroj, 6
+# text = и види бѣдѹ их и скорбь и всѧкѹ нѹжѹ
+# sent_id = 160217
+1	и	и	CCONJ	C-	_	2	cc	_	ref=6
+2	види	видѣти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=6
+3	бѣдѹ	бѣда	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj:dir	_	ref=6
+4	их	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	det	_	ref=6
+5	и	и	CCONJ	C-	_	3	cc	_	ref=6
+6	скорбь	скърбь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	conj	_	ref=6
+7	и	и	CCONJ	C-	_	3	cc	_	ref=6
+8	всѧкѹ	вьсякыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	9	amod	_	ref=6
+9	нѹжѹ	нужа	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	conj	_	ref=6
+
+# source = Domostroj, 6
+# text = елико возможно помогаи имъ
+# sent_id = 160347
+1	елико	елико	ADV	Dq	PronType=Rel	2	advmod	_	ref=6
+2	возможно	възможьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	3	advmod	_	ref=6
+3	помогаи	помагати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=6
+4	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	iobj	_	ref=6
+
+# source = Domostroj, 6
+# text = и всѧкаго скорбна и бѣдна и нѹжна и нища не презри
+# sent_id = 160348
+1	и	и	CCONJ	C-	_	11	cc	_	ref=6
+2	всѧкаго	вьсякыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	3	amod	_	ref=6
+3	скорбна	скърбьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	11	obj:dir	_	ref=6
+4	и	и	CCONJ	C-	_	3	cc	_	ref=6
+5	бѣдна	бѣдьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	3	conj	_	ref=6
+6	и	и	CCONJ	C-	_	3	cc	_	ref=6
+7	нѹжна	нужьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	3	conj	_	ref=6
+8	и	и	CCONJ	C-	_	3	cc	_	ref=6
+9	нища	нищии	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	3	conj	_	ref=6
+10	не	не	ADV	Df	_	11	advmod	_	ref=6
+11	презри	прѣзьрѣти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=6
+
+# source = Domostroj, 6
+# text = введи в домъ свой
+# sent_id = 160218
+1	введи	въвести	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=6
+2	в	въ	ADP	R-	_	3	case	_	ref=6
+3	домъ	домъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	ref=6
+4	свой	свои	ADJ	Pt	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	3	nmod	_	ref=6
+
+# source = Domostroj, 6
+# text = напои накорми согрѣи
+# sent_id = 160352
+1	напои	напоити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=6
+2	накорми	накърмити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=6
+3	согрѣи	съгрѣти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=6
+
+# source = Domostroj, 6
+# text = ѡдежи всею любовию и чистою совѣсьтию
+# sent_id = 160349
+1	ѡдежи	одѣти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=6
+2	всею	вьсь	DET	Px	Case=Ins|Gender=Fem|Number=Sing	3	det	_	ref=6
+3	любовию	любы	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	1	obl	_	ref=6
+4	и	и	CCONJ	C-	_	3	cc	_	ref=6
+5	чистою	чистыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	ref=6
+6	совѣсьтию	съвѣсть	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	3	conj	_	ref=6
+
+# source = Domostroj, 6
+# text = тѣми млстива бг҃а сотвориши и свободѹ полѹчиши
+# sent_id = 160353
+1	тѣми	тыи	ADJ	Pd	Case=Ins|Gender=Neut|Number=Plur	4	obl	_	ref=6
+2	млстива	милостивыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	4	xcomp	_	ref=6
+3	бг҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	obj:dir	_	ref=6
+4	сотвориши	сътворити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=6
+5	и	и	CCONJ	C-	_	4	cc	_	ref=6
+6	свободѹ	свобода	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj:dir	_	ref=6
+7	полѹчиши	получити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	ref=6
+
+# source = Domostroj, 6
+# text = а родителемъ своим преставльшим сѧ памѧть твори к цр҃квамъ бж҃їимъ приношенιе
+# sent_id = 160354
+1	а	а	CCONJ	C-	_	7	cc	_	ref=6
+2	родителемъ	родитель	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	7	obl	_	ref=6
+3	своим	свои	ADJ	Pt	Case=Dat|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	2	nmod	_	ref=6
+4	преставльшим	прѣставити	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	2	acl	_	ref=6
+5	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	4	aux	_	ref=6
+6	памѧть	память	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj:dir	_	ref=6
+7	твори	творити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=6
+8	к	къ	ADP	R-	_	9	case	_	ref=6
+9	цр҃квамъ	цьркы	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	11	nmod	_	ref=6
+10	бж҃їимъ	божии	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	9	amod	_	ref=6
+11	приношенιе	приношение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	appos	_	ref=6
+
+# source = Domostroj, 6
+# text = и в домѹ по них кормлю твори нищимъ милостыню
+# sent_id = 160355
+1	и	и	CCONJ	C-	_	7	cc	_	ref=6
+2	в	въ	ADP	R-	_	3	case	_	ref=6
+3	домѹ	домъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	7	obl	_	ref=6
+4	по	по	ADP	R-	_	5	case	_	ref=6
+5	них	и	PRON	Pp	Case=Loc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obl	_	ref=6
+6	кормлю	кърмля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj:dir	_	ref=6
+7	твори	творити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=6
+8	нищимъ	нищии	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	9	orphan	_	ref=6
+9	милостыню	милостыня	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	conj	_	ref=6
+
+# source = Domostroj, 6
+# text = и самъ ѿ бг҃а помѧновенъ боудши
+# sent_id = 160356
+1	и	и	CCONJ	C-	_	6	cc	_	ref=6
+2	самъ	самъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=6
+3	ѿ	отъ	ADP	R-	_	4	case	_	ref=6
+4	бг҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	obl:agent	_	ref=6
+5	помѧновенъ	помянути	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	6	xcomp	_	ref=6
+6	боудши	быти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	ref=6
+
+# source = Domostroj, 7
+# text = з҃
+# sent_id = 160219
+1	з҃	седмь	NUM	Ma	_	0	root	_	ref=7
+
+# source = Domostroj, 7
+# text = Како цр҃ѧ и кнѧѕѧ чтити и повиновати сѧ во всемъ ι всѧкомѹ покарѧти сѧ и правдою слѹжити имъ во всемъ
+# sent_id = 163738
+1	Како	како	ADV	Du	PronType=Int	5	advmod	_	ref=7
+2	цр҃ѧ	цѣсарь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	obj:dir	_	ref=7
+3	и	и	CCONJ	C-	_	2	cc	_	ref=7
+4	кнѧѕѧ	кънязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	conj	_	ref=7
+5	чтити	чьтити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=7
+6	и	и	CCONJ	C-	_	5	cc	_	ref=7
+7	повиновати	повиновати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	conj	_	ref=7
+8	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	7	aux	_	ref=7
+9	во	въ	ADP	R-	_	10	case	_	ref=7
+10	всемъ	вьсь	ADJ	Px	Case=Loc|Gender=Neut|Number=Sing	7	obl	_	ref=7
+11	ι	и	CCONJ	C-	_	5	cc	_	ref=7
+12	всѧкомѹ	вьсякыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	13	iobj	_	ref=7
+13	покарѧти	покаряти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	conj	_	ref=7
+14	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	13	aux	_	ref=7
+15	и	и	CCONJ	C-	_	5	cc	_	ref=7
+16	правдою	правьда	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	17	obl	_	ref=7
+17	слѹжити	служити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	conj	_	ref=7
+18	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	iobj	_	ref=7
+19	во	въ	ADP	R-	_	20	case	_	ref=7
+20	всемъ	вьсь	ADJ	Px	Case=Loc|Gender=Neut|Number=Sing	17	obl	_	ref=7
+
+# source = Domostroj, 7
+# text = Цр҃ѧ бои сѧ и слѹжи емѹ вѣрою
+# sent_id = 160357
+1	Цр҃ѧ	цѣсарь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	iobj	_	ref=7
+2	бои	бояти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=7
+4	и	и	CCONJ	C-	_	2	cc	_	ref=7
+5	слѹжи	служити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=7
+6	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	ref=7
+7	вѣрою	вѣра	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	5	obl	_	ref=7
+
+# source = Domostroj, 7
+# text = и всегда ѡ немъ бг҃а моли
+# sent_id = 160225
+1	и	и	CCONJ	C-	_	6	cc	_	ref=7
+2	всегда	вьсегда	ADV	Df	_	6	advmod	_	ref=7
+3	ѡ	о	ADP	R-	_	4	case	_	ref=7
+4	немъ	и	PRON	Pp	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl	_	ref=7
+5	бг҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	obj:dir	_	ref=7
+6	моли	молити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+
+# source = Domostroj, 7
+# text = и ложно ѿнюдъ не гл҃и пред нимъ
+# sent_id = 160358
+1	и	и	CCONJ	C-	_	5	cc	_	ref=7
+2	ложно	лъжьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	5	advmod	_	ref=7
+3	ѿнюдъ	отънудь	ADV	Df	_	5	advmod	_	ref=7
+4	не	не	ADV	Df	_	5	advmod	_	ref=7
+5	гл҃и	глаголати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+6	пред	прѣдъ	ADP	R-	_	7	case	_	ref=7
+7	нимъ	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	ref=7
+
+# source = Domostroj, 7
+# text = но с покорениемъ истиннѹ ѿвѣщаи емѹ яко самомѹ бг҃ѹ
+# sent_id = 160226
+1	но	нъ	CCONJ	C-	_	5	cc	_	ref=7
+2	с	съ	ADP	R-	_	3	case	_	ref=7
+3	покорениемъ	покорение	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	5	obl	_	ref=7
+4	истиннѹ	истина	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	ref=7
+5	ѿвѣщаи	отъвѣщати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+6	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	ref=7
+7	яко	яко	ADV	Df	_	5	advmod	_	ref=7
+8	самомѹ	самъ	DET	Pd	Case=Dat|Gender=Masc|Number=Sing	9	det	_	ref=7
+9	бг҃ѹ	богъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	7	iobj	_	ref=7
+
+# source = Domostroj, 7
+# text = и во всем повинѹи сѧ емѹ
+# sent_id = 160228
+1	и	и	CCONJ	C-	_	4	cc	_	ref=7
+2	во	въ	ADP	R-	_	3	case	_	ref=7
+3	всем	вьсь	ADJ	Px	Case=Loc|Gender=Neut|Number=Sing	4	obl	_	ref=7
+4	повинѹи	повиновати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+5	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	4	aux	_	ref=7
+6	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	ref=7
+
+# source = Domostroj, 7
+# text = аще земномѹ цр҃ю правдою слѹжиши и боиши сѧ его тако наоучиши сѧ ι нбснаго цр҃ѧ боѧти сѧ
+# sent_id = 160359
+1	аще	аще	SCONJ	G-	_	5	mark	_	ref=7
+2	земномѹ	земьныи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	3	amod	_	ref=7
+3	цр҃ю	цѣсарь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	5	iobj	_	ref=7
+4	правдою	правьда	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	5	obl	_	ref=7
+5	слѹжиши	служити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	ref=7
+6	и	и	CCONJ	C-	_	5	cc	_	ref=7
+7	боиши	бояти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	ref=7
+8	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	7	aux	_	ref=7
+9	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	iobj	_	ref=7
+10	тако	тако	ADV	Df	_	11	advmod	_	ref=7
+11	наоучиши	научити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+12	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	11	aux	_	ref=7
+13	ι	и	ADV	Df	_	15	advmod	_	ref=7
+14	нбснаго	небесьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	15	amod	_	ref=7
+15	цр҃ѧ	цѣсарь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	16	iobj	_	ref=7
+16	боѧти	бояти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	11	xcomp	_	ref=7
+17	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	16	aux	_	ref=7
+
+# source = Domostroj, 7
+# text = сеи времененъ а нбсныи вѣченъ
+# sent_id = 160360
+1	сеи	сии	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=7
+2	времененъ	врѣменьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	0	root	_	ref=7
+3	а	а	CCONJ	C-	_	2	cc	_	ref=7
+4	нбсныи	небесьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	5	nsubj	_	ref=7
+5	вѣченъ	вѣчьныи#1	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	2	conj	_	ref=7
+
+# source = Domostroj, 7
+# text = и сѹдїѧ нелицѣмеренъ
+# sent_id = 160229
+1	и	и	CCONJ	C-	_	2	cc	_	ref=7
+2	сѹдїѧ	судия	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=7
+3	нелицѣмеренъ	нелицемѣрьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	2	advmod	_	ref=7
+
+# source = Domostroj, 7
+# text = воздастъ комѹждо по дѣломъ его
+# sent_id = 160230
+1	воздастъ	въздати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+2	комѹждо	къжьдо	ADJ	Px	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	ref=7
+3	по	по	ADP	R-	_	4	case	_	ref=7
+4	дѣломъ	дѣло	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	1	obl	_	ref=7
+5	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	det	_	ref=7
+
+# source = Domostroj, 7
+# text = тако же и кнѧземъ покарѧите сѧ
+# sent_id = 160231
+1	тако	тако	ADV	Df	_	5	advmod	_	ref=7
+2	же	же	ADV	Df	_	1	advmod	_	ref=7
+3	и	и	ADV	Df	_	4	advmod	_	ref=7
+4	кнѧземъ	кънязь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	5	iobj	_	ref=7
+5	покарѧите	покаряти	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+6	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	5	aux	_	ref=7
+
+# source = Domostroj, 7
+# text = и должнѹю емѹ честь воздавай яко ѿ него посланомъ во ѿмщенїе злодѣем в похвалѹ же добродѣемъ
+# sent_id = 160361
+1	и	и	CCONJ	C-	_	5	cc	_	ref=7
+2	должнѹю	дължьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	4	amod	_	ref=7
+3	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	ref=7
+4	честь	чьсть	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	ref=7
+5	воздавай	въздавати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+6	яко	яко	SCONJ	G-	_	9	mark	_	ref=7
+7	ѿ	отъ	ADP	R-	_	8	case	_	ref=7
+8	него	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl:agent	_	ref=7
+9	посланомъ	посълати	VERB	V-	Case=Ins|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	5	advcl	_	ref=7
+10	во	въ	ADP	R-	_	11	case	_	ref=7
+11	ѿмщенїе	отъмьщение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	9	obl	_	ref=7
+12	злодѣем	зълодѣи	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	11	nmod	_	ref=7
+13	в	въ	ADP	R-	_	14	case	_	ref=7
+14	похвалѹ	похвала	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	11	conj	_	ref=7
+15	же	же	ADV	Df	_	14	advmod	_	ref=7
+16	добродѣемъ	добродѣи	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	14	nmod	_	ref=7
+
+# source = Domostroj, 7
+# text = кн҃ѕю своемѹ прїѧите всѣмъ срдцемъ и властелемъ своимъ
+# sent_id = 160363
+1	кн҃ѕю	кънязь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	ref=7
+2	своемѹ	свои	ADJ	Pt	Case=Dat|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	1	nmod	_	ref=7
+3	прїѧите	прияти#2	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+4	всѣмъ	вьсь	DET	Px	Case=Ins|Gender=Neut|Number=Sing	5	det	_	ref=7
+5	срдцемъ	сьрдьце	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	3	obl	_	ref=7
+6	и	и	CCONJ	C-	_	1	cc	_	ref=7
+7	властелемъ	властель	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	1	conj	_	ref=7
+8	своимъ	свои	ADJ	Pt	Case=Dat|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	7	nmod	_	ref=7
+
+# source = Domostroj, 7
+# text = ни помыслите на нѧ зла
+# sent_id = 160362
+1	ни	ни	CCONJ	C-	_	2	cc	_	ref=7
+2	помыслите	помыслити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+3	на	на	ADP	R-	_	4	case	_	ref=7
+4	нѧ	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obl	_	ref=7
+5	зла	зъло	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	2	obj:dir	_	ref=7
+
+# source = Domostroj, 7
+# text = гл҃етъ бо павелъ апслъ
+# sent_id = 160234
+1	гл҃етъ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+2	бо	бо	ADV	Df	_	1	advmod	_	ref=7
+3	павелъ	павьлъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=7
+4	апслъ	апостолъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	ref=7
+
+# source = Domostroj, 7
+# text = Всѧ влдчество ѿ бг҃а оучинена сѹть
+# sent_id = 160235
+1	Всѧ	вьсь	DET	Px	Case=Nom|Gender=Neut|Number=Plur	2	det	_	ref=7
+2	влдчество	владычьство	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=7
+3	ѿ	отъ	ADP	R-	_	4	case	_	ref=7
+4	бг҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	obl:agent	_	ref=7
+5	оучинена	учинити	VERB	V-	Case=Nom|Gender=Neut|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	6	xcomp	_	ref=7
+6	сѹть	быти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+
+# source = Domostroj, 7
+# text = да аще кто противит сѧ властелемъ то бж҃їю повелѣнию противит ца
+# sent_id = 160236
+1	да	да#2	ADV	Df	_	10	advmod	_	ref=7
+2	аще	аще	SCONJ	G-	_	4	mark	_	ref=7
+3	кто	къто	ADJ	Px	Case=Nom|Number=Sing	4	nsubj	_	ref=7
+4	противит	противити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	ref=7
+5	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	4	aux	_	ref=7
+6	властелемъ	властель	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	4	iobj	_	ref=7
+7	то	то	ADV	Df	_	10	advmod	_	ref=7
+8	бж҃їю	божии	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	9	amod	_	ref=7
+9	повелѣнию	повелѣние	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	10	iobj	_	ref=7
+10	противит	противити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+11	ца	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	10	aux	_	ref=7
+
+# source = Domostroj, 7
+# text = а цр҃ю и кн҃ѕю и всѧкомѹ велможе и клеветою и лѹкавъствомъ погѹбит г҃ь всѧ гл҃ющаѧ лжѹ
+# sent_id = 160364
+1	а	а	CCONJ	C-	_	12	cc	_	ref=7
+2	цр҃ю	цѣсарь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	15	iobj	_	ref=7
+3	и	и	CCONJ	C-	_	2	cc	_	ref=7
+4	кн҃ѕю	кънязь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	conj	_	ref=7
+5	и	и	CCONJ	C-	_	2	cc	_	ref=7
+6	всѧкомѹ	вьсякыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	7	amod	_	ref=7
+7	велможе	вельможа	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	conj	_	ref=7
+8	и	и	CCONJ	C-	_	9	cc	_	ref=7
+9	клеветою	клевета	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	15	obl	_	ref=7
+10	и	и	CCONJ	C-	_	9	cc	_	ref=7
+11	лѹкавъствомъ	лукавьство	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	9	conj	_	ref=7
+12	погѹбит	погубити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+13	г҃ь	господь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	ref=7
+14	всѧ	вьсь	DET	Px	Case=Acc|Gender=Masc|Number=Plur	15	det	_	ref=7
+15	гл҃ющаѧ	глаголати	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	12	obj:dir	_	ref=7
+16	лжѹ	лъжа	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	15	obj:dir	_	ref=7
+
+# source = Domostroj, 7
+# text = а шепотники и клеветники ѿ народа проклѧти сѹть
+# sent_id = 160366
+1	а	а	CCONJ	C-	_	8	cc	_	ref=7
+2	шепотники	шьпътьникъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	ref=7
+3	и	и	CCONJ	C-	_	2	cc	_	ref=7
+4	клеветники	клеветьникъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	ref=7
+5	ѿ	отъ	ADP	R-	_	6	case	_	ref=7
+6	народа	народъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	obl:agent	_	ref=7
+7	проклѧти	прокляти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	8	xcomp	_	ref=7
+8	сѹть	быти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+
+# source = Domostroj, 7
+# text = стареишимъ себѣ честь воздава̋ и поклоненїе твори
+# sent_id = 160365
+1	стареишимъ	старыи	ADJ	A-	Case=Dat|Degree=Cmp|Gender=Masc|Number=Plur|Strength=Weak	4	iobj	_	ref=7
+2	себѣ	себе	PRON	Pk	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	iobj	_	ref=7
+3	честь	чьсть	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj:dir	_	ref=7
+4	воздава̋	въздавати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+5	и	и	CCONJ	C-	_	4	cc	_	ref=7
+6	поклоненїе	поклонение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	obj:dir	_	ref=7
+7	твори	творити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	ref=7
+
+# source = Domostroj, 7
+# text = среднихъ яко братїю почитаи
+# sent_id = 160368
+1	среднихъ	срѣдьнии	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	4	obj:dir	_	ref=7
+2	яко	яко	ADV	Df	_	4	advmod	_	ref=7
+3	братїю	братия	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj:dir	_	ref=7
+4	почитаи	почитати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+
+# source = Domostroj, 7
+# text = маломожных и скорбных любовию привечаи
+# sent_id = 160239
+1	маломожных	маломощьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	5	obj:dir	_	ref=7
+2	и	и	CCONJ	C-	_	1	cc	_	ref=7
+3	скорбных	скърбьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	1	conj	_	ref=7
+4	любовию	любы	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	5	obl	_	ref=7
+5	привечаи	привѣчати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+
+# source = Domostroj, 7
+# text = юнеиших яко чада люби
+# sent_id = 160369
+1	юнеиших	юныи	ADJ	A-	Case=Gen|Degree=Cmp|Gender=Masc|Number=Plur|Strength=Weak	4	obj:dir	_	ref=7
+2	яко	яко	ADV	Df	_	4	advmod	_	ref=7
+3	чада	чадо	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	2	obj:dir	_	ref=7
+4	люби	любити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+
+# source = Domostroj, 7
+# text = всѧкомѹ созданию бж҃їю не лихъ бѹди
+# sent_id = 160240
+1	всѧкомѹ	вьсякыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	2	amod	_	ref=7
+2	созданию	съзьдание	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	5	obl	_	ref=7
+3	бж҃їю	божии	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	2	amod	_	ref=7
+4	не	не	ADV	Df	_	6	advmod	_	ref=7
+5	лихъ	лихыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	6	xcomp	_	ref=7
+6	бѹди	быти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+
+# source = Domostroj, 7
+# text = славы земныѧ ни в чемъ не желаи
+# sent_id = 160373
+1	славы	слава	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	obj:dir	_	ref=7
+2	земныѧ	земьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	1	amod	_	ref=7
+3	ни	ни	ADV	Df	_	4	advmod	_	ref=7
+4	в	въ	ADP	R-	_	5	case	_	ref=7
+5	чемъ	чьто	ADJ	Px	Case=Loc|Gender=Neut|Number=Sing	7	obl	_	ref=7
+6	не	не	ADV	Df	_	7	advmod	_	ref=7
+7	желаи	желати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+
+# source = Domostroj, 7
+# text = вѣчьныхъ бл҃гъ проси оу бг҃а
+# sent_id = 160375
+1	вѣчьныхъ	вѣчьныи#1	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	2	amod	_	ref=7
+2	бл҃гъ	благо	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	3	iobj	_	ref=7
+3	проси	просити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+4	оу	у	ADP	R-	_	5	case	_	ref=7
+5	бг҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	obl	_	ref=7
+
+# source = Domostroj, 7
+# text = всѧкѹю скорбь и теснотѹ з бл҃годаренїемъ терпи
+# sent_id = 160374
+1	всѧкѹю	вьсякыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	2	amod	_	ref=7
+2	скорбь	скърбь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj:dir	_	ref=7
+3	и	и	CCONJ	C-	_	2	cc	_	ref=7
+4	теснотѹ	тѣсьнота	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	conj	_	ref=7
+5	з	съ	ADP	R-	_	6	case	_	ref=7
+6	бл҃годаренїемъ	благодарение	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	7	obl	_	ref=7
+7	терпи	тьрпѣти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+
+# source = Domostroj, 7
+# text = ѡбидимъ не мсти
+# sent_id = 160376
+1	ѡбидимъ	обидѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Pass	3	advcl	_	ref=7
+2	не	не	ADV	Df	_	3	advmod	_	ref=7
+3	мсти	мьстити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+
+# source = Domostroj, 7
+# text = хѹлимъ моли
+# sent_id = 160381
+1	хѹлимъ	хулити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Pass	2	advcl	_	ref=7
+2	моли	молити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+
+# source = Domostroj, 7
+# text = зла за зло не воздаваи
+# sent_id = 160380
+1	зла	зъло	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	5	obj:dir	_	ref=7
+2	за	за	ADP	R-	_	3	case	_	ref=7
+3	зло	зъло	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	ref=7
+4	не	не	ADV	Df	_	5	advmod	_	ref=7
+5	воздаваи	въздавати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+
+# source = Domostroj, 7
+# text = согрѣшающаѧ не ѡсѹжаи
+# sent_id = 160379
+1	согрѣшающаѧ	съгрѣшати	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	3	obj:dir	_	ref=7
+2	не	не	ADV	Df	_	3	advmod	_	ref=7
+3	ѡсѹжаи	осужати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+
+# source = Domostroj, 7
+# text = воспомѧни своѧ грѣхи
+# sent_id = 160378
+1	воспомѧни	въспомянути	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+2	своѧ	свои	ADJ	Pt	Case=Acc|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	3	nmod	_	ref=7
+3	грѣхи	грѣхъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	obj:dir	_	ref=7
+
+# source = Domostroj, 7
+# text = ѡ тѣхъ крѣпко пѣки сѧ
+# sent_id = 160383
+1	ѡ	о	ADP	R-	_	2	case	_	ref=7
+2	тѣхъ	тыи	ADJ	Pd	Case=Loc|Gender=Masc|Number=Plur	4	obl	_	ref=7
+3	крѣпко	крѣпъко	ADV	Df	_	4	advmod	_	ref=7
+4	пѣки	пещи	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+5	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	4	aux	_	ref=7
+
+# source = Domostroj, 7
+# text = злых мѹжеи советѹ ѿвращаи сѧ
+# sent_id = 160382
+1	злых	зълыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	2	amod	_	ref=7
+2	мѹжеи	мужь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	ref=7
+3	советѹ	съвѣтъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	iobj	_	ref=7
+4	ѿвращаи	отъвращати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+5	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	4	aux	_	ref=7
+
+# source = Domostroj, 7
+# text = бѹди ревнитель правожительствѹющїмъ
+# sent_id = 160384
+1	бѹди	быти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+2	ревнитель	рьвьнитель	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	xcomp	_	ref=7
+3	правожительствѹющїмъ	правожительствовать	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	2	acl	_	ref=7
+
+# source = Domostroj, 7
+# text = и тѣхъ дѣланїѧ написѹи в срдцы своемъ
+# sent_id = 160241
+1	и	и	CCONJ	C-	_	4	cc	_	ref=7
+2	тѣхъ	тыи	DET	Pd	Case=Gen|Gender=Masc|Number=Plur	3	det	_	ref=7
+3	дѣланїѧ	дѣлание	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	4	obj:dir	_	ref=7
+4	написѹи	написовати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+5	в	въ	ADP	R-	_	6	case	_	ref=7
+6	срдцы	сьрдьце	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	4	obl	_	ref=7
+7	своемъ	свои	ADJ	Pt	Case=Loc|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	6	nmod	_	ref=7
+
+# source = Domostroj, 7
+# text = и самъ також твори
+# sent_id = 160385
+1	и	и	CCONJ	C-	_	4	cc	_	ref=7
+2	самъ	самъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=7
+3	також	такоже	ADV	Df	_	4	advmod	_	ref=7
+4	твори	творити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7
+
+# source = Domostroj, 8
+# text = и҃
+# sent_id = 160313
+1	и҃	осмь	NUM	Ma	_	0	root	_	ref=8
+
+# source = Domostroj, 8
+# text = како домъ свои оукрасити ст҃ыми ѡбразы домъ чистъ имѣти
+# sent_id = 160847
+1	како	како	ADV	Du	PronType=Int	4	advmod	_	ref=8
+2	домъ	домъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj:dir	_	ref=8
+3	свои	свои	ADJ	Pt	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	2	nmod	_	ref=8
+4	оукрасити	украсити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=8
+5	ст҃ыми	святыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	6	amod	_	ref=8
+6	ѡбразы	образъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	4	iobj	_	ref=8
+7	домъ	домъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	9	obj:dir	_	ref=8
+8	чистъ	чистыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	7	amod	_	ref=8
+9	имѣти	имѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	conj	_	ref=8
+
+# source = Domostroj, 8
+# text = В домѹ своемъ всѧкомѹ хрстїѧнїнѹ во всѧкои храмине ст҃ыѧ и честныѧ ѡбразы написаны на иконахъ по сѹществѹ ставити на стенах оустроив бл҃голѣпно со всѧкимъ оукрашенїемъ и со ст҃илники въ нихже свѣщи пред ст҃ыми ѡбразы возжигают сѧ на всѧкомъ славословїи бж҃їи
+# sent_id = 160315
+1	В	въ	ADP	R-	_	2	case	_	ref=8
+2	домѹ	домъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	18	obl	_	ref=8
+3	своемъ	свои	ADJ	Pt	Case=Loc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	2	nmod	_	ref=8
+4	всѧкомѹ	вьсякыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	5	amod	_	ref=8
+5	хрстїѧнїнѹ	хрьстиянинъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	18	nsubj	_	ref=8
+6	во	въ	ADP	R-	_	8	case	_	ref=8
+7	всѧкои	вьсякыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	8	amod	_	ref=8
+8	храмине	храмина	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	1	appos	_	ref=8
+9	ст҃ыѧ	святыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	12	amod	_	ref=8
+10	и	и	CCONJ	C-	_	9	cc	_	ref=8
+11	честныѧ	чьстьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	9	conj	_	ref=8
+12	ѡбразы	образъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	18	obj:dir	_	ref=8
+13	написаны	написати	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	12	acl	_	ref=8
+14	на	на	ADP	R-	_	15	case	_	ref=8
+15	иконахъ	икона	NOUN	Nb	Case=Loc|Gender=Fem|Number=Plur	13	obl	_	ref=8
+16	по	по	ADP	R-	_	17	case	_	ref=8
+17	сѹществѹ	сущьство	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	13	obl	_	ref=8
+18	ставити	ставити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=8
+19	на	на	ADP	R-	_	20	case	_	ref=8
+20	стенах	стѣна	NOUN	Nb	Case=Loc|Gender=Fem|Number=Plur	21	obl	_	ref=8
+21	оустроив	устроити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	18	advcl	_	ref=8
+22	бл҃голѣпно	благолѣпьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	21	advmod	_	ref=8
+23	со	съ	ADP	R-	_	25	case	_	ref=8
+24	всѧкимъ	вьсякыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	25	amod	_	ref=8
+25	оукрашенїемъ	украшение	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	21	obl	_	ref=8
+26	и	и	CCONJ	C-	_	25	cc	_	ref=8
+27	со	съ	ADP	R-	_	28	case	_	ref=8
+28	ст҃илники	свѣтильникъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	25	conj	_	ref=8
+29	въ	въ	ADP	R-	_	30	case	_	ref=8
+30	нихже	иже	PRON	Pr	Case=Loc|Gender=Masc|Number=Plur|PronType=Rel	35	obl	_	ref=8
+31	свѣщи	свѣща	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	35	nsubj	_	ref=8
+32	пред	прѣдъ	ADP	R-	_	34	case	_	ref=8
+33	ст҃ыми	святыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	34	amod	_	ref=8
+34	ѡбразы	образъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	35	obl	_	ref=8
+35	возжигают	възжигати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	acl	_	ref=8
+36	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	35	aux	_	ref=8
+37	на	на	ADP	R-	_	39	case	_	ref=8
+38	всѧкомъ	вьсякыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	39	amod	_	ref=8
+39	славословїи	славословие	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	35	obl	_	ref=8
+40	бж҃їи	божии	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	39	amod	_	ref=8
+
+# source = Domostroj, 8
+# text = и по пѣнїи погашают
+# sent_id = 160319
+1	и	и	CCONJ	C-	_	4	cc	_	ref=8
+2	по	по	ADP	R-	_	3	case	_	ref=8
+3	пѣнїи	пѣние	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	4	obl	_	ref=8
+4	погашают	погашати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=8
+
+# source = Domostroj, 8
+# text = завѣсою закрывают сѧ всѧкїѧ ради чистоты и ѿ пыли бл҃гочинιѧ ради и бреженїѧ
+# sent_id = 160407
+1	завѣсою	завѣса	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	2	iobj	_	ref=8
+2	закрывают	закрывати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=8
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=8
+4	всѧкїѧ	вьсякыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	6	amod	_	ref=8
+5	ради	ради	ADP	R-	_	6	case	_	ref=8
+6	чистоты	чистота	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	2	obl	_	ref=8
+7	и	и	CCONJ	C-	_	6	cc	_	ref=8
+8	ѿ	отъ	ADP	R-	_	9	case	_	ref=8
+9	пыли	пыль	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	conj	_	ref=8
+10	бл҃гочинιѧ	благочиние	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	6	conj	_	ref=8
+11	ради	ради	ADP	R-	_	10	case	_	ref=8
+12	и	и	CCONJ	C-	_	10	cc	_	ref=8
+13	бреженїѧ	брежение	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	10	conj	_	ref=8
+
+# source = Domostroj, 8
+# text = а всегда чистым крылышкомъ ѡмѣтати
+# sent_id = 160322
+1	а	а	CCONJ	C-	_	5	cc	_	ref=8
+2	всегда	вьсегда	ADV	Df	_	5	advmod	_	ref=8
+3	чистым	чистыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	4	amod	_	ref=8
+4	крылышкомъ	крыльчко	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	5	obl	_	ref=8
+5	ѡмѣтати	ометати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=8
+
+# source = Domostroj, 8
+# text = и мѧхкою гѹбою вытирати их
+# sent_id = 160323
+1	и	и	CCONJ	C-	_	4	cc	_	ref=8
+2	мѧхкою	мягъкыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	ref=8
+3	гѹбою	губа	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	4	obl	_	ref=8
+4	вытирати	вытирати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=8
+5	их	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obj:dir	_	ref=8
+
+# source = Domostroj, 8
+# text = и храмъ тот чистъ держати всѣгда
+# sent_id = 160324
+1	и	и	CCONJ	C-	_	5	cc	_	ref=8
+2	храмъ	храмъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	obj:dir	_	ref=8
+3	тот	тътъ	DET	Pd	Case=Acc|Gender=Masc|Number=Sing	2	det	_	ref=8
+4	чистъ	чистыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	5	xcomp	_	ref=8
+5	держати	дьржати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=8
+6	всѣгда	вьсегда	ADV	Df	_	5	advmod	_	ref=8
+
+# source = Domostroj, 8
+# text = а к ст҃ымъ ѡбразомъ касати сѧ достоинымъ в чистеи совести и на словословιи бж҃їи
+# sent_id = 160325
+1	а	а	CCONJ	C-	_	5	cc	_	ref=8
+2	к	къ	ADP	R-	_	4	case	_	ref=8
+3	ст҃ымъ	святыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	4	amod	_	ref=8
+4	ѡбразомъ	образъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	5	obl	_	ref=8
+5	касати	касати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=8
+6	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	5	aux	_	ref=8
+7	достоинымъ	достоиныи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	5	nsubj	_	ref=8
+8	в	въ	ADP	R-	_	10	case	_	ref=8
+9	чистеи	чистыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	10	amod	_	ref=8
+10	совести	съвѣсть	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	5	obl	_	ref=8
+11	и	и	CCONJ	C-	_	10	cc	_	ref=8
+12	на	на	ADP	R-	_	13	case	_	ref=8
+13	словословιи	словословие	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	10	conj	_	ref=8
+14	бж҃їи	божии	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	13	amod	_	ref=8
+
+# source = Domostroj, 8
+# text = и на ст҃омъ пѣнїи и мл҃твѣ свѣчи вжигати и кадити бл҃говоннымъ ладономъ и фимїѧномъ
+# sent_id = 160327
+1	и	и	CCONJ	C-	_	8	cc	_	ref=8
+2	на	на	ADP	R-	_	4	case	_	ref=8
+3	ст҃омъ	святыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	4	amod	_	ref=8
+4	пѣнїи	пѣние	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	8	obl	_	ref=8
+5	и	и	CCONJ	C-	_	4	cc	_	ref=8
+6	мл҃твѣ	молитва	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	4	conj	_	ref=8
+7	свѣчи	свѣча	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	8	obj:dir	_	ref=8
+8	вжигати	въжигати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=8
+9	и	и	CCONJ	C-	_	8	cc	_	ref=8
+10	кадити	кадити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	conj	_	ref=8
+11	бл҃говоннымъ	благовоньныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	12	amod	_	ref=8
+12	ладономъ	ладанъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	10	obl	_	ref=8
+13	и	и	CCONJ	C-	_	12	cc	_	ref=8
+14	фимїѧномъ	фимиянъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	12	conj	_	ref=8
+
+# source = Domostroj, 8
+# text = а ѡбразы ст҃ыѧ поставлѧют с иже в начале по чинѹ ст҃о почитаеми сѹть имѧны преже реченными
+# sent_id = 160330
+1	а	а	CCONJ	C-	_	4	cc	_	ref=8
+2	ѡбразы	образъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	ref=8
+3	ст҃ыѧ	святыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	2	amod	_	ref=8
+4	поставлѧют	поставляти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=8
+5	с	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	4	aux	_	ref=8
+6	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	13	nsubj	_	ref=8
+7	в	въ	ADP	R-	_	8	case	_	ref=8
+8	начале	начало	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	13	obl	_	ref=8
+9	по	по	ADP	R-	_	10	case	_	ref=8
+10	чинѹ	чинъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	ref=8
+11	ст҃о	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	10	amod	_	ref=8
+12	почитаеми	почитати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Pass	13	xcomp	_	ref=8
+13	сѹть	быти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	ref=8
+14	имѧны	имя	NOUN	Nb	Case=Ins|Gender=Neut|Number=Plur	12	obl	_	ref=8
+15	преже	прѣжереченыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	14	amod	_	ref=8
+16	реченными	реченными	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	15	flat	_	ref=8
+
+# source = Domostroj, 8
+# text = в мл҃твах и во бденїих и в поклонех и во всѧкомъ славословїи бж҃їи всегда почитати их со слезами и съ рыданїемъ и сокрѹшенымъ срдцемъ исповѣдаѧ сѧ просѧще ѿпѹщенїѧ грѣхомъ
+# sent_id = 160332
+1	в	въ	ADP	R-	_	2	case	_	ref=8
+2	мл҃твах	молитва	NOUN	Nb	Case=Loc|Gender=Fem|Number=Plur	15	obl	_	ref=8
+3	и	и	CCONJ	C-	_	2	cc	_	ref=8
+4	во	въ	ADP	R-	_	5	case	_	ref=8
+5	бденїих	бъдѣние	NOUN	Nb	Case=Loc|Gender=Neut|Number=Plur	2	conj	_	ref=8
+6	и	и	CCONJ	C-	_	2	cc	_	ref=8
+7	в	въ	ADP	R-	_	8	case	_	ref=8
+8	поклонех	поклонъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Plur	2	conj	_	ref=8
+9	и	и	CCONJ	C-	_	2	cc	_	ref=8
+10	во	въ	ADP	R-	_	12	case	_	ref=8
+11	всѧкомъ	вьсякыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	12	amod	_	ref=8
+12	славословїи	славословие	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	2	conj	_	ref=8
+13	бж҃їи	божии	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	12	amod	_	ref=8
+14	всегда	вьсегда	ADV	Df	_	15	advmod	_	ref=8
+15	почитати	почитати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=8
+16	их	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	obj:dir	_	ref=8
+17	со	съ	ADP	R-	_	18	case	_	ref=8
+18	слезами	сльза	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	15	obl	_	ref=8
+19	и	и	CCONJ	C-	_	18	cc	_	ref=8
+20	съ	съ	ADP	R-	_	21	case	_	ref=8
+21	рыданїемъ	рыдание	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	18	conj	_	ref=8
+22	и	и	CCONJ	C-	_	15	cc	_	ref=8
+23	сокрѹшенымъ	съкрушити	VERB	V-	Case=Ins|Gender=Neut|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	24	acl	_	ref=8
+24	срдцемъ	сьрдьце	NOUN	Nb	Case=Ins|Gender=Neut|Number=Plur	25	obl	_	ref=8
+25	исповѣдаѧ	исповѣдати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	15	conj	_	ref=8
+26	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	25	aux	_	ref=8
+27	просѧще	просити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	25	advcl	_	ref=8
+28	ѿпѹщенїѧ	отъпущение	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	27	iobj	_	ref=8
+29	грѣхомъ	грѣхъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	28	nmod	_	ref=8
+
+# source = Domostroj, 9
+# text = Како к ц҃рквамъ бж҃їим и в монастыри с приношенїемъ приходити
+# sent_id = 160333
+1	Како	како	ADV	Du	PronType=Int	10	advmod	_	ref=9
+2	к	къ	ADP	R-	_	3	case	_	ref=9
+3	ц҃рквамъ	цьркы	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	10	obl	_	ref=9
+4	бж҃їим	божии	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	3	amod	_	ref=9
+5	и	и	CCONJ	C-	_	3	cc	_	ref=9
+6	в	въ	ADP	R-	_	7	case	_	ref=9
+7	монастыри	монастырь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	3	conj	_	ref=9
+8	с	съ	ADP	R-	_	9	case	_	ref=9
+9	приношенїемъ	приношение	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	10	obl	_	ref=9
+10	приходити	приходити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=9
+
+# source = Domostroj, 9
+# text = ѳ҃
+# sent_id = 160334
+1	ѳ҃	девять	NUM	Ma	_	0	root	_	ref=9
+
+# source = Domostroj, 9
+# text = А цкр҃вамъ бж҃їимъ всегда с вѣрою приходити с приношенїемъ с свечею и с просфирою с ѳимїѧномъ и с ладономъ с канономъ и с кѹтьею и с милостынею и за здравїе и за оупокой
+# sent_id = 160413
+1	А	а	CCONJ	C-	_	7	cc	_	ref=9
+2	цкр҃вамъ	цьркы	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	7	iobj	_	ref=9
+3	бж҃їимъ	божии	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	2	amod	_	ref=9
+4	всегда	вьсегда	ADV	Df	_	7	advmod	_	ref=9
+5	с	съ	ADP	R-	_	6	case	_	ref=9
+6	вѣрою	вѣра	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	7	obl	_	ref=9
+7	приходити	приходити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=9
+8	с	съ	ADP	R-	_	9	case	_	ref=9
+9	приношенїемъ	приношение	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	7	obl	_	ref=9
+10	с	съ	ADP	R-	_	11	case	_	ref=9
+11	свечею	свѣча	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	8	appos	_	ref=9
+12	и	и	CCONJ	C-	_	11	cc	_	ref=9
+13	с	съ	ADP	R-	_	14	case	_	ref=9
+14	просфирою	просфора	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	11	conj	_	ref=9
+15	с	съ	ADP	R-	_	16	case	_	ref=9
+16	ѳимїѧномъ	фимиянъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	11	conj	_	ref=9
+17	и	и	CCONJ	C-	_	11	cc	_	ref=9
+18	с	съ	ADP	R-	_	19	case	_	ref=9
+19	ладономъ	ладанъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	11	conj	_	ref=9
+20	с	съ	ADP	R-	_	21	case	_	ref=9
+21	канономъ	канонъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	11	conj	_	ref=9
+22	и	и	CCONJ	C-	_	11	cc	_	ref=9
+23	с	съ	ADP	R-	_	24	case	_	ref=9
+24	кѹтьею	кутия	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	11	conj	_	ref=9
+25	и	и	CCONJ	C-	_	11	cc	_	ref=9
+26	с	съ	ADP	R-	_	27	case	_	ref=9
+27	милостынею	милостыня	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	11	conj	_	ref=9
+28	и	и	CCONJ	C-	_	30	cc	_	ref=9
+29	за	за	ADP	R-	_	30	case	_	ref=9
+30	здравїе	съдравие	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	ref=9
+31	и	и	CCONJ	C-	_	30	cc	_	ref=9
+32	за	за	ADP	R-	_	33	case	_	ref=9
+33	оупокой	упокои	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	30	conj	_	ref=9
+
+# source = Domostroj, 9
+# text = и к празникомъ и по монастыремъ тако с милостынею и с приношенїемъ приходїти
+# sent_id = 160414
+1	и	и	CCONJ	C-	_	13	cc	_	ref=9
+2	к	къ	ADP	R-	_	3	case	_	ref=9
+3	празникомъ	праздьникъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	13	obl	_	ref=9
+4	и	и	CCONJ	C-	_	3	cc	_	ref=9
+5	по	по	ADP	R-	_	6	case	_	ref=9
+6	монастыремъ	монастырь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	3	conj	_	ref=9
+7	тако	тако	ADV	Df	_	13	advmod	_	ref=9
+8	с	съ	ADP	R-	_	9	case	_	ref=9
+9	милостынею	милостыня	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	13	obl	_	ref=9
+10	и	и	CCONJ	C-	_	9	cc	_	ref=9
+11	с	съ	ADP	R-	_	12	case	_	ref=9
+12	приношенїемъ	приношение	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	9	conj	_	ref=9
+13	приходїти	приходити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=9
+
+# source = Domostroj, 9
+# text = егда принесеши даръ свои ко ѡлтарю воспоминаи еѵгальское слово
+# sent_id = 160415
+1	егда	егда	ADV	Dq	PronType=Rel	2	advmod	_	ref=9
+2	принесеши	принести	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	ref=9
+3	даръ	даръ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	obj:dir	_	ref=9
+4	свои	свои	ADJ	Pt	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	3	nmod	_	ref=9
+5	ко	къ	ADP	R-	_	6	case	_	ref=9
+6	ѡлтарю	олтарь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	ref=9
+7	воспоминаи	въспоминати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=9
+8	еѵгальское	евангельскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	9	amod	_	ref=9
+9	слово	слово	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	obj:dir	_	ref=9
+
+# source = Domostroj, 9
+# text = егда нѣчто имать братъ твои на тѧ ѡстави тѹ даръ свой пред ѡлтаремъ
+# sent_id = 160340
+1	егда	егда	ADV	Dq	PronType=Rel	3	advmod	_	ref=9
+2	нѣчто	нѣчьто	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	3	obj:dir	_	ref=9
+3	имать	имѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	ref=9
+4	братъ	братъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=9
+5	твои	твои	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes	4	nmod	_	ref=9
+6	на	на	ADP	R-	_	7	case	_	ref=9
+7	тѧ	ты	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl	_	ref=9
+8	ѡстави	оставити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=9
+9	тѹ	ту	ADV	Df	_	8	advmod	_	ref=9
+10	даръ	даръ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obj:dir	_	ref=9
+11	свой	свои	ADJ	Pt	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	10	nmod	_	ref=9
+12	пред	прѣдъ	ADP	R-	_	13	case	_	ref=9
+13	ѡлтаремъ	олтарь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	9	appos	_	ref=9
+
+# source = Domostroj, 9
+# text = и шедъ смири сѧ з батомъ своим прежде
+# sent_id = 160341
+1	и	и	CCONJ	C-	_	3	cc	_	ref=9
+2	шедъ	ити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	3	advcl	_	ref=9
+3	смири	съмирити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=9
+4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=9
+5	з	съ	ADP	R-	_	6	case	_	ref=9
+6	батомъ	братъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	3	obl	_	ref=9
+7	своим	свои	ADJ	Pt	Case=Ins|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	6	nmod	_	ref=9
+8	прежде	прѣжде	ADV	Df	_	3	advmod	_	ref=9
+
+# source = Domostroj, 9
+# text = тогда принеси даръ свой к бг҃ѹ ѿ праведнаго своег имѣнїѧ
+# sent_id = 160342
+1	тогда	тъгда	ADV	Df	_	2	advmod	_	ref=9
+2	принеси	принести	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=9
+3	даръ	даръ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	obj:dir	_	ref=9
+4	свой	свои	ADJ	Pt	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	3	nmod	_	ref=9
+5	к	къ	ADP	R-	_	6	case	_	ref=9
+6	бг҃ѹ	богъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	ref=9
+7	ѿ	отъ	ADP	R-	_	10	case	_	ref=9
+8	праведнаго	правьдьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	10	amod	_	ref=9
+9	своег	свои	ADJ	Pt	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	10	nmod	_	ref=9
+10	имѣнїѧ	имѣние	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	2	obl	_	ref=9
+
+# source = Domostroj, 9
+# text = ѿ неправды непрїѧтна милостьїнѧ к силнымъ
+# sent_id = 160416
+1	ѿ	отъ	ADP	R-	_	2	case	_	ref=9
+2	неправды	неправьда	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	ref=9
+3	непрїѧтна	неприятьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	0	root	_	ref=9
+4	милостьїнѧ	милостыня	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	ref=9
+5	к	къ	ADP	R-	_	6	case	_	ref=9
+6	силнымъ	сильныи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	3	obl	_	ref=9
+
+# source = Domostroj, 9
+# text = речено бысть
+# sent_id = 186978
+1	речено	рещи	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	2	xcomp	_	ref=9
+2	бысть	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=9
+
+# source = Domostroj, 9
+# text = лѹчше не грабити неже млстынѧ даѧти ѿ непрдвды
+# sent_id = 160343
+1	лѹчше	луче	ADV	Df	_	0	root	_	ref=9
+2	не	не	ADV	Df	_	3	advmod	_	ref=9
+3	грабити	грабити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	ccomp	_	ref=9
+4	неже	неже	ADV	Df	_	1	advmod	_	ref=9
+5	млстынѧ	милостыня	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	obj:dir	_	ref=9
+6	даѧти	даяти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	ccomp	_	ref=9
+7	ѿ	отъ	ADP	R-	_	8	case	_	ref=9
+8	непрдвды	неправьда	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	obl	_	ref=9
+
+# source = Domostroj, 9
+# text = ѿдай ѡбидимомѹ
+# sent_id = 160418
+1	ѿдай	отъдати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=9
+2	ѡбидимомѹ	обидѣти	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Pass	1	advcl	_	ref=9
+
+# source = Domostroj, 9
+# text = приѧтнее млстыни
+# sent_id = 160445
+1	приѧтнее	приятьныи	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing|Strength=Weak	0	root	_	ref=9
+2	млстыни	милостыня	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	1	iobj	_	ref=9
+
+# source = Domostroj, 9
+# text = а к бг҃ѹ прїѧтна млстынѧ ѿ праведнаго стѧжанїѧ и ѿ добрых дѣлъ
+# sent_id = 160344
+1	а	а	CCONJ	C-	_	4	cc	_	ref=9
+2	к	къ	ADP	R-	_	3	case	_	ref=9
+3	бг҃ѹ	богъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	ref=9
+4	прїѧтна	приятьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	0	root	_	ref=9
+5	млстынѧ	милостыня	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	ref=9
+6	ѿ	отъ	ADP	R-	_	8	case	_	ref=9
+7	праведнаго	правьдьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	8	amod	_	ref=9
+8	стѧжанїѧ	сътяжание	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	ref=9
+9	и	и	CCONJ	C-	_	8	cc	_	ref=9
+10	ѿ	отъ	ADP	R-	_	12	case	_	ref=9
+11	добрых	добрыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	12	amod	_	ref=9
+12	дѣлъ	дѣло	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	8	conj	_	ref=9
+
+# source = Domostroj, 10
+# text = ї
+# sent_id = 160386
+1	ї	десять	NUM	Ma	_	0	root	_	ref=10
+
+# source = Domostroj, 10
+# text = Како сщ҃енниковъ ι иноков в домъ свои призывати молити сѧ
+# sent_id = 163739
+1	Како	како	ADV	Du	PronType=Int	8	advmod	_	ref=10
+2	сщ҃енниковъ	священикъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	8	obj:dir	_	ref=10
+3	ι	и	CCONJ	C-	_	2	cc	_	ref=10
+4	иноков	инокъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	2	conj	_	ref=10
+5	в	въ	ADP	R-	_	6	case	_	ref=10
+6	домъ	домъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	ref=10
+7	свои	свои	ADJ	Pt	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	6	nmod	_	ref=10
+8	призывати	призывати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=10
+9	молити	молити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	advcl	_	ref=10
+10	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	9	aux	_	ref=10
+
+# source = Domostroj, 10
+# text = А в которые любо празники по ѡбещанию свосемѹ да призываютъ сщ҃енническїи чин в домъ свои елико по силе
+# sent_id = 160446
+1	А	а	CCONJ	C-	_	10	cc	_	ref=10
+2	в	въ	ADP	R-	_	5	case	_	ref=10
+3	которые	которыи	DET	Px	Case=Acc|Gender=Masc|Number=Plur	5	det	_	ref=10
+4	любо	любо	ADV	Df	_	3	advmod	_	ref=10
+5	празники	праздьникъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	10	obl	_	ref=10
+6	по	по	ADP	R-	_	7	case	_	ref=10
+7	ѡбещанию	обѣщание	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	10	obl	_	ref=10
+8	свосемѹ	свои	ADJ	Pt	Case=Dat|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	7	nmod	_	ref=10
+9	да	да#1	ADV	Df	_	10	advmod	_	ref=10
+10	призываютъ	призывати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=10
+11	сщ҃енническїи	священичьскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	12	amod	_	ref=10
+12	чин	чинъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	10	obj:dir	_	ref=10
+13	в	въ	ADP	R-	_	14	case	_	ref=10
+14	домъ	домъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	10	obl	_	ref=10
+15	свои	свои	ADJ	Pt	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	14	nmod	_	ref=10
+16	елико	елико	ADV	Dq	PronType=Rel	18	advmod	_	ref=10
+17	по	по	ADP	R-	_	18	case	_	ref=10
+18	силе	сила	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	10	obl	_	ref=10
+
+# source = Domostroj, 10
+# text = и молебнаѧ совершают ѡ всѧкомъ прошенїи
+# sent_id = 160387
+1	и	и	CCONJ	C-	_	3	cc	_	ref=10
+2	молебнаѧ	мольбьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	3	obj:dir	_	ref=10
+3	совершают	съвьршати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=10
+4	ѡ	о	ADP	R-	_	6	case	_	ref=10
+5	всѧкомъ	вьсякыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	6	amod	_	ref=10
+6	прошенїи	прошение	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	3	obl	_	ref=10
+
+# source = Domostroj, 10
+# text = и молѧтъ за цр҃ѧ и великаго кн҃ѕѧ ιм рк всеѧ рѹси самодержца и за его цр҃цѹ и великѹю кнг҃ню ιм рк и за их бл҃городныѧ чада и за братью его и за болѧре и за все хрстолюбиво воиньсьтво иже побѣдѹ на враги и ѡ плененых свободѣ и ѡ всемъ сщ҃енническомъ и иноческом
+# sent_id = 160469
+1	и	и	CCONJ	C-	_	2	cc	_	ref=10
+2	молѧтъ	молити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=10
+3	за	за	ADP	R-	_	4	case	_	ref=10
+4	цр҃ѧ	цѣсарь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	obl	_	ref=10
+5	и	и	CCONJ	C-	_	4	cc	_	ref=10
+6	великаго	великыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	7	amod	_	ref=10
+7	кн҃ѕѧ	кънязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	conj	_	ref=10
+8	ιм	имя	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	9	obj:dir	_	ref=10
+9	рк	рещи	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	7	acl	_	ref=10
+10	всеѧ	вьсь	DET	Px	Case=Gen|Gender=Fem|Number=Sing	11	det	_	ref=10
+11	рѹси	русь	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	ref=10
+12	самодержца	самодьржьць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	appos	_	ref=10
+13	и	и	CCONJ	C-	_	4	cc	_	ref=10
+14	за	за	ADP	R-	_	16	case	_	ref=10
+15	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	det	_	ref=10
+16	цр҃цѹ	цѣсарица	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	conj	_	ref=10
+17	и	и	CCONJ	C-	_	16	cc	_	ref=10
+18	великѹю	великыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	19	amod	_	ref=10
+19	кнг҃ню	кънягыни	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	16	conj	_	ref=10
+20	ιм	имя	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	21	obj:dir	_	ref=10
+21	рк	рещи	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Pass	19	acl	_	ref=10
+22	и	и	CCONJ	C-	_	4	cc	_	ref=10
+23	за	за	ADP	R-	_	26	case	_	ref=10
+24	их	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	26	det	_	ref=10
+25	бл҃городныѧ	благородьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	26	amod	_	ref=10
+26	чада	чадо	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	4	conj	_	ref=10
+27	и	и	CCONJ	C-	_	4	cc	_	ref=10
+28	за	за	ADP	R-	_	29	case	_	ref=10
+29	братью	братия	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	conj	_	ref=10
+30	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	det	_	ref=10
+31	и	и	CCONJ	C-	_	4	cc	_	ref=10
+32	за	за	ADP	R-	_	33	case	_	ref=10
+33	болѧре	боляринъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	4	conj	_	ref=10
+34	и	и	CCONJ	C-	_	4	cc	_	ref=10
+35	за	за	ADP	R-	_	38	case	_	ref=10
+36	все	вьсь	DET	Px	Case=Acc|Gender=Neut|Number=Sing	38	det	_	ref=10
+37	хрстолюбиво	христолюбивыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	38	amod	_	ref=10
+38	воиньсьтво	воиньство	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	conj	_	ref=10
+39	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	38	det	_	ref=10
+40	побѣдѹ	побѣда	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	39	orphan	_	ref=10
+41	на	на	ADP	R-	_	42	case	_	ref=10
+42	враги	врагъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	40	nmod	_	ref=10
+43	и	и	CCONJ	C-	_	46	cc	_	ref=10
+44	ѡ	о	ADP	R-	_	46	case	_	ref=10
+45	плененых	плѣнити	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	46	acl	_	ref=10
+46	свободѣ	свобода	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	2	obl	_	ref=10
+47	и	и	CCONJ	C-	_	46	cc	_	ref=10
+48	ѡ	о	ADP	R-	_	50	case	_	ref=10
+49	всемъ	вьсь	DET	Px	Case=Loc|Gender=Masc|Number=Sing	50	det	_	ref=10
+50	сщ҃енническомъ	священичьскыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	46	conj	_	ref=10
+51	и	и	CCONJ	C-	_	50	cc	_	ref=10
+52	иноческом	иночьскыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	50	conj	_	ref=10
+
+# source = Domostroj, 10
+# text = а ѿ стола или ѿ трапезы ества и питїе таино износити или высылати не по повеленїю настоѧщаго и без бл҃гословенїѧ ст҃отатство сѹт
+# sent_id = 160473
+1	а	а	CCONJ	C-	_	22	cc	_	ref=10
+2	ѿ	отъ	ADP	R-	_	3	case	_	ref=10
+3	стола	столъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	11	obl	_	ref=10
+4	или	или	CCONJ	C-	_	3	cc	_	ref=10
+5	ѿ	отъ	ADP	R-	_	6	case	_	ref=10
+6	трапезы	трапеза	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	conj	_	ref=10
+7	ества	ѣства	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	11	obj:dir	_	ref=10
+8	и	и	CCONJ	C-	_	7	cc	_	ref=10
+9	питїе	питие	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	conj	_	ref=10
+10	таино	таино	ADV	Df	_	11	advmod	_	ref=10
+11	износити	износити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	22	ccomp	_	ref=10
+12	или	или	CCONJ	C-	_	11	cc	_	ref=10
+13	высылати	высылати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	11	conj	_	ref=10
+14	не	не	ADV	Df	_	15	advmod	_	ref=10
+15	по	по	ADP	R-	_	16	case	_	ref=10
+16	повеленїю	повелѣние	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	13	obl	_	ref=10
+17	настоѧщаго	настояи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	16	amod	_	ref=10
+18	и	и	CCONJ	C-	_	16	cc	_	ref=10
+19	без	без	ADP	R-	_	20	case	_	ref=10
+20	бл҃гословенїѧ	благословение	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	16	conj	_	ref=10
+21	ст҃отатство	святотатьство	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	22	xcomp	_	ref=10
+22	сѹт	быти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=10
+
+# source = Domostroj, 10
+# text = и самочїние таковых всѧческ̏ бесчествѹютъ
+# sent_id = 160470
+1	и	и	CCONJ	C-	_	5	cc	_	ref=10
+2	самочїние	самочиние	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obj:dir	_	ref=10
+3	таковых	таковыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	2	amod	_	ref=10
+4	всѧческ̏	вьсячьскы	ADV	Df	_	5	advmod	_	ref=10
+5	бесчествѹютъ	бесчьствовати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=10
+
+# source = Domostroj, 10
+# text = егда званъ бѹдеши кимъ на бракъ не сѣди на преднемъ мѣсте егда кто честнѣе тебѣ бѹдетъ званных имъ
+# sent_id = 160393
+1	егда	егда	ADV	Dq	PronType=Rel	3	advmod	_	ref=10
+2	званъ	зъвати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	3	xcomp	_	ref=10
+3	бѹдеши	быти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	ref=10
+4	кимъ	кыи	ADJ	Px	Case=Ins|Gender=Masc|Number=Sing	2	obl:agent	_	ref=10
+5	на	на	ADP	R-	_	6	case	_	ref=10
+6	бракъ	бракъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	ref=10
+7	не	не	ADV	Df	_	8	advmod	_	ref=10
+8	сѣди	сѣдѣти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=10
+9	на	на	ADP	R-	_	11	case	_	ref=10
+10	преднемъ	прѣдьнии	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	11	amod	_	ref=10
+11	мѣсте	мѣсто	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	8	obl	_	ref=10
+12	егда	егда	ADV	Dq	PronType=Rel	16	advmod	_	ref=10
+13	кто	къто	ADJ	Px	Case=Nom|Number=Sing	16	nsubj	_	ref=10
+14	честнѣе	чьстьныи	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing|Strength=Weak	16	xcomp	_	ref=10
+15	тебѣ	ты	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	14	iobj	_	ref=10
+16	бѹдетъ	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	8	advcl	_	ref=10
+17	званных	зъвати	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	13	nmod	_	ref=10
+18	имъ	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obl:agent	_	ref=10
+
+# source = Domostroj, 10
+# text = и пришедъ иже тебѣ звавыи ѡного речетъ
+# sent_id = 160474
+1	и	и	CCONJ	C-	_	7	cc	_	ref=10
+2	пришедъ	приити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	7	advcl	_	ref=10
+3	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	ref=10
+4	тебѣ	ты	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obj:dir	_	ref=10
+5	звавыи	зъвати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	7	nsubj	_	ref=10
+6	ѡного	онъ	ADJ	Pd	Case=Gen|Gender=Masc|Number=Sing	7	obj:dir	_	ref=10
+7	речетъ	рещи	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=10
+
+# source = Domostroj, 10
+# text = ты даждь семѹ мѣсто
+# sent_id = 160475
+1	ты	ты	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	ref=10
+2	даждь	дати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=10
+3	семѹ	сии	ADJ	Pd	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	ref=10
+4	мѣсто	мѣсто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obj:dir	_	ref=10
+
+# source = Domostroj, 10
+# text = и тогда начнеши со стѹдомъ посьлѣднее мѣсто держати
+# sent_id = 160394
+1	и	и	CCONJ	C-	_	3	cc	_	ref=10
+2	тогда	тъгда	ADV	Df	_	3	advmod	_	ref=10
+3	начнеши	начати	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=10
+4	со	съ	ADP	R-	_	5	case	_	ref=10
+5	стѹдомъ	студъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	3	obl	_	ref=10
+6	посьлѣднее	послѣдьнии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	7	amod	_	ref=10
+7	мѣсто	мѣсто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	8	obj:dir	_	ref=10
+8	держати	дьржати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=10
+
+# source = Domostroj, 10
+# text = но егда званъ бѹдеши шед сѧдї на послѣднемъ мѣсте
+# sent_id = 160476
+1	но	нъ	CCONJ	C-	_	6	cc	_	ref=10
+2	егда	егда	ADV	Dq	PronType=Rel	4	advmod	_	ref=10
+3	званъ	зъвати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	4	xcomp	_	ref=10
+4	бѹдеши	быти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	6	advcl	_	ref=10
+5	шед	ити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	6	advcl	_	ref=10
+6	сѧдї	сѣсти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=10
+7	на	на	ADP	R-	_	9	case	_	ref=10
+8	послѣднемъ	послѣдьнии	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	9	amod	_	ref=10
+9	мѣсте	мѣсто	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	6	obl	_	ref=10
+
+# source = Domostroj, 10
+# text = да егда прїидетъ звавыи тѧ и речетъ ти дрѹже посѧди выше тогда бѹдет ти слава превозлежащими с тобою
+# sent_id = 160395
+1	да	да#2	ADV	Df	_	13	advmod	_	ref=10
+2	егда	егда	ADV	Dq	PronType=Rel	3	advmod	_	ref=10
+3	прїидетъ	приити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	ref=10
+4	звавыи	зъвати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	3	nsubj	_	ref=10
+5	тѧ	ты	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obj:dir	_	ref=10
+6	и	и	CCONJ	C-	_	3	cc	_	ref=10
+7	речетъ	рещи	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=10
+8	ти	ты	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	iobj	_	ref=10
+9	дрѹже	другъ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	13	vocative	_	ref=10
+10	посѧди	посѣсти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	13	parataxis	_	ref=10
+11	выше	выше	ADV	Df	_	10	advmod	_	ref=10
+12	тогда	тъгда	ADV	Df	_	13	advmod	_	ref=10
+13	бѹдет	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	ref=10
+14	ти	ты	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	15	nmod	_	ref=10
+15	слава	слава	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	ref=10
+16	превозлежащими	прѣвъзлежати	VERB	V-	Case=Ins|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	13	advcl	_	ref=10
+17	с	съ	ADP	R-	_	18	case	_	ref=10
+18	тобою	ты	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=2|PronType=Prs	16	obl	_	ref=10
+
+# source = Domostroj, 10
+# text = яко всѧкъ возносѧи сѧ смирит сѧ а смирѧи сѧ вознесѣт сѧ
+# sent_id = 160398
+1	яко	яко	ADV	Df	_	5	advmod	_	ref=10
+2	всѧкъ	вьсякыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	3	advmod	_	ref=10
+3	возносѧи	възносити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	5	nsubj	_	ref=10
+4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=10
+5	смирит	съмирити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=10
+6	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	5	aux	_	ref=10
+7	а	а	CCONJ	C-	_	5	cc	_	ref=10
+8	смирѧи	съмирити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	10	nsubj	_	ref=10
+9	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	8	aux	_	ref=10
+10	вознесѣт	възнести	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	ref=10
+11	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	10	aux	_	ref=10
+
+# source = Domostroj, 10
+# text = егда на трапѣзе предпоставѧт ти многоразличныѧ яди и питиѧ егда кто честнѣе тебѣ бѹдетъ званныхъ не начни вкѹшати преже ничто же
+# sent_id = 160477
+1	егда	егда	ADV	Dq	PronType=Rel	4	advmod	_	ref=10
+2	на	на	ADP	R-	_	3	case	_	ref=10
+3	трапѣзе	трапеза	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	4	obl	_	ref=10
+4	предпоставѧт	прѣдъпоставити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	advcl	_	ref=10
+5	ти	ты	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	iobj	_	ref=10
+6	многоразличныѧ	мъногоразличьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	7	amod	_	ref=10
+7	яди	ядь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	4	obj:dir	_	ref=10
+8	и	и	CCONJ	C-	_	7	cc	_	ref=10
+9	питиѧ	питие	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	7	conj	_	ref=10
+10	егда	егда	ADV	Dq	PronType=Rel	14	advmod	_	ref=10
+11	кто	къто	ADJ	Px	Case=Nom|Number=Sing	14	nsubj	_	ref=10
+12	честнѣе	чьстьныи	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing|Strength=Weak	14	xcomp	_	ref=10
+13	тебѣ	ты	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	iobj	_	ref=10
+14	бѹдетъ	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	17	advcl	_	ref=10
+15	званныхъ	зъвати	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	11	nmod	_	ref=10
+16	не	не	ADV	Df	_	17	advmod	_	ref=10
+17	начни	начати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=10
+18	вкѹшати	въкушати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	17	xcomp	_	ref=10
+19	преже	прѣже	ADV	Df	_	18	advmod	_	ref=10
+20	ничто	ничьто	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	18	obj:dir	_	ref=10
+21	же	же	ADV	Df	_	20	advmod	_	ref=10
+
+# source = Domostroj, 10
+# text = аще ты начальстьвенъ бѹдеши предпоставленѹю ѧдь разсѹжаѧ начина̏
+# sent_id = 160399
+1	аще	аще	SCONJ	G-	_	4	mark	_	ref=10
+2	ты	ты	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	ref=10
+3	начальстьвенъ	начальствьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	4	xcomp	_	ref=10
+4	бѹдеши	быти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	8	advcl	_	ref=10
+5	предпоставленѹю	прѣдъпоставити	VERB	V-	Case=Acc|Gender=Fem|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	ref=10
+6	ѧдь	ядь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obj:dir	_	ref=10
+7	разсѹжаѧ	расужати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	8	advcl	_	ref=10
+8	начина̏	начинати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=10
+
+# source = Domostroj, 10
+# text = оу некихъ бг҃облюбцевъ изоѡбилно бываетъ вкѹшенїе и питїе
+# sent_id = 160401
+1	оу	у	ADP	R-	_	3	case	_	ref=10
+2	некихъ	нѣкыи	DET	Px	Case=Gen|Gender=Masc|Number=Plur	3	det	_	ref=10
+3	бг҃облюбцевъ	боголюбьць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	5	obl	_	ref=10
+4	изоѡбилно	изобильныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	5	xcomp	_	ref=10
+5	бываетъ	бывати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=10
+6	вкѹшенїе	въкушение	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	ref=10
+7	и	и	CCONJ	C-	_	6	cc	_	ref=10
+8	питїе	питие	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	conj	_	ref=10
+
+# source = Domostroj, 10
+# text = ι излишнее цѣло снимают
+# sent_id = 160478
+1	ι	и	CCONJ	C-	_	4	cc	_	ref=10
+2	излишнее	излишнии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	4	obj:dir	_	ref=10
+3	цѣло	цѣлыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	2	amod	_	ref=10
+4	снимают	сънимати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=10
+
+# source = Domostroj, 10
+# text = и вперед инымъ на потребѹ пригожает сѧ
+# sent_id = 160402
+1	и	и	CCONJ	C-	_	6	cc	_	ref=10
+2	вперед	впередь	ADV	Df	_	6	advmod	_	ref=10
+3	инымъ	иныи	ADJ	Px	Case=Dat|Gender=Masc|Number=Plur	6	iobj	_	ref=10
+4	на	на	ADP	R-	_	5	case	_	ref=10
+5	потребѹ	потрѣба	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	ref=10
+6	пригожает	пригожати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=10
+7	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	6	aux	_	ref=10
+
+# source = Domostroj, 10
+# text = ι аще кто нечювьственъ и не искѹсенъ и не оученъ и невѣжда не ра ссѹждаѧ всѧкаго брашна в пресыщенїѧ начинаетъ и небрегомо творитъ бѹдет и самъ порѹганъ и посмѣѧн и ѡбещестенъ ѿ бг҃а и ѿ чл҃къ
+# sent_id = 160479
+1	ι	и	CCONJ	C-	_	24	cc	_	ref=10
+2	аще	аще	SCONJ	G-	_	20	mark	_	ref=10
+3	кто	къто	ADJ	Px	Case=Nom|Number=Sing	20	nsubj	_	ref=10
+4	нечювьственъ	нечувьствьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	3	amod	_	ref=10
+5	и	и	CCONJ	C-	_	4	cc	_	ref=10
+6	не	не	ADV	Df	_	7	advmod	_	ref=10
+7	искѹсенъ	искусьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	4	conj	_	ref=10
+8	и	и	CCONJ	C-	_	4	cc	_	ref=10
+9	не	не	ADV	Df	_	10	advmod	_	ref=10
+10	оученъ	учити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	4	conj	_	ref=10
+11	и	и	CCONJ	C-	_	4	cc	_	ref=10
+12	невѣжда	невѣжда	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	ref=10
+13	не	не	ADV	Df	_	14	advmod	_	ref=10
+14	ра	расуждати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	20	advcl	_	ref=10
+15	ссѹждаѧ	ссѹждаѧ	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	14	flat	_	ref=10
+16	всѧкаго	вьсякыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	17	amod	_	ref=10
+17	брашна	брашьно	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	20	obj:dir	_	ref=10
+18	в	въ	ADP	R-	_	19	case	_	ref=10
+19	пресыщенїѧ	прѣсыщение	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	ref=10
+20	начинаетъ	начинати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	advcl	_	ref=10
+21	и	и	CCONJ	C-	_	20	cc	_	ref=10
+22	небрегомо	небрѣгомо	ADV	Df	_	23	advmod	_	ref=10
+23	творитъ	творити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	conj	_	ref=10
+24	бѹдет	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	ref=10
+25	и	и	ADV	Df	_	26	advmod	_	ref=10
+26	самъ	самъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	ref=10
+27	порѹганъ	поругати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	24	xcomp	_	ref=10
+28	и	и	CCONJ	C-	_	27	cc	_	ref=10
+29	посмѣѧн	посмѣяти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	27	conj	_	ref=10
+30	и	и	CCONJ	C-	_	27	cc	_	ref=10
+31	ѡбещестенъ	обесчьстити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	27	conj	_	ref=10
+32	ѿ	отъ	ADP	R-	_	33	case	_	ref=10
+33	бг҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	31	obl:agent	_	ref=10
+34	и	и	CCONJ	C-	_	33	cc	_	ref=10
+35	ѿ	отъ	ADP	R-	_	36	case	_	ref=10
+36	чл҃къ	человѣкъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	33	conj	_	ref=10
+
+# source = Domostroj, 11
+# text = а҃ι
+# sent_id = 160419
+1	а҃ι	единънадесять	NUM	Ma	_	0	root	_	ref=11
+
+# source = Domostroj, 11
+# text = Како кормити прїходѧщих в домѹ з бл҃годаренїемъ
+# sent_id = 160483
+1	Како	како	ADV	Du	PronType=Int	2	advmod	_	ref=11
+2	кормити	кърмити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=11
+3	прїходѧщих	приходити	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	2	obj:dir	_	ref=11
+4	в	въ	ADP	R-	_	5	case	_	ref=11
+5	домѹ	домъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	3	obl	_	ref=11
+6	з	съ	ADP	R-	_	7	case	_	ref=11
+7	бл҃годаренїемъ	благодарение	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	2	obl	_	ref=11
+
+# source = Domostroj, 11
+# text = Егда трапѣзѹ предпоставълѧеши в начале сщ҃енницы ѿц҃а и сн҃а и ст҃аго дх҃а прославлѧют
+# sent_id = 160484
+1	Егда	егда	ADV	Dq	PronType=Rel	3	advmod	_	ref=11
+2	трапѣзѹ	трапеза	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obj:dir	_	ref=11
+3	предпоставълѧеши	прѣдъпоставляти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	ref=11
+4	в	въ	ADP	R-	_	5	case	_	ref=11
+5	начале	начало	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	13	obl	_	ref=11
+6	сщ҃енницы	священикъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	ref=11
+7	ѿц҃а	отьць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	13	obj:dir	_	ref=11
+8	и	и	CCONJ	C-	_	7	cc	_	ref=11
+9	сн҃а	сынъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	conj	_	ref=11
+10	и	и	CCONJ	C-	_	7	cc	_	ref=11
+11	ст҃аго	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	12	amod	_	ref=11
+12	дх҃а	духъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	conj	_	ref=11
+13	прославлѧют	прославляти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=11
+
+# source = Domostroj, 11
+# text = потомъ дв҃цѹ бц҃ѹ
+# sent_id = 160486
+1	потомъ	потомь	ADV	Df	_	0	root	_	ref=11
+2	дв҃цѹ	дѣвица	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj:dir	_	ref=11
+3	бц҃ѹ	богородица	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	appos	_	ref=11
+
+# source = Domostroj, 11
+# text = ι егда ядѧхѹ з бл҃годаренїемъ и с молчанїемъ или з дх҃овною бесѣдою тогда аг҃гли невидимо предстоѧт и написѹютъ дѣла добраѧ
+# sent_id = 160420
+1	ι	и	CCONJ	C-	_	16	cc	_	ref=11
+2	егда	егда	ADV	Dq	PronType=Rel	3	advmod	_	ref=11
+3	ядѧхѹ	ясти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	advcl	_	ref=11
+4	з	съ	ADP	R-	_	5	case	_	ref=11
+5	бл҃годаренїемъ	благодарение	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	3	obl	_	ref=11
+6	и	и	CCONJ	C-	_	5	cc	_	ref=11
+7	с	съ	ADP	R-	_	8	case	_	ref=11
+8	молчанїемъ	мълчание	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	5	conj	_	ref=11
+9	или	или	CCONJ	C-	_	5	cc	_	ref=11
+10	з	съ	ADP	R-	_	12	case	_	ref=11
+11	дх҃овною	духовьныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	ref=11
+12	бесѣдою	бесѣда	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	5	conj	_	ref=11
+13	тогда	тъгда	ADV	Df	_	16	advmod	_	ref=11
+14	аг҃гли	ангелъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	ref=11
+15	невидимо	невидимо	ADV	Df	_	16	advmod	_	ref=11
+16	предстоѧт	прѣдъстояти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=11
+17	и	и	CCONJ	C-	_	16	cc	_	ref=11
+18	написѹютъ	написовати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	conj	_	ref=11
+19	дѣла	дѣло	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	18	obj:dir	_	ref=11
+20	добраѧ	добрыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	19	amod	_	ref=11
+
+# source = Domostroj, 11
+# text = и ества и питїе в сладость бывает
+# sent_id = 160487
+1	и	и	CCONJ	C-	_	7	cc	_	ref=11
+2	ества	ѣства	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	ref=11
+3	и	и	CCONJ	C-	_	2	cc	_	ref=11
+4	питїе	питие	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	2	conj	_	ref=11
+5	в	въ	ADP	R-	_	6	case	_	ref=11
+6	сладость	сладость	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	xcomp	_	ref=11
+7	бывает	бывати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=11
+
+# source = Domostroj, 11
+# text = аще начнетъ предпоставленѹю ествѹ и питїе похѹлѧт тогда мотыло ѡбращает сѧ сїи вкѹшають
+# sent_id = 160488
+1	аще	аще	SCONJ	G-	_	2	mark	_	ref=11
+2	начнетъ	начати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	ref=11
+3	предпоставленѹю	прѣдъпоставити	VERB	V-	Case=Acc|Gender=Fem|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	ref=11
+4	ествѹ	ѣства	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj:dir	_	ref=11
+5	и	и	CCONJ	C-	_	4	cc	_	ref=11
+6	питїе	питие	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	conj	_	ref=11
+7	похѹлѧт	похуляти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=11
+8	тогда	тъгда	ADV	Df	_	10	advmod	_	ref=11
+9	мотыло	мотыло	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	10	iobj	_	ref=11
+10	ѡбращает	обращати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=11
+11	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	10	aux	_	ref=11
+12	сїи	сии	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	13	obj:dir	_	ref=11
+13	вкѹшають	въкушати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	nsubj	_	ref=11
+
+# source = Domostroj, 11
+# text = и аще скаредныѧ речи и блѹдные срамословїе и смѣхо творенїе и всѧкое глѹмленїе или гѹсли и плесанїе и плесканїе и скоканїе и всѧкїе игры и пѣсни бѣсовскїе тогда якоже дымъ ѿгонитъ пчелы такоже и ѿидѹтъ агг҃ли бж҃їи ѿ тоѧ трапѣзы и смрадныѧ бѣседы
+# sent_id = 160422
+1	и	и	CCONJ	C-	_	35	cc	_	ref=11
+2	аще	аще	SCONJ	G-	_	4	mark	_	ref=11
+3	скаредныѧ	скарѣдьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	4	amod	_	ref=11
+4	речи	рѣчь	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	28	appos	_	ref=11
+5	и	и	CCONJ	C-	_	3	cc	_	ref=11
+6	блѹдные	блудьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	3	conj	_	ref=11
+7	срамословїе	срамословие	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	ref=11
+8	и	и	CCONJ	C-	_	4	cc	_	ref=11
+9	смѣхо	смѣхотворение	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	ref=11
+10	творенїе	творенїе	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	9	flat	_	ref=11
+11	и	и	CCONJ	C-	_	4	cc	_	ref=11
+12	всѧкое	вьсякыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	13	amod	_	ref=11
+13	глѹмленїе	глумление	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	ref=11
+14	или	или	CCONJ	C-	_	4	cc	_	ref=11
+15	гѹсли	гусль	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	conj	_	ref=11
+16	и	и	CCONJ	C-	_	15	cc	_	ref=11
+17	плесанїе	плясание	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	15	conj	_	ref=11
+18	и	и	CCONJ	C-	_	15	cc	_	ref=11
+19	плесканїе	плескание	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	15	conj	_	ref=11
+20	и	и	CCONJ	C-	_	15	cc	_	ref=11
+21	скоканїе	скокание	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	15	conj	_	ref=11
+22	и	и	CCONJ	C-	_	15	cc	_	ref=11
+23	всѧкїе	вьсякыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	24	amod	_	ref=11
+24	игры	игра	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	15	conj	_	ref=11
+25	и	и	CCONJ	C-	_	15	cc	_	ref=11
+26	пѣсни	пѣснь	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	15	conj	_	ref=11
+27	бѣсовскїе	бѣсовьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	26	amod	_	ref=11
+28	тогда	тъгда	ADV	Df	_	35	advmod	_	ref=11
+29	якоже	якоже	ADV	Dq	PronType=Rel	31	advmod	_	ref=11
+30	дымъ	дымъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	31	nsubj	_	ref=11
+31	ѿгонитъ	отъгонити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	33	advcl	_	ref=11
+32	пчелы	бъчела	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	31	obj:dir	_	ref=11
+33	такоже	такоже	ADV	Df	_	35	advmod	_	ref=11
+34	и	и	ADV	Df	_	35	advmod	_	ref=11
+35	ѿидѹтъ	отъити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=11
+36	агг҃ли	ангелъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	35	nsubj	_	ref=11
+37	бж҃їи	божии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	36	amod	_	ref=11
+38	ѿ	отъ	ADP	R-	_	40	case	_	ref=11
+39	тоѧ	тыи	DET	Pd	Case=Gen|Gender=Fem|Number=Sing	40	det	_	ref=11
+40	трапѣзы	трапеза	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	35	obl	_	ref=11
+41	и	и	CCONJ	C-	_	40	cc	_	ref=11
+42	смрадныѧ	смрадьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	43	amod	_	ref=11
+43	бѣседы	бесѣда	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	40	conj	_	ref=11
+
+# source = Domostroj, 11
+# text = и возрадѹют сѧ бѣси и прїидѹт волю свою оулѹчивъ
+# sent_id = 160489
+1	и	и	CCONJ	C-	_	2	cc	_	ref=11
+2	возрадѹют	възрадовати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=11
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=11
+4	бѣси	бѣсъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	ref=11
+5	и	и	CCONJ	C-	_	2	cc	_	ref=11
+6	прїидѹт	приити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=11
+7	волю	воля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	obj:dir	_	ref=11
+8	свою	свои	ADJ	Pt	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	7	nmod	_	ref=11
+9	оулѹчивъ	улучити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	2	advcl	_	ref=11
+
+# source = Domostroj, 11
+# text = и всѧ оугоднаѧ творит сѧ имъ
+# sent_id = 160490
+1	и	и	CCONJ	C-	_	4	cc	_	ref=11
+2	всѧ	вьсь	DET	Px	Case=Nom|Gender=Neut|Number=Plur	3	det	_	ref=11
+3	оугоднаѧ	угодьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	4	nsubj	_	ref=11
+4	творит	творити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=11
+5	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	4	aux	_	ref=11
+6	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	iobj	_	ref=11
+
+# source = Domostroj, 11
+# text = да такоже бесчиньствѹютъ и зернью и шахматы и всѧкими играми бѣсовскїми тѣшат сѧ
+# sent_id = 160491
+1	да	да#2	ADV	Df	_	3	advmod	_	ref=11
+2	такоже	такоже	ADV	Df	_	3	advmod	_	ref=11
+3	бесчиньствѹютъ	бесчиньствовати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=11
+4	и	и	CCONJ	C-	_	3	cc	_	ref=11
+5	зернью	зьрнь	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	12	obl	_	ref=11
+6	и	и	CCONJ	C-	_	5	cc	_	ref=11
+7	шахматы	шахматы	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	5	conj	_	ref=11
+8	и	и	CCONJ	C-	_	5	cc	_	ref=11
+9	всѧкими	вьсякыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	10	amod	_	ref=11
+10	играми	игра	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	5	conj	_	ref=11
+11	бѣсовскїми	бѣсовьскыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	10	amod	_	ref=11
+12	тѣшат	тѣшити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=11
+13	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	12	aux	_	ref=11
+
+# source = Domostroj, 11
+# text = даръ бж҃їи ествѹ и питїе и всѧкїе ѡвощи в порѹганїе помѣщѹт и проливают
+# sent_id = 160428
+1	даръ	даръ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	11	obj:dir	_	ref=11
+2	бж҃їи	божии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	1	amod	_	ref=11
+3	ествѹ	ѣства	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	appos	_	ref=11
+4	и	и	CCONJ	C-	_	3	cc	_	ref=11
+5	питїе	питие	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	3	conj	_	ref=11
+6	и	и	CCONJ	C-	_	3	cc	_	ref=11
+7	всѧкїе	вьсякыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	8	amod	_	ref=11
+8	ѡвощи	овощь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	3	conj	_	ref=11
+9	в	въ	ADP	R-	_	10	case	_	ref=11
+10	порѹганїе	поругание	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	11	obl	_	ref=11
+11	помѣщѹт	пометати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=11
+12	и	и	CCONJ	C-	_	11	cc	_	ref=11
+13	проливают	проливати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	ref=11
+
+# source = Domostroj, 11
+# text = дрѹгъ дрѹга шибают и ѡбливаютъ
+# sent_id = 160492
+1	дрѹгъ	другъ	PRON	Pc	Case=Nom|Gender=Masc|Number=Sing|PronType=Rcp	3	advmod	_	ref=11
+2	дрѹга	другъ	PRON	Pc	Case=Gen|Gender=Masc|Number=Sing|PronType=Rcp	3	obj:dir	_	ref=11
+3	шибают	шибати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=11
+4	и	и	CCONJ	C-	_	3	cc	_	ref=11
+5	ѡбливаютъ	обливати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=11
+
+# source = Domostroj, 11
+# text = всѧчески порѹгают сѧ дарѹ бж҃їю
+# sent_id = 160431
+1	всѧчески	вьсячьскы	ADV	Df	_	2	advmod	_	ref=11
+2	порѹгают	поругати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=11
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=11
+4	дарѹ	даръ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	ref=11
+5	бж҃їю	божии	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	4	amod	_	ref=11
+
+# source = Domostroj, 11
+# text = а дїѧволи записѹютъ дѣла их приносѧтъ къ сотанѣ и вкѹпѣ радѹют сѧ погибели хрстїѧньскїѧ
+# sent_id = 160432
+1	а	а	CCONJ	C-	_	3	cc	_	ref=11
+2	дїѧволи	дияволъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	ref=11
+3	записѹютъ	записовати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=11
+4	дѣла	дѣло	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	3	obj:dir	_	ref=11
+5	их	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	det	_	ref=11
+6	приносѧтъ	приносити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=11
+7	къ	къ	ADP	R-	_	8	case	_	ref=11
+8	сотанѣ	сотона	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	ref=11
+9	и	и	CCONJ	C-	_	3	cc	_	ref=11
+10	вкѹпѣ	въкупѣ	ADV	Df	_	11	advmod	_	ref=11
+11	радѹют	радовати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=11
+12	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	11	aux	_	ref=11
+13	погибели	погыбель	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	11	iobj	_	ref=11
+14	хрстїѧньскїѧ	хрьстияньскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	13	amod	_	ref=11
+
+# source = Domostroj, 11
+# text = и та всѧ дѣла предстанѹт в дн҃ь страшнаго сѹда
+# sent_id = 160493
+1	и	и	CCONJ	C-	_	5	cc	_	ref=11
+2	та	тыи	DET	Pd	Case=Nom|Gender=Neut|Number=Plur	4	det	_	ref=11
+3	всѧ	вьсь	DET	Px	Case=Nom|Gender=Neut|Number=Plur	4	det	_	ref=11
+4	дѣла	дѣло	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	ref=11
+5	предстанѹт	прѣдъстати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=11
+6	в	въ	ADP	R-	_	7	case	_	ref=11
+7	дн҃ь	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	obl	_	ref=11
+8	страшнаго	страшьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	9	amod	_	ref=11
+9	сѹда	судъ#1	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	ref=11
+
+# source = Domostroj, 11
+# text = ѽ горе дѣщимъ таковаѧ
+# sent_id = 160433
+1	ѽ	о	INTJ	I-	_	0	root	_	ref=11
+2	горе	горе	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	1	vocative	_	ref=11
+3	дѣщимъ	дѣяти#1	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	2	acl	_	ref=11
+4	таковаѧ	таковыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	3	obj:dir	_	ref=11
+
+# source = Domostroj, 11
+# text = егда жидове сѣдоша ѧсти в пѹстыни и пити и ѡбьѧдша сѧ и опивше сѧ и восташа играти и блѹд творити и тогда пожре землѧ их двадесѧт тысѧщь и три тысѧщи
+# sent_id = 160494
+1	егда	егда	ADV	Dq	PronType=Rel	3	advmod	_	ref=11
+2	жидове	жидовинъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	ref=11
+3	сѣдоша	сѣсти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=11
+4	ѧсти	ясти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	advcl	_	ref=11
+5	в	въ	ADP	R-	_	6	case	_	ref=11
+6	пѹстыни	пустыни	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	3	obl	_	ref=11
+7	и	и	CCONJ	C-	_	4	cc	_	ref=11
+8	пити	пити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	conj	_	ref=11
+9	и	и	CCONJ	C-	_	10	cc	_	ref=11
+10	ѡбьѧдша	объясти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	16	advcl	_	ref=11
+11	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	10	aux	_	ref=11
+12	и	и	CCONJ	C-	_	10	cc	_	ref=11
+13	опивше	опити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	10	conj	_	ref=11
+14	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	13	aux	_	ref=11
+15	и	и	CCONJ	C-	_	3	cc	_	ref=11
+16	восташа	въстати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=11
+17	играти	играти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	16	advcl	_	ref=11
+18	и	и	CCONJ	C-	_	17	cc	_	ref=11
+19	блѹд	блудъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	20	obj:dir	_	ref=11
+20	творити	творити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	17	conj	_	ref=11
+21	и	и	CCONJ	C-	_	3	cc	_	ref=11
+22	тогда	тъгда	ADV	Df	_	23	advmod	_	ref=11
+23	пожре	пожрѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=11
+24	землѧ	земля	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	23	nsubj	_	ref=11
+25	их	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	23	obj:dir	_	ref=11
+26	двадесѧт	дъвадесяти	NUM	Ma	Case=Acc|Gender=Fem|Number=Sing	25	appos	_	ref=11
+27	тысѧщь	тысяща	NUM	Ma	Case=Gen|Gender=Fem|Number=Plur	26	nmod	_	ref=11
+28	и	и	CCONJ	C-	_	26	cc	_	ref=11
+29	три	трие	NUM	Ma	Case=Acc|Gender=Fem|Number=Plur	30	nummod	_	ref=11
+30	тысѧщи	тысяща	NUM	Ma	Case=Acc|Gender=Fem|Number=Plur	26	conj	_	ref=11
+
+# source = Domostroj, 11
+# text = ѽ оустрашите сѧ людїе
+# sent_id = 160437
+1	ѽ	о	INTJ	I-	_	2	vocative	_	ref=11
+2	оустрашите	устрашити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=11
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=11
+4	людїе	людие	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	vocative	_	ref=11
+
+# source = Domostroj, 11
+# text = творите волю бж҃їю якоже есть в законе писано
+# sent_id = 160496
+1	творите	творити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=11
+2	волю	воля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj:dir	_	ref=11
+3	бж҃їю	божии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	2	amod	_	ref=11
+4	якоже	якоже	ADV	Dq	PronType=Rel	5	advmod	_	ref=11
+5	есть	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	ref=11
+6	в	въ	ADP	R-	_	7	case	_	ref=11
+7	законе	законъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	8	obl	_	ref=11
+8	писано	пьсати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	5	xcomp	_	ref=11
+
+# source = Domostroj, 11
+# text = а ѿ сего злаго бесчинїѧ соблюди г҃и всѧкаго хрстїѧнїна
+# sent_id = 160495
+1	а	а	CCONJ	C-	_	6	cc	_	ref=11
+2	ѿ	отъ	ADP	R-	_	5	case	_	ref=11
+3	сего	сии	DET	Pd	Case=Gen|Gender=Neut|Number=Sing	5	det	_	ref=11
+4	злаго	зълыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	5	amod	_	ref=11
+5	бесчинїѧ	бесчиние	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	6	obl	_	ref=11
+6	соблюди	съблюсти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=11
+7	г҃и	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	6	vocative	_	ref=11
+8	всѧкаго	вьсякыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	9	amod	_	ref=11
+9	хрстїѧнїна	хрьстиянинъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	obj:dir	_	ref=11
+
+# source = Domostroj, 11
+# text = ести бы и питї в славѹ бж҃їю
+# sent_id = 160438
+1	ести	ѣсти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=11
+2	бы	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	aux	_	ref=11
+3	и	и	CCONJ	C-	_	1	cc	_	ref=11
+4	питї	пити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	conj	_	ref=11
+5	в	въ	ADP	R-	_	6	case	_	ref=11
+6	славѹ	слава	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obl	_	ref=11
+7	бж҃їю	божии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	6	amod	_	ref=11
+
+# source = Domostroj, 11
+# text = а не ѡбьѧдати сѧ ни оупивати сѧ ни пѹстошных творити
+# sent_id = 160497
+1	а	а	CCONJ	C-	_	3	cc	_	ref=11
+2	не	не	ADV	Df	_	3	advmod	_	ref=11
+3	ѡбьѧдати	объѣдати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=11
+4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=11
+5	ни	ни	CCONJ	C-	_	3	cc	_	ref=11
+6	оупивати	упивати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	conj	_	ref=11
+7	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	6	aux	_	ref=11
+8	ни	ни	CCONJ	C-	_	3	cc	_	ref=11
+9	пѹстошных	пустошьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	10	obj:dir	_	ref=11
+10	творити	творити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	conj	_	ref=11
+
+# source = Domostroj, 11
+# text = ι аще пред кого поставлѧеши ествѹ или питїе и всѧкое брашно или пред тобѧ поставѧтъ всѧкаго брашна не подобает похѹлити гл҃ати гнило ιли кисло или прѣсно или солоно или горко или затхло сѧ ιли сыро илї переварено или какѹю ни бѹди хѹлѹ возлогати
+# sent_id = 160498
+1	ι	и	CCONJ	C-	_	19	cc	_	ref=11
+2	аще	аще	SCONJ	G-	_	5	mark	_	ref=11
+3	пред	прѣдъ	ADP	R-	_	4	case	_	ref=11
+4	кого	къто	ADJ	Px	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	ref=11
+5	поставлѧеши	поставляти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	19	advcl	_	ref=11
+6	ествѹ	ѣства	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	ref=11
+7	или	или	CCONJ	C-	_	6	cc	_	ref=11
+8	питїе	питие	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	conj	_	ref=11
+9	и	и	CCONJ	C-	_	8	cc	_	ref=11
+10	всѧкое	вьсякыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	11	amod	_	ref=11
+11	брашно	брашьно	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	8	conj	_	ref=11
+12	или	или	CCONJ	C-	_	5	cc	_	ref=11
+13	пред	прѣдъ	ADP	R-	_	14	case	_	ref=11
+14	тобѧ	ты	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	15	obl	_	ref=11
+15	поставѧтъ	поставити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	ref=11
+16	всѧкаго	вьсякыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	17	amod	_	ref=11
+17	брашна	брашьно	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	15	obj:dir	_	ref=11
+18	не	не	ADV	Df	_	19	advmod	_	ref=11
+19	подобает	подобати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=11
+20	похѹлити	похулити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	19	xcomp	_	ref=11
+21	гл҃ати	глаголати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	20	advcl	_	ref=11
+22	гнило	гнилыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	19	parataxis	_	ref=11
+23	ιли	или	CCONJ	C-	_	22	cc	_	ref=11
+24	кисло	кыслыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	22	conj	_	ref=11
+25	или	или	CCONJ	C-	_	22	cc	_	ref=11
+26	прѣсно	прѣсьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	22	conj	_	ref=11
+27	или	или	CCONJ	C-	_	22	cc	_	ref=11
+28	солоно	солоныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	22	conj	_	ref=11
+29	или	или	CCONJ	C-	_	22	cc	_	ref=11
+30	горко	горькыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	22	conj	_	ref=11
+31	или	или	CCONJ	C-	_	22	cc	_	ref=11
+32	затхло	затъхнути	VERB	V-	Aspect=Res|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	22	conj	_	ref=11
+33	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	32	aux	_	ref=11
+34	ιли	или	CCONJ	C-	_	22	cc	_	ref=11
+35	сыро	сырыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	22	conj	_	ref=11
+36	илї	или	CCONJ	C-	_	35	cc	_	ref=11
+37	переварено	переварити	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	35	conj	_	ref=11
+38	или	или	CCONJ	C-	_	20	cc	_	ref=11
+39	какѹю	какыи	ADJ	Px	Case=Acc|Gender=Fem|Number=Sing	41	nsubj	_	ref=11
+40	ни	ни	ADV	Df	_	41	advmod	_	ref=11
+41	бѹди	быти	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	42	acl	_	ref=11
+42	хѹлѹ	хула	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	43	obj:dir	_	ref=11
+43	возлогати	възлогати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	20	conj	_	ref=11
+
+# source = Domostroj, 11
+# text = но подобаетъ даръ бж҃їи всѧкое брашно похвалѧти и со бл҃годаренїемъ вкѹшати
+# sent_id = 160441
+1	но	нъ	CCONJ	C-	_	2	cc	_	ref=11
+2	подобаетъ	подобати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=11
+3	даръ	даръ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	7	obj:dir	_	ref=11
+4	бж҃їи	божии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	ref=11
+5	всѧкое	вьсякыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	6	amod	_	ref=11
+6	брашно	брашьно	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	3	appos	_	ref=11
+7	похвалѧти	похваляти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=11
+8	и	и	CCONJ	C-	_	7	cc	_	ref=11
+9	со	съ	ADP	R-	_	10	case	_	ref=11
+10	бл҃годаренїемъ	благодарение	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	11	obl	_	ref=11
+11	вкѹшати	въкушати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	conj	_	ref=11
+
+# source = Domostroj, 11
+# text = ино бг҃ъ ѡбонѧет вонею бл҃гооуханїѧ
+# sent_id = 160499
+1	ино	ино	ADV	Df	_	3	advmod	_	ref=11
+2	бг҃ъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=11
+3	ѡбонѧет	обоняти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=11
+4	вонею	воня	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	3	obl	_	ref=11
+5	бл҃гооуханїѧ	благоухание	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	ref=11
+
+# source = Domostroj, 11
+# text = и в сладость претворити
+# sent_id = 160444
+1	и	и	CCONJ	C-	_	4	cc	_	ref=11
+2	в	въ	ADP	R-	_	3	case	_	ref=11
+3	сладость	сладость	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	ref=11
+4	претворити	прѣтворити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=11
+
+# source = Domostroj, 11
+# text = ι аще котораѧ ества или питие непотребно ино ѡ томъ наказывати домочадцовъ кто то дѣлалъ штобы впередъ таково не было
+# sent_id = 160500
+1	ι	и	CCONJ	C-	_	11	cc	_	ref=11
+2	аще	аще	SCONJ	G-	_	7	mark	_	ref=11
+3	котораѧ	которыи	DET	Px	Case=Nom|Gender=Fem|Number=Sing	4	det	_	ref=11
+4	ества	ѣства	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	ref=11
+5	или	или	CCONJ	C-	_	4	cc	_	ref=11
+6	питие	питие	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	ref=11
+7	непотребно	непотрѣбьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	8	advcl	_	ref=11
+8	ино	ино	ADV	Df	_	11	advmod	_	ref=11
+9	ѡ	о	ADP	R-	_	10	case	_	ref=11
+10	томъ	тътъ	ADJ	Pd	Case=Loc|Gender=Neut|Number=Sing	11	obl	_	ref=11
+11	наказывати	наказывати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=11
+12	домочадцовъ	домочадьць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	11	obj:dir	_	ref=11
+13	кто	къто	PRON	Pr	Case=Nom|Number=Sing|PronType=Rel	15	nsubj	_	ref=11
+14	то	тыи	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	15	obj:dir	_	ref=11
+15	дѣлалъ	дѣлати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	12	acl	_	ref=11
+16	штобы	чьтобы	SCONJ	G-	_	20	mark	_	ref=11
+17	впередъ	впередь	ADV	Df	_	20	advmod	_	ref=11
+18	таково	таковыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	20	nsubj	_	ref=11
+19	не	не	ADV	Df	_	20	advmod	_	ref=11
+20	было	быти	VERB	V-	Aspect=Res|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	11	advcl	_	ref=11
+
+# source = Domostroj, 12
+# text = в҃ι
+# sent_id = 160022
+1	в҃ι	дъванадесять	NUM	Ma	_	0	root	_	ref=12
+
+# source = Domostroj, 12
+# text = Како мѹжѹ з женою и з домочатцы в домѹ своемъ молит сї
+# sent_id = 160501
+1	Како	како	ADV	Du	PronType=Int	11	advmod	_	ref=12
+2	мѹжѹ	мужь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	11	nsubj	_	ref=12
+3	з	съ	ADP	R-	_	4	case	_	ref=12
+4	женою	жена	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	11	obl	_	ref=12
+5	и	и	CCONJ	C-	_	4	cc	_	ref=12
+6	з	съ	ADP	R-	_	7	case	_	ref=12
+7	домочатцы	домочадьць	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	4	conj	_	ref=12
+8	в	въ	ADP	R-	_	9	case	_	ref=12
+9	домѹ	домъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	11	obl	_	ref=12
+10	своемъ	свои	ADJ	Pt	Case=Loc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	9	nmod	_	ref=12
+11	молит	молити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=12
+12	сї	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	11	aux	_	ref=12
+
+# source = Domostroj, 12
+# text = По всѧ дн҃и в вечере мѹжь ж женою и з дѣтьми и з домочадцы кто оумѣетъ грамоте ѿпѣти вечернѧ павечернїца полѹнощница с молчанїемъ и со вниманїемъ и с кротъкостоѧнїемъ и с мл҃твою и с поклоны пѣти внѧтно и единогласно
+# sent_id = 160502
+1	По	по	ADP	R-	_	3	case	_	ref=12
+2	всѧ	вьсь	DET	Px	Case=Acc|Gender=Masc|Number=Plur	3	det	_	ref=12
+3	дн҃и	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	18	obl	_	ref=12
+4	в	въ	ADP	R-	_	5	case	_	ref=12
+5	вечере	вечеръ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	18	obl	_	ref=12
+6	мѹжь	мужь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	ref=12
+7	ж	съ	ADP	R-	_	8	case	_	ref=12
+8	женою	жена	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	6	nmod	_	ref=12
+9	и	и	CCONJ	C-	_	8	cc	_	ref=12
+10	з	съ	ADP	R-	_	11	case	_	ref=12
+11	дѣтьми	дѣтя	NOUN	Nb	Case=Ins|Gender=Neut|Number=Plur	8	conj	_	ref=12
+12	и	и	CCONJ	C-	_	8	cc	_	ref=12
+13	з	съ	ADP	R-	_	14	case	_	ref=12
+14	домочадцы	домочадьць	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	8	conj	_	ref=12
+15	кто	къто	ADJ	Px	Case=Nom|Number=Sing	16	nsubj	_	ref=12
+16	оумѣетъ	умѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl	_	ref=12
+17	грамоте	грамота	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	16	iobj	_	ref=12
+18	ѿпѣти	отъпѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=12
+19	вечернѧ	вечерьня	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	18	obj:dir	_	ref=12
+20	павечернїца	павечерьница	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	19	conj	_	ref=12
+21	полѹнощница	полунощьница	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	19	conj	_	ref=12
+22	с	съ	ADP	R-	_	23	case	_	ref=12
+23	молчанїемъ	мълчание	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	18	obl	_	ref=12
+24	и	и	CCONJ	C-	_	23	cc	_	ref=12
+25	со	съ	ADP	R-	_	26	case	_	ref=12
+26	вниманїемъ	вънимание	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	23	conj	_	ref=12
+27	и	и	CCONJ	C-	_	23	cc	_	ref=12
+28	с	съ	ADP	R-	_	29	case	_	ref=12
+29	кротъкостоѧнїемъ	кротъкостояние	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	23	conj	_	ref=12
+30	и	и	CCONJ	C-	_	23	cc	_	ref=12
+31	с	съ	ADP	R-	_	32	case	_	ref=12
+32	мл҃твою	молитва	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	23	conj	_	ref=12
+33	и	и	CCONJ	C-	_	23	cc	_	ref=12
+34	с	съ	ADP	R-	_	35	case	_	ref=12
+35	поклоны	поклонъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	23	conj	_	ref=12
+36	пѣти	пѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	18	advcl	_	ref=12
+37	внѧтно	вънятьно	ADV	Df	_	36	advmod	_	ref=12
+38	и	и	CCONJ	C-	_	37	cc	_	ref=12
+39	единогласно	единогласьно	ADV	Df	_	37	conj	_	ref=12
+
+# source = Domostroj, 12
+# text = после правила ѿнюдъ ни пити ни ести
+# sent_id = 160503
+1	после	послѣ	ADP	R-	_	2	case	_	ref=12
+2	правила	правило	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	5	obl	_	ref=12
+3	ѿнюдъ	отънудь	ADV	Df	_	5	advmod	_	ref=12
+4	ни	ни	CCONJ	C-	_	5	cc	_	ref=12
+5	пити	пити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=12
+6	ни	ни	CCONJ	C-	_	5	cc	_	ref=12
+7	ести	ѣсти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	conj	_	ref=12
+
+# source = Domostroj, 12
+# text = всегда всѧмѹ томѹ наукъ
+# sent_id = 160024
+1	всегда	вьсегда	ADV	Df	_	0	root	_	ref=12
+2	всѧмѹ	вьсь	DET	Px	Case=Dat|Gender=Neut|Number=Sing	3	det	_	ref=12
+3	томѹ	тыи	ADJ	Pd	Case=Dat|Gender=Neut|Number=Sing	1	iobj	_	ref=12
+4	наукъ	наукъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=12
+
+# source = Domostroj, 12
+# text = а ложа сѧ спати всѧкомѹ хрстїѧнїнѹ по три поклона въ землю положити
+# sent_id = 160025
+1	а	а	CCONJ	C-	_	12	cc	_	ref=12
+2	ложа	ложити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	12	advcl	_	ref=12
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=12
+4	спати	съпати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	advcl	_	ref=12
+5	всѧкомѹ	вьсякыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	6	amod	_	ref=12
+6	хрстїѧнїнѹ	хрьстиянинъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	12	nsubj	_	ref=12
+7	по	по	ADV	Df	_	9	advmod	_	ref=12
+8	три	трие	NUM	Ma	Case=Acc|Gender=Masc|Number=Plur	9	nummod	_	ref=12
+9	поклона	поклонъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Dual	12	obj:dir	_	ref=12
+10	въ	въ	ADP	R-	_	11	case	_	ref=12
+11	землю	земля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	nmod	_	ref=12
+12	положити	положити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=12
+
+# source = Domostroj, 12
+# text = а в полѹнощи всегда таино вставъ со слезами прилежно к бг҃ѹ молити сѧ елико вмѣстимо ѡ своемъ согрѣшенїи
+# sent_id = 160027
+1	а	а	CCONJ	C-	_	12	cc	_	ref=12
+2	в	въ	ADP	R-	_	3	case	_	ref=12
+3	полѹнощи	полънощь	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	6	obl	_	ref=12
+4	всегда	вьсегда	ADV	Df	_	12	advmod	_	ref=12
+5	таино	таино	ADV	Df	_	12	advmod	_	ref=12
+6	вставъ	въстати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	12	advcl	_	ref=12
+7	со	съ	ADP	R-	_	8	case	_	ref=12
+8	слезами	сльза	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	12	obl	_	ref=12
+9	прилежно	прилежьно	ADV	Df	Degree=Pos	12	advmod	_	ref=12
+10	к	къ	ADP	R-	_	11	case	_	ref=12
+11	бг҃ѹ	богъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	12	obl	_	ref=12
+12	молити	молити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	ref=12
+13	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	12	aux	_	ref=12
+14	елико	елико	ADV	Dq	PronType=Rel	15	advmod	_	ref=12
+15	вмѣстимо	въмѣстимо	ADV	Df	_	12	advmod	_	ref=12
+16	ѡ	о	ADP	R-	_	18	case	_	ref=12
+17	своемъ	свои	ADJ	Pt	Case=Loc|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	18	nmod	_	ref=12
+18	согрѣшенїи	съгрѣшение	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	12	obl	_	ref=12
+
+# source = Domostroj, 12
+# text = а оутретре воставаѧ такоже
+# sent_id = 160504
+1	а	а	CCONJ	C-	_	0	root	_	ref=12
+2	оутретре	утрие	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	ref=12
+3	воставаѧ	въставати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	ref=12
+4	такоже	такоже	ADV	Df	_	1	advmod	_	ref=12
+
+# source = Domostroj, 12
+# text = и комѹждо по силе и по желанїю
+# sent_id = 160505
+1	и	и	CCONJ	C-	_	0	root	_	ref=12
+2	комѹждо	къжьдо	ADJ	Px	Case=Dat|Gender=Masc|Number=Sing	1	nsubj	_	ref=12
+3	по	по	ADP	R-	_	4	case	_	ref=12
+4	силе	сила	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	1	obl	_	ref=12
+5	и	и	CCONJ	C-	_	4	cc	_	ref=12
+6	по	по	ADP	R-	_	7	case	_	ref=12
+7	желанїю	желание	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	4	conj	_	ref=12
+
+# source = Domostroj, 12
+# text = а непразнымъ а не празнымъ женамъ кланѧти сѧ до поѧса
+# sent_id = 160509
+1	а	а	CCONJ	C-	_	2	cc	_	ref=12
+2	непразнымъ	непраздьныи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	4	appos	_	ref=12
+3	а	а	CCONJ	C-	_	7	cc	_	ref=12
+4	не	непраздьныи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	6	amod	_	ref=12
+5	празнымъ	празнымъ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	4	flat	_	ref=12
+6	женамъ	жена	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	7	iobj	_	ref=12
+7	кланѧти	кланяти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=12
+8	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	7	aux	_	ref=12
+9	до	до	ADP	R-	_	10	case	_	ref=12
+10	поѧса	поясъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	obl	_	ref=12
+
+# source = Domostroj, 12
+# text = всѧкомѹ хрстїѧнїнѹ моли ти сѧ ѡ своемъ согрѣшенїи и пѹщенїѧ грѣхомъ ι ѡ цр҃ьскомъ ι о цр҃цине и ѡ чадех ихъ здравїи и ѡ братїи его и ѡ болѧрехъ его ι ѡ хрстолюбивом воиньствѣ ѡ помощи на враги и ѡ плѣненых свободѣ и ѡ ст҃льскомъ и сщ҃енническом чинѹ и ѡ болящихъ и в темницахъ заключенныхъ и за всѧ хрстїѧне
+# sent_id = 160510
+1	всѧкомѹ	вьсякыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	2	amod	_	ref=12
+2	хрстїѧнїнѹ	хрьстиянинъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	3	nsubj	_	ref=12
+3	моли	молити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=12
+4	ти	ти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	flat	_	ref=12
+5	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=12
+6	ѡ	о	ADP	R-	_	8	case	_	ref=12
+7	своемъ	свои	ADJ	Pt	Case=Loc|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	8	nmod	_	ref=12
+8	согрѣшенїи	съгрѣшение	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	3	obl	_	ref=12
+9	и	и	CCONJ	C-	_	8	cc	_	ref=12
+10	пѹщенїѧ	пущение	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	8	conj	_	ref=12
+11	грѣхомъ	грѣхъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	10	nmod	_	ref=12
+12	ι	и	CCONJ	C-	_	8	cc	_	ref=12
+13	ѡ	о	ADP	R-	_	22	case	_	ref=12
+14	цр҃ьскомъ	цѣсарьскыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	22	amod	_	ref=12
+15	ι	и	CCONJ	C-	_	8	cc	_	ref=12
+16	о	о	ADP	R-	_	13	appos	_	ref=12
+17	цр҃цине	цѣсарицинъ	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	22	amod	_	ref=12
+18	и	и	CCONJ	C-	_	8	cc	_	ref=12
+19	ѡ	о	ADP	R-	_	13	appos	_	ref=12
+20	чадех	чадо	NOUN	Nb	Case=Loc|Gender=Neut|Number=Plur	22	nmod	_	ref=12
+21	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	20	det	_	ref=12
+22	здравїи	съдравие	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	8	conj	_	ref=12
+23	и	и	CCONJ	C-	_	8	cc	_	ref=12
+24	ѡ	о	ADP	R-	_	25	case	_	ref=12
+25	братїи	братия	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	8	conj	_	ref=12
+26	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	det	_	ref=12
+27	и	и	CCONJ	C-	_	8	cc	_	ref=12
+28	ѡ	о	ADP	R-	_	29	case	_	ref=12
+29	болѧрехъ	боляринъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Plur	8	conj	_	ref=12
+30	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	det	_	ref=12
+31	ι	и	CCONJ	C-	_	8	cc	_	ref=12
+32	ѡ	о	ADP	R-	_	34	case	_	ref=12
+33	хрстолюбивом	христолюбивыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	34	amod	_	ref=12
+34	воиньствѣ	воиньство	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	8	conj	_	ref=12
+35	ѡ	о	ADP	R-	_	36	case	_	ref=12
+36	помощи	помощь	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	8	conj	_	ref=12
+37	на	на	ADP	R-	_	38	case	_	ref=12
+38	враги	врагъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	36	nmod	_	ref=12
+39	и	и	CCONJ	C-	_	8	cc	_	ref=12
+40	ѡ	о	ADP	R-	_	42	case	_	ref=12
+41	плѣненых	плѣнити	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	42	acl	_	ref=12
+42	свободѣ	свобода	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	8	conj	_	ref=12
+43	и	и	CCONJ	C-	_	8	cc	_	ref=12
+44	ѡ	о	ADP	R-	_	48	case	_	ref=12
+45	ст҃льскомъ	святительскыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	48	amod	_	ref=12
+46	и	и	CCONJ	C-	_	45	cc	_	ref=12
+47	сщ҃енническом	священичьскыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	45	conj	_	ref=12
+48	чинѹ	чинъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	8	conj	_	ref=12
+49	и	и	CCONJ	C-	_	8	cc	_	ref=12
+50	ѡ	о	ADP	R-	_	51	case	_	ref=12
+51	болящихъ	болѣти	VERB	V-	Case=Loc|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	8	conj	_	ref=12
+52	и	и	CCONJ	C-	_	8	cc	_	ref=12
+53	в	въ	ADP	R-	_	54	case	_	ref=12
+54	темницахъ	тьмьница	NOUN	Nb	Case=Loc|Gender=Fem|Number=Plur	55	obl	_	ref=12
+55	заключенныхъ	заключити	VERB	V-	Case=Loc|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	8	conj	_	ref=12
+56	и	и	CCONJ	C-	_	8	cc	_	ref=12
+57	за	за	ADP	R-	_	59	case	_	ref=12
+58	всѧ	вьсь	DET	Px	Case=Acc|Gender=Masc|Number=Plur	59	det	_	ref=12
+59	хрстїѧне	хрьстиянинъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	8	conj	_	ref=12
+
+# source = Domostroj, 12
+# text = женѣ молити сѧ ѡ своемъ согрѣшенїи и ѡ мѹжи и ѡ чадехъ ї ѡ домочадцех и ѡ сроднїкехъ ι ѡ ѿц҃ѣхъ дх҃овных
+# sent_id = 160511
+1	женѣ	жена	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	2	nsubj	_	ref=12
+2	молити	молити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=12
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=12
+4	ѡ	о	ADP	R-	_	6	case	_	ref=12
+5	своемъ	свои	ADJ	Pt	Case=Loc|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	6	nmod	_	ref=12
+6	согрѣшенїи	съгрѣшение	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	2	obl	_	ref=12
+7	и	и	CCONJ	C-	_	6	cc	_	ref=12
+8	ѡ	о	ADP	R-	_	9	case	_	ref=12
+9	мѹжи	мужь	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	6	conj	_	ref=12
+10	и	и	CCONJ	C-	_	6	cc	_	ref=12
+11	ѡ	о	ADP	R-	_	12	case	_	ref=12
+12	чадехъ	чадо	NOUN	Nb	Case=Loc|Gender=Neut|Number=Plur	6	conj	_	ref=12
+13	ї	и	CCONJ	C-	_	6	cc	_	ref=12
+14	ѡ	о	ADP	R-	_	15	case	_	ref=12
+15	домочадцех	домочадьць	NOUN	Nb	Case=Loc|Gender=Masc|Number=Plur	6	conj	_	ref=12
+16	и	и	CCONJ	C-	_	6	cc	_	ref=12
+17	ѡ	о	ADP	R-	_	18	case	_	ref=12
+18	сроднїкехъ	съродьникъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Plur	6	conj	_	ref=12
+19	ι	и	CCONJ	C-	_	6	cc	_	ref=12
+20	ѡ	о	ADP	R-	_	21	case	_	ref=12
+21	ѿц҃ѣхъ	отьць	NOUN	Nb	Case=Loc|Gender=Masc|Number=Plur	6	conj	_	ref=12
+22	дх҃овных	духовьныи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	21	amod	_	ref=12
+
+# source = Domostroj, 12
+# text = а мѹжѹ такоже
+# sent_id = 160512
+1	а	а	CCONJ	C-	_	0	root	_	ref=12
+2	мѹжѹ	мужь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	nsubj	_	ref=12
+3	такоже	такоже	ADV	Df	_	1	advmod	_	ref=12
+
+# source = Domostroj, 12
+# text = а оутре вставъ бг҃ѹ молити с и ѿпѣти заоутренѧ и часы
+# sent_id = 160035
+1	а	а	CCONJ	C-	_	5	cc	_	ref=12
+2	оутре	утро	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	3	obl	_	ref=12
+3	вставъ	въстати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	5	advcl	_	ref=12
+4	бг҃ѹ	богъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	5	iobj	_	ref=12
+5	молити	молити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=12
+6	с	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	5	aux	_	ref=12
+7	и	и	CCONJ	C-	_	5	cc	_	ref=12
+8	ѿпѣти	отъпѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	conj	_	ref=12
+9	заоутренѧ	заутрьня	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	obj:dir	_	ref=12
+10	и	и	CCONJ	C-	_	9	cc	_	ref=12
+11	часы	часъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	9	conj	_	ref=12
+
+# source = Domostroj, 12
+# text = а в нлдю и в празникъ молебен с м҃лтвою и молчанїемъ и с кротъкостоѧнїемъ и единогласно пѣти и со вниманїемъ слѹшати и ст҃ымъ каженїе
+# sent_id = 160514
+1	а	а	CCONJ	C-	_	17	cc	_	ref=12
+2	в	въ	ADP	R-	_	3	case	_	ref=12
+3	нлдю	недѣля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	17	obl	_	ref=12
+4	и	и	CCONJ	C-	_	3	cc	_	ref=12
+5	в	въ	ADP	R-	_	6	case	_	ref=12
+6	празникъ	праздьникъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	conj	_	ref=12
+7	молебен	мольбьнъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	17	obj:dir	_	ref=12
+8	с	съ	ADP	R-	_	9	case	_	ref=12
+9	м҃лтвою	молитва	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	17	obl	_	ref=12
+10	и	и	CCONJ	C-	_	9	cc	_	ref=12
+11	молчанїемъ	мълчание	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	9	conj	_	ref=12
+12	и	и	CCONJ	C-	_	9	cc	_	ref=12
+13	с	съ	ADP	R-	_	14	case	_	ref=12
+14	кротъкостоѧнїемъ	кротъкостояние	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	9	conj	_	ref=12
+15	и	и	CCONJ	C-	_	9	cc	_	ref=12
+16	единогласно	единогласьно	ADV	Df	_	9	conj	_	ref=12
+17	пѣти	пѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=12
+18	и	и	CCONJ	C-	_	17	cc	_	ref=12
+19	со	съ	ADP	R-	_	20	case	_	ref=12
+20	вниманїемъ	вънимание	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	21	obl	_	ref=12
+21	слѹшати	слушати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	17	conj	_	ref=12
+22	и	и	CCONJ	C-	_	17	cc	_	ref=12
+23	ст҃ымъ	святыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	24	nmod	_	ref=12
+24	каженїе	кажение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	17	conj	_	ref=12
+
+# source = Domostroj, 12
+# text = а гдѣ некомѹ пѣти ино молити сѧ доволно вечере и оутре
+# sent_id = 160513
+1	а	а	CCONJ	C-	_	6	cc	_	ref=12
+2	гдѣ	къдѣ	ADV	Dq	PronType=Rel	4	advmod	_	ref=12
+3	некомѹ	нѣкъто	ADJ	Px	Case=Dat|Gender=Masc|Number=Sing	4	nsubj	_	ref=12
+4	пѣти	пѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	advcl	_	ref=12
+5	ино	ино	ADV	Df	_	6	advmod	_	ref=12
+6	молити	молити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=12
+7	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	6	aux	_	ref=12
+8	доволно	довольныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	6	advmod	_	ref=12
+9	вечере	вечеръ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	ref=12
+10	и	и	CCONJ	C-	_	9	cc	_	ref=12
+11	оутре	утро	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	9	conj	_	ref=12
+
+# source = Domostroj, 12
+# text = а мѹжемъ ѿнюд не погрѣшити по всѧ дн҃и цр҃ковнаго пѣнїѧ вечерни заоутрени ѡбѣдни
+# sent_id = 160038
+1	а	а	CCONJ	C-	_	5	cc	_	ref=12
+2	мѹжемъ	мужь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	5	nsubj	_	ref=12
+3	ѿнюд	отънудь	ADV	Df	_	5	advmod	_	ref=12
+4	не	не	ADV	Df	_	5	advmod	_	ref=12
+5	погрѣшити	погрѣшити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=12
+6	по	по	ADP	R-	_	8	case	_	ref=12
+7	всѧ	вьсь	DET	Px	Case=Acc|Gender=Masc|Number=Plur	8	det	_	ref=12
+8	дн҃и	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	5	obl	_	ref=12
+9	цр҃ковнаго	цьркъвьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	10	amod	_	ref=12
+10	пѣнїѧ	пѣние	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	5	obj:dir	_	ref=12
+11	вечерни	вечерьня	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	10	appos	_	ref=12
+12	заоутрени	заутрьня	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	11	conj	_	ref=12
+13	ѡбѣдни	обѣдьня	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	11	conj	_	ref=12
+
+# source = Domostroj, 13
+# text = Како в цр҃кви мѹжѹ и жене молити сѧ чистота хранити и всѧкого зла не творити
+# sent_id = 160050
+1	Како	како	ADV	Du	PronType=Int	7	advmod	_	ref=13
+2	в	въ	ADP	R-	_	3	case	_	ref=13
+3	цр҃кви	цьркы	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	7	obl	_	ref=13
+4	мѹжѹ	мужь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	7	nsubj	_	ref=13
+5	и	и	CCONJ	C-	_	4	cc	_	ref=13
+6	жене	жена	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	4	conj	_	ref=13
+7	молити	молити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=13
+8	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	7	aux	_	ref=13
+9	чистота	чистота	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	10	obj:dir	_	ref=13
+10	хранити	хранити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	conj	_	ref=13
+11	и	и	CCONJ	C-	_	7	cc	_	ref=13
+12	всѧкого	вьсякыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	13	amod	_	ref=13
+13	зла	зъло	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	15	obj:dir	_	ref=13
+14	не	не	ADV	Df	_	15	advmod	_	ref=13
+15	творити	творити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	conj	_	ref=13
+
+# source = Domostroj, 13
+# text = г҃ι
+# sent_id = 163740
+1	г҃ι	тринадесять	NUM	Ma	_	0	root	_	ref=13
+
+# source = Domostroj, 13
+# text = А в цр҃кви стоѧти на всѧкомъ пѣнїи со страхомъ и с молчанїемъ молити сѧ
+# sent_id = 163360
+1	А	а	CCONJ	C-	_	4	cc	_	ref=13
+2	в	въ	ADP	R-	_	3	case	_	ref=13
+3	цр҃кви	цьркы	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	4	obl	_	ref=13
+4	стоѧти	стояти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=13
+5	на	на	ADP	R-	_	7	case	_	ref=13
+6	всѧкомъ	вьсякыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	7	amod	_	ref=13
+7	пѣнїи	пѣние	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	4	obl	_	ref=13
+8	со	съ	ADP	R-	_	9	case	_	ref=13
+9	страхомъ	страхъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	4	obl	_	ref=13
+10	и	и	CCONJ	C-	_	4	cc	_	ref=13
+11	с	съ	ADP	R-	_	12	case	_	ref=13
+12	молчанїемъ	мълчание	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	13	obl	_	ref=13
+13	молити	молити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	conj	_	ref=13
+14	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	13	aux	_	ref=13
+
+# source = Domostroj, 13
+# text = а дома всегда павечерница и полѹнощница и часы пѣти
+# sent_id = 163358
+1	а	а	CCONJ	C-	_	9	cc	_	ref=13
+2	дома	дома	ADV	Df	_	9	advmod	_	ref=13
+3	всегда	вьсегда	ADV	Df	_	9	advmod	_	ref=13
+4	павечерница	павечерьница	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	9	obj:dir	_	ref=13
+5	и	и	CCONJ	C-	_	4	cc	_	ref=13
+6	полѹнощница	полунощьница	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	conj	_	ref=13
+7	и	и	CCONJ	C-	_	4	cc	_	ref=13
+8	часы	часъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	4	conj	_	ref=13
+9	пѣти	пѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=13
+
+# source = Domostroj, 13
+# text = а кто прибавит правила своего ради сп҃сенїѧ ино то на его воли ино боле мзда ѿ бг҃а
+# sent_id = 163361
+1	а	а	CCONJ	C-	_	12	cc	_	ref=13
+2	кто	къто	ADJ	Px	Case=Nom|Number=Sing	3	nsubj	_	ref=13
+3	прибавит	прибавити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	ref=13
+4	правила	правило	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	3	obj:dir	_	ref=13
+5	своего	свои	ADJ	Pt	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	7	nmod	_	ref=13
+6	ради	ради	ADP	R-	_	7	case	_	ref=13
+7	сп҃сенїѧ	съпасение	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	3	obl	_	ref=13
+8	ино	ино	ADV	Df	_	12	advmod	_	ref=13
+9	то	тыи	ADJ	Pd	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	ref=13
+10	на	на	ADP	R-	_	12	case	_	ref=13
+11	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	det	_	ref=13
+12	воли	воля	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	0	root	_	ref=13
+13	ино	ино	ADV	Df	_	14	advmod	_	ref=13
+14	боле	болии	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing|Strength=Strong	12	conj	_	ref=13
+15	мзда	мьзда	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	ref=13
+16	ѿ	отъ	ADP	R-	_	17	case	_	ref=13
+17	бг҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	ref=13

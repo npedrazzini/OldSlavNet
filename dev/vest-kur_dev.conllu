@@ -1,0 +1,147 @@
+# source = Vesti-Kuranty, From Holland, May 1656
+# text = Из Галанские земли вѣсти маѧ въ ЅІ де
+# sent_id = 207225
+1	Из	из	ADP	R-	_	3	case	_	ref=
+2	Галанские	галаньскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	3	amod	_	ref=
+3	земли	земля	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	ref=
+4	вѣсти	вѣсть	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	0	root	_	ref=
+5	маѧ	маи	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	ref=
+6	въ	въ	ADP	R-	_	8	case	_	ref=
+7	ЅІ	шестьнадесять	NUM	Ma	_	8	nummod	_	ref=
+8	де	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	nmod	_	ref=
+
+# source = Vesti-Kuranty, From Holland, May 1656
+# text = Из Варшавы пишутъ апрѣлѧ въ К З де что полские люди без престани побиваютъ свѣискихъ людеи
+# sent_id = 207226
+1	Из	из	ADP	R-	_	2	case	_	ref=
+2	Варшавы	варшава	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	3	obl	_	ref=
+3	пишутъ	пьсати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	апрѣлѧ	априль	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	ref=
+5	въ	въ	ADP	R-	_	8	case	_	ref=
+6	К	дъвадесяти	NUM	Ma	_	8	nummod	_	ref=
+7	З	седмь	NUM	Ma	_	6	conj	_	ref=
+8	де	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	ref=
+9	что	чьто	SCONJ	G-	_	14	mark	_	ref=
+10	полские	польскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	11	amod	_	ref=
+11	люди	людие	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	14	nsubj	_	ref=
+12	без	без	ADP	R-	_	13	case	_	ref=
+13	престани	прѣстань	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	14	obl	_	ref=
+14	побиваютъ	побивати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	ref=
+15	свѣискихъ	свѣискыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	16	amod	_	ref=
+16	людеи	людие	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	14	obj:dir	_	ref=
+
+# source = Vesti-Kuranty, From Holland, May 1656
+# text = а которые остаточные свѣиские люди марграѳа ѳан Бадена и тѣ люди помираютъ
+# sent_id = 207287
+1	а	а	CCONJ	C-	_	6	cc	_	ref=
+2	которые	которыи	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	5	det	_	ref=
+3	остаточные	остатъчьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	5	amod	_	ref=
+4	свѣиские	свѣискыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	5	amod	_	ref=
+5	люди	людие	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	ref=
+6	марграѳа	марграфъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	0	root	_	ref=
+7	ѳан	фан	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	appos	_	ref=
+8	Бадена	баденъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	7	flat	_	ref=
+9	и	и	CCONJ	C-	_	6	cc	_	ref=
+10	тѣ	тыи	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	11	det	_	ref=
+11	люди	людие	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	ref=
+12	помираютъ	помирати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	ref=
+
+# source = Vesti-Kuranty, From Holland, May 1656
+# text = а из Варшавы никого мещан не выпꙋщают и имъ не вѣрять для того что король свѣискои в ѕборе а с нимъ ратныхъ людеи съ ҂М члвкъ
+# sent_id = 207288
+1	а	а	CCONJ	C-	_	7	cc	_	ref=
+2	из	из	ADP	R-	_	3	case	_	ref=
+3	Варшавы	варшава	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	7	obl	_	ref=
+4	никого	никъто	ADJ	Px	Case=Gen|Gender=Masc|Number=Sing	7	obj:dir	_	ref=
+5	мещан	мѣщанинъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	ref=
+6	не	не	ADV	Df	_	7	advmod	_	ref=
+7	выпꙋщают	выпущати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	и	и	CCONJ	C-	_	7	cc	_	ref=
+9	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	iobj	_	ref=
+10	не	не	ADV	Df	_	11	advmod	_	ref=
+11	вѣрять	вѣрити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	ref=
+12	для	для	ADP	R-	_	13	case	_	ref=
+13	того	тыи	ADJ	Pd	Case=Gen|Gender=Neut|Number=Sing	11	obl	_	ref=
+14	что	чьто	SCONJ	G-	_	18	mark	_	ref=
+15	король	король	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	ref=
+16	свѣискои	свѣискыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	15	amod	_	ref=
+17	в	въ	ADP	R-	_	18	case	_	ref=
+18	ѕборе	съборъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	13	appos	_	ref=
+19	а	а	CCONJ	C-	_	18	cc	_	ref=
+20	с	съ	ADP	R-	_	21	case	_	ref=
+21	нимъ	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	conj	_	ref=
+22	ратныхъ	ратьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	23	amod	_	ref=
+23	людеи	людие	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	26	appos	_	ref=
+24	съ	съ	ADP	R-	_	25	case	_	ref=
+25	҂М	четыредесяте	NUM	Ma	_	21	nsubj	_	ref=
+26	члвкъ	человѣкъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	25	nmod	_	ref=
+
+# source = Vesti-Kuranty, From Colbergh, April 29,  1656
+# text = Ис Колберга апреля К Ѳ г числа
+# sent_id = 207227
+1	Ис	из	ADP	R-	_	2	case	_	ref=
+2	Колберга	колбергъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	0	root	_	ref=
+3	апреля	априль	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	ref=
+4	К	дъвадесяти	NUM	Ma	_	7	nummod	_	ref=
+5	Ѳ	девятыи	ADJ	Mo	Case=Gen|Gender=Neut|Number=Sing	4	conj	_	ref=
+6	г	г	ADJ	Mo	Case=Gen|Gender=Neut|Number=Sing	5	flat	_	ref=
+7	числа	число	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	2	obl	_	ref=
+
+# source = Vesti-Kuranty, From Colbergh, April 29,  1656
+# text = Прибегають с полского рꙋбежа всякие полские люди которые с свѣискимъ королем вмѣсте были
+# sent_id = 207273
+1	Прибегають	прибѣгати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	с	съ	ADP	R-	_	4	case	_	ref=
+3	полского	польскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=
+4	рꙋбежа	рубежь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	ref=
+5	всякие	вьсякыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	7	amod	_	ref=
+6	полские	польскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	7	amod	_	ref=
+7	люди	людие	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	ref=
+8	которые	которыи	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	13	nsubj	_	ref=
+9	с	съ	ADP	R-	_	11	case	_	ref=
+10	свѣискимъ	свѣискыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	11	amod	_	ref=
+11	королем	король	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	13	xcomp	_	ref=
+12	вмѣсте	въмѣстѣ	ADV	Df	_	9	advmod	_	ref=
+13	были	быти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	7	acl	_	ref=
+
+# source = Vesti-Kuranty, From Colbergh, April 29,  1656
+# text = а в Померскꙋю ѕемлю пришли кенеѯъмарковых ратных людеи салдатского строю Ѿ члвкъ
+# sent_id = 207275
+1	а	а	CCONJ	C-	_	5	cc	_	ref=
+2	в	въ	ADP	R-	_	4	case	_	ref=
+3	Померскꙋю	померьскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	4	amod	_	ref=
+4	ѕемлю	земля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	ref=
+5	пришли	приити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+6	кенеѯъмарковых	кенексъмарковыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	8	amod	_	ref=
+7	ратных	ратьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	8	amod	_	ref=
+8	людеи	людие	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	12	appos	_	ref=
+9	салдатского	солдатьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	10	amod	_	ref=
+10	строю	строи	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	ref=
+11	Ѿ	осмьсътъ	ADP	R-	_	5	nsubj	_	ref=
+12	члвкъ	человѣкъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	ref=
+
+# source = Vesti-Kuranty, From Colbergh, April 29,  1656
+# text = а велено имъ итти на Накол
+# sent_id = 207274
+1	а	а	CCONJ	C-	_	2	cc	_	ref=
+2	велено	велѣти	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=
+3	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	iobj	_	ref=
+4	итти	ити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	csubj:pass	_	ref=
+5	на	на	ADP	R-	_	6	case	_	ref=
+6	Накол	наколъ	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	ref=
+
+# source = Vesti-Kuranty, From Colbergh, April 29,  1656
+# text = и полскои генерал Чернетцкиі дорогꙋ перенял и тѣхъ свѣискихъ людеи всѣхъ побилъ
+# sent_id = 207228
+1	и	и	CCONJ	C-	_	6	cc	_	ref=
+2	полскои	польскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	3	amod	_	ref=
+3	генерал	генералъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=
+4	Чернетцкиі	чернетцкыи	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	ref=
+5	дорогꙋ	дорога	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obj:dir	_	ref=
+6	перенял	переняти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+7	и	и	CCONJ	C-	_	6	cc	_	ref=
+8	тѣхъ	тыи	DET	Pd	Case=Gen|Gender=Masc|Number=Plur	10	det	_	ref=
+9	свѣискихъ	свѣискыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	10	amod	_	ref=
+10	людеи	людие	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	12	obj:dir	_	ref=
+11	всѣхъ	вьсь	DET	Px	Case=Gen|Gender=Masc|Number=Plur	10	det	_	ref=
+12	побилъ	побити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	6	conj	_	ref=

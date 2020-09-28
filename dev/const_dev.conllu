@@ -1,0 +1,1211 @@
+# source = The tale of the fall of Constantinople, The omen
+# text = и б҃лгодариша єж кʼ б҃гꙋ желанїе
+# sent_id = 193379
+1	и	и	CCONJ	C-	_	2	cc	_	ref=286r4
+2	б҃лгодариша	благодарити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=286r4
+3	єж	иже	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	5	nsubj	_	ref=286r4
+4	кʼ	къ	ADP	R-	_	5	case	_	ref=286r5
+5	б҃гꙋ	богъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	nmod	_	ref=286r5
+6	желанїе	желание	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obj:dir	_	ref=286r5
+
+# source = The tale of the fall of Constantinople, The omen
+# text = ц҃рь же понꙋжаше стратигъ и градскых наказателеи храмы с҃тхъ и домы мирʼскїа създати на исплъненїе града
+# sent_id = 193380
+1	ц҃рь	цѣсарь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=286r5
+2	же	же	ADV	Df	_	3	advmod	_	ref=286r5
+3	понꙋжаше	понужати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=286r5
+4	стратигъ	стратигъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	3	obj:dir	_	ref=286r5
+5	и	и	CCONJ	C-	_	4	cc	_	ref=286r6
+6	градскых	градьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	7	amod	_	ref=286r6
+7	наказателеи	наказатель	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	4	conj	_	ref=286r6
+8	храмы	храмъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	13	obj:dir	_	ref=286r6
+9	с҃тхъ	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	8	amod	_	ref=286r6
+10	и	и	CCONJ	C-	_	8	cc	_	ref=286r7
+11	домы	домъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	8	conj	_	ref=286r7
+12	мирʼскїа	мирьскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	11	amod	_	ref=286r7
+13	създати	съзьдати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=286r7
+14	на	на	ADP	R-	_	15	case	_	ref=286r7
+15	исплъненїе	испълнение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	13	obl	_	ref=286r7
+16	града	градъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	ref=286r8
+
+# source = The tale of the fall of Constantinople, The omen
+# text = велʼможамъ и мегистаномъ и всѣмъ нарочитым людемъ заповеда
+# sent_id = 193382
+1	велʼможамъ	вельможа	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	8	iobj	_	ref=286r8
+2	и	и	CCONJ	C-	_	1	cc	_	ref=286r8
+3	мегистаномъ	мегистанъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	1	conj	_	ref=286r8
+4	и	и	CCONJ	C-	_	1	cc	_	ref=286r9
+5	всѣмъ	вьсь	DET	Px	Case=Dat|Gender=Masc|Number=Plur	7	det	_	ref=286r9
+6	нарочитым	нарочитыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	7	amod	_	ref=286r9
+7	людемъ	людие	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	1	conj	_	ref=286r9
+8	заповеда	заповѣдати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=286r9
+
+# source = The tale of the fall of Constantinople, The omen
+# text = аще кто сподобит сѧ коей степени црскаго чина да сʼтворить собѣ паметь достоинꙋ домꙋ въздвигнет или ѻбитль славнꙋ или ино създанїе дивно ꙗко да населит сѧ градʼ преславными дѣлесы
+# sent_id = 193383
+1	аще	аще	SCONJ	G-	_	3	mark	_	ref=286r10
+2	кто	къто	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=286r10
+3	сподобит	съподобити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	ref=286r10
+4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=286r10
+5	коей	кыи	DET	Px	Case=Gen|Gender=Fem|Number=Sing	6	det	_	ref=286r10
+6	степени	степень	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	iobj	_	ref=286r10
+7	црскаго	цѣсарьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	8	amod	_	ref=286r10
+8	чина	чинъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	ref=286r11
+9	да	да#1	ADV	Df	_	10	advmod	_	ref=286r11
+10	сʼтворить	сътворити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=286r11
+11	собѣ	себе	PRON	Pk	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	10	obl	_	ref=286r11
+12	паметь	память	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	obj:dir	_	ref=286r11
+13	достоинꙋ	достоиныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	12	amod	_	ref=286r11
+14	домꙋ	домъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	15	obj:dir	_	ref=286r12
+15	въздвигнет	въздвигнути	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	ref=286r12
+16	или	или	CCONJ	C-	_	14	cc	_	ref=286r12
+17	ѻбитль	обитель	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	14	conj	_	ref=286r12
+18	славнꙋ	славьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	17	amod	_	ref=286r12
+19	или	или	CCONJ	C-	_	14	cc	_	ref=286r13
+20	ино	иныи	DET	Px	Case=Acc|Gender=Neut|Number=Sing	21	det	_	ref=286r13
+21	създанїе	съзьдание	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	14	conj	_	ref=286r13
+22	дивно	дивьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	21	amod	_	ref=286r13
+23	ꙗко	яко	SCONJ	G-	_	25	mark	_	ref=286r13
+24	да	да#1	ADV	Df	_	25	advmod	_	ref=286r13
+25	населит	населити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	ref=286r13
+26	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	25	aux	_	ref=286r13
+27	градʼ	градъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	25	nsubj	_	ref=286r14
+28	преславными	прѣславьныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	29	amod	_	ref=286r14
+29	дѣлесы	дѣло	NOUN	Nb	Case=Ins|Gender=Neut|Number=Plur	25	obl	_	ref=286r14
+
+# source = The tale of the fall of Constantinople, The omen
+# text = також по немъ црствꙋющїи ц҃ри
+# sent_id = 193388
+1	також	такоже	ADV	Df	_	0	root	_	ref=286r14
+2	по	по	ADP	R-	_	3	case	_	ref=286r15
+3	немъ	и	PRON	Pp	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	ref=286r15
+4	црствꙋющїи	цѣсарьствовати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	5	acl	_	ref=286r15
+5	ц҃ри	цѣсарь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	ref=286r15
+
+# source = The tale of the fall of Constantinople, The omen
+# text = ц҃рь кїиждѡ въ свое времѧ подвизаша с вещь преславнꙋ сътворити
+# sent_id = 193389
+1	ц҃рь	цѣсарь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=286r15
+2	кїиждѡ	кыижьдо	DET	Px	Case=Nom|Gender=Masc|Number=Sing	1	det	_	ref=286r15
+3	въ	въ	ADP	R-	_	5	case	_	ref=286r16
+4	свое	свои	ADJ	Pt	Case=Acc|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	5	nmod	_	ref=286r16
+5	времѧ	врѣмя	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	ref=286r16
+6	подвизаша	подвизати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=286r16
+7	с	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	6	aux	_	ref=286r16
+8	вещь	вещь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	obj:dir	_	ref=286r16
+9	преславнꙋ	прѣславьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	8	amod	_	ref=286r16
+10	сътворити	сътворити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	6	xcomp	_	ref=286r17
+
+# source = The tale of the fall of Constantinople, The omen
+# text = ѡвїи оубо на взысканє и собранїе стрсте гсних и пречстые его б҃гом҃тре ризы и поꙗсѧ и с҃тхъ мощеи и бжственых инѡк но и того самого б҃гомоужнаго нероукотворенаго ѡбраза иже ѿ едеса
+# sent_id = 193391
+1	ѡвїи	овъ	ADJ	Px	Case=Nom|Gender=Masc|Number=Plur	0	root	_	ref=286r17
+2	оубо	убо	ADV	Df	_	1	advmod	_	ref=286r17
+3	на	на	ADP	R-	_	4	case	_	ref=286r17
+4	взысканє	възискание	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	ref=286r17
+5	и	и	CCONJ	C-	_	4	cc	_	ref=286r18
+6	собранїе	събьрание	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	conj	_	ref=286r18
+7	стрсте	страсть	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	ref=286r18
+8	гсних	господьнь	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	7	amod	_	ref=286r18
+9	и	и	CCONJ	C-	_	7	cc	_	ref=286r18
+10	пречстые	прѣчистыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	12	amod	_	ref=286r18
+11	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	det	_	ref=286r18
+12	б҃гом҃тре	богомати	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	ref=286r19
+13	ризы	риза	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	conj	_	ref=286r19
+14	и	и	CCONJ	C-	_	13	cc	_	ref=286r19
+15	поꙗсѧ	поясъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	13	conj	_	ref=286r19
+16	и	и	CCONJ	C-	_	7	cc	_	ref=286r19
+17	с҃тхъ	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	18	amod	_	ref=286r19
+18	мощеи	мощи	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	7	conj	_	ref=286r19
+19	и	и	CCONJ	C-	_	18	cc	_	ref=286r20
+20	бжственых	божьствьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	21	amod	_	ref=286r20
+21	инѡк	инокъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	18	conj	_	ref=286r20
+22	но	нъ	CCONJ	C-	_	7	cc	_	ref=286r20
+23	и	и	ADV	Df	_	28	advmod	_	ref=286r20
+24	того	тыи	DET	Pd	Case=Gen|Gender=Masc|Number=Sing	28	det	_	ref=286r20
+25	самого	самъ	DET	Pd	Case=Gen|Gender=Masc|Number=Sing	28	det	_	ref=286r21
+26	б҃гомоужнаго	богомужьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	28	amod	_	ref=286r21
+27	нероукотворенаго	нерукотвореныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	28	amod	_	ref=286r21
+28	ѡбраза	образъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	conj	_	ref=286r22
+29	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	31	nsubj	_	ref=286r22
+30	ѿ	отъ	ADP	R-	_	31	case	_	ref=286r22
+31	едеса	едесъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	ref=286r22
+
+# source = The tale of the fall of Constantinople, The omen
+# text = ѡвїи же на прибавленїе града и домовъ великых
+# sent_id = 193396
+1	ѡвїи	овъ	ADJ	Px	Case=Nom|Gender=Masc|Number=Plur	0	root	_	ref=286r22
+2	же	же	ADV	Df	_	1	advmod	_	ref=286r22
+3	на	на	ADP	R-	_	4	case	_	ref=286v1
+4	прибавленїе	прибавление	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	ref=286v1
+5	града	градъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	ref=286v1
+6	и	и	CCONJ	C-	_	5	cc	_	ref=286v1
+7	домовъ	домъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	5	conj	_	ref=286v1
+8	великых	великыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	7	amod	_	ref=286v1
+
+# source = The tale of the fall of Constantinople, The omen
+# text = инїи же пакы на въздвиженїе с҃тых ѻбителе и храмовъ б҃жїих ꙗкоже великїи оустїꙗнъ ц҃рь и феѡдосїи великїи и ц҃рца евдоѯїа жена раклїа ц҃рѧ и иные мнози
+# sent_id = 193398
+1	инїи	иныи	ADJ	Px	Case=Nom|Gender=Masc|Number=Plur	0	root	_	ref=286v2
+2	же	же	ADV	Df	_	1	advmod	_	ref=286v2
+3	пакы	пакы	ADV	Df	_	1	advmod	_	ref=286v2
+4	на	на	ADP	R-	_	5	case	_	ref=286v2
+5	въздвиженїе	въздвижение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	ref=286v2
+6	с҃тых	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	7	amod	_	ref=286v2
+7	ѻбителе	обитель	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	ref=286v3
+8	и	и	CCONJ	C-	_	7	cc	_	ref=286v3
+9	храмовъ	храмъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	7	conj	_	ref=286v3
+10	б҃жїих	божии	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	9	amod	_	ref=286v3
+11	ꙗкоже	якоже	ADV	Df	_	1	advcl	_	ref=286v3
+12	великїи	великыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	13	amod	_	ref=286v3
+13	оустїꙗнъ	устиниянъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	ref=286v4
+14	ц҃рь	цѣсарь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	13	appos	_	ref=286v4
+15	и	и	CCONJ	C-	_	13	cc	_	ref=286v4
+16	феѡдосїи	феодосии	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	13	conj	_	ref=286v4
+17	великїи	великыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	16	amod	_	ref=286v4
+18	и	и	CCONJ	C-	_	13	cc	_	ref=286v5
+19	ц҃рца	цѣсарица	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	13	conj	_	ref=286v5
+20	евдоѯїа	евдокия	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	19	appos	_	ref=286v5
+21	жена	жена	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	19	appos	_	ref=286v5
+22	раклїа	раклии	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	ref=286v5
+23	ц҃рѧ	цѣсарь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	22	appos	_	ref=286v5
+24	и	и	CCONJ	C-	_	13	cc	_	ref=286v5
+25	иные	иныи	DET	Px	Case=Nom|Gender=Masc|Number=Plur	26	det	_	ref=286v5
+26	мнози	мъногыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	13	conj	_	ref=286v6
+
+# source = The tale of the fall of Constantinople, The omen
+# text = и тако наплъниша град преславными и дивными вещʼми имъж иногда б҃лженʼныи андрѣи критскїи оудивив сѧ реч
+# sent_id = 193401
+1	и	и	CCONJ	C-	_	3	cc	_	ref=286v6
+2	тако	тако	ADV	Df	_	3	advmod	_	ref=286v6
+3	наплъниша	напълнити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=286v6
+4	град	градъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obj:dir	_	ref=286v6
+5	преславными	прѣславьныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	8	amod	_	ref=286v6
+6	и	и	CCONJ	C-	_	5	cc	_	ref=286v7
+7	дивными	дивьныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	5	conj	_	ref=286v7
+8	вещʼми	вещь	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	3	iobj	_	ref=286v7
+9	имъж	иже	PRON	Pr	Case=Ins|Gender=Fem|Number=Plur|PronType=Rel	14	obl	_	ref=286v7
+10	иногда	иногда	ADV	Df	_	16	advmod	_	ref=286v8
+11	б҃лженʼныи	блаженыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	12	amod	_	ref=286v8
+12	андрѣи	андрѣи	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	ref=286v8
+13	критскїи	критъскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	12	amod	_	ref=286v8
+14	оудивив	удивити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	16	advcl	_	ref=286v9
+15	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	14	aux	_	ref=286v9
+16	реч	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	acl	_	ref=286v9
+
+# source = The tale of the fall of Constantinople, The omen
+# text = въ истинꙋ градʼ съ выше слова и разꙋма єс
+# sent_id = 193403
+1	въ	въ	ADP	R-	_	2	case	_	ref=286v9
+2	истинꙋ	истина	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	ref=286v9
+3	градʼ	градъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	ref=286v9
+4	съ	сь	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	3	det	_	ref=286v9
+5	выше	выше	ADV	Df	Degree=Cmp	9	xcomp	_	ref=286v9
+6	слова	слово	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	5	iobj	_	ref=286v10
+7	и	и	CCONJ	C-	_	6	cc	_	ref=286v10
+8	разꙋма	разумъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	conj	_	ref=286v10
+9	єс	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=286v10
+
+# source = The tale of the fall of Constantinople, The omen
+# text = к сим же и пренепорочнаѧ влдчца м҃ти х҃а б҃а н҃шго во ина времена бѧше град црствꙋющїи съхранѧющи и покрывающи и ѿ бѣдъ сп҃сающи и ѿ неисцѣлных напастеи преминѧющи
+# sent_id = 193404
+1	к	къ	ADP	R-	_	2	case	_	ref=286v10
+2	сим	сии	ADJ	Pd	Case=Dat|Gender=Neut|Number=Plur	14	obl	_	ref=286v10
+3	же	же	ADV	Df	_	14	advmod	_	ref=286v10
+4	и	и	ADV	Df	_	6	advmod	_	ref=286v10
+5	пренепорочнаѧ	прѣнепорочьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	6	amod	_	ref=286v10
+6	влдчца	владычица	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	ref=286v11
+7	м҃ти	мати	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	appos	_	ref=286v11
+8	х҃а	христ(ос)ъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	ref=286v11
+9	б҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	appos	_	ref=286v11
+10	н҃шго	нашь	ADJ	Ps	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes	9	nmod	_	ref=286v11
+11	во	въ	ADP	R-	_	13	case	_	ref=286v12
+12	ина	иныи	DET	Px	Case=Acc|Gender=Neut|Number=Plur	13	det	_	ref=286v12
+13	времена	врѣмя	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	14	obl	_	ref=286v12
+14	бѧше	быти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=286v12
+15	град	градъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	17	obj:dir	_	ref=286v12
+16	црствꙋющїи	цѣсарьствовати	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	15	acl	_	ref=286v12
+17	съхранѧющи	съхраняти	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	14	advcl	_	ref=286v13
+18	и	и	CCONJ	C-	_	17	cc	_	ref=286v13
+19	покрывающи	покрывати	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	17	conj	_	ref=286v13
+20	и	и	CCONJ	C-	_	17	cc	_	ref=286v13
+21	ѿ	отъ	ADP	R-	_	22	case	_	ref=286v13
+22	бѣдъ	бѣда	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	23	obl	_	ref=286v14
+23	сп҃сающи	съпасати	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	17	conj	_	ref=286v14
+24	и	и	CCONJ	C-	_	17	cc	_	ref=286v14
+25	ѿ	отъ	ADP	R-	_	27	case	_	ref=286v14
+26	неисцѣлных	неисцѣльныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	27	amod	_	ref=286v14
+27	напастеи	напасть	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	28	obl	_	ref=286v14
+28	преминѧющи	прѣмѣняти	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	17	conj	_	ref=286v15
+
+# source = The tale of the fall of Constantinople, The omen
+# text = такыми ꙋбо великыми и неизреченʼными бл҃годѣанʼми и дарованʼми прчстые б҃ца сподоби сѧ градʼ съ ꙗко всемꙋ мирꙋ мню недостоинꙋ быти томꙋ
+# sent_id = 193407
+1	такыми	такыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	3	amod	_	ref=286v15
+2	ꙋбо	убо	ADV	Df	_	11	advmod	_	ref=286v15
+3	великыми	великыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	6	amod	_	ref=286v16
+4	и	и	CCONJ	C-	_	3	cc	_	ref=286v16
+5	неизреченʼными	неизреченьныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	3	conj	_	ref=286v16
+6	бл҃годѣанʼми	благодѣяние	NOUN	Nb	Case=Ins|Gender=Neut|Number=Plur	11	iobj	_	ref=286v16
+7	и	и	CCONJ	C-	_	6	cc	_	ref=286v17
+8	дарованʼми	дарование	NOUN	Nb	Case=Ins|Gender=Neut|Number=Plur	6	conj	_	ref=286v17
+9	прчстые	прѣчистыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	10	amod	_	ref=286v17
+10	б҃ца	богородица	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	ref=286v17
+11	сподоби	съподобити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=286v18
+12	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	11	aux	_	ref=286v18
+13	градʼ	градъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	ref=286v18
+14	съ	сь	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	13	det	_	ref=286v18
+15	ꙗко	яко	SCONJ	G-	_	20	mark	_	ref=286v18
+16	всемꙋ	вьсь	DET	Px	Case=Dat|Gender=Masc|Number=Sing	17	det	_	ref=286v18
+17	мирꙋ	миръ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	20	nsubj	_	ref=286v18
+18	мню	мьнѣти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	parataxis	_	ref=286v18
+19	недостоинꙋ	недостоиныи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	20	xcomp	_	ref=286v19
+20	быти	быти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	advcl	_	ref=286v19
+21	томꙋ	тыи	ADJ	Pd	Case=Dat|Gender=Neut|Number=Sing	19	iobj	_	ref=286v19
+
+# source = The tale of the fall of Constantinople, The omen
+# text = нъ оубо єсствꙋ тѧжʼкорѡдʼ и нерадиво ꙗко неистовыи юже на нас млсть бжїю и щедротъ его ѿвращаем сѧ имиж б҃а и пречистꙋю его м҃трь разʼгнѣваемъ и сл҃вы своеѧ и чти ѿпадаем ꙗкоже писано
+# sent_id = 193409
+1	нъ	нъ	CCONJ	C-	_	0	root	_	ref=286v19
+2	оубо	убо	ADV	Df	_	1	advmod	_	ref=286v19
+3	єсствꙋ	естьство	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	4	nsubj	_	ref=286v19
+4	тѧжʼкорѡдʼ	тяжькородьныи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	1	advcl	_	ref=286v20
+5	и	и	CCONJ	C-	_	4	cc	_	ref=286v20
+6	нерадиво	неродивыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	4	conj	_	ref=286v20
+7	ꙗко	яко	ADV	Df	_	1	advcl	_	ref=286v20
+8	неистовыи	неистовыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	7	nsubj	_	ref=286v21
+9	юже	иже	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	11	nsubj	_	ref=286v21
+10	на	на	ADP	R-	_	11	case	_	ref=286v21
+11	нас	мы	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	12	appos	_	ref=286v21
+12	млсть	милость	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj:dir	_	ref=286v21
+13	бжїю	божии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	12	amod	_	ref=286v21
+14	и	и	CCONJ	C-	_	1	cc	_	ref=286v22
+15	щедротъ	щедрота	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	17	iobj	_	ref=286v22
+16	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	det	_	ref=286v22
+17	ѿвращаем	отъвращати	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=286v22
+18	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	17	aux	_	ref=286v22
+19	имиж	иже	PRON	Pr	Case=Ins|Gender=Neut|Number=Plur|PronType=Rel	25	obl	_	ref=286v22
+20	б҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	25	obj:dir	_	ref=286v22
+21	и	и	CCONJ	C-	_	20	cc	_	ref=287r1
+22	пречистꙋю	прѣчистыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	24	amod	_	ref=287r1
+23	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	det	_	ref=287r1
+24	м҃трь	мати	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	20	conj	_	ref=287r1
+25	разʼгнѣваемъ	разгнѣвати	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	17	advcl	_	ref=287r1
+26	и	и	CCONJ	C-	_	25	cc	_	ref=287r2
+27	сл҃вы	слава	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	31	iobj	_	ref=287r2
+28	своеѧ	свои	ADJ	Pt	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	27	nmod	_	ref=287r2
+29	и	и	CCONJ	C-	_	27	cc	_	ref=287r2
+30	чти	чьсть	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	27	conj	_	ref=287r2
+31	ѿпадаем	отъпадати	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	25	conj	_	ref=287r2
+32	ꙗкоже	якоже	ADV	Dq	PronType=Rel	33	advmod	_	ref=287r2
+33	писано	пьсати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	31	advcl	_	ref=287r2
+
+# source = The tale of the fall of Constantinople, The omen
+# text = злодѣанїа и безаконїа превратитъ прстлъ силных
+# sent_id = 194652
+1	злодѣанїа	зълодѣяние	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	ref=287r3
+2	и	и	CCONJ	C-	_	1	cc	_	ref=287r3
+3	безаконїа	безаконие	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	1	conj	_	ref=287r3
+4	превратитъ	прѣвратити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=287r3
+5	прстлъ	прѣстолъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj:dir	_	ref=287r4
+6	силных	сильныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	5	amod	_	ref=287r4
+
+# source = The tale of the fall of Constantinople, The omen
+# text = и пакы
+# sent_id = 194653
+1	и	и	CCONJ	C-	_	0	root	_	ref=287r4
+2	пакы	пакы	ADV	Df	_	1	advmod	_	ref=287r4
+
+# source = The tale of the fall of Constantinople, The omen
+# text = расточи гръдыѧ мысли срдць их и низложи силныѧ со прстлъ
+# sent_id = 194654
+1	расточи	расточити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=287r4
+2	гръдыѧ	гърдыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	3	amod	_	ref=287r5
+3	мысли	мысль	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	1	obj:dir	_	ref=287r5
+4	срдць	сьрдьце	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	3	nmod	_	ref=287r5
+5	их	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	det	_	ref=287r5
+6	и	и	CCONJ	C-	_	1	cc	_	ref=287r5
+7	низложи	низъложити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=287r5
+8	силныѧ	сильныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	7	obj:dir	_	ref=287r6
+9	со	съ	ADP	R-	_	10	case	_	ref=287r6
+10	прстлъ	прѣстолъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	7	obl	_	ref=287r6
+
+# source = The tale of the fall of Constantinople, The omen
+# text = такоже и сїи црствꙋющїи градʼ неисчетенʼными деꙗнʼми и безаконми ѿ толикых щедротъ и б҃лгодѣꙗнїи прчстые б҃гом҃тре ѿпаши сѧ тʼмочислеными бедами и различными напастʼми многа лѣта пострада
+# sent_id = 194517
+1	такоже	такоже	ADV	Df	_	26	advmod	_	ref=287r6
+2	и	и	ADV	Df	_	5	advmod	_	ref=287r6
+3	сїи	сии	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	5	det	_	ref=287r6
+4	црствꙋющїи	цѣсарьствовати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	5	acl	_	ref=287r7
+5	градʼ	градъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	26	nsubj	_	ref=287r7
+6	неисчетенʼными	неисчьтьныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	7	amod	_	ref=287r7
+7	деꙗнʼми	дѣяние	NOUN	Nb	Case=Ins|Gender=Neut|Number=Plur	17	obl	_	ref=287r8
+8	и	и	CCONJ	C-	_	7	cc	_	ref=287r8
+9	безаконми	безаконие	NOUN	Nb	Case=Ins|Gender=Neut|Number=Plur	7	conj	_	ref=287r8
+10	ѿ	отъ	ADP	R-	_	12	case	_	ref=287r8
+11	толикых	толикыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	12	amod	_	ref=287r8
+12	щедротъ	щедрота	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	17	obl	_	ref=287r9
+13	и	и	CCONJ	C-	_	12	cc	_	ref=287r9
+14	б҃лгодѣꙗнїи	благодѣяние	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	12	conj	_	ref=287r9
+15	прчстые	прѣчистыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	16	amod	_	ref=287r9
+16	б҃гом҃тре	богомати	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	ref=287r10
+17	ѿпаши	отъпасти	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	26	advcl	_	ref=287r10
+18	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	17	aux	_	ref=287r10
+19	тʼмочислеными	тьмочисльныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	20	amod	_	ref=287r10
+20	бедами	бѣда	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	26	iobj	_	ref=287r11
+21	и	и	CCONJ	C-	_	20	cc	_	ref=287r11
+22	различными	различьныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	23	amod	_	ref=287r11
+23	напастʼми	напасть	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	20	conj	_	ref=287r11
+24	многа	мъногыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Strong	25	amod	_	ref=287r12
+25	лѣта	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	26	obl	_	ref=287r12
+26	пострада	пострадати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=287r12
+
+# source = The tale of the fall of Constantinople, The omen
+# text = також н҃нѣ в послѣднѧа времена грѣх ради н҃шхъ ѡвогда нахоженїемъ невѣрных ѡвогда гладомъ и повѣтрїемъ частым ѻвогда же междоу бранми ими же ѡскꙋдѣша силнїи и ѡбнищаша людие и преоуничижи сѧ градʼ и смири сѧ до ѕила
+# sent_id = 193422
+1	також	такоже	ADV	Df	_	0	root	_	ref=287r12
+2	н҃нѣ	нынѣ	ADV	Df	_	1	advmod	_	ref=287r13
+3	в	въ	ADP	R-	_	5	case	_	ref=287r13
+4	послѣднѧа	послѣдьнии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	5	amod	_	ref=287r13
+5	времена	врѣмя	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	1	obl	_	ref=287r13
+6	грѣх	грѣхъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	1	obl	_	ref=287r13
+7	ради	ради	ADP	R-	_	6	case	_	ref=287r13
+8	н҃шхъ	нашь	ADJ	Ps	Case=Gen|Gender=Masc|Number=Plur|Person=1|Poss=Yes	6	nmod	_	ref=287r14
+9	ѡвогда	овъгда	ADV	Df	_	10	orphan	_	ref=287r14
+10	нахоженїемъ	нахожение	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	1	appos	_	ref=287r14
+11	невѣрных	невѣрьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	10	amod	_	ref=287r14
+12	ѡвогда	овъгда	ADV	Df	_	13	orphan	_	ref=287r15
+13	гладомъ	гладъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	10	orphan	_	ref=287r15
+14	и	и	CCONJ	C-	_	13	cc	_	ref=287r15
+15	повѣтрїемъ	повѣтрие	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	13	conj	_	ref=287r15
+16	частым	частыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	15	amod	_	ref=287r15
+17	ѻвогда	овъгда	ADV	Df	_	20	orphan	_	ref=287r16
+18	же	же	ADV	Df	_	20	advmod	_	ref=287r16
+19	междоу	междоусобьныи	ADJ	A-	_	20	amod	_	ref=287r16
+20	бранми	брань	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	10	orphan	_	ref=287r17
+21	ими	иже	PRON	Pr	Case=Ins|Gender=Neut|Number=Plur|PronType=Rel	23	obl	_	ref=287r17
+22	же	же	PRON	Pr	Case=Ins|Gender=Neut|Number=Plur|PronType=Rel	21	flat	_	ref=287r17
+23	ѡскꙋдѣша	оскудѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	acl	_	ref=287r17
+24	силнїи	сильныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	23	nsubj	_	ref=287r17
+25	и	и	CCONJ	C-	_	23	cc	_	ref=287r18
+26	ѡбнищаша	обънищати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	23	conj	_	ref=287r18
+27	людие	людие	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	26	nsubj	_	ref=287r18
+28	и	и	CCONJ	C-	_	23	cc	_	ref=287r18
+29	преоуничижи	прѣуничижити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	23	conj	_	ref=287r18
+30	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	29	aux	_	ref=287r18
+31	градʼ	градъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	29	nsubj	_	ref=287r19
+32	и	и	CCONJ	C-	_	23	cc	_	ref=287r19
+33	смири	съмирити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	23	conj	_	ref=287r19
+34	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	33	aux	_	ref=287r19
+35	до	до	ADP	R-	_	33	advmod	_	ref=287r19
+36	ѕила	зѣло	ADV	Df	Degree=Pos	35	advmod	_	ref=287r19
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = сказане ѡ взѧти ц҃рѧграда безбожными тоуркы салтаном тоурьскымъ царемъ
+# sent_id = 193430
+1	сказане	съказание	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	0	root	_	ref=287r20
+2	ѡ	о	ADP	R-	_	3	case	_	ref=287r20
+3	взѧти	възятие	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	1	nmod	_	ref=287r20
+4	ц҃рѧграда	цѣсарьградъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	ref=287r20
+5	безбожными	безбожьныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	6	amod	_	ref=287r20
+6	тоуркы	турчинъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	3	obl:agent	_	ref=287r21
+7	салтаном	салтанъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	6	appos	_	ref=287r21
+8	тоурьскымъ	турьскыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	9	amod	_	ref=287r22
+9	царемъ	царь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	7	appos	_	ref=287r22
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = В лѣто ҂ѕ҃ ц҃ ѯ҃ а҃ Властвꙋющꙋ тꙋркы безбожномꙋ магметꙋ амꙋратовꙋ с҃нꙋ и бывыи тогда в мѷрꙋ и в докончанїи быс с православным ц҃рмъ костѧнтиномъ ивановичем црствꙋющимъ въ ц҃рѣградѣ
+# sent_id = 193433
+1	В	въ	ADP	R-	_	2	case	_	ref=287v1
+2	лѣто	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	0	root	_	ref=287v1
+3	҂ѕ҃	шесть.тысячь	NUM	Ma	_	2	nummod	_	ref=287v1
+4	ц҃	девятьсътъ	NUM	Ma	_	3	conj	_	ref=287v1
+5	ѯ҃	шестьдесятъ	NUM	Ma	_	3	conj	_	ref=287v1
+6	а҃	единъ	NUM	Ma	_	3	conj	_	ref=287v1
+7	Властвꙋющꙋ	владьствовати	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	ref=287v1
+8	тꙋркы	турчинъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	7	iobj	_	ref=287v1
+9	безбожномꙋ	безбожьныи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	10	amod	_	ref=287v2
+10	магметꙋ	магометъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	7	nsubj	_	ref=287v2
+11	амꙋратовꙋ	амуратовъ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	12	amod	_	ref=287v2
+12	с҃нꙋ	сынъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	10	appos	_	ref=287v3
+13	и	и	CCONJ	C-	_	2	cc	_	ref=287v3
+14	бывыи	быти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	2	conj	_	ref=287v3
+15	тогда	тъгда	ADV	Df	_	14	advmod	_	ref=287v3
+16	в	въ	ADP	R-	_	17	case	_	ref=287v3
+17	мѷрꙋ	миръ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	14	xcomp	_	ref=287v3
+18	и	и	CCONJ	C-	_	2	cc	_	ref=287v4
+19	в	въ	ADP	R-	_	20	case	_	ref=287v4
+20	докончанїи	доконьчание	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	21	xcomp	_	ref=287v4
+21	быс	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=287v4
+22	с	съ	ADP	R-	_	24	case	_	ref=287v4
+23	православным	православьныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	24	amod	_	ref=287v4
+24	ц҃рмъ	цѣсарь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	20	obl	_	ref=287v5
+25	костѧнтиномъ	костянтинъ	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	24	appos	_	ref=287v5
+26	ивановичем	ивановичь	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	25	flat:name	_	ref=287v5
+27	црствꙋющимъ	цѣсарьствовати	VERB	V-	Case=Ins|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	25	acl	_	ref=287v6
+28	въ	въ	ADP	R-	_	29	case	_	ref=287v6
+29	ц҃рѣградѣ	цѣсарьградъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	27	obl	_	ref=287v6
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = и абїе безбожныи магметъ брань въздвиже противꙋ костѧнтина града
+# sent_id = 193439
+1	и	и	CCONJ	C-	_	6	cc	_	ref=287v6
+2	абїе	абие	ADV	Df	_	6	advmod	_	ref=287v6
+3	безбожныи	безбожьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=287v7
+4	магметъ	магометъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=287v7
+5	брань	брань	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obj:dir	_	ref=287v7
+6	въздвиже	въздвигнути	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=287v7
+7	противꙋ	противу	ADP	R-	_	8	case	_	ref=287v8
+8	костѧнтина	костянтинъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	obl	_	ref=287v8
+9	града	градъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	appos	_	ref=287v9
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = не по чинꙋ но съпротивꙋ сътвореныхъ сложенʼныхъ клѧтвъ воинʼство приведе много по земли и по морю
+# sent_id = 194483
+1	не	не	ADV	Df	_	2	advmod	_	ref=287v9
+2	по	по	ADP	R-	_	3	case	_	ref=287v9
+3	чинꙋ	чинъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	10	obl	_	ref=287v9
+4	но	нъ	CCONJ	C-	_	3	cc	_	ref=287v9
+5	съпротивꙋ	супротивъ	ADP	R-	_	8	case	_	ref=287v9
+6	сътвореныхъ	сътворити	VERB	V-	Case=Gen|Gender=Fem|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	8	acl	_	ref=287v10
+7	сложенʼныхъ	съложити	VERB	V-	Case=Gen|Gender=Fem|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	8	acl	_	ref=287v10
+8	клѧтвъ	клятва	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	3	conj	_	ref=287v10
+9	воинʼство	воиньство	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	10	obj:dir	_	ref=287v11
+10	приведе	привести	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=287v11
+11	много	мъногыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	9	amod	_	ref=287v11
+12	по	по	ADP	R-	_	13	case	_	ref=287v11
+13	земли	земля	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	10	obl	_	ref=287v11
+14	и	и	CCONJ	C-	_	13	cc	_	ref=287v12
+15	по	по	ADP	R-	_	16	case	_	ref=287v12
+16	морю	море	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	13	conj	_	ref=287v12
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = и ратовати нача
+# sent_id = 193442
+1	и	и	CCONJ	C-	_	3	cc	_	ref=287v12
+2	ратовати	ратовати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=287v12
+3	нача	начати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=287v12
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = и пришед внезаапꙋ ѡбʼстꙋпивъ град съ многыми силами
+# sent_id = 193443
+1	и	и	CCONJ	C-	_	4	cc	_	ref=287v12
+2	пришед	приити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	4	advcl	_	ref=287v12
+3	внезаапꙋ	вънезаапу	ADV	Df	_	2	advmod	_	ref=287v13
+4	ѡбʼстꙋпивъ	объступити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=287v13
+5	град	градъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj:dir	_	ref=287v13
+6	съ	съ	ADP	R-	_	8	case	_	ref=287v13
+7	многыми	мъногыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	8	amod	_	ref=287v14
+8	силами	сила	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	4	obl	_	ref=287v14
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = ц҃рь же конʼстѧнʼтинъ съ прилꙋчившими сѧ велʼможами и вси людїе града видѣвше єго пришедʼша съ многыми силами и не вѣдѧхꙋ что сʼтворити понеже людʼскаго събранїа въ градѣ не бѣ и братїамъ ц҃рвымъ не соущимъ тꙋ
+# sent_id = 193444
+1	ц҃рь	цѣсарь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	ref=287v14
+2	же	же	ADV	Df	_	12	advmod	_	ref=287v14
+3	конʼстѧнʼтинъ	костянтинъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	ref=287v14
+4	съ	съ	ADP	R-	_	7	case	_	ref=287v15
+5	прилꙋчившими	прилучити	VERB	V-	Case=Ins|Gender=Masc|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	7	acl	_	ref=287v15
+6	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	5	aux	_	ref=287v15
+7	велʼможами	вельможа	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	1	nmod	_	ref=287v15
+8	и	и	CCONJ	C-	_	1	cc	_	ref=287v16
+9	вси	вьсь	DET	Px	Case=Nom|Gender=Masc|Number=Plur	10	det	_	ref=287v16
+10	людїе	людие	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	1	conj	_	ref=287v16
+11	града	градъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	ref=287v16
+12	видѣвше	видѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=287v16
+13	єго	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	dep	_	ref=287v17
+14	пришедʼша	приити	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	12	xcomp	_	ref=287v17
+15	съ	съ	ADP	R-	_	17	case	_	ref=287v17
+16	многыми	мъногыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	17	amod	_	ref=287v17
+17	силами	сила	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	14	obl	_	ref=287v17
+18	и	и	CCONJ	C-	_	12	cc	_	ref=287v18
+19	не	не	ADV	Df	_	20	advmod	_	ref=287v18
+20	вѣдѧхꙋ	вѣдати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	ref=287v18
+21	что	чьто	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	22	obj:dir	_	ref=287v18
+22	сʼтворити	сътворити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	20	ccomp	_	ref=287v18
+23	понеже	понеже	SCONJ	G-	_	29	mark	_	ref=287v19
+24	людʼскаго	людьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	25	amod	_	ref=287v19
+25	събранїа	събьрание	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	29	nsubj	_	ref=287v19
+26	въ	въ	ADP	R-	_	27	case	_	ref=287v19
+27	градѣ	градъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	29	obl	_	ref=287v19
+28	не	не	ADV	Df	_	29	advmod	_	ref=287v20
+29	бѣ	быти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	advcl	_	ref=287v20
+30	и	и	CCONJ	C-	_	29	cc	_	ref=287v20
+31	братїамъ	братия	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	34	nsubj	_	ref=287v20
+32	ц҃рвымъ	цѣсаревъ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	31	amod	_	ref=287v20
+33	не	не	ADV	Df	_	34	advmod	_	ref=287v20
+34	соущимъ	быти	VERB	V-	Case=Dat|Gender=Fem|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	29	conj	_	ref=287v20
+35	тꙋ	ту	ADV	Df	_	34	xcomp	_	ref=287v21
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = и посла ц҃рь к магметꙋ слътанꙋ посланʼникы ѡ мироу хотиѧ оувѣдати бывшеє и ѻ мирꙋ г҃лти
+# sent_id = 194484
+1	и	и	CCONJ	C-	_	2	cc	_	ref=287v21
+2	посла	посълати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=287v21
+3	ц҃рь	цѣсарь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=287v21
+4	к	къ	ADP	R-	_	5	case	_	ref=287v21
+5	магметꙋ	магометъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	ref=287v21
+6	слътанꙋ	султанъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	5	appos	_	ref=287v22
+7	посланʼникы	посъланьникъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	2	obj:dir	_	ref=287v22
+8	ѡ	о	ADP	R-	_	9	case	_	ref=287v22
+9	мироу	миръ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	2	obl	_	ref=287v22
+10	хотиѧ	хотѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	ref=288r1
+11	оувѣдати	увѣдати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	xcomp	_	ref=288r1
+12	бывшеє	быти	VERB	V-	Case=Acc|Gender=Neut|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	11	obj:dir	_	ref=288r1
+13	и	и	CCONJ	C-	_	11	cc	_	ref=288r1
+14	ѻ	о	ADP	R-	_	15	case	_	ref=288r1
+15	мирꙋ	миръ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	16	obl	_	ref=288r1
+16	г҃лти	глаголати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	11	conj	_	ref=288r2
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = ѡнʼ же ѻканʼныи безвѣрныи ж и лꙋкавыи посланʼникы ѿсла бездѣлны
+# sent_id = 193452
+1	ѡнʼ	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	ref=288r2
+2	же	же	ADV	Df	_	9	advmod	_	ref=288r2
+3	ѻканʼныи	оканьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	1	amod	_	ref=288r2
+4	безвѣрныи	безвѣрьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	3	conj	_	ref=288r2
+5	ж	же	ADV	Df	_	4	advmod	_	ref=288r2
+6	и	и	CCONJ	C-	_	3	cc	_	ref=288r3
+7	лꙋкавыи	лукавыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	3	conj	_	ref=288r3
+8	посланʼникы	посъланьникъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	9	obj:dir	_	ref=288r3
+9	ѿсла	отъсълати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=288r3
+10	бездѣлны	бездѣльныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	9	advmod	_	ref=288r3
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = а самъ предивнымъ ополченїем и страшнымъ движенїем по соуши и по морю пристꙋстꙋпивъ къ црствꙋющемꙋ граду мсца декабрѧ и повелѣ бити поушками и пищалʼми и стѣнобитными хытростʼми
+# sent_id = 193453
+1	а	а	CCONJ	C-	_	13	cc	_	ref=288r4
+2	самъ	самъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	ref=288r4
+3	предивнымъ	прѣдивьныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	4	amod	_	ref=288r4
+4	ополченїем	опълчение	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	13	obl	_	ref=288r4
+5	и	и	CCONJ	C-	_	4	cc	_	ref=288r5
+6	страшнымъ	страшьныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	7	amod	_	ref=288r5
+7	движенїем	движение	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	4	conj	_	ref=288r5
+8	по	по	ADP	R-	_	9	case	_	ref=288r5
+9	соуши	суша	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	13	obl	_	ref=288r5
+10	и	и	CCONJ	C-	_	9	cc	_	ref=288r6
+11	по	по	ADP	R-	_	12	case	_	ref=288r6
+12	морю	море	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	9	conj	_	ref=288r6
+13	пристꙋстꙋпивъ	приступити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=288r6
+14	къ	къ	ADP	R-	_	16	case	_	ref=288r6
+15	црствꙋющемꙋ	цѣсарьствовати	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	16	acl	_	ref=288r6
+16	граду	градъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	13	obl	_	ref=288r7
+17	мсца	мѣсяць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	13	obl	_	ref=288r7
+18	декабрѧ	декабрь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	17	appos	_	ref=288r7
+19	и	и	CCONJ	C-	_	13	cc	_	ref=288r7
+20	повелѣ	повелѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	ref=288r7
+21	бити	бити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	20	xcomp	_	ref=288r8
+22	поушками	пушька	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	21	obl	_	ref=288r8
+23	и	и	CCONJ	C-	_	22	cc	_	ref=288r8
+24	пищалʼми	пищаль	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	22	conj	_	ref=288r8
+25	и	и	CCONJ	C-	_	22	cc	_	ref=288r8
+26	стѣнобитными	стѣнобитьныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	27	amod	_	ref=288r8
+27	хытростʼми	хытрость	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	22	conj	_	ref=288r9
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = и пристꙋпи градскїѧ оуготовлѧти
+# sent_id = 193458
+1	и	и	CCONJ	C-	_	2	cc	_	ref=288r9
+2	пристꙋпи	приступити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=288r9
+3	градскїѧ	градьскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	4	obj:dir	_	ref=288r10
+4	оуготовлѧти	уготовляти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=288r10
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = соущїи ж людие въ градѣ грекы и фрѧгове выѣждаѧ изʼ града бїахꙋ сѧ с тоуркы не дающе имъ стѣнобитныѧ хытрости нарѧжати
+# sent_id = 193459
+1	соущїи	быти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	3	acl	_	ref=288r10
+2	ж	же	ADV	Df	_	12	advmod	_	ref=288r10
+3	людие	людие	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	ref=288r11
+4	въ	въ	ADP	R-	_	5	case	_	ref=288r11
+5	градѣ	градъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	1	xcomp	_	ref=288r11
+6	грекы	грьчинъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	appos	_	ref=288r11
+7	и	и	CCONJ	C-	_	6	cc	_	ref=288r11
+8	фрѧгове	фрягъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	conj	_	ref=288r11
+9	выѣждаѧ	выѣждати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	12	advcl	_	ref=288r11
+10	изʼ	из	ADP	R-	_	11	case	_	ref=288r12
+11	града	градъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	obl	_	ref=288r12
+12	бїахꙋ	бити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=288r12
+13	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	12	aux	_	ref=288r12
+14	с	съ	ADP	R-	_	15	case	_	ref=288r12
+15	тоуркы	турчинъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	12	obl	_	ref=288r12
+16	не	не	ADV	Df	_	17	advmod	_	ref=288r13
+17	дающе	даяти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	12	advcl	_	ref=288r13
+18	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	iobj	_	ref=288r13
+19	стѣнобитныѧ	стѣнобитьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	20	amod	_	ref=288r13
+20	хытрости	хытрость	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	21	obj:dir	_	ref=288r13
+21	нарѧжати	наряжати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	17	xcomp	_	ref=288r14
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = но оубо салтанове в силе велицѣи и тѧжцы соущи грекы не возмогоша имъ никоеѧ пакости сътворити зане єдинъ бьаше сѧ с тысѧщею а два со тмою
+# sent_id = 193462
+1	но	нъ	CCONJ	C-	_	12	cc	_	ref=288r14
+2	оубо	убо	ADV	Df	_	12	advmod	_	ref=288r14
+3	салтанове	салтанъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	ref=288r14
+4	в	въ	ADP	R-	_	5	case	_	ref=288r15
+5	силе	сила	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	9	xcomp	_	ref=288r15
+6	велицѣи	великыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	5	amod	_	ref=288r15
+7	и	и	CCONJ	C-	_	5	cc	_	ref=288r15
+8	тѧжцы	тяжькыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	5	conj	_	ref=288r15
+9	соущи	быти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	12	advcl	_	ref=288r15
+10	грекы	грьчинъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	ref=288r16
+11	не	не	ADV	Df	_	12	advmod	_	ref=288r16
+12	возмогоша	възмощи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=288r16
+13	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	iobj	_	ref=288r16
+14	никоеѧ	никыи	DET	Px	Case=Gen|Gender=Fem|Number=Sing	15	det	_	ref=288r16
+15	пакости	пакость	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	16	obj:dir	_	ref=288r17
+16	сътворити	сътворити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	12	xcomp	_	ref=288r17
+17	зане	зане	SCONJ	G-	_	19	mark	_	ref=288r17
+18	єдинъ	единъ	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	ref=288r17
+19	бьаше	бити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	advcl	_	ref=288r18
+20	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	19	aux	_	ref=288r18
+21	с	съ	ADP	R-	_	22	case	_	ref=288r18
+22	тысѧщею	тысяща	NUM	Ma	Case=Ins|Gender=Fem|Number=Sing	19	obl	_	ref=288r18
+23	а	а	CCONJ	C-	_	19	cc	_	ref=288r18
+24	два	дъва	NUM	Ma	Case=Nom|Gender=Masc|Number=Dual	19	conj	_	ref=288r18
+25	со	съ	ADP	R-	_	26	case	_	ref=288r18
+26	тмою	тьма	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	24	orphan	_	ref=288r18
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = сїе же оувѣда ц҃рь костѧнʼтинъ
+# sent_id = 193466
+1	сїе	сии	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	3	obj:dir	_	ref=288r19
+2	же	же	ADV	Df	_	3	advmod	_	ref=288r19
+3	оувѣда	увѣдати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=288r19
+4	ц҃рь	цѣсарь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=288r19
+5	костѧнʼтинъ	костянтинъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	ref=288r19
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = и повелѣ велможамъ и мегистаном разделити воиномъ градскїа стѣны и стрѣлници и врата
+# sent_id = 193467
+1	и	и	CCONJ	C-	_	2	cc	_	ref=288r20
+2	повелѣ	повелѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=288r20
+3	велможамъ	вельможа	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	2	iobj	_	ref=288r20
+4	и	и	CCONJ	C-	_	3	cc	_	ref=288r20
+5	мегистаном	мегистанъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	3	conj	_	ref=288r20
+6	разделити	раздѣлити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=288r21
+7	воиномъ	воинъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	6	iobj	_	ref=288r21
+8	градскїа	градьскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	9	amod	_	ref=288r21
+9	стѣны	стѣна	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	6	obj:dir	_	ref=288r21
+10	и	и	CCONJ	C-	_	9	cc	_	ref=288r22
+11	стрѣлници	стрѣльница	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	9	conj	_	ref=288r22
+12	и	и	CCONJ	C-	_	9	cc	_	ref=288r22
+13	врата	врата	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	9	conj	_	ref=288r22
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = також и всѣ людие
+# sent_id = 196542
+1	також	такоже	ADV	Df	_	0	root	_	ref=288r22
+2	и	и	CCONJ	C-	_	1	cc	_	ref=288v1
+3	всѣ	вьсь	DET	Px	Case=Nom|Gender=Masc|Number=Plur	4	det	_	ref=288v1
+4	людие	людие	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	1	obj:dir	_	ref=288v1
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = и колоколы ратныѧ на всѣхъ стѣнахъ изставити да коиждо ихъ вѣдаетъ и хранитъ свою страноу
+# sent_id = 196543
+1	и	и	CCONJ	C-	_	7	cc	_	ref=288v1
+2	колоколы	колоколъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	7	obj:dir	_	ref=288v1
+3	ратныѧ	ратьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	2	amod	_	ref=288v1
+4	на	на	ADP	R-	_	6	case	_	ref=288v1
+5	всѣхъ	вьсь	DET	Px	Case=Loc|Gender=Fem|Number=Plur	6	det	_	ref=288v2
+6	стѣнахъ	стѣна	NOUN	Nb	Case=Loc|Gender=Fem|Number=Plur	7	obl	_	ref=288v2
+7	изставити	иставити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=288v2
+8	да	да	SCONJ	G-	_	11	mark	_	ref=288v2
+9	коиждо	кыижьдо	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	ref=288v2
+10	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	nmod	_	ref=288v2
+11	вѣдаетъ	вѣдати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	ref=288v3
+12	и	и	CCONJ	C-	_	11	cc	_	ref=288v3
+13	хранитъ	хранити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	ref=288v3
+14	свою	свои	ADJ	Pt	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	15	nmod	_	ref=288v3
+15	страноу	страна	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	13	obj:dir	_	ref=288v3
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = и всѧ ꙗже на бранʼноую потребꙋ да оустраꙗють
+# sent_id = 196541
+1	и	и	CCONJ	C-	_	8	cc	_	ref=288v4
+2	всѧ	вьсь	ADJ	Px	Case=Acc|Gender=Neut|Number=Plur	8	obj:dir	_	ref=288v4
+3	ꙗже	иже	PRON	Pr	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	6	nsubj	_	ref=288v4
+4	на	на	ADP	R-	_	6	case	_	ref=288v4
+5	бранʼноую	браньныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	6	advmod	_	ref=288v4
+6	потребꙋ	потрѣба	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	ref=288v4
+7	да	да#1	ADV	Df	_	8	advmod	_	ref=288v4
+8	оустраꙗють	устраяти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=288v5
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = и да бьют сѧ с тоурки съ стѣны
+# sent_id = 196546
+1	и	и	CCONJ	C-	_	3	cc	_	ref=288v5
+2	да	да#1	ADV	Df	_	3	advmod	_	ref=288v5
+3	бьют	бити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=288v5
+4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=288v5
+5	с	съ	ADP	R-	_	6	case	_	ref=288v5
+6	тоурки	турчинъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	3	obl	_	ref=288v5
+7	съ	съ	ADP	R-	_	8	case	_	ref=288v6
+8	стѣны	стѣна	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	obl	_	ref=288v6
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = а из града не выходити ни выѣждати
+# sent_id = 196545
+1	а	а	CCONJ	C-	_	5	cc	_	ref=288v6
+2	из	из	ADP	R-	_	3	case	_	ref=288v6
+3	града	градъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	ref=288v6
+4	не	не	ADV	Df	_	5	advmod	_	ref=288v6
+5	выходити	выходити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=288v6
+6	ни	ни	CCONJ	C-	_	5	cc	_	ref=288v7
+7	выѣждати	выѣждати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	conj	_	ref=288v7
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = такоже и поушки и пищали оуставити по пристꙋпным мѣстомъ на съхраненїе стѣнамʼ
+# sent_id = 196544
+1	такоже	такоже	ADV	Df	_	6	advmod	_	ref=288v7
+2	и	и	CCONJ	C-	_	6	cc	_	ref=288v7
+3	поушки	пушька	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	6	obj:dir	_	ref=288v7
+4	и	и	CCONJ	C-	_	3	cc	_	ref=288v7
+5	пищали	пищаль	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	3	conj	_	ref=288v8
+6	оуставити	уставити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=288v8
+7	по	по	ADP	R-	_	9	case	_	ref=288v8
+8	пристꙋпным	приступьныи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	9	amod	_	ref=288v8
+9	мѣстомъ	мѣсто	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	6	obl	_	ref=288v9
+10	на	на	ADP	R-	_	11	case	_	ref=288v9
+11	съхраненїе	съхранение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	ref=288v9
+12	стѣнамʼ	стѣна	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	11	nmod	_	ref=288v9
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = а самъ ц҃рь костѧнʼтинъ с патрїарʼхомъ анастасїемъ и съ ц҃рцею и со с҃тли и съ всѣмъ с҃щнʼнымъ събором и съ множествомъ женъ и дѣтеи хожахꙋ по црквамъ бжїим молбы и моленїе дѣюще плачюще и рыдающе и г҃лще сице
+# sent_id = 193478
+1	а	а	CCONJ	C-	_	25	cc	_	ref=288v10
+2	самъ	самъ	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	3	det	_	ref=288v10
+3	ц҃рь	цѣсарь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	25	nsubj	_	ref=288v10
+4	костѧнʼтинъ	костянтинъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	ref=288v10
+5	с	съ	ADP	R-	_	6	case	_	ref=288v10
+6	патрїарʼхомъ	патриархъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	3	nmod	_	ref=288v10
+7	анастасїемъ	анастасии	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	6	appos	_	ref=288v11
+8	и	и	CCONJ	C-	_	6	cc	_	ref=288v11
+9	съ	съ	ADP	R-	_	10	case	_	ref=288v11
+10	ц҃рцею	цѣсарица	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	6	conj	_	ref=288v11
+11	и	и	CCONJ	C-	_	6	cc	_	ref=288v11
+12	со	съ	ADP	R-	_	13	case	_	ref=288v11
+13	с҃тли	святитель	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	6	conj	_	ref=288v11
+14	и	и	CCONJ	C-	_	6	cc	_	ref=288v12
+15	съ	съ	ADP	R-	_	18	case	_	ref=288v12
+16	всѣмъ	вьсь	DET	Px	Case=Ins|Gender=Masc|Number=Sing	18	det	_	ref=288v12
+17	с҃щнʼнымъ	священыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	18	amod	_	ref=288v12
+18	събором	съборъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	6	conj	_	ref=288v12
+19	и	и	CCONJ	C-	_	6	cc	_	ref=288v13
+20	съ	съ	ADP	R-	_	21	case	_	ref=288v13
+21	множествомъ	мъножьство	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	6	conj	_	ref=288v13
+22	женъ	жена	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	21	nmod	_	ref=288v13
+23	и	и	CCONJ	C-	_	22	cc	_	ref=288v13
+24	дѣтеи	дѣтя	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	22	conj	_	ref=288v13
+25	хожахꙋ	ходити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=288v14
+26	по	по	ADP	R-	_	27	case	_	ref=288v14
+27	црквамъ	цьркы	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	25	obl	_	ref=288v14
+28	бжїим	божии	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	27	amod	_	ref=288v14
+29	молбы	мольба	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	32	obj:dir	_	ref=288v14
+30	и	и	CCONJ	C-	_	29	cc	_	ref=288v15
+31	моленїе	моление	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	29	conj	_	ref=288v15
+32	дѣюще	дѣяти#1	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	25	advcl	_	ref=288v15
+33	плачюще	плакати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	32	advcl	_	ref=288v15
+34	и	и	CCONJ	C-	_	33	cc	_	ref=288v15
+35	рыдающе	рыдати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	33	conj	_	ref=288v15
+36	и	и	CCONJ	C-	_	33	cc	_	ref=288v16
+37	г҃лще	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	33	conj	_	ref=288v16
+38	сице	сице	ADV	Df	_	37	advmod	_	ref=288v16
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = господи г҃и страшно єсество
+# sent_id = 194502
+1	господи	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	ref=288v16
+2	г҃и	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	ref=288v16
+3	страшно	страшьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	0	root	_	ref=288v16
+4	єсество	естьство	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	ref=288v17
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = неисповѣдимаѧ сила юже древле горы видѣвше въстрепеташа
+# sent_id = 196534
+1	неисповѣдимаѧ	неисповѣдимыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	0	root	_	ref=288v17
+2	сила	сила	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	ref=288v17
+3	юже	иже	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	6	obj:dir	_	ref=288v18
+4	древле	древле	ADV	Df	_	7	advmod	_	ref=288v18
+5	горы	гора	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	7	nsubj	_	ref=288v18
+6	видѣвше	видѣти	VERB	V-	Case=Nom|Gender=Fem|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	7	advcl	_	ref=288v18
+7	въстрепеташа	въстрепетати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	acl	_	ref=288v18
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = и тварь потрѧсе сѧ
+# sent_id = 193484
+1	и	и	CCONJ	C-	_	3	cc	_	ref=288v19
+2	тварь	тварь	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	ref=288v19
+3	потрѧсе	потрясти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=288v19
+4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=288v19
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = сл҃нце же и лоуна оужасаше сѧ
+# sent_id = 194503
+1	сл҃нце	сълньце	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	ref=288v19
+2	же	же	ADV	Df	_	5	advmod	_	ref=288v19
+3	и	и	CCONJ	C-	_	1	cc	_	ref=288v20
+4	лоуна	луна	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	ref=288v20
+5	оужасаше	ужасати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=288v20
+6	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	5	aux	_	ref=288v20
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = блистанїе ихъ погыбе
+# sent_id = 194504
+1	блистанїе	блистание	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	ref=288v20
+2	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	det	_	ref=288v20
+3	погыбе	погыбнути	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=288v21
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = и звѣзды нбсныѧ спадоша
+# sent_id = 194505
+1	и	и	CCONJ	C-	_	4	cc	_	ref=288v21
+2	звѣзды	звѣзда	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	ref=288v21
+3	нбсныѧ	небесьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	2	amod	_	ref=288v21
+4	спадоша	съпасти#2	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=288v21
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = мы же ѻкааннїи таѧ всѧ презрѣвшє съгрѣшихомъ и безаконʼновахомъ и ѻзлобихомъ твое бжство забывающе твоѧ великаѧ дарованїа и презирающе твоѧ повелѣнїа
+# sent_id = 193485
+1	мы	мы	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	ref=288v22
+2	же	же	ADV	Df	_	7	advmod	_	ref=288v22
+3	ѻкааннїи	окаяныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	1	appos	_	ref=288v22
+4	таѧ	тыи	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	6	obj:dir	_	ref=288v22
+5	всѧ	вьсь	DET	Px	Case=Acc|Gender=Neut|Number=Plur	4	det	_	ref=288v22
+6	презрѣвшє	прѣзьрѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	7	advcl	_	ref=288v22
+7	съгрѣшихомъ	съгрѣшити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=289r1
+8	и	и	CCONJ	C-	_	7	cc	_	ref=289r1
+9	безаконʼновахомъ	безаконьновати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	ref=289r1
+10	и	и	CCONJ	C-	_	7	cc	_	ref=289r2
+11	ѻзлобихомъ	озълобити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	ref=289r2
+12	твое	твои	ADJ	Ps	Case=Acc|Gender=Neut|Number=Sing|Person=2|Poss=Yes	13	nmod	_	ref=289r2
+13	бжство	божьство	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	11	obj:dir	_	ref=289r2
+14	забывающе	забывати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	11	advcl	_	ref=289r2
+15	твоѧ	твои	ADJ	Ps	Case=Acc|Gender=Neut|Number=Plur|Person=2|Poss=Yes	17	nmod	_	ref=289r3
+16	великаѧ	великыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	17	amod	_	ref=289r3
+17	дарованїа	дарование	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	14	obj:dir	_	ref=289r3
+18	и	и	CCONJ	C-	_	14	cc	_	ref=289r3
+19	презирающе	прѣзирати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	14	conj	_	ref=289r3
+20	твоѧ	твои	ADJ	Ps	Case=Acc|Gender=Neut|Number=Plur|Person=2|Poss=Yes	21	nmod	_	ref=289r4
+21	повелѣнїа	повелѣние	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	19	obj:dir	_	ref=289r4
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = ꙗко неистовїи еже на нас млсти и щедротъ твоих ѿвратихом сѧ
+# sent_id = 193487
+1	ꙗко	яко	ADV	Df	_	10	advcl	_	ref=289r4
+2	неистовїи	неистовыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	1	nsubj	_	ref=289r4
+3	еже	иже	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	5	nsubj	_	ref=289r5
+4	на	на	ADP	R-	_	5	case	_	ref=289r5
+5	нас	мы	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	6	det	_	ref=289r5
+6	млсти	милость	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	10	iobj	_	ref=289r5
+7	и	и	CCONJ	C-	_	6	cc	_	ref=289r5
+8	щедротъ	щедрота	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	6	conj	_	ref=289r5
+9	твоих	твои	ADJ	Ps	Case=Gen|Gender=Fem|Number=Plur|Person=2|Poss=Yes	8	nmod	_	ref=289r5
+10	ѿвратихом	отъвратити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=289r6
+11	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	10	aux	_	ref=289r6
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = и на злодѣанїе и безаконїе ѡбратихом сѧ ими же далече ѿ тебе ѿстꙋпихом сѧ
+# sent_id = 193488
+1	и	и	CCONJ	C-	_	6	cc	_	ref=289r6
+2	на	на	ADP	R-	_	3	case	_	ref=289r6
+3	злодѣанїе	зълодѣяние	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	ref=289r6
+4	и	и	CCONJ	C-	_	3	cc	_	ref=289r6
+5	безаконїе	безаконие	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	3	conj	_	ref=289r6
+6	ѡбратихом	обратити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=289r7
+7	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	6	aux	_	ref=289r7
+8	ими	и	PRON	Pp	Case=Ins|Gender=Neut|Number=Plur|Person=3|PronType=Prs	13	obl	_	ref=289r7
+9	же	же	ADV	Df	_	8	advmod	_	ref=289r7
+10	далече	далече	ADV	Df	_	11	advmod	_	ref=289r7
+11	ѿ	отъ	ADP	R-	_	12	case	_	ref=289r8
+12	тебе	ты	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	13	obl	_	ref=289r8
+13	ѿстꙋпихом	отъступити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	acl	_	ref=289r8
+14	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	13	aux	_	ref=289r8
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = всѧ сїа ж наведе на ны и на град твои с҃тыи
+# sent_id = 193490
+1	всѧ	вьсь	DET	Px	Case=Acc|Gender=Neut|Number=Plur	2	det	_	ref=289r8
+2	сїа	сии	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	4	obj:dir	_	ref=289r8
+3	ж	же	ADV	Df	_	4	advmod	_	ref=289r8
+4	наведе	навести	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=289r9
+5	на	на	ADP	R-	_	6	case	_	ref=289r9
+6	ны	мы	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	4	obl	_	ref=289r9
+7	и	и	CCONJ	C-	_	6	cc	_	ref=289r9
+8	на	на	ADP	R-	_	9	case	_	ref=289r9
+9	град	градъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	conj	_	ref=289r9
+10	твои	твои	ADJ	Ps	Case=Acc|Gender=Masc|Number=Sing|Person=2|Poss=Yes	9	nmod	_	ref=289r9
+11	с҃тыи	святыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	9	amod	_	ref=289r9
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = праведнымъ и истинʼнымъ соудомъ створилъ еси грѣхъ ради н҃шхъ
+# sent_id = 193491
+1	праведнымъ	правьдьныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=289r9
+2	и	и	CCONJ	C-	_	1	cc	_	ref=289r10
+3	истинʼнымъ	истиньныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	1	conj	_	ref=289r10
+4	соудомъ	судъ#1	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	5	obl	_	ref=289r10
+5	створилъ	сътворити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=289r11
+6	еси	быти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	ref=289r11
+7	грѣхъ	грѣхъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	5	obl	_	ref=289r11
+8	ради	ради	ADP	R-	_	7	case	_	ref=289r11
+9	н҃шхъ	нашь	ADJ	Ps	Case=Gen|Gender=Masc|Number=Plur|Person=1|Poss=Yes	7	nmod	_	ref=289r11
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = и нѣс нам ѿверʼсти оустъ что г҃лати
+# sent_id = 193492
+1	и	и	CCONJ	C-	_	4	cc	_	ref=289r11
+2	нѣс	не.быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	ref=289r11
+3	нам	мы	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	ref=289r11
+4	ѿверʼсти	отъврѣсти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=289r12
+5	оустъ	уста	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	4	obj:dir	_	ref=289r12
+6	что	чьто	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	7	obj:dir	_	ref=289r12
+7	г҃лати	глаголати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	advcl	_	ref=289r12
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = но ꙋбо всепѣтыи и преблсвенʼныи г҃и създанїе и творенїе єсмѧ твое и дѣла роукъ твоих
+# sent_id = 193493
+1	но	нъ	CCONJ	C-	_	10	cc	_	ref=289r12
+2	ꙋбо	убо	ADV	Df	_	10	advmod	_	ref=289r12
+3	всепѣтыи	вьсепѣтыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	6	amod	_	ref=289r13
+4	и	и	CCONJ	C-	_	3	cc	_	ref=289r13
+5	преблсвенʼныи	прѣблагословленыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	3	conj	_	ref=289r13
+6	г҃и	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	10	vocative	_	ref=289r13
+7	създанїе	съзьдание	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	10	xcomp	_	ref=289r13
+8	и	и	CCONJ	C-	_	7	cc	_	ref=289r14
+9	творенїе	творение	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	7	conj	_	ref=289r14
+10	єсмѧ	быти	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=289r14
+11	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	7	nmod	_	ref=289r14
+12	и	и	CCONJ	C-	_	7	cc	_	ref=289r14
+13	дѣла	дѣло	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	7	conj	_	ref=289r14
+14	роукъ	рука	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	13	nmod	_	ref=289r14
+15	твоих	твои	ADJ	Ps	Case=Gen|Gender=Fem|Number=Plur|Person=2|Poss=Yes	14	nmod	_	ref=289r15
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = не предаи же нас до конца врагомъ н҃шим
+# sent_id = 193496
+1	не	не	ADV	Df	_	2	advmod	_	ref=289r15
+2	предаи	прѣдаяти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=289r15
+3	же	же	ADV	Df	_	2	advmod	_	ref=289r15
+4	нас	мы	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	obj:dir	_	ref=289r15
+5	до	до	ADP	R-	_	6	case	_	ref=289r15
+6	конца	коньць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	obl	_	ref=289r15
+7	врагомъ	врагъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	2	iobj	_	ref=289r15
+8	н҃шим	нашь	ADJ	Ps	Case=Dat|Gender=Masc|Number=Plur|Person=1|Poss=Yes	7	nmod	_	ref=289r16
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = и не разори достоꙗнїа твоего
+# sent_id = 193497
+1	и	и	CCONJ	C-	_	3	cc	_	ref=289r16
+2	не	не	ADV	Df	_	3	advmod	_	ref=289r16
+3	разори	разорити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=289r16
+4	достоꙗнїа	достояние	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	3	obj:dir	_	ref=289r16
+5	твоего	твои	ADJ	Ps	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes	4	nmod	_	ref=289r17
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = и не ѻстави млсть твою ѿ нас
+# sent_id = 193498
+1	и	и	CCONJ	C-	_	3	cc	_	ref=289r17
+2	не	не	ADV	Df	_	3	advmod	_	ref=289r17
+3	ѻстави	отъставити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=289r17
+4	млсть	милость	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obj:dir	_	ref=289r17
+5	твою	твои	ADJ	Ps	Case=Acc|Gender=Fem|Number=Sing|Person=2|Poss=Yes	4	nmod	_	ref=289r17
+6	ѿ	отъ	ADP	R-	_	7	case	_	ref=289r18
+7	нас	мы	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	3	obl	_	ref=289r18
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = ѻслаби намъ времѧ сїе во єж ѡбратити сѧ намъ и покаꙗти сѧ твоемꙋ б҃лгооутробїю
+# sent_id = 193499
+1	ѻслаби	ослабити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=289r18
+2	намъ	мы	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	1	obl	_	ref=289r18
+3	времѧ	врѣмя	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	obj:dir	_	ref=289r18
+4	сїе	сии	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	3	det	_	ref=289r18
+5	во	въ	ADP	R-	_	6	case	_	ref=289r18
+6	єж	иже	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	7	obl	_	ref=289r18
+7	ѡбратити	обратити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	acl	_	ref=289r19
+8	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	7	aux	_	ref=289r19
+9	намъ	мы	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	ref=289r19
+10	и	и	CCONJ	C-	_	7	cc	_	ref=289r19
+11	покаꙗти	покаяти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	conj	_	ref=289r19
+12	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	11	aux	_	ref=289r19
+13	твоемꙋ	твои	ADJ	Ps	Case=Dat|Gender=Neut|Number=Sing|Person=2|Poss=Yes	14	nmod	_	ref=289r20
+14	б҃лгооутробїю	благоутробие	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	11	iobj	_	ref=289r20
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = самʼ бо влдко реклъ еси
+# sent_id = 193501
+1	самʼ	самъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=289r20
+2	бо	бо	ADV	Df	_	4	advmod	_	ref=289r20
+3	влдко	владыка	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	ref=289r20
+4	реклъ	рещи	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=289r21
+5	еси	быти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	ref=289r21
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = не прїидохъ праведныхъ сп҃сти но грѣшныхъ призвати на покаꙗнїе въ еже ѡбратити сѧ нам и живым быти
+# sent_id = 194519
+1	не	не	ADV	Df	_	4	advmod	_	ref=289r21
+2	прїидохъ	приити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=289r21
+3	праведныхъ	правьдьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	4	obj:dir	_	ref=289r21
+4	сп҃сти	съпасти#1	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	advcl	_	ref=289r22
+5	но	нъ	CCONJ	C-	_	4	cc	_	ref=289r22
+6	грѣшныхъ	грѣшьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	7	obj:dir	_	ref=289r22
+7	призвати	призъвати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	conj	_	ref=289r22
+8	на	на	ADP	R-	_	9	case	_	ref=289v1
+9	покаꙗнїе	покаяние	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	ref=289v1
+10	въ	въ	ADP	R-	_	11	case	_	ref=289v1
+11	еже	иже	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	12	obl	_	ref=289v1
+12	ѡбратити	обратити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	acl	_	ref=289v1
+13	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	12	aux	_	ref=289v1
+14	нам	мы	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	ref=289v2
+15	и	и	CCONJ	C-	_	12	cc	_	ref=289v2
+16	живым	живыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	17	xcomp	_	ref=289v2
+17	быти	быти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	12	conj	_	ref=289v2
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = еи гси ц҃рю нбсныи ѡслаби
+# sent_id = 193505
+1	еи	еи	INTJ	I-	_	5	vocative	_	ref=289v2
+2	гси	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	ref=289v2
+3	ц҃рю	цѣсарь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	2	appos	_	ref=289v2
+4	нбсныи	небесьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	3	amod	_	ref=289v2
+5	ѡслаби	ослабити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=289v3
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = ѻстави н҃нѣ пречстыѧ ради б҃гом҃тре и с҃тыхъ патрїарʼхъ и ц҃реи преж оугодившихъ твоемꙋ бжствꙋ въ градѣ сем
+# sent_id = 194520
+1	ѻстави	отъставити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=289v3
+2	н҃нѣ	нынѣ	ADV	Df	_	1	advmod	_	ref=289v3
+3	пречстыѧ	прѣчистыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	5	amod	_	ref=289v3
+4	ради	ради	ADP	R-	_	5	case	_	ref=289v3
+5	б҃гом҃тре	богомати	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	1	obl	_	ref=289v3
+6	и	и	CCONJ	C-	_	5	cc	_	ref=289v4
+7	с҃тыхъ	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	8	amod	_	ref=289v4
+8	патрїарʼхъ	патриархъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	5	conj	_	ref=289v4
+9	и	и	CCONJ	C-	_	5	cc	_	ref=289v4
+10	ц҃реи	цѣсарь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	5	conj	_	ref=289v4
+11	преж	прѣже	ADV	Df	_	12	advmod	_	ref=289v4
+12	оугодившихъ	угодити	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	10	acl	_	ref=289v5
+13	твоемꙋ	твои	ADJ	Ps	Case=Dat|Gender=Neut|Number=Sing|Person=2|Poss=Yes	14	nmod	_	ref=289v5
+14	бжствꙋ	божьство	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	12	iobj	_	ref=289v5
+15	въ	въ	ADP	R-	_	16	case	_	ref=289v5
+16	градѣ	градъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	12	obl	_	ref=289v6
+17	сем	сии	DET	Pd	Case=Loc|Gender=Masc|Number=Sing	16	det	_	ref=289v6
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = сїа же инаѧ многаѧ изрекшим такоже и пренепорочнои б҃ци ѿ среды срдца стоꙗнїе и рыданїемъ по всѧ д҃ни молѧхꙋ сѧ
+# sent_id = 193508
+1	сїа	сии	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	5	obj:dir	_	ref=289v6
+2	же	же	ADV	Df	_	0	root	_	ref=289v6
+3	инаѧ	иныи	DET	Px	Case=Acc|Gender=Neut|Number=Plur	1	det	_	ref=289v6
+4	многаѧ	мъногыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	1	amod	_	ref=289v6
+5	изрекшим	изрещи	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	2	advcl	_	ref=289v6
+6	такоже	такоже	ADV	Df	_	19	advmod	_	ref=289v7
+7	и	и	CCONJ	C-	_	2	cc	_	ref=289v7
+8	пренепорочнои	прѣнепорочьныи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	9	amod	_	ref=289v7
+9	б҃ци	богородица	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	19	iobj	_	ref=289v7
+10	ѿ	отъ	ADP	R-	_	11	case	_	ref=289v8
+11	среды	срѣда	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	19	obl	_	ref=289v8
+12	срдца	сьрдьце	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	ref=289v8
+13	стоꙗнїе	стояние	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	19	obl	_	ref=289v8
+14	и	и	CCONJ	C-	_	13	cc	_	ref=289v8
+15	рыданїемъ	рыдание	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	13	conj	_	ref=289v8
+16	по	по	ADP	R-	_	18	case	_	ref=289v9
+17	всѧ	вьсь	DET	Px	Case=Acc|Gender=Masc|Number=Plur	18	det	_	ref=289v9
+18	д҃ни	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	19	obl	_	ref=289v9
+19	молѧхꙋ	молити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=289v9
+20	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	19	aux	_	ref=289v9
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = ц҃рь же ѡбьѣждаше крꙋгъ града по частꙋ оукрѣплѧа стратигъ и воиновъ и всѣх людеи да не ѿпадоут надежею ни ѻслабїють съпротивленїемъ на врагы но да оуповають на господа вседръжителѧ
+# sent_id = 193510
+1	ц҃рь	цѣсарь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=289v9
+2	же	же	ADV	Df	_	3	advmod	_	ref=289v9
+3	ѡбьѣждаше	объездити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=289v9
+4	крꙋгъ	кругъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obj:dir	_	ref=289v10
+5	града	градъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	ref=289v10
+6	по	по	ADP	R-	_	7	case	_	ref=289v10
+7	частꙋ	частыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	3	advmod	_	ref=289v10
+8	оукрѣплѧа	укрѣпляти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	3	advcl	_	ref=289v10
+9	стратигъ	стратигъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	8	obj:dir	_	ref=289v11
+10	и	и	CCONJ	C-	_	9	cc	_	ref=289v11
+11	воиновъ	воинъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	9	conj	_	ref=289v11
+12	и	и	CCONJ	C-	_	9	cc	_	ref=289v11
+13	всѣх	вьсь	DET	Px	Case=Gen|Gender=Masc|Number=Plur	14	det	_	ref=289v11
+14	людеи	людие	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	9	conj	_	ref=289v12
+15	да	да	SCONJ	G-	_	17	mark	_	ref=289v12
+16	не	не	ADV	Df	_	17	advmod	_	ref=289v12
+17	ѿпадоут	отъпасти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	ref=289v12
+18	надежею	надежа	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	17	obl	_	ref=289v12
+19	ни	ни	CCONJ	C-	_	17	cc	_	ref=289v12
+20	ѻслабїють	ослабѣти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	conj	_	ref=289v12
+21	съпротивленїемъ	съпротивление	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	20	obl	_	ref=289v13
+22	на	на	ADP	R-	_	23	case	_	ref=289v13
+23	врагы	врагъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	21	nmod	_	ref=289v13
+24	но	нъ	CCONJ	C-	_	15	cc	_	ref=289v14
+25	да	да	SCONJ	G-	_	26	mark	_	ref=289v14
+26	оуповають	упъвати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	conj	_	ref=289v14
+27	на	на	ADP	R-	_	28	case	_	ref=289v14
+28	господа	господь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	26	obl	_	ref=289v14
+29	вседръжителѧ	вьседьржитель	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	28	appos	_	ref=289v15
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = тъ бо н҃шь помощникъ и защититель єс
+# sent_id = 193515
+1	тъ	тыи	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=289v15
+2	бо	бо	ADV	Df	_	7	advmod	_	ref=289v15
+3	н҃шь	нашь	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=1|Poss=Yes	4	nmod	_	ref=289v15
+4	помощникъ	помощьникъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	xcomp	_	ref=289v15
+5	и	и	CCONJ	C-	_	4	cc	_	ref=289v16
+6	защититель	защититель	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	ref=289v16
+7	єс	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=289v16
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = и пакы обращаше сѧ на м҃лтвꙋ
+# sent_id = 193516
+1	и	и	CCONJ	C-	_	3	cc	_	ref=289v16
+2	пакы	пакы	ADV	Df	_	3	advmod	_	ref=289v16
+3	обращаше	обращати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=289v17
+4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=289v17
+5	на	на	ADP	R-	_	6	case	_	ref=289v17
+6	м҃лтвꙋ	молитва	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	ref=289v17
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = тоуркы ж на всѣхъ мѣстѣх бьахꙋ сѧ бес престани д҃нь и нощь пременѧюще сѧ не дающе ни мало ѡпочити градскым но да сѧ оутрꙋдѧть понеже оуготовлѧхꙋ сѧ ко пристоупꙋ
+# sent_id = 193517
+1	тоуркы	турчинъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	ref=289v17
+2	ж	же	ADV	Df	_	6	advmod	_	ref=289v17
+3	на	на	ADP	R-	_	5	case	_	ref=289v18
+4	всѣхъ	вьсь	DET	Px	Case=Loc|Gender=Neut|Number=Plur	5	det	_	ref=289v18
+5	мѣстѣх	мѣсто	NOUN	Nb	Case=Loc|Gender=Neut|Number=Plur	6	obl	_	ref=289v18
+6	бьахꙋ	бити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=289v18
+7	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	6	aux	_	ref=289v18
+8	бес	без	ADP	R-	_	9	case	_	ref=289v18
+9	престани	прѣстань	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	obl	_	ref=289v18
+10	д҃нь	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	ref=289v19
+11	и	и	CCONJ	C-	_	10	cc	_	ref=289v19
+12	нощь	нощь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	conj	_	ref=289v19
+13	пременѧюще	прѣмѣняти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	ref=289v19
+14	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	13	aux	_	ref=289v19
+15	не	не	ADV	Df	_	16	advmod	_	ref=289v20
+16	дающе	даяти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	ref=289v20
+17	ни	ни	ADV	Df	_	18	advmod	_	ref=289v20
+18	мало	мало	ADV	Df	_	19	advmod	_	ref=289v20
+19	ѡпочити	опочити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	16	xcomp	_	ref=289v20
+20	градскым	градьскыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	16	iobj	_	ref=289v20
+21	но	нъ	CCONJ	C-	_	16	cc	_	ref=289v21
+22	да	да	SCONJ	G-	_	24	mark	_	ref=289v21
+23	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	24	aux	_	ref=289v21
+24	оутрꙋдѧть	утрудити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	conj	_	ref=289v21
+25	понеже	понеже	SCONJ	G-	_	26	mark	_	ref=289v21
+26	оуготовлѧхꙋ	уготовляти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	24	advcl	_	ref=289v21
+27	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	26	aux	_	ref=289v21
+28	ко	къ	ADP	R-	_	29	case	_	ref=289v22
+29	пристоупꙋ	приступъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	26	obl	_	ref=289v22
+
+# source = The tale of the fall of Constantinople, The tale of the fall of Constantinople
+# text = и тако творѧхꙋ ѡбои г҃і д҃нїи
+# sent_id = 193521
+1	и	и	CCONJ	C-	_	3	cc	_	ref=289v22
+2	тако	тако	ADV	Df	_	3	advmod	_	ref=289v22
+3	творѧхꙋ	творити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=290r1
+4	ѡбои	обои	NUM	Ma	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	ref=290r1
+5	г҃і	тринадесять	NUM	Ma	_	3	obl	_	ref=290r1
+6	д҃нїи	дьнь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	ref=290r1

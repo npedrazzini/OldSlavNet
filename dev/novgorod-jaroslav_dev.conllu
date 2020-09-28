@@ -1,0 +1,56 @@
+# source = Novgorod’s treaty with Grand Prince Jaroslav Jaroslavich, 1266, Novgorod’s treaty with Grand Prince Jaroslav Jaroslavich, 1266
+# text = бл҃гословлениѥ ѿ влд҃кы
+# sent_id = 199712
+1	бл҃гословлениѥ	благословение	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	0	root	_	ref=
+2	ѿ	отъ	ADP	R-	_	3	case	_	ref=
+3	влд҃кы	владыка	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	ref=
+
+# source = Novgorod’s treaty with Grand Prince Jaroslav Jaroslavich, 1266, Novgorod’s treaty with Grand Prince Jaroslav Jaroslavich, 1266
+# text = покла(нѧни)ѥ ѿ посадн(i)ка михаила и ѿ тысѧцьскаго кондрата и ѿ всѣго новагорода и ѿ всѣхъ старѣишихъ и ѿ всѣхъ меньшихъ къ кн҃зю ярославоу
+# sent_id = 199823
+1	покла(нѧни)ѥ	покланяние	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	0	root	_	ref=
+2	ѿ	отъ	ADP	R-	_	3	case	_	ref=
+3	посадн(i)ка	посадьникъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	ref=
+4	михаила	михаилъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	appos	_	ref=
+5	и	и	CCONJ	C-	_	3	cc	_	ref=
+6	ѿ	отъ	ADP	R-	_	7	case	_	ref=
+7	тысѧцьскаго	тысячьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	3	conj	_	ref=
+8	кондрата	кондратъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	appos	_	ref=
+9	и	и	CCONJ	C-	_	3	cc	_	ref=
+10	ѿ	отъ	ADP	R-	_	12	case	_	ref=
+11	всѣго	вьсь	DET	Px	Case=Gen|Gender=Masc|Number=Sing	12	det	_	ref=
+12	новагорода	новъгородъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	conj	_	ref=
+13	и	и	CCONJ	C-	_	3	cc	_	ref=
+14	ѿ	отъ	ADP	R-	_	16	case	_	ref=
+15	всѣхъ	вьсь	DET	Px	Case=Gen|Gender=Masc|Number=Plur	16	det	_	ref=
+16	старѣишихъ	старыи	ADJ	A-	Case=Gen|Degree=Cmp|Gender=Masc|Number=Plur|Strength=Weak	3	conj	_	ref=
+17	и	и	CCONJ	C-	_	3	cc	_	ref=
+18	ѿ	отъ	ADP	R-	_	20	case	_	ref=
+19	всѣхъ	вьсь	DET	Px	Case=Gen|Gender=Masc|Number=Plur	20	det	_	ref=
+20	меньшихъ	мьнии	ADJ	A-	Case=Gen|Degree=Cmp|Gender=Masc|Number=Plur|Strength=Weak	3	conj	_	ref=
+21	къ	къ	ADP	R-	_	22	case	_	ref=
+22	кн҃зю	кънязь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	nmod	_	ref=
+23	ярославоу	ярославъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	22	appos	_	ref=
+
+# source = Novgorod’s treaty with Grand Prince Jaroslav Jaroslavich, 1266, Novgorod’s treaty with Grand Prince Jaroslav Jaroslavich, 1266
+# text = на семь кн҃же цѣлоуи хс҃ъ къ всѣмоу новоугородоу на цѣмь то цѣловали дѣди и ѡ҃ци и ѡ҃ць твои ярославъ
+# sent_id = 199720
+1	на	на	ADP	R-	_	2	case	_	ref=
+2	семь	сии	ADJ	Pd	Case=Loc|Gender=Neut|Number=Sing	4	obl	_	ref=
+3	кн҃же	кънязь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	ref=
+4	цѣлоуи	цѣловати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	хс҃ъ	хрьстъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj:dir	_	ref=
+6	къ	къ	ADP	R-	_	8	case	_	ref=
+7	всѣмоу	вьсь	DET	Px	Case=Dat|Gender=Masc|Number=Sing	8	det	_	ref=
+8	новоугородоу	новъгородъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	ref=
+9	на	на	ADP	R-	_	10	case	_	ref=
+10	цѣмь	чьто	PRON	Pr	Case=Ins|Gender=Neut|Number=Sing|PronType=Rel	12	obl	_	ref=
+11	то	то	ADV	Df	_	10	advmod	_	ref=
+12	цѣловали	цѣловати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	2	acl	_	ref=
+13	дѣди	дѣдъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	ref=
+14	и	и	CCONJ	C-	_	13	cc	_	ref=
+15	ѡ҃ци	отьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	13	conj	_	ref=
+16	и	и	CCONJ	C-	_	13	cc	_	ref=
+17	ѡ҃ць	отьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	13	conj	_	ref=
+18	твои	твои	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes	17	nmod	_	ref=
+19	ярославъ	ярославъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	17	appos	_	ref=

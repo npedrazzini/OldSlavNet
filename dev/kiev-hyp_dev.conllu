@@ -1,0 +1,75 @@
+# source = The Kiev Chronicle, Codex Hypatianus, 6640
+# text = В лѣто ҂ѕ҃ х҃ м ходи мьстиславъ на литву съ сн҃ъми своими и с ълговичи и съ всеволодомъ городеньскимъ
+# sent_id = 200571
+1	В	въ	ADP	R-	_	2	case	_	ref=
+2	лѣто	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	ref=
+3	҂ѕ҃	шесть.тысячь	NUM	Ma	_	2	nummod	_	ref=
+4	х҃	шестьсътъ	NUM	Ma	_	3	conj	_	ref=
+5	м	четыредесяте	NUM	Ma	_	3	conj	_	ref=
+6	ходи	ходити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+7	мьстиславъ	мьстиславъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=
+8	на	на	ADP	R-	_	9	case	_	ref=
+9	литву	литъва	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	ref=
+10	съ	съ	ADP	R-	_	11	case	_	ref=
+11	сн҃ъми	сынъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	6	obl	_	ref=
+12	своими	свои	ADJ	Pt	Case=Ins|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	11	nmod	_	ref=
+13	и	и	CCONJ	C-	_	11	cc	_	ref=
+14	с	съ	ADP	R-	_	15	case	_	ref=
+15	ълговичи	ольговичь	PROPN	Ne	Case=Ins|Gender=Masc|Number=Plur	11	conj	_	ref=
+16	и	и	CCONJ	C-	_	11	cc	_	ref=
+17	съ	съ	ADP	R-	_	18	case	_	ref=
+18	всеволодомъ	вьсеволодъ	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	11	conj	_	ref=
+19	городеньскимъ	городьньскыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	18	amod	_	ref=
+
+# source = The Kiev Chronicle, Codex Hypatianus, 6640
+# text = и пожгоша я а сами сѧ расхорониша
+# sent_id = 200575
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	пожгоша	пожещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	я	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj:dir	_	ref=
+4	а	а	CCONJ	C-	_	2	cc	_	ref=
+5	сами	самъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	ref=
+6	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	7	aux	_	ref=
+7	расхорониша	расхоронити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=
+
+# source = The Kiev Chronicle, Codex Hypatianus, 6640
+# text = а кианъ тогда много побиша литва
+# sent_id = 200576
+1	а	а	CCONJ	C-	_	5	cc	_	ref=
+2	кианъ	кыянинъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	ref=
+3	тогда	тъгда	ADV	Df	_	5	advmod	_	ref=
+4	много	мъногыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	5	obj:dir	_	ref=
+5	побиша	побити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	литва	литъва	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	ref=
+
+# source = The Kiev Chronicle, Codex Hypatianus, 6640
+# text = не втѧгли бо бѧху съ кн҃земъ но послѣди идѧху по немъ особѣ
+# sent_id = 200577
+1	не	не	ADV	Df	_	2	advmod	_	ref=
+2	втѧгли	утягнути	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+3	бо	бо	ADV	Df	_	2	advmod	_	ref=
+4	бѧху	быти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	aux	_	ref=
+5	съ	съ	ADP	R-	_	6	case	_	ref=
+6	кн҃земъ	кънязь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	2	obl	_	ref=
+7	но	нъ	CCONJ	C-	_	2	cc	_	ref=
+8	послѣди	послѣди	ADV	Df	_	9	advmod	_	ref=
+9	идѧху	ити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=
+10	по	по	ADP	R-	_	11	case	_	ref=
+11	немъ	и	PRON	Pp	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	ref=
+12	особѣ	особѣ	ADV	Df	_	9	advmod	_	ref=
+
+# source = The Kiev Chronicle, Codex Hypatianus, 6640
+# text = В се же лѣто заложена быс҃ цр҃кви камѧна ст҃ая бц҃а рекомая пирогоща
+# sent_id = 200580
+1	В	въ	ADP	R-	_	4	case	_	ref=
+2	се	сии	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	4	det	_	ref=
+3	же	же	ADV	Df	_	2	advmod	_	ref=
+4	лѣто	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	ref=
+5	заложена	заложити	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	6	xcomp	_	ref=
+6	быс҃	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+7	цр҃кви	цьркы	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	ref=
+8	камѧна	каменьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	7	amod	_	ref=
+9	ст҃ая	святыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	10	amod	_	ref=
+10	бц҃а	богородица	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	appos	_	ref=
+11	рекомая	рещи	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Pass	7	acl	_	ref=
+12	пирогоща	пирогоща	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	11	xcomp	_	ref=

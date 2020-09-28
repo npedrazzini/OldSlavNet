@@ -1,0 +1,283 @@
+# source = Birch bark letters, 9
+# text = ѿ гостѧтꙑ къ васильви
+# sent_id = 210135
+1	ѿ	отъ	ADP	R-	_	2	case	_	ref=
+2	гостѧтꙑ	гостята	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	0	root	_	ref=
+3	къ	къ	ADP	R-	_	4	case	_	ref=
+4	васильви	василь	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	ref=
+
+# source = Birch bark letters, 9
+# text = ѥже ми отьць даѧлъ и роди съдаѧли а то за нимь
+# sent_id = 210136
+1	ѥже	иже	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	4	obj:dir	_	ref=
+2	ми	азъ	PRON	Pp	Case=Dat|Gender=Fem|Number=Sing|Person=1|PronType=Prs	4	iobj	_	ref=
+3	отьць	отьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=
+4	даѧлъ	даяти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	9	acl	_	ref=
+5	и	и	CCONJ	C-	_	4	cc	_	ref=
+6	роди	родъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	ref=
+7	съдаѧли	съдаяти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	4	conj	_	ref=
+8	а	а	CCONJ	C-	_	11	cc	_	ref=
+9	то	тыи	ADJ	Pd	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	ref=
+10	за	за	ADP	R-	_	11	case	_	ref=
+11	нимь	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	ref=
+
+# source = Birch bark letters, 9
+# text = а нꙑнҍ водѧ новѹю женѹ а мънҍ не въдасть ничьтоже
+# sent_id = 210137
+1	а	а	CCONJ	C-	_	3	cc	_	ref=
+2	нꙑнҍ	нынѣ	ADV	Df	_	3	advmod	_	ref=
+3	водѧ	водити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	ref=
+4	новѹю	новыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	5	amod	_	ref=
+5	женѹ	жена	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obj:dir	_	ref=
+6	а	а	CCONJ	C-	_	3	cc	_	ref=
+7	мънҍ	азъ	PRON	Pp	Case=Dat|Gender=Fem|Number=Sing|Person=1|PronType=Prs	9	iobj	_	ref=
+8	не	не	ADV	Df	_	9	advmod	_	ref=
+9	въдасть	въдати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=
+10	ничьтоже	ничьтоже	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	9	obj:dir	_	ref=
+
+# source = Birch bark letters, 9
+# text = избивъ рѹкꙑ пѹстилъ же мѧ а инѹю поѧлъ
+# sent_id = 210138
+1	избивъ	избити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	3	advcl	_	ref=
+2	рѹкꙑ	рука	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	1	obj:dir	_	ref=
+3	пѹстилъ	пустити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+4	же	же	ADV	Df	_	3	advmod	_	ref=
+5	мѧ	азъ	PRON	Pp	Case=Acc|Gender=Fem|Number=Sing|Person=1|PronType=Prs	3	obj:dir	_	ref=
+6	а	а	CCONJ	C-	_	3	cc	_	ref=
+7	инѹю	иныи	ADJ	Px	Case=Acc|Gender=Fem|Number=Sing	8	obj:dir	_	ref=
+8	поѧлъ	пояти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	3	conj	_	ref=
+
+# source = Birch bark letters, 9
+# text = доеди добрҍ сътворѧ
+# sent_id = 210139
+1	доеди	доѣхати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	добрҍ	добрѣ	ADV	Df	Degree=Pos	3	advmod	_	ref=
+3	сътворѧ	сътворити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	ref=
+
+# source = Birch bark letters, 43
+# text = ѿ бориса ко ностасии
+# sent_id = 210140
+1	ѿ	отъ	ADP	R-	_	2	case	_	ref=
+2	бориса	борисъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	0	root	_	ref=
+3	ко	къ	ADP	R-	_	4	case	_	ref=
+4	ностасии	настася	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	2	obl	_	ref=
+
+# source = Birch bark letters, 43
+# text = како приде сѧ грамота тако пришли ми цоловҍкъ на жерепцҍ зане ми здҍсе дҍлъ много
+# sent_id = 210203
+1	како	како	ADV	Dq	PronType=Rel	2	advmod	_	ref=
+2	приде	приити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	ref=
+3	сѧ	сии	DET	Pd	Case=Nom|Gender=Fem|Number=Sing	4	det	_	ref=
+4	грамота	грамота	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=
+5	тако	тако	ADV	Df	_	6	advmod	_	ref=
+6	пришли	присълати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+7	ми	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	6	iobj	_	ref=
+8	цоловҍкъ	человѣкъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obj:dir	_	ref=
+9	на	на	ADP	R-	_	10	case	_	ref=
+10	жерепцҍ	жеребьць	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	8	nmod	_	ref=
+11	зане	зане	SCONJ	G-	_	15	mark	_	ref=
+12	ми	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	15	orphan	_	ref=
+13	здҍсе	сьдесе	ADV	Df	_	15	orphan	_	ref=
+14	дҍлъ	дѣло	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	15	nmod	_	ref=
+15	много	мъного	ADV	Df	Degree=Pos	6	advmod	_	ref=
+
+# source = Birch bark letters, 43
+# text = да пришли сороцицю
+# sent_id = 210144
+1	да	да	CCONJ	C-	_	2	cc	_	ref=
+2	пришли	присълати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	сороцицю	сорочица	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj:dir	_	ref=
+
+# source = Birch bark letters, 43
+# text = сороцицҍ забꙑле
+# sent_id = 210145
+1	сороцицҍ	сорочица	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	2	iobj	_	ref=
+2	забꙑле	забыти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Birch bark letters, 109
+# text = грамота ѡтъ жизномира къ микѹле
+# sent_id = 210146
+1	грамота	грамота	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=
+2	ѡтъ	отъ	ADP	R-	_	3	case	_	ref=
+3	жизномира	жизномиръ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	ref=
+4	къ	къ	ADP	R-	_	5	case	_	ref=
+5	микѹле	микула	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	1	nmod	_	ref=
+
+# source = Birch bark letters, 109
+# text = кѹпилъ еси робѹ плъскове
+# sent_id = 210149
+1	кѹпилъ	купити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+2	еси	быти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	ref=
+3	робѹ	роба	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj:dir	_	ref=
+4	плъскове	пльсковъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	1	obl	_	ref=
+
+# source = Birch bark letters, 109
+# text = а нꙑне мѧ въ томъ ѧла кънѧгꙑни
+# sent_id = 210150
+1	а	а	CCONJ	C-	_	6	cc	_	ref=
+2	нꙑне	нынѣ	ADV	Df	_	6	advmod	_	ref=
+3	мѧ	азъ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	6	obj:dir	_	ref=
+4	въ	въ	ADP	R-	_	5	case	_	ref=
+5	томъ	тыи	ADJ	Pd	Case=Loc|Gender=Neut|Number=Sing	6	obl	_	ref=
+6	ѧла	яти	VERB	V-	Aspect=Res|Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+7	кънѧгꙑни	кънягыни	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	ref=
+
+# source = Birch bark letters, 109
+# text = а нꙑне сѧ дрѹжина по мѧ порѹчила
+# sent_id = 210153
+1	а	а	CCONJ	C-	_	7	cc	_	ref=
+2	нꙑне	нынѣ	ADV	Df	_	7	advmod	_	ref=
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	7	aux	_	ref=
+4	дрѹжина	дружина	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	ref=
+5	по	по	ADP	R-	_	6	case	_	ref=
+6	мѧ	азъ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	obl	_	ref=
+7	порѹчила	поручити	VERB	V-	Aspect=Res|Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Birch bark letters, 109
+# text = а нꙑне ка посъли къ томѹ мѹжеви грамотѹ ели ѹ него роба
+# sent_id = 210155
+1	а	а	CCONJ	C-	_	4	cc	_	ref=
+2	нꙑне	нынѣ	ADV	Df	_	4	advmod	_	ref=
+3	ка	ка	ADV	Df	_	4	advmod	_	ref=
+4	посъли	посълати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	къ	къ	ADP	R-	_	7	case	_	ref=
+6	томѹ	тыи	DET	Pd	Case=Dat|Gender=Masc|Number=Sing	7	det	_	ref=
+7	мѹжеви	мужь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	ref=
+8	грамотѹ	грамота	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj:dir	_	ref=
+9	ели	ели	SCONJ	G-	_	11	mark	_	ref=
+10	ѹ	у	ADP	R-	_	11	case	_	ref=
+11	него	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	advcl	_	ref=
+12	роба	роба	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	ref=
+
+# source = Birch bark letters, 109
+# text = а се ти хочѹ
+# sent_id = 210158
+1	а	а	CCONJ	C-	_	4	cc	_	ref=
+2	се	се	INTJ	I-	_	4	vocative	_	ref=
+3	ти	ти	ADV	Df	_	4	advmod	_	ref=
+4	хочѹ	хотѣти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = Birch bark letters, 109
+# text = коне кѹпивъ и кънѧжъ мѹжъ въсадивъ та на съводꙑ
+# sent_id = 210159
+1	коне	конь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	2	obj:dir	_	ref=
+2	кѹпивъ	купити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=
+3	и	и	CCONJ	C-	_	2	cc	_	ref=
+4	кънѧжъ	къняжь	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	5	amod	_	ref=
+5	мѹжъ	мужь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obj:dir	_	ref=
+6	въсадивъ	въсадити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	2	conj	_	ref=
+7	та	та	CCONJ	C-	_	2	cc	_	ref=
+8	на	на	ADP	R-	_	9	case	_	ref=
+9	съводꙑ	съводъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	2	conj	_	ref=
+
+# source = Birch bark letters, 109
+# text = а тꙑ атче еси не възалъ кѹнъ техъ а не емли ничътоже ѹ него
+# sent_id = 210162
+1	а	а	CCONJ	C-	_	0	root	_	ref=
+2	тꙑ	ты	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	ref=
+3	атче	аче	SCONJ	G-	_	6	mark	_	ref=
+4	еси	быти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	ref=
+5	не	не	ADV	Df	_	6	advmod	_	ref=
+6	възалъ	възяти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	1	advcl	_	ref=
+7	кѹнъ	куна	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	6	obj:dir	_	ref=
+8	техъ	тыи	DET	Pd	Case=Gen|Gender=Fem|Number=Plur	7	det	_	ref=
+9	а	а	CCONJ	C-	_	1	cc	_	ref=
+10	не	не	ADV	Df	_	11	advmod	_	ref=
+11	емли	имати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=
+12	ничътоже	ничьтоже	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	11	obj:dir	_	ref=
+13	ѹ	у	ADP	R-	_	14	case	_	ref=
+14	него	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	ref=
+
+# source = Birch bark letters, 142
+# text = ѿ есифа к ънфиму
+# sent_id = 210165
+1	ѿ	отъ	ADP	R-	_	2	case	_	ref=
+2	есифа	есифъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	0	root	_	ref=
+3	к	къ	ADP	R-	_	4	case	_	ref=
+4	ънфиму	онфимъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	ref=
+
+# source = Birch bark letters, 142
+# text = чтъ пришле ѿ маркь к тобҍ людии ѡлькса или къ жене мъѥи ѿвҍцаи ѥму такъ
+# sent_id = 210167
+1	чтъ	чьто	SCONJ	G-	_	2	mark	_	ref=
+2	пришле	присълати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	ref=
+3	ѿ	отъ	ADP	R-	_	4	case	_	ref=
+4	маркь	марка	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	ref=
+5	к	къ	ADP	R-	_	6	case	_	ref=
+6	тобҍ	ты	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	obl	_	ref=
+7	людии	людие	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	2	obj:dir	_	ref=
+8	ѡлькса	олекса	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=
+9	или	или	CCONJ	C-	_	6	cc	_	ref=
+10	къ	къ	ADP	R-	_	11	case	_	ref=
+11	жене	жена	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	6	conj	_	ref=
+12	мъѥи	мои	ADJ	Ps	Case=Dat|Gender=Fem|Number=Sing|Person=1|Poss=Yes	11	nmod	_	ref=
+13	ѿвҍцаи	отъвѣчати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+14	ѥму	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	iobj	_	ref=
+15	такъ	тако	ADV	Df	_	13	advmod	_	ref=
+
+# source = Birch bark letters, 142
+# text = какъ ѥси дъкънчалъ марке съ мнъю мнҍ вꙑѥхати на петръво дн҃е к тобҍ и росмътрити сьла своѥгъ
+# sent_id = 210170
+1	какъ	како	ADV	Dq	PronType=Rel	3	advmod	_	ref=
+2	ѥси	быти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	ref=
+3	дъкънчалъ	доконьчати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	8	advcl	_	ref=
+4	марке	маркъ	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	ref=
+5	съ	съ	ADP	R-	_	6	case	_	ref=
+6	мнъю	азъ	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	obl	_	ref=
+7	мнҍ	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	ref=
+8	вꙑѥхати	выѣхати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+9	на	на	ADP	R-	_	11	case	_	ref=
+10	петръво	петровъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	11	amod	_	ref=
+11	дн҃е	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	ref=
+12	к	къ	ADP	R-	_	13	case	_	ref=
+13	тобҍ	ты	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	obl	_	ref=
+14	и	и	CCONJ	C-	_	8	cc	_	ref=
+15	росмътрити	росъмотрити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	conj	_	ref=
+16	сьла	село	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	15	iobj	_	ref=
+17	своѥгъ	свои	ADJ	Pt	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	16	nmod	_	ref=
+
+# source = Birch bark letters, 142
+# text = тъбҍ ръже свъѧ снѧти
+# sent_id = 210173
+1	тъбҍ	ты	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	ref=
+2	ръже	ръжь	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	obj:dir	_	ref=
+3	свъѧ	свои	ADJ	Pt	Case=Nom|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	2	nmod	_	ref=
+4	снѧти	съняти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+
+# source = Birch bark letters, 142
+# text = а мнҍ накладꙑ твоѥ дати
+# sent_id = 210204
+1	а	а	CCONJ	C-	_	5	cc	_	ref=
+2	мнҍ	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	ref=
+3	накладꙑ	накладъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	5	obj:dir	_	ref=
+4	твоѥ	твои	ADJ	Ps	Case=Acc|Gender=Masc|Number=Plur|Person=2|Poss=Yes	3	nmod	_	ref=
+5	дати	дати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+
+# source = Birch bark letters, 142
+# text = а истина дана
+# sent_id = 210174
+1	а	а	CCONJ	C-	_	3	cc	_	ref=
+2	истина	истина	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj:pass	_	ref=
+3	дана	дати	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=
+
+# source = Birch bark letters, 142
+# text = а четъ ѡмьшҍ пришлю и вꙑ имъ къне мъи голубꙑи даите съ людми да те съхҍ не кладе
+# sent_id = 210175
+1	а	а	CCONJ	C-	_	0	root	_	ref=
+2	четъ	чьто	SCONJ	G-	_	4	mark	_	ref=
+3	ѡмьшҍ	омешь	NOUN	Nb	Case=Acc|Gender=Fem,Masc|Number=Plur	4	obj:dir	_	ref=
+4	пришлю	присълати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	ref=
+5	и	и	CCONJ	C-	_	1	cc	_	ref=
+6	вꙑ	вы	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	11	nsubj	_	ref=
+7	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	iobj	_	ref=
+8	къне	конь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	11	obj:dir	_	ref=
+9	мъи	мои	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	8	det	_	ref=
+10	голубꙑи	голубыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	8	amod	_	ref=
+11	даите	даяти	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=
+12	съ	съ	ADP	R-	_	13	case	_	ref=
+13	людми	людие	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	11	obl	_	ref=
+14	да	да	SCONJ	G-	_	18	mark	_	ref=
+15	те	ти	ADV	Df	_	18	advmod	_	ref=
+16	съхҍ	соха	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	18	obj:dir	_	ref=
+17	не	не	ADV	Df	_	18	advmod	_	ref=
+18	кладе	класти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	ref=

@@ -1,0 +1,51 @@
+# source = Kiev Missal, On the day of St. Clement
+# text = ВЪ И҃ В҃ ДЬНЬ КЛꙆМЕНТА
+# sent_id = 219473
+1	ВЪ	въ	ADP	R-	_	4	case	_	ref=
+2	И҃	дъва.десѧти	NUM	Ma	_	4	nummod	_	ref=
+3	В҃	триѥ	NUM	Ma	_	2	conj	_	ref=
+4	ДЬНЬ	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	0	root	_	ref=
+5	КЛꙆМЕНТА	климентъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	ref=
+
+# source = Kiev Missal, On the day of St. Clement
+# text = Бъ҃ ꙇже нъи лѣтa огрѧдѫцѣ блaженaго климентa мѫченікa твоего ꙇ пaпежa чьстьѭ веселішꙇ подaзь мілостівъі дa егоже чьсть чьстімъ сілоѭ ѹбо мѫчениѣ его нaслѣдѹемъ г҃мь
+# sent_id = 219713
+1	Бъ҃	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	ref=
+2	ꙇже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	13	nsubj	_	ref=
+3	нъи	мꙑ	PRON	Pp	Case=Acc|Number=Plur|Person=1|PronType=Prs	13	obj:dir	_	ref=
+4	лѣтa	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	13	obl	_	ref=
+5	огрѧдѫцѣ	огрѧсти	VERB	V-	Case=Gen|Gender=Neut|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	ref=
+6	блaженaго	блаженъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	7	amod	_	ref=
+7	климентa	климентъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	ref=
+8	мѫченікa	мѫченикъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	appos	_	ref=
+9	твоего	твои	ADJ	Ps	Case=Gen|Gender=Masc|Number=Sing|Person=2|Poss=Yes	8	nmod	_	ref=
+10	ꙇ	и	CCONJ	C-	_	8	cc	_	ref=
+11	пaпежa	папежь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	conj	_	ref=
+12	чьстьѭ	чьсть	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	13	obl	_	ref=
+13	веселішꙇ	веселити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl	_	ref=
+14	подaзь	подати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+15	мілостівъі	милостивъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	1	amod	_	ref=
+16	дa	да	SCONJ	G-	_	24	mark	_	ref=
+17	егоже	иже	PRON	Pr	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	18	det	_	ref=
+18	чьсть	чьсть	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	19	obj:dir	_	ref=
+19	чьстімъ	чьстити	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	23	acl	_	ref=
+20	сілоѭ	сила	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	24	obl	_	ref=
+21	ѹбо	оубо	ADV	Df	_	24	discourse	_	ref=
+22	мѫчениѣ	мѫчениѥ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	ref=
+23	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	det	_	ref=
+24	нaслѣдѹемъ	наслѣдовати	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	14	ccomp	_	ref=
+25	г҃мь	господь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	24	obl	_	ref=
+
+# source = Kiev Missal, On the day of St. Clement
+# text = НАДЪ ОПЛАТМЬ
+# sent_id = 219479
+1	НАДЪ	надъ	ADP	R-	_	2	case	_	ref=
+2	ОПЛАТМЬ	оплатъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	0	root	_	ref=
+
+# source = Kiev Missal, On the day of St. Clement
+# text = Ровaниѧ г҃і прінесенъиѧ свѧті
+# sent_id = 219714
+1	Ровaниѧ	рованиѩ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	4	obj:dir	_	ref=
+2	г҃і	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	ref=
+3	прінесенъиѧ	принести	VERB	V-	Case=Acc|Gender=Fem|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	1	acl	_	ref=
+4	свѧті	свѧтити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=

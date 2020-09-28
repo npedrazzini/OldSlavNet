@@ -1,0 +1,38 @@
+# source = Missive from Prince Ivan of Pskov, 1463–1465, Missive from Prince Ivan of Pskov
+# text = Ѿ кн҃жѧ псковъского ивана александрович и ѿ посадник псковьского степенного максима ларивонович и ѿ всехъ посадниковъ псковъскихъ и ѿ бояръ псковьскихъ и ѿ купцовъ и ѿ всего пскова суседомъ нашимъ посадникомъ рижкимъ и ратманом рижкимъ
+# sent_id = 199504
+1	Ѿ	отъ	ADP	R-	_	2	case	_	ref=
+2	кн҃жѧ	кънязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	0	root	_	ref=
+3	псковъского	пльсковьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	2	advmod	_	ref=
+4	ивана	иванъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	appos	_	ref=
+5	александрович	александровичь	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	flat:name	_	ref=
+6	и	и	CCONJ	C-	_	2	cc	_	ref=
+7	ѿ	отъ	ADP	R-	_	8	case	_	ref=
+8	посадник	посадьникъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	conj	_	ref=
+9	псковьского	пльсковьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	8	amod	_	ref=
+10	степенного	степеньныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	8	amod	_	ref=
+11	максима	максимъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	8	appos	_	ref=
+12	ларивонович	ларионовичь	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	11	flat:name	_	ref=
+13	и	и	CCONJ	C-	_	2	cc	_	ref=
+14	ѿ	отъ	ADP	R-	_	16	case	_	ref=
+15	всехъ	вьсь	DET	Px	Case=Gen|Gender=Masc|Number=Plur	16	det	_	ref=
+16	посадниковъ	посадьникъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	2	conj	_	ref=
+17	псковъскихъ	пльсковьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	16	amod	_	ref=
+18	и	и	CCONJ	C-	_	2	cc	_	ref=
+19	ѿ	отъ	ADP	R-	_	20	case	_	ref=
+20	бояръ	бояринъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	2	conj	_	ref=
+21	псковьскихъ	пльсковьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	20	amod	_	ref=
+22	и	и	CCONJ	C-	_	2	cc	_	ref=
+23	ѿ	отъ	ADP	R-	_	24	case	_	ref=
+24	купцовъ	купьць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	2	conj	_	ref=
+25	и	и	CCONJ	C-	_	2	cc	_	ref=
+26	ѿ	отъ	ADP	R-	_	28	case	_	ref=
+27	всего	вьсь	DET	Px	Case=Gen|Gender=Masc|Number=Sing	28	det	_	ref=
+28	пскова	пльсковъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	conj	_	ref=
+29	суседомъ	сусѣдъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	2	iobj	_	ref=
+30	нашимъ	нашь	ADJ	Ps	Case=Dat|Gender=Masc|Number=Plur|Person=1|Poss=Yes	29	nmod	_	ref=
+31	посадникомъ	посадьникъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	29	appos	_	ref=
+32	рижкимъ	рижьскыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	31	amod	_	ref=
+33	и	и	CCONJ	C-	_	31	cc	_	ref=
+34	ратманом	ратманъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	31	conj	_	ref=
+35	рижкимъ	рижьскыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	34	amod	_	ref=

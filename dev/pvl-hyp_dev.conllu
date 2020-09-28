@@ -1,0 +1,459 @@
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = В лѣто ҂ѕ҃ у҃ ѕ҃ Їдоша оугре мимо киевъ горою еже сѧ зоветь н҃нѣ оугорьское
+# sent_id = 202340
+1	В	въ	ADP	R-	_	2	case	_	ref=25.10
+2	лѣто	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	ref=25.10
+3	҂ѕ҃	шесть.тысячь	NUM	Ma	_	2	nummod	_	ref=25.10
+4	у҃	четырисъта	NUM	Ma	_	3	conj	_	ref=25.10
+5	ѕ҃	шесть	NUM	Ma	_	3	conj	_	ref=25.10
+6	Їдоша	ити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=25.10
+7	оугре	угъринъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	ref=25.10
+8	мимо	мимо	ADP	R-	_	9	case	_	ref=25.10
+9	киевъ	кыевъ	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	ref=25.10
+10	горою	гора	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	6	obl	_	ref=25.11
+11	еже	иже	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	13	nsubj	_	ref=25.11
+12	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	13	aux	_	ref=25.11
+13	зоветь	зъвати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl	_	ref=25.11
+14	н҃нѣ	нынѣ	ADV	Df	_	13	advmod	_	ref=25.11
+15	оугорьское	угърьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	13	xcomp	_	ref=25.11
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = и пришедше къ днѣпру сташа вежами
+# sent_id = 202342
+1	и	и	CCONJ	C-	_	5	cc	_	ref=25.11
+2	пришедше	приити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	5	advcl	_	ref=25.12
+3	къ	къ	ADP	R-	_	4	case	_	ref=25.12
+4	днѣпру	дънѣпръ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	ref=25.12
+5	сташа	стати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=25.12
+6	вежами	вежа	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	5	obl	_	ref=25.12
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = бѣша бо ходѧще яко и половци
+# sent_id = 202344
+1	бѣша	быти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=25.13
+2	бо	бо	ADV	Df	_	1	advmod	_	ref=25.13
+3	ходѧще	ходити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	1	xcomp	_	ref=25.13
+4	яко	яко	ADV	Df	_	3	advcl	_	ref=25.13
+5	и	и	ADV	Df	_	6	advmod	_	ref=25.13
+6	половци	половьчинъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	ref=25.13
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = и пришедше ѿ въстока и оустремиша сѧ чересъ горы великыя иже прозваша сѧ горы оугорьскыя
+# sent_id = 202345
+1	и	и	CCONJ	C-	_	2	cc	_	ref=25.13
+2	пришедше	приити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=25.13
+3	ѿ	отъ	ADP	R-	_	4	case	_	ref=25.14
+4	въстока	въстокъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	obl	_	ref=25.14
+5	и	и	CCONJ	C-	_	2	cc	_	ref=25.14
+6	оустремиша	устрьмити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=25.14
+7	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	6	aux	_	ref=25.14
+8	чересъ	чересъ	ADP	R-	_	9	case	_	ref=25.14
+9	горы	гора	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	6	obl	_	ref=25.14
+10	великыя	великыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	9	amod	_	ref=25.14
+11	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	12	nsubj	_	ref=25.15
+12	прозваша	прозъвати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	acl	_	ref=25.15
+13	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	12	aux	_	ref=25.15
+14	горы	гора	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	12	xcomp	_	ref=25.15
+15	оугорьскыя	угърьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	14	amod	_	ref=25.15
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = и почаша воевати на живущая ту
+# sent_id = 202348
+1	и	и	CCONJ	C-	_	2	cc	_	ref=25.15
+2	почаша	почати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=25.15
+3	воевати	воевати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=25.16
+4	на	на	ADP	R-	_	5	case	_	ref=25.16
+5	живущая	жити	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	3	obl	_	ref=25.16
+6	ту	ту	ADV	Df	_	5	advmod	_	ref=25.16
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = сѣдѧху бо ту преже словене и волохове
+# sent_id = 202349
+1	сѣдѧху	сѣдѣти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=25.17
+2	бо	бо	ADV	Df	_	1	advmod	_	ref=25.17
+3	ту	ту	ADV	Df	_	1	advmod	_	ref=25.17
+4	преже	прѣже	ADV	Df	_	1	advmod	_	ref=25.17
+5	словене	словѣнинъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	ref=25.17
+6	и	и	CCONJ	C-	_	5	cc	_	ref=25.17
+7	волохове	волохъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	5	conj	_	ref=25.17
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = переяша землю волыньскую
+# sent_id = 202351
+1	переяша	переяти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=25.18
+2	землю	земля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj:dir	_	ref=25.18
+3	волыньскую	волыньскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	2	amod	_	ref=25.18
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = посемъ же оугре прогнаша волохы
+# sent_id = 202352
+1	посемъ	посемь	ADV	Df	_	4	advmod	_	ref=25.18
+2	же	же	ADV	Df	_	4	advmod	_	ref=25.18
+3	оугре	угъринъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	ref=25.18
+4	прогнаша	прогънати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=25.18
+5	волохы	волохъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	4	obj:dir	_	ref=25.19
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = и наслѣдиша землю ту
+# sent_id = 202353
+1	и	и	CCONJ	C-	_	2	cc	_	ref=25.19
+2	наслѣдиша	наслѣдити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=25.19
+3	землю	земля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj:dir	_	ref=25.19
+4	ту	тыи	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	3	det	_	ref=25.19
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = и сѣдоша съ словеньми покоривше я подъ сѧ
+# sent_id = 202354
+1	и	и	CCONJ	C-	_	2	cc	_	ref=25.19
+2	сѣдоша	сѣсти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=25.19
+3	съ	съ	ADP	R-	_	4	case	_	ref=25.20
+4	словеньми	словѣнинъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	2	obl	_	ref=25.20
+5	покоривше	покорити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	2	advcl	_	ref=25.20
+6	я	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	obj:dir	_	ref=25.20
+7	подъ	подъ	ADP	R-	_	8	case	_	ref=25.20
+8	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	obl	_	ref=25.20
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = и ѿтолѣ прозва сѧ землѧ оугорьска
+# sent_id = 202356
+1	и	и	CCONJ	C-	_	3	cc	_	ref=25.20
+2	ѿтолѣ	отътолѣ	ADV	Df	_	3	advmod	_	ref=25.21
+3	прозва	прозъвати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=25.21
+4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=25.21
+5	землѧ	земля	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	ref=25.21
+6	оугорьска	угърьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	3	xcomp	_	ref=25.21
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = и начаша воевати оугре на грѣкы
+# sent_id = 202357
+1	и	и	CCONJ	C-	_	2	cc	_	ref=25.21
+2	начаша	начати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=25.21
+3	воевати	воевати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=25.22
+4	оугре	угъринъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	ref=25.22
+5	на	на	ADP	R-	_	6	case	_	ref=25.22
+6	грѣкы	грьчинъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	3	obl	_	ref=25.22
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = и пополониша землю фрачьскую и македоньску доже и до селунѧ
+# sent_id = 202359
+1	и	и	CCONJ	C-	_	2	cc	_	ref=25.22
+2	пополониша	пополонити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=25.22
+3	землю	земля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj:dir	_	ref=25.22
+4	фрачьскую	фрачьскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	3	amod	_	ref=25.23
+5	и	и	CCONJ	C-	_	3	cc	_	ref=25.23
+6	македоньску	македоньскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	3	conj	_	ref=25.23
+7	доже	доже	ADV	Df	_	9	advmod	_	ref=25.23
+8	и	и	ADV	Df	_	9	advmod	_	ref=25.23
+9	до	до	ADP	R-	_	10	case	_	ref=25.23
+10	селунѧ	селунь	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	ref=25.23
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = и начаша воевати на мораву и на чехы
+# sent_id = 202362
+1	и	и	CCONJ	C-	_	2	cc	_	ref=25.24
+2	начаша	начати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=25.24
+3	воевати	воевати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=25.24
+4	на	на	ADP	R-	_	5	case	_	ref=25.24
+5	мораву	морава	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	ref=25.24
+6	и	и	CCONJ	C-	_	5	cc	_	ref=25.24
+7	на	на	ADP	R-	_	8	case	_	ref=25.24
+8	чехы	чехъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	5	conj	_	ref=25.24
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = бѣ бо единъ языкъ словѣнѣскъ
+# sent_id = 202363
+1	бѣ	быти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=25.25
+2	бо	бо	ADV	Df	_	1	advmod	_	ref=25.25
+3	единъ	единъ	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	4	nummod	_	ref=25.25
+4	языкъ	языкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=25.25
+5	словѣнѣскъ	словѣньскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	4	amod	_	ref=25.25
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = словѣнѣ же сѣдѧху по дунаю ихъ же прияша оугре и морава и чеси и лѧховѣ и полѧне яже н҃нѣ зовемая русь
+# sent_id = 202364
+1	словѣнѣ	словѣнинъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	ref=25.25
+2	же	же	ADV	Df	_	3	advmod	_	ref=25.25
+3	сѣдѧху	сѣдѣти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=25.25
+4	по	по	ADP	R-	_	5	case	_	ref=25.26
+5	дунаю	дунаи	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	3	obl	_	ref=25.26
+6	ихъ	иже	PRON	Pr	Case=Gen|Gender=Masc|Number=Plur|PronType=Rel	8	obj:dir	_	ref=25.26
+7	же	же	PRON	Pr	Case=Gen|Gender=Masc|Number=Plur|PronType=Rel	6	flat	_	ref=25.26
+8	прияша	прияти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	acl	_	ref=25.26
+9	оугре	угъринъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	ref=25.26
+10	и	и	CCONJ	C-	_	1	cc	_	ref=25.26
+11	морава	морава	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	ref=25.26
+12	и	и	CCONJ	C-	_	1	cc	_	ref=25.27
+13	чеси	чехъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	1	conj	_	ref=25.27
+14	и	и	CCONJ	C-	_	1	cc	_	ref=25.27
+15	лѧховѣ	ляхъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	1	conj	_	ref=25.27
+16	и	и	CCONJ	C-	_	1	cc	_	ref=25.27
+17	полѧне	поляне	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	1	conj	_	ref=25.27
+18	яже	иже	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	20	nsubj:pass	_	ref=25.27
+19	н҃нѣ	нынѣ	ADV	Df	_	20	advmod	_	ref=26.1
+20	зовемая	зъвати	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Pass	17	acl	_	ref=26.1
+21	русь	русь	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	20	xcomp	_	ref=26.1
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = симъ пѣрвѣе положены книгы моравѣ яже и прозва сѧ грамота словеньская яже грамота е в руси и в болгарехъ дунаискых
+# sent_id = 205110
+1	симъ	сии	ADJ	Pd	Case=Dat|Gender=Masc|Number=Plur	3	iobj	_	ref=26.1
+2	пѣрвѣе	пьрвѣе	ADV	Df	_	3	advmod	_	ref=26.1
+3	положены	положити	VERB	V-	Case=Nom|Gender=Fem|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=26.1
+4	книгы	кънига	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	3	nsubj:pass	_	ref=26.2
+5	моравѣ	морава	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	1	appos	_	ref=26.2
+6	яже	иже	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	8	nsubj	_	ref=26.2
+7	и	и	ADV	Df	_	8	advmod	_	ref=26.2
+8	прозва	прозъвати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl	_	ref=26.2
+9	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	8	aux	_	ref=26.2
+10	грамота	грамота	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	8	xcomp	_	ref=26.2
+11	словеньская	словѣньскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	10	amod	_	ref=26.3
+12	яже	иже	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	13	det	_	ref=26.3
+13	грамота	грамота	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	ref=26.3
+14	е	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	_	ref=26.3
+15	в	въ	ADP	R-	_	16	case	_	ref=26.3
+16	руси	русь	PROPN	Ne	Case=Loc|Gender=Fem|Number=Sing	14	xcomp	_	ref=26.3
+17	и	и	CCONJ	C-	_	16	cc	_	ref=26.3
+18	в	въ	ADP	R-	_	19	case	_	ref=26.4
+19	болгарехъ	българе	NOUN	Nb	Case=Loc|Gender=Masc|Number=Plur	16	conj	_	ref=26.4
+20	дунаискых	дунаискыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	19	amod	_	ref=26.4
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = словѣномъ бо живущимъ крщсеным и кнѧземъ ихъ ростиславъ и с҃тополкъ и коцелъ послаша къ цсрю михаилу гл҃ще
+# sent_id = 202375
+1	словѣномъ	словѣнинъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	3	nsubj	_	ref=26.5
+2	бо	бо	ADV	Df	_	13	advmod	_	ref=26.5
+3	живущимъ	жити	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	13	advcl	_	ref=26.5
+4	крщсеным	крьстити	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	3	advcl	_	ref=26.5
+5	и	и	CCONJ	C-	_	1	cc	_	ref=26.5
+6	кнѧземъ	кънязь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	1	conj	_	ref=26.5
+7	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	det	_	ref=26.6
+8	ростиславъ	ростиславъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	ref=26.6
+9	и	и	CCONJ	C-	_	8	cc	_	ref=26.6
+10	с҃тополкъ	святопълкъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	8	conj	_	ref=26.6
+11	и	и	CCONJ	C-	_	8	cc	_	ref=26.6
+12	коцелъ	коцьлъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	8	conj	_	ref=26.6
+13	послаша	посълати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=26.6
+14	къ	къ	ADP	R-	_	15	case	_	ref=26.7
+15	цсрю	цѣсарь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	13	obl	_	ref=26.7
+16	михаилу	михаилъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	15	appos	_	ref=26.7
+17	гл҃ще	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	13	advcl	_	ref=26.7
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = землѧ наша крѣщена
+# sent_id = 202380
+1	землѧ	земля	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj:pass	_	ref=26.7
+2	наша	нашь	ADJ	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=1|Poss=Yes	1	nmod	_	ref=26.7
+3	крѣщена	крьстити	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=26.8
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = и нѣс в нас оучитель иже бы нас оучилъ и казалъ и протолковалъ с҃тыя книгы
+# sent_id = 202381
+1	и	и	CCONJ	C-	_	2	cc	_	ref=26.8
+2	нѣс	не.быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=26.8
+3	в	въ	ADP	R-	_	4	case	_	ref=26.8
+4	нас	мы	PRON	Pp	Case=Loc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	obl	_	ref=26.8
+5	оучитель	учитель	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=26.8
+6	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	9	nsubj	_	ref=26.8
+7	бы	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	aux	_	ref=26.8
+8	нас	мы	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	9	obj:dir	_	ref=26.8
+9	оучилъ	учити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	5	acl	_	ref=26.9
+10	и	и	CCONJ	C-	_	9	cc	_	ref=26.9
+11	казалъ	казати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	9	conj	_	ref=26.9
+12	и	и	CCONJ	C-	_	9	cc	_	ref=26.9
+13	протолковалъ	протълковати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	9	conj	_	ref=26.9
+14	с҃тыя	святыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	15	amod	_	ref=26.10
+15	книгы	кънига	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	13	obj:dir	_	ref=26.10
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = не разумѣемъ бо ни грѣчькому языку ни латиньскому
+# sent_id = 202385
+1	не	не	ADV	Df	_	2	advmod	_	ref=26.10
+2	разумѣемъ	разумѣти	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=26.10
+3	бо	бо	ADV	Df	_	2	advmod	_	ref=26.10
+4	ни	ни	CCONJ	C-	_	6	cc	_	ref=26.10
+5	грѣчькому	грьчьскыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	6	amod	_	ref=26.10
+6	языку	языкъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	ref=26.11
+7	ни	ни	CCONJ	C-	_	6	cc	_	ref=26.11
+8	латиньскому	латиньскыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	6	conj	_	ref=26.11
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = ѡны бо ны инако оучать а друзии инако
+# sent_id = 202387
+1	ѡны	оныи	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	ref=26.11
+2	бо	бо	ADV	Df	_	5	advmod	_	ref=26.11
+3	ны	мы	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	5	obj:dir	_	ref=26.11
+4	инако	инако	ADV	Df	_	5	advmod	_	ref=26.11
+5	оучать	учити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=26.12
+6	а	а	CCONJ	C-	_	5	cc	_	ref=26.12
+7	друзии	другыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	5	conj	_	ref=26.12
+8	инако	инако	ADV	Df	_	7	orphan	_	ref=26.12
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = тѣмь же не разумѣем книжнаго разума ни силы ихъ
+# sent_id = 202389
+1	тѣмь	тыи	ADJ	Pd	Case=Ins|Gender=Neut|Number=Sing	4	obl	_	ref=26.12
+2	же	же	ADV	Df	_	1	advmod	_	ref=26.12
+3	не	не	ADV	Df	_	4	advmod	_	ref=26.12
+4	разумѣем	разумѣти	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=26.13
+5	книжнаго	кънижьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	6	amod	_	ref=26.13
+6	разума	разумъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	obj:dir	_	ref=26.13
+7	ни	ни	CCONJ	C-	_	6	cc	_	ref=26.13
+8	силы	сила	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	conj	_	ref=26.13
+9	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	det	_	ref=26.13
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = а послете ны оучителѧ иже могуть ны сказати книжная словеса и разумъ ихъ
+# sent_id = 202391
+1	а	а	CCONJ	C-	_	2	cc	_	ref=26.13
+2	послете	посълати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=26.14
+3	ны	мы	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	iobj	_	ref=26.14
+4	оучителѧ	учитель	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	2	obj:dir	_	ref=26.14
+5	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	6	nsubj	_	ref=26.14
+6	могуть	мощи	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	_	ref=26.14
+7	ны	мы	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	8	iobj	_	ref=26.14
+8	сказати	съказати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	6	xcomp	_	ref=26.14
+9	книжная	кънижьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	10	amod	_	ref=26.15
+10	словеса	слово	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	8	obj:dir	_	ref=26.15
+11	и	и	CCONJ	C-	_	10	cc	_	ref=26.15
+12	разумъ	разумъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	10	conj	_	ref=26.15
+13	ихъ	и	PRON	Pp	Case=Gen|Gender=Neut|Number=Plur|Person=3|PronType=Prs	12	det	_	ref=26.15
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = Се слышавъ михаилъ цсрь съзъва философы всѧ и сказа имъ рѣчи всѧ словеньскыхъ кнѧзь
+# sent_id = 202394
+1	Се	сии	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	2	obj:dir	_	ref=26.15
+2	слышавъ	слышати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	5	advcl	_	ref=26.15
+3	михаилъ	михаилъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=26.15
+4	цсрь	цѣсарь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	ref=26.16
+5	съзъва	съзъвати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=26.16
+6	философы	философъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	5	obj:dir	_	ref=26.16
+7	всѧ	вьсь	DET	Px	Case=Acc|Gender=Masc|Number=Plur	6	det	_	ref=26.16
+8	и	и	CCONJ	C-	_	5	cc	_	ref=26.16
+9	сказа	съказати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	ref=26.16
+10	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	iobj	_	ref=26.16
+11	рѣчи	рѣчь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	9	obj:dir	_	ref=26.17
+12	всѧ	вьсь	DET	Px	Case=Acc|Gender=Fem|Number=Plur	11	det	_	ref=26.17
+13	словеньскыхъ	словѣньскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	14	amod	_	ref=26.17
+14	кнѧзь	кънязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	ref=26.17
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = и ркоша философы
+# sent_id = 202397
+1	и	и	CCONJ	C-	_	2	cc	_	ref=26.17
+2	ркоша	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=26.17
+3	философы	философъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	ref=26.17
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = есть мужь в селуни именемь левъ
+# sent_id = 202398
+1	есть	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=26.18
+2	мужь	мужь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=26.18
+3	в	въ	ADP	R-	_	4	case	_	ref=26.18
+4	селуни	селунь	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	1	obl	_	ref=26.18
+5	именемь	имя	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	6	nmod	_	ref=26.18
+6	левъ	львъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	ref=26.18
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = и суть оу него сн҃ве разумиви язьку словеньску
+# sent_id = 202400
+1	и	и	CCONJ	C-	_	2	cc	_	ref=26.18
+2	суть	быти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=26.19
+3	оу	у	ADP	R-	_	4	case	_	ref=26.19
+4	него	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	ref=26.19
+5	сн҃ве	сынъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	ref=26.19
+6	разумиви	разумивыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	5	amod	_	ref=26.19
+7	язьку	языкъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	iobj	_	ref=26.19
+8	словеньску	словѣньскыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	7	amod	_	ref=26.19
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = и хытра два с҃на оу него и философа
+# sent_id = 202401
+1	и	и	CCONJ	C-	_	2	cc	_	ref=26.19
+2	хытра	хытрыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Dual|Strength=Strong	0	root	_	ref=26.20
+3	два	дъва	NUM	Ma	Case=Nom|Gender=Masc|Number=Dual	4	nummod	_	ref=26.20
+4	с҃на	сынъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Dual	2	nsubj	_	ref=26.20
+5	оу	у	ADP	R-	_	6	case	_	ref=26.20
+6	него	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	ref=26.20
+7	и	и	CCONJ	C-	_	2	cc	_	ref=26.20
+8	философа	философъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Dual	2	conj	_	ref=26.20
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = Се слышавъ цсрь посла по нѧ в селунь къ лвови гл҃ѧ
+# sent_id = 202402
+1	Се	сии	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	2	obj:dir	_	ref=26.20
+2	слышавъ	слышати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	4	advcl	_	ref=26.20
+3	цсрь	цѣсарь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=26.21
+4	посла	посълати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=26.21
+5	по	по	ADP	R-	_	6	case	_	ref=26.21
+6	нѧ	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Dual|Person=3|PronType=Prs	4	obl	_	ref=26.21
+7	в	въ	ADP	R-	_	8	case	_	ref=26.21
+8	селунь	селунь	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	ref=26.21
+9	къ	къ	ADP	R-	_	10	case	_	ref=26.21
+10	лвови	львъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	7	appos	_	ref=26.21
+11	гл҃ѧ	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	4	advcl	_	ref=26.21
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = пошли к намъ с҃на своя мефедья и костѧнтина
+# sent_id = 202404
+1	пошли	посълати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=26.22
+2	к	къ	ADP	R-	_	3	case	_	ref=26.22
+3	намъ	мы	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	1	obl	_	ref=26.22
+4	с҃на	сынъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Dual	1	obj:dir	_	ref=26.22
+5	своя	свои	ADJ	Pt	Case=Acc|Gender=Masc|Number=Dual|Person=3|Poss=Yes|Reflex=Yes	4	nmod	_	ref=26.22
+6	мефедья	мефодии	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	appos	_	ref=26.22
+7	и	и	CCONJ	C-	_	6	cc	_	ref=26.22
+8	костѧнтина	костянтинъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	conj	_	ref=26.23
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = се слышавъ левъ въскорѣ посла ѧ
+# sent_id = 202406
+1	се	сии	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	2	obj:dir	_	ref=26.23
+2	слышавъ	слышати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	5	advcl	_	ref=26.23
+3	левъ	львъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=26.23
+4	въскорѣ	въскорѣ	ADV	Df	_	5	advmod	_	ref=26.23
+5	посла	посълати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=26.23
+6	ѧ	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Dual|Person=3|PronType=Prs	5	obj:dir	_	ref=26.23
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = и придоста къ цсрви
+# sent_id = 202408
+1	и	и	CCONJ	C-	_	2	cc	_	ref=26.24
+2	придоста	приити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=26.24
+3	къ	къ	ADP	R-	_	4	case	_	ref=26.24
+4	цсрви	цѣсарь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	ref=26.24
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = и реч има цсрь
+# sent_id = 202409
+1	и	и	CCONJ	C-	_	2	cc	_	ref=26.24
+2	реч	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=26.24
+3	има	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Dual|Person=3|PronType=Prs	2	iobj	_	ref=26.24
+4	цсрь	цѣсарь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=26.24
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = се прислала сѧ ко мнѣ словеньская землѧ просѧще оучителѧ себѣ иже бы моглъ имъ истолковати ст҃ыя книгы
+# sent_id = 202410
+1	се	се	INTJ	I-	_	2	vocative	_	ref=26.24
+2	прислала	присълати	VERB	V-	Aspect=Res|Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=26.24
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=26.24
+4	ко	къ	ADP	R-	_	5	case	_	ref=26.25
+5	мнѣ	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	2	obl	_	ref=26.25
+6	словеньская	словѣньскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	7	amod	_	ref=26.25
+7	землѧ	земля	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=26.25
+8	просѧще	просити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	ref=26.25
+9	оучителѧ	учитель	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	obj:dir	_	ref=26.26
+10	себѣ	себе	PRON	Pk	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	obl	_	ref=26.26
+11	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	13	nsubj	_	ref=26.26
+12	бы	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	aux	_	ref=26.26
+13	моглъ	мощи	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	9	acl	_	ref=26.26
+14	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	obl	_	ref=26.26
+15	истолковати	истълковати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	13	xcomp	_	ref=26.26
+16	ст҃ыя	святыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	17	amod	_	ref=26.27
+17	книгы	кънига	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	15	obj:dir	_	ref=26.27
+
+# source = The Primary Chronicle, Codex Hypatianus, 6406
+# text = сего бо желают
+# sent_id = 202414
+1	сего	сии	ADJ	Pd	Case=Gen|Gender=Neut|Number=Sing	3	obj:dir	_	ref=26.27
+2	бо	бо	ADV	Df	_	3	advmod	_	ref=26.27
+3	желают	желати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=26.27

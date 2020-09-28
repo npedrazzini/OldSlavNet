@@ -1,0 +1,66 @@
+# source = Statute of Prince Vladimir, Statute of Prince Vladimir
+# text = ѹставъ ст҃го кн҃зѧ володимира крстившаго рѹсьскѹю землю ѡ црк҃вныхъ сѹдѣх
+# sent_id = 189755
+1	ѹставъ	уставъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=
+2	ст҃го	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	3	amod	_	ref=
+3	кн҃зѧ	кънязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	ref=
+4	володимира	володимиръ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	appos	_	ref=
+5	крстившаго	крьстити	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	3	acl	_	ref=
+6	рѹсьскѹю	русьскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	7	amod	_	ref=
+7	землю	земля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	ref=
+8	ѡ	о	ADP	R-	_	10	case	_	ref=
+9	црк҃вныхъ	цьркъвьныи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	10	amod	_	ref=
+10	сѹдѣх	судъ#1	NOUN	Nb	Case=Loc|Gender=Masc|Number=Plur	1	nmod	_	ref=
+
+# source = Statute of Prince Vladimir, Statute of Prince Vladimir
+# text = въ имѧ ѡц҃а и сн҃а и ст҃го дх҃а
+# sent_id = 189757
+1	въ	въ	ADP	R-	_	2	case	_	ref=
+2	имѧ	имя	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	0	root	_	ref=
+3	ѡц҃а	отьць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	ref=
+4	и	и	CCONJ	C-	_	3	cc	_	ref=
+5	сн҃а	сынъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	conj	_	ref=
+6	и	и	CCONJ	C-	_	3	cc	_	ref=
+7	ст҃го	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	8	amod	_	ref=
+8	дх҃а	духъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	conj	_	ref=
+
+# source = Statute of Prince Vladimir, Statute of Prince Vladimir
+# text = се ꙗзъ кнѧзь василии нарицаѥмы володїмиръ сн҃ъ ст҃ославль внѹкъ игоревъ блаженыꙗ кнѧгини ѡлгы въсприꙗлъ ѥсмь ст҃оѥ кр҃щниѥ ѿ грецьскаго цсрѧ и ѿ фотиѧ патриарха цсрегородьского взѧхъ пьрваго митрополита леѡна киѥвѹ иже крьсти всю землю рѹсьскѹю ст҃мь крщ҃ньѥмь
+# sent_id = 189759
+1	се	се	INTJ	I-	_	14	vocative	_	ref=
+2	ꙗзъ	язъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	ref=
+3	кнѧзь	кънязь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	ref=
+4	василии	василии	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	ref=
+5	нарицаѥмы	нарицати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Pass	3	acl	_	ref=
+6	володїмиръ	володимиръ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	xcomp	_	ref=
+7	сн҃ъ	сынъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	ref=
+8	ст҃ославль	святославль	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	7	amod	_	ref=
+9	внѹкъ	вънукъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	ref=
+10	игоревъ	игоревъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	9	amod	_	ref=
+11	блаженыꙗ	блаженыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	12	amod	_	ref=
+12	кнѧгини	кънягыни	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	10	conj	_	ref=
+13	ѡлгы	ольга	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	12	appos	_	ref=
+14	въсприꙗлъ	въсприяти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+15	ѥсмь	быти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	14	aux	_	ref=
+16	ст҃оѥ	святыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	17	amod	_	ref=
+17	кр҃щниѥ	крьщение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	14	obj:dir	_	ref=
+18	ѿ	отъ	ADP	R-	_	20	case	_	ref=
+19	грецьскаго	грьчьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	20	amod	_	ref=
+20	цсрѧ	цѣсарь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	14	obl	_	ref=
+21	и	и	CCONJ	C-	_	20	cc	_	ref=
+22	ѿ	отъ	ADP	R-	_	23	case	_	ref=
+23	фотиѧ	фотии	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	20	conj	_	ref=
+24	патриарха	патриархъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	23	appos	_	ref=
+25	цсрегородьского	цѣсарьгородьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	24	amod	_	ref=
+26	взѧхъ	възяти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	14	conj	_	ref=
+27	пьрваго	пьрвыи	ADJ	Mo	Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	ref=
+28	митрополита	митрополитъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	26	obj:dir	_	ref=
+29	леѡна	леонъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	28	appos	_	ref=
+30	киѥвѹ	кыевъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	26	obl	_	ref=
+31	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	32	nsubj	_	ref=
+32	крьсти	крьстити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	acl	_	ref=
+33	всю	вьсь	DET	Px	Case=Acc|Gender=Fem|Number=Sing	34	det	_	ref=
+34	землю	земля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	32	obj:dir	_	ref=
+35	рѹсьскѹю	русьскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	34	amod	_	ref=
+36	ст҃мь	святыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	37	amod	_	ref=
+37	крщ҃ньѥмь	крьщение	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	32	obl	_	ref=

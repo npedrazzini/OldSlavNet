@@ -1,0 +1,336 @@
+# source = Zadonshchina, Zadonshchina
+# text = і потом списах жалость и похвалу великому кнзю дмитрию иванович и брату его кнзю владмеру ѡндрѣевичу
+# sent_id = 212230
+1	і	и	CCONJ	C-	_	3	cc	_	ref=
+2	потом	потомь	ADV	Df	_	3	advmod	_	ref=
+3	списах	съписати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	жалость	жалость	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obj:dir	_	ref=
+5	и	и	CCONJ	C-	_	4	cc	_	ref=
+6	похвалу	похвала	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	conj	_	ref=
+7	великому	великыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	8	amod	_	ref=
+8	кнзю	кънязь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	nmod	_	ref=
+9	дмитрию	дьмитрии	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	8	appos	_	ref=
+10	иванович	ивановичь	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	9	flat:name	_	ref=
+11	и	и	CCONJ	C-	_	8	cc	_	ref=
+12	брату	братъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	8	conj	_	ref=
+13	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	det	_	ref=
+14	кнзю	кънязь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	12	appos	_	ref=
+15	владмеру	владимѣръ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	14	appos	_	ref=
+16	ѡндрѣевичу	ондрѣевичь	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	15	flat:name	_	ref=
+
+# source = Zadonshchina, Zadonshchina
+# text = снидем ся брате и друзи снве рустїи
+# sent_id = 212231
+1	снидем	сънити	VERB	V-	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	ся	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	1	aux	_	ref=
+3	брате	братъ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	ref=
+4	и	и	CCONJ	C-	_	3	cc	_	ref=
+5	друзи	другыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	6	amod	_	ref=
+6	снве	сынъ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	3	conj	_	ref=
+7	рустїи	русьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	6	amod	_	ref=
+
+# source = Zadonshchina, Zadonshchina
+# text = съставимъ слово къ слову
+# sent_id = 212351
+1	съставимъ	съставити	VERB	V-	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	слово	слово	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	obj:dir	_	ref=
+3	къ	къ	ADP	R-	_	4	case	_	ref=
+4	слову	слово	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	1	obl	_	ref=
+
+# source = Zadonshchina, Zadonshchina
+# text = и величимъ землю рускую
+# sent_id = 212353
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	величимъ	величити	VERB	V-	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	землю	земля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj:dir	_	ref=
+4	рускую	русьскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	3	amod	_	ref=
+
+# source = Zadonshchina, Zadonshchina
+# text = и веръжем печал на въсточную страну в сѣмъвъ жребие
+# sent_id = 212354
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	веръжем	врѣщи	VERB	V-	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	печал	печаль	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj:dir	_	ref=
+4	на	на	ADP	R-	_	6	case	_	ref=
+5	въсточную	въсточьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	6	amod	_	ref=
+6	страну	страна	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	ref=
+7	в	въ	ADP	R-	_	9	case	_	ref=
+8	сѣмъвъ	симовъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	9	amod	_	ref=
+9	жребие	жрѣбии	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	appos	_	ref=
+
+# source = Zadonshchina, Zadonshchina
+# text = въздаютъ поганому мамаю победы и великому кнзю дмитрию ивановичю похвалу и брату его кнзю владмеру ѡндрѣевичю
+# sent_id = 212355
+1	въздаютъ	въздаяти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	поганому	поганыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	3	amod	_	ref=
+3	мамаю	мамаи	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	4	nmod	_	ref=
+4	победы	побѣда	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	1	obj:dir	_	ref=
+5	и	и	CCONJ	C-	_	4	cc	_	ref=
+6	великому	великыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	7	amod	_	ref=
+7	кнзю	кънязь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	10	nmod	_	ref=
+8	дмитрию	дьмитрии	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	7	appos	_	ref=
+9	ивановичю	ивановичь	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	8	flat:name	_	ref=
+10	похвалу	похвала	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	conj	_	ref=
+11	и	и	CCONJ	C-	_	7	cc	_	ref=
+12	брату	братъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	7	conj	_	ref=
+13	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	det	_	ref=
+14	кнзю	кънязь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	12	appos	_	ref=
+15	владмеру	владимѣръ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	14	appos	_	ref=
+16	ѡндрѣевичю	ондрѣевичь	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	15	flat:name	_	ref=
+
+# source = Zadonshchina, Zadonshchina
+# text = р’ци
+# sent_id = 212357
+1	р’ци	рещи	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = Zadonshchina, Zadonshchina
+# text = того лут’че бо ес брате нача повѣдати инѣми словесы ѡ похвалных ѡ нынеш’них повестех ѿ полку кнзя дмитрея ивановича и брата его кнзя владмера ѡндрѣевич правнука стго великог кнзя владмера киевскаго
+# sent_id = 212358
+1	того	тыи	ADJ	Pd	Case=Gen|Gender=Neut|Number=Sing	2	iobj	_	ref=
+2	лут’че	лучии	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing|Strength=Strong	4	xcomp	_	ref=
+3	бо	бо	ADV	Df	_	4	advmod	_	ref=
+4	ес	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	брате	братъ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	ref=
+6	нача	начати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	ref=
+7	повѣдати	повѣдати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	6	xcomp	_	ref=
+8	инѣми	иныи	DET	Px	Case=Ins|Gender=Neut|Number=Plur	9	det	_	ref=
+9	словесы	слово	NOUN	Nb	Case=Ins|Gender=Neut|Number=Plur	7	obl	_	ref=
+10	ѡ	о	ADP	R-	_	14	case	_	ref=
+11	похвалных	похвальныи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	14	amod	_	ref=
+12	ѡ	о	ADP	R-	_	10	mark	_	ref=
+13	нынеш’них	нынѣшьнии	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	14	amod	_	ref=
+14	повестех	повѣсть	NOUN	Nb	Case=Loc|Gender=Fem|Number=Plur	7	obl	_	ref=
+15	ѿ	отъ	ADP	R-	_	16	case	_	ref=
+16	полку	пълкъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	14	nmod	_	ref=
+17	кнзя	кънязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	ref=
+18	дмитрея	дьмитрии	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	17	appos	_	ref=
+19	ивановича	ивановичь	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	18	flat:name	_	ref=
+20	и	и	CCONJ	C-	_	17	cc	_	ref=
+21	брата	братъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	17	conj	_	ref=
+22	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	det	_	ref=
+23	кнзя	кънязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	21	appos	_	ref=
+24	владмера	владимѣръ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	23	appos	_	ref=
+25	ѡндрѣевич	ондрѣевичь	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	24	flat:name	_	ref=
+26	правнука	правънукъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	21	appos	_	ref=
+27	стго	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	29	amod	_	ref=
+28	великог	великыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	29	amod	_	ref=
+29	кнзя	кънязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	ref=
+30	владмера	владимѣръ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	29	appos	_	ref=
+31	киевскаго	кыевьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	30	amod	_	ref=
+
+# source = Zadonshchina, Zadonshchina
+# text = начаша повѣдати по дѣлом по гыбелю
+# sent_id = 212232
+1	начаша	начати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	повѣдати	повѣдати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	ref=
+3	по	по	ADP	R-	_	4	case	_	ref=
+4	дѣлом	дѣло	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	2	obl	_	ref=
+5	по	по	ADP	R-	_	6	case	_	ref=
+6	гыбелю	гыбель	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	ref=
+
+# source = Zadonshchina, Zadonshchina
+# text = но потрезвимь с мꙑсльми и землями
+# sent_id = 212361
+1	но	нъ	CCONJ	C-	_	2	cc	_	ref=
+2	потрезвимь	проразити	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	с	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=
+4	мꙑсльми	мысль	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	2	iobj	_	ref=
+5	и	и	CCONJ	C-	_	4	cc	_	ref=
+6	землями	земля	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	4	conj	_	ref=
+
+# source = Zadonshchina, Zadonshchina
+# text = и помянем пер’вꙑх лѣтъ времена
+# sent_id = 212362
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	помянем	помянути	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	пер’вꙑх	пьрвыи	ADJ	Mo	Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	ref=
+4	лѣтъ	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	ref=
+5	времена	врѣмя	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	2	obj:dir	_	ref=
+
+# source = Zadonshchina, Zadonshchina
+# text = и похвалим вѣща боінаго гораздаго гдуца в’ киевѣ
+# sent_id = 212363
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	похвалим	похвалити	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	вѣща	вѣщии	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	4	amod	_	ref=
+4	боінаго	боянъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	obj:dir	_	ref=
+5	гораздаго	гораздыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	6	amod	_	ref=
+6	гдуца	гудьць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	appos	_	ref=
+7	в’	въ	ADP	R-	_	8	case	_	ref=
+8	киевѣ	кыевъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	6	nmod	_	ref=
+
+# source = Zadonshchina, Zadonshchina
+# text = тот боюн воскладше гораздꙑя своя перстꙑ на живꙑа струнꙑ и пояше кнземъ рускимъ слвꙑ первую славу великому кнзю киевскому игорю рюрикович в҃ великому кнзю владмеру стославич киевскому третюю великому кнзю ярославу володимеровичю
+# sent_id = 212233
+1	тот	тътъ	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	2	det	_	ref=
+2	боюн	боянъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+3	воскладше	въскласти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=
+4	гораздꙑя	гораздыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	6	amod	_	ref=
+5	своя	свои	ADJ	Pt	Case=Acc|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	6	nmod	_	ref=
+6	перстꙑ	пьрстъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	3	obj:dir	_	ref=
+7	на	на	ADP	R-	_	9	case	_	ref=
+8	живꙑа	живыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	9	amod	_	ref=
+9	струнꙑ	струна	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	3	obl	_	ref=
+10	и	и	CCONJ	C-	_	3	cc	_	ref=
+11	пояше	пѣти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=
+12	кнземъ	кънязь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	11	obl	_	ref=
+13	рускимъ	русьскыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	12	amod	_	ref=
+14	слвꙑ	слава	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	11	obj:dir	_	ref=
+15	первую	пьрвыи	ADJ	Mo	Case=Acc|Gender=Fem|Number=Sing	16	nmod	_	ref=
+16	славу	слава	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	11	appos	_	ref=
+17	великому	великыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	18	amod	_	ref=
+18	кнзю	кънязь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	16	orphan	_	ref=
+19	киевскому	кыевьскыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	18	amod	_	ref=
+20	игорю	игорь	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	18	appos	_	ref=
+21	рюрикович	рюриковичь	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	20	flat:name	_	ref=
+22	в҃	дъва	NUM	Ma	_	11	appos	_	ref=
+23	великому	великыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	24	amod	_	ref=
+24	кнзю	кънязь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	22	orphan	_	ref=
+25	владмеру	владимѣръ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	24	appos	_	ref=
+26	стославич	святославичь	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	25	flat:name	_	ref=
+27	киевскому	кыевьскыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	24	amod	_	ref=
+28	третюю	третии	ADJ	Mo	Case=Acc|Gender=Fem|Number=Sing	11	appos	_	ref=
+29	великому	великыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	30	amod	_	ref=
+30	кнзю	кънязь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	28	orphan	_	ref=
+31	ярославу	ярославъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	30	appos	_	ref=
+32	володимеровичю	володимѣровичь	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	31	flat:name	_	ref=
+
+# source = Zadonshchina, Zadonshchina
+# text = и я ж помяну еѳоня ерея резанца в похвалу пѣсньм и гусленꙑмї и буяни словесꙑ и сего великог кнзя дмитреа иванович и брата ег кнзя владмера ѡндрѣевич правнука тѣхъ кнзеи зане ж ѡпало мужьство их и пѣние их и кнзем руским за землю рускую и за вѣру крстьянскую
+# sent_id = 212234
+1	и	и	CCONJ	C-	_	4	cc	_	ref=
+2	я	я	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	ref=
+3	ж	же	ADV	Df	_	4	advmod	_	ref=
+4	помяну	помянути	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	еѳоня	софонии	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	obj:dir	_	ref=
+6	ерея	иереи	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	appos	_	ref=
+7	резанца	рязаньць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	appos	_	ref=
+8	в	въ	ADP	R-	_	9	case	_	ref=
+9	похвалу	похвала	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	ref=
+10	пѣсньм	пѣсньныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	15	amod	_	ref=
+11	и	и	CCONJ	C-	_	10	cc	_	ref=
+12	гусленꙑмї	гусльныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	10	conj	_	ref=
+13	и	и	CCONJ	C-	_	10	cc	_	ref=
+14	буяни	боянь	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Plur|Strength=Strong	10	conj	_	ref=
+15	словесꙑ	слово	NOUN	Nb	Case=Ins|Gender=Neut|Number=Plur	4	obl	_	ref=
+16	и	и	CCONJ	C-	_	5	cc	_	ref=
+17	сего	сии	DET	Pd	Case=Gen|Gender=Masc|Number=Sing	19	det	_	ref=
+18	великог	великыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	19	amod	_	ref=
+19	кнзя	кънязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	conj	_	ref=
+20	дмитреа	дьмитрии	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	19	appos	_	ref=
+21	иванович	ивановичь	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	20	flat:name	_	ref=
+22	и	и	CCONJ	C-	_	5	conj	_	ref=
+23	брата	братъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	conj	_	ref=
+24	ег	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	det	_	ref=
+25	кнзя	кънязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	23	appos	_	ref=
+26	владмера	владимѣръ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	23	appos	_	ref=
+27	ѡндрѣевич	ондрѣевичь	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	26	flat:name	_	ref=
+28	правнука	правънукъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	23	appos	_	ref=
+29	тѣхъ	тыи	DET	Pd	Case=Gen|Gender=Masc|Number=Plur	30	det	_	ref=
+30	кнзеи	кънязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	28	nmod	_	ref=
+31	зане	занеже	SCONJ	G-	_	33	mark	_	ref=
+32	ж	ж	SCONJ	G-	_	31	flat	_	ref=
+33	ѡпало	опасти	VERB	V-	Aspect=Res|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	4	advcl	_	ref=
+34	мужьство	мужьство	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	33	nsubj	_	ref=
+35	их	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	34	det	_	ref=
+36	и	и	CCONJ	C-	_	34	cc	_	ref=
+37	пѣние	пѣние	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	34	conj	_	ref=
+38	их	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	37	det	_	ref=
+39	и	и	CCONJ	C-	_	38	cc	_	ref=
+40	кнзем	кънязь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	38	conj	_	ref=
+41	руским	русьскыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	40	amod	_	ref=
+42	за	за	ADP	R-	_	43	case	_	ref=
+43	землю	земля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	33	obl	_	ref=
+44	рускую	русьскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	43	amod	_	ref=
+45	и	и	CCONJ	C-	_	43	cc	_	ref=
+46	за	за	ADP	R-	_	47	case	_	ref=
+47	вѣру	вѣра	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	43	conj	_	ref=
+48	крстьянскую	крьстияньскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	47	amod	_	ref=
+
+# source = Zadonshchina, Zadonshchina
+# text = ѡт калагъския рати до мамаева побоища лѣтъ 160
+# sent_id = 212235
+1	ѡт	отъ	ADP	R-	_	3	case	_	ref=
+2	калагъския	калагъскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	3	advmod	_	ref=
+3	рати	рать	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	0	root	_	ref=
+4	до	до	ADP	R-	_	6	case	_	ref=
+5	мамаева	мамаевъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	6	amod	_	ref=
+6	побоища	побоище	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	3	obl	_	ref=
+7	лѣтъ	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	ref=
+8	160	съто.шестьдесятъ	NUM	Ma	_	3	nsubj	_	ref=
+
+# source = Zadonshchina, Zadonshchina
+# text = си бо кнзь великꙑи дмитреи ивановичь и брат его кнзь владмер ѡндрѣевич помоля с бѹ и прчсте бцы стяжав умъ свои крѣпостию и поѡстриша срдца своя мужством и наполниша с ратнаго духа и уставиша себе храмнꙑа полъкꙑ в русько земли и помянуша прадѣда своего кнзя владмера ѡндрѣевича киевъскаго
+# sent_id = 212236
+1	си	сии	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	3	det	_	ref=
+2	бо	бо	ADV	Df	_	13	advmod	_	ref=
+3	кнзь	кънязь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	ref=
+4	великꙑи	великыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	3	amod	_	ref=
+5	дмитреи	дьмитрии	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	ref=
+6	ивановичь	ивановичь	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	ref=
+7	и	и	CCONJ	C-	_	3	cc	_	ref=
+8	брат	братъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	ref=
+9	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	det	_	ref=
+10	кнзь	кънязь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	appos	_	ref=
+11	владмер	владимѣръ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	8	appos	_	ref=
+12	ѡндрѣевич	ондрѣевичь	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	ref=
+13	помоля	помолити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	ref=
+14	с	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	13	aux	_	ref=
+15	бѹ	богъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	13	iobj	_	ref=
+16	и	и	CCONJ	C-	_	15	cc	_	ref=
+17	прчсте	прѣчистыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	18	amod	_	ref=
+18	бцы	богородица	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	15	conj	_	ref=
+19	стяжав	сътяжати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	13	advcl	_	ref=
+20	умъ	умъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	19	obj:dir	_	ref=
+21	свои	свои	ADJ	Pt	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	20	nmod	_	ref=
+22	крѣпостию	крѣпость	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	19	iobj	_	ref=
+23	и	и	CCONJ	C-	_	13	cc	_	ref=
+24	поѡстриша	поострити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	ref=
+25	срдца	сьрдьце	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	24	obj:dir	_	ref=
+26	своя	свои	ADJ	Pt	Case=Acc|Gender=Neut|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	25	nmod	_	ref=
+27	мужством	мужьство	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	24	obl	_	ref=
+28	и	и	CCONJ	C-	_	13	cc	_	ref=
+29	наполниша	напълнити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	ref=
+30	с	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	29	aux	_	ref=
+31	ратнаго	ратьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	32	amod	_	ref=
+32	духа	духъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	29	iobj	_	ref=
+33	и	и	CCONJ	C-	_	13	cc	_	ref=
+34	уставиша	уставити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	ref=
+35	себе	себе	PRON	Pk	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	37	det	_	ref=
+36	храмнꙑа	храмьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	37	amod	_	ref=
+37	полъкꙑ	пълкъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	34	obj:dir	_	ref=
+38	в	въ	ADP	R-	_	40	case	_	ref=
+39	русько	русьскыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	40	amod	_	ref=
+40	земли	земля	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	34	obl	_	ref=
+41	и	и	CCONJ	C-	_	13	cc	_	ref=
+42	помянуша	помянути	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	ref=
+43	прадѣда	прадѣдъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	42	obj:dir	_	ref=
+44	своего	свои	ADJ	Pt	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	43	nmod	_	ref=
+45	кнзя	кънязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	43	appos	_	ref=
+46	владмера	владимѣръ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	45	appos	_	ref=
+47	ѡндрѣевича	ондрѣевичь	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	46	flat:name	_	ref=
+48	киевъскаго	кыевьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	45	amod	_	ref=
+
+# source = Zadonshchina, Zadonshchina
+# text = ѡ жаворонокъ лѣтьняа птица краснꙑх днеи утѣха возлети под синии нбса
+# sent_id = 212237
+1	ѡ	о	INTJ	I-	_	8	vocative	_	ref=
+2	жаворонокъ	жаворонъкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	vocative	_	ref=
+3	лѣтьняа	лѣтьнии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	4	amod	_	ref=
+4	птица	пътица	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	appos	_	ref=
+5	краснꙑх	красьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	6	amod	_	ref=
+6	днеи	дьнь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	ref=
+7	утѣха	утѣха	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	appos	_	ref=
+8	возлети	възлетѣти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+9	под	подъ	ADP	R-	_	11	case	_	ref=
+10	синии	синии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	11	amod	_	ref=
+11	нбса	небо	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	8	obl	_	ref=
+
+# source = Zadonshchina, Zadonshchina
+# text = посмотри к’ силному граду москвѣ
+# sent_id = 213877
+1	посмотри	посмотрѣти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	к’	къ	ADP	R-	_	4	case	_	ref=
+3	силному	сильныи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=
+4	граду	градъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	obl	_	ref=
+5	москвѣ	москъва	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	4	appos	_	ref=

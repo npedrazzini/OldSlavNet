@@ -1,0 +1,2563 @@
+# source = Life of Sergij of Radonezh, 2
+# text = она же в недоѹмѣніи ѿ многа плача не можаше к нимъ ни провѣщати но в꙽малѣ ѿвѣща имъ
+# sent_id = 196888
+1	она	онъ	ADJ	Pd	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	ref=2
+2	же	же	ADV	Df	_	9	advmod	_	ref=2
+3	в	въ	ADP	R-	_	4	case	_	ref=2
+4	недоѹмѣніи	недоумѣние	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	9	obl	_	ref=2
+5	ѿ	отъ	ADP	R-	_	7	case	_	ref=2
+6	многа	мъногыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	7	amod	_	ref=2
+7	плача	плачь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	obl	_	ref=2
+8	не	не	ADV	Df	_	9	advmod	_	ref=2
+9	можаше	мощи	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+10	к	къ	ADP	R-	_	11	case	_	ref=2
+11	нимъ	и	PRON	Pp	Case=Dat|Gender=Fem|Number=Plur|Person=3|PronType=Prs	13	obl	_	ref=2
+12	ни	ни	ADV	Df	_	13	advmod	_	ref=2
+13	провѣщати	провѣщати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	xcomp	_	ref=2
+14	но	нъ	CCONJ	C-	_	9	cc	_	ref=2
+15	в꙽малѣ	въмалѣ	ADV	Df	_	16	advmod	_	ref=2
+16	ѿвѣща	отъвѣщати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	ref=2
+17	имъ	и	PRON	Pp	Case=Dat|Gender=Fem|Number=Plur|Person=3|PronType=Prs	16	iobj	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = пытаите рече инде
+# sent_id = 196948
+1	пытаите	пытати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+2	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	ref=2
+3	инде	инъдѣ	ADV	Df	_	1	advmod	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = аз꙽ бо не имамъ
+# sent_id = 196947
+1	аз꙽	азъ	PRON	Pp	Case=Nom|Gender=Fem|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	ref=2
+2	бо	бо	ADV	Df	_	4	advmod	_	ref=2
+3	не	не	ADV	Df	_	4	advmod	_	ref=2
+4	имамъ	имѣти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = они же вопрошашѧ пытающе промежи собою і поискавъше і не обрѣтошѧ
+# sent_id = 196889
+1	они	онъ	ADJ	Pd	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	ref=2
+2	же	же	ADV	Df	_	3	advmod	_	ref=2
+3	вопрошашѧ	въпрашати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+4	пытающе	пытати	VERB	V-	Case=Nom|Gender=Fem|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	3	advcl	_	ref=2
+5	промежи	промежи	ADP	R-	_	6	case	_	ref=2
+6	собою	себе	PRON	Pk	Case=Ins|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	obl	_	ref=2
+7	і	и	CCONJ	C-	_	3	cc	_	ref=2
+8	поискавъше	поискати	VERB	V-	Case=Nom|Gender=Fem|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	3	conj	_	ref=2
+9	і	и	CCONJ	C-	_	3	cc	_	ref=2
+10	не	не	ADV	Df	_	11	advmod	_	ref=2
+11	обрѣтошѧ	обрѣсти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = паки обратишѧ сѧ к неи глю҃ще
+# sent_id = 196891
+1	паки	пакы	ADV	Df	_	2	advmod	_	ref=2
+2	обратишѧ	обратити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=2
+4	к	къ	ADP	R-	_	5	case	_	ref=2
+5	неи	и	PRON	Pp	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obl	_	ref=2
+6	глю҃ще	глаголати	VERB	V-	Case=Nom|Gender=Fem|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = мы во всеи цркви поискавъше и не обрѣтохом младен꙽ца
+# sent_id = 196892
+1	мы	мы	PRON	Pp	Case=Nom|Gender=Fem|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	ref=2
+2	во	въ	ADP	R-	_	4	case	_	ref=2
+3	всеи	вьсь	DET	Px	Case=Loc|Gender=Fem|Number=Sing	4	det	_	ref=2
+4	цркви	цьркы	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	5	obl	_	ref=2
+5	поискавъше	поискати	VERB	V-	Case=Nom|Gender=Fem|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=2
+6	и	и	CCONJ	C-	_	5	cc	_	ref=2
+7	не	не	ADV	Df	_	8	advmod	_	ref=2
+8	обрѣтохом	обрѣсти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	ref=2
+9	младен꙽ца	младеньць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	obj:dir	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = да кыи то ес младенецъ иже гласом проверещавыи
+# sent_id = 196893
+1	да	да#2	ADV	Df	_	4	advmod	_	ref=2
+2	кыи	кыи	PRON	Pi	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	5	det	_	ref=2
+3	то	тыи	ADJ	Pd	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	ref=2
+4	ес	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+5	младенецъ	младеньць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	xcomp	_	ref=2
+6	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	_	ref=2
+7	гласом	гласъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	8	obl	_	ref=2
+8	проверещавыи	проверещати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	5	acl	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = мати же ег не могꙋще ѹтаити бываемаг і испытаемаг ѿвѣща к ним
+# sent_id = 196894
+1	мати	мати	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	ref=2
+2	же	же	ADV	Df	_	10	advmod	_	ref=2
+3	ег	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	det	_	ref=2
+4	не	не	ADV	Df	_	5	advmod	_	ref=2
+5	могꙋще	мощи	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	10	advcl	_	ref=2
+6	ѹтаити	утаити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	xcomp	_	ref=2
+7	бываемаг	бывати	VERB	V-	Case=Gen|Gender=Neut|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Pass	6	obj:dir	_	ref=2
+8	і	и	CCONJ	C-	_	7	cc	_	ref=2
+9	испытаемаг	испытати	VERB	V-	Case=Gen|Gender=Neut|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Pass	7	conj	_	ref=2
+10	ѿвѣща	отъвѣщати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+11	к	къ	ADP	R-	_	12	case	_	ref=2
+12	ним	и	PRON	Pp	Case=Dat|Gender=Fem|Number=Plur|Person=3|PronType=Prs	10	obl	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = азъ младенца в꙽ пазꙋсѣ не имамъ ꙗкоже мніте вы
+# sent_id = 196896
+1	азъ	азъ	PRON	Pp	Case=Nom|Gender=Fem|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	ref=2
+2	младенца	младеньць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	obj:dir	_	ref=2
+3	в꙽	въ	ADP	R-	_	4	case	_	ref=2
+4	пазꙋсѣ	пазуха	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	6	obl	_	ref=2
+5	не	не	ADV	Df	_	6	advmod	_	ref=2
+6	имамъ	имѣти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+7	ꙗкоже	якоже	ADV	Dq	PronType=Rel	8	advmod	_	ref=2
+8	мніте	мьнѣти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	ref=2
+9	вы	вы	PRON	Pp	Case=Nom|Gender=Fem|Number=Plur|Person=2|PronType=Prs	8	nsubj	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = имѣю же въ ѹтробѣ еще до времени нерожна
+# sent_id = 196897
+1	имѣю	имѣти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+2	же	же	ADV	Df	_	1	advmod	_	ref=2
+3	въ	въ	ADP	R-	_	4	case	_	ref=2
+4	ѹтробѣ	утроба	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	1	obl	_	ref=2
+5	еще	еще	ADV	Df	_	8	advmod	_	ref=2
+6	до	до	ADP	R-	_	7	case	_	ref=2
+7	времени	врѣмя	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	8	obl	_	ref=2
+8	нерожна	нероженыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	1	advmod	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = сїи провоз꙽гласилъ есть
+# sent_id = 196949
+1	сїи	сии	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=2
+2	провоз꙽гласилъ	провъзгласити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=2
+3	есть	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = жены же рѣша к неи
+# sent_id = 196898
+1	жены	жена	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	ref=2
+2	же	же	ADV	Df	_	3	advmod	_	ref=2
+3	рѣша	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+4	к	къ	ADP	R-	_	5	case	_	ref=2
+5	неи	и	PRON	Pp	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obl	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = да како дастъ сѧ гласъ преже рожденїѧ младенцꙋ въ ѹтробе сꙋщꙋ
+# sent_id = 196899
+1	да	да#2	ADV	Df	_	3	advmod	_	ref=2
+2	како	како	ADV	Du	PronType=Int	3	advmod	_	ref=2
+3	дастъ	дати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=2
+5	гласъ	гласъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=2
+6	преже	прѣже	ADP	R-	_	7	case	_	ref=2
+7	рожденїѧ	рождение	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	3	obl	_	ref=2
+8	младенцꙋ	младеньць	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	ref=2
+9	въ	въ	ADP	R-	_	10	case	_	ref=2
+10	ѹтробе	утроба	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	11	xcomp	_	ref=2
+11	сꙋщꙋ	быти	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	3	advcl	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = она же рече
+# sent_id = 196901
+1	она	онъ	ADJ	Pd	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	ref=2
+2	же	же	ADV	Df	_	3	advmod	_	ref=2
+3	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = азъ ѡ семъ и сама ѹдивлѧю сѧ
+# sent_id = 196952
+1	азъ	азъ	PRON	Pp	Case=Nom|Gender=Fem|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	ref=2
+2	ѡ	о	ADP	R-	_	3	case	_	ref=2
+3	семъ	сии	ADJ	Pd	Case=Loc|Gender=Neut|Number=Sing	6	obl	_	ref=2
+4	и	и	ADV	Df	_	5	advmod	_	ref=2
+5	сама	самъ	DET	Pd	Case=Nom|Gender=Fem|Number=Sing	1	det	_	ref=2
+6	ѹдивлѧю	удивляти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+7	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	6	aux	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = и всѧ есмь въ страсѣ
+# sent_id = 196951
+1	и	и	CCONJ	C-	_	3	cc	_	ref=2
+2	всѧ	вьсь	ADJ	Px	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	ref=2
+3	есмь	быти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+4	въ	въ	ADP	R-	_	5	case	_	ref=2
+5	страсѣ	страхъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	3	xcomp	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = трепещѹ невѣдѹщи бываемаго
+# sent_id = 196950
+1	трепещѹ	трепетати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+2	невѣдѹщи	невѣдѣти	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	ref=2
+3	бываемаго	бывати	VERB	V-	Case=Gen|Gender=Neut|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Pass	2	obj:dir	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = жены же воздохнѹвъше и бьюще в перси своѧ возъвращахѹ сѧ кааждо на свое мѣсто токмо к себѣ глаголющи
+# sent_id = 196902
+1	жены	жена	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	9	nsubj	_	ref=2
+2	же	же	ADV	Df	_	9	advmod	_	ref=2
+3	воздохнѹвъше	въздъхнути	VERB	V-	Case=Nom|Gender=Fem|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	9	advcl	_	ref=2
+4	и	и	CCONJ	C-	_	3	cc	_	ref=2
+5	бьюще	бити	VERB	V-	Case=Nom|Gender=Fem|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	3	conj	_	ref=2
+6	в	въ	ADP	R-	_	7	case	_	ref=2
+7	перси	пьрси	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	5	obl	_	ref=2
+8	своѧ	свои	ADJ	Pt	Case=Acc|Gender=Fem|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	7	nmod	_	ref=2
+9	возъвращахѹ	възвращати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+10	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	9	aux	_	ref=2
+11	кааждо	кыижьдо	ADJ	Px	Case=Nom|Gender=Fem|Number=Sing	9	appos	_	ref=2
+12	на	на	ADP	R-	_	14	case	_	ref=2
+13	свое	свои	ADJ	Pt	Case=Acc|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	14	nmod	_	ref=2
+14	мѣсто	мѣсто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	11	orphan	_	ref=2
+15	токмо	тъкъмо#1	ADV	Df	_	16	advmod	_	ref=2
+16	к	къ	ADP	R-	_	17	case	_	ref=2
+17	себѣ	себе	PRON	Pk	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	18	obl	_	ref=2
+18	глаголющи	глаголати	VERB	V-	Case=Nom|Gender=Fem|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	9	advcl	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = что ѹбо бѹдетъ отроча се
+# sent_id = 196953
+1	что	чьто	PRON	Pi	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	3	xcomp	_	ref=2
+2	ѹбо	убо	ADV	Df	_	3	advmod	_	ref=2
+3	бѹдетъ	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+4	отроча	отроча	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	ref=2
+5	се	сии	DET	Pd	Case=Nom|Gender=Neut|Number=Sing	4	det	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = и ꙗже о немъ волѧ гн҃ѧ да бѹдетъ
+# sent_id = 196905
+1	и	и	CCONJ	C-	_	8	cc	_	ref=2
+2	ꙗже	иже	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	4	nsubj	_	ref=2
+3	о	о	ADP	R-	_	4	case	_	ref=2
+4	немъ	и	PRON	Pp	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	det	_	ref=2
+5	волѧ	воля	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	ref=2
+6	гн҃ѧ	господьнь	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	5	amod	_	ref=2
+7	да	да#1	ADV	Df	_	8	advmod	_	ref=2
+8	бѹдетъ	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = мꙋжїе же въ црк҃ви сїѧ всѧ слышав꙽ши и видѣв꙽ши стоꙗхѹ з꙽ безмолвїемъ ѹжасни дондеже іерѣи ст҃ѹю совер꙽шили литѹргїю и съвьлече сѧ ризъ своихъ и распꙋсти люди
+# sent_id = 196906
+1	мꙋжїе	мужь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	ref=2
+2	же	же	ADV	Df	_	10	advmod	_	ref=2
+3	въ	въ	ADP	R-	_	4	case	_	ref=2
+4	црк҃ви	цьркы	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	1	nmod	_	ref=2
+5	сїѧ	сии	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	7	obj:dir	_	ref=2
+6	всѧ	вьсь	DET	Px	Case=Acc|Gender=Neut|Number=Plur	5	det	_	ref=2
+7	слышав꙽ши	слышати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	10	advcl	_	ref=2
+8	и	и	CCONJ	C-	_	7	cc	_	ref=2
+9	видѣв꙽ши	видѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	7	conj	_	ref=2
+10	стоꙗхѹ	стояти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+11	з꙽	съ	ADP	R-	_	12	case	_	ref=2
+12	безмолвїемъ	безмълвие	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	10	obl	_	ref=2
+13	ѹжасни	ужасьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	10	advmod	_	ref=2
+14	дондеже	доньдеже	SCONJ	G-	_	17	mark	_	ref=2
+15	іерѣи	иереи	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	ref=2
+16	ст҃ѹю	святыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	18	amod	_	ref=2
+17	совер꙽шили	съвьршити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	10	advcl	_	ref=2
+18	литѹргїю	литургия	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	17	obj:dir	_	ref=2
+19	и	и	CCONJ	C-	_	17	cc	_	ref=2
+20	съвьлече	съвлѣщи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	17	conj	_	ref=2
+21	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	20	aux	_	ref=2
+22	ризъ	риза	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	20	iobj	_	ref=2
+23	своихъ	свои	ADJ	Pt	Case=Gen|Gender=Fem|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	22	nmod	_	ref=2
+24	и	и	CCONJ	C-	_	17	cc	_	ref=2
+25	распꙋсти	распустити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	17	conj	_	ref=2
+26	люди	людие	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	25	obj:dir	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = и разыдоша сѧ кїиждо во своѧ си
+# sent_id = 196954
+1	и	и	CCONJ	C-	_	2	cc	_	ref=2
+2	разыдоша	разити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=2
+4	кїиждо	кыижьдо	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	ref=2
+5	во	въ	ADP	R-	_	6	case	_	ref=2
+6	своѧ	свои	ADJ	Pt	Case=Acc|Gender=Neut|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	4	orphan	_	ref=2
+7	си	себе	PRON	Pk	Case=Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	det	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = и бысть страх на всѣх слышащих сиѧ
+# sent_id = 196910
+1	и	и	CCONJ	C-	_	2	cc	_	ref=2
+2	бысть	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+3	страх	страхъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=2
+4	на	на	ADP	R-	_	6	case	_	ref=2
+5	всѣх	вьсь	DET	Px	Case=Loc|Gender=Masc|Number=Plur	6	det	_	ref=2
+6	слышащих	слышати	VERB	V-	Case=Loc|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	2	xcomp	_	ref=2
+7	сиѧ	сии	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	6	obj:dir	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = марїѧ же мт҃и его ѿ дн҃е того ѿнележе быс знаменїе таковое и проѧвленїе ѿтолѣ ѹбо пребываше до времене рѡженїѧ его и младенца во ѹтробѣ носѧщи ꙗк нѣкое сокровище многоцѣнное и ꙗко драгїи камень и ꙗко чюдныи бисеръ и ꙗк сосѹд из꙽бранъ
+# sent_id = 196911
+1	марїѧ	мария	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	ref=2
+2	же	же	ADV	Df	_	16	advmod	_	ref=2
+3	мт҃и	мати	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	appos	_	ref=2
+4	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	det	_	ref=2
+5	ѿ	отъ	ADP	R-	_	6	case	_	ref=2
+6	дн҃е	дьнь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	14	appos	_	ref=2
+7	того	тыи	DET	Pd	Case=Gen|Gender=Masc|Number=Sing	6	det	_	ref=2
+8	ѿнележе	отънелѣже	SCONJ	G-	_	9	advmod	_	ref=2
+9	быс	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	acl	_	ref=2
+10	знаменїе	знамение	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	ref=2
+11	таковое	таковыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	10	amod	_	ref=2
+12	и	и	CCONJ	C-	_	10	cc	_	ref=2
+13	проѧвленїе	проявление	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	10	conj	_	ref=2
+14	ѿтолѣ	отътолѣ	ADV	Df	_	16	advmod	_	ref=2
+15	ѹбо	убо	ADV	Df	_	16	advmod	_	ref=2
+16	пребываше	прѣбывати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+17	до	до	ADP	R-	_	18	case	_	ref=2
+18	времене	врѣмя	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	16	obl	_	ref=2
+19	рѡженїѧ	рожение	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	ref=2
+20	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	det	_	ref=2
+21	и	и	CCONJ	C-	_	16	cc	_	ref=2
+22	младенца	младеньць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	25	obj:dir	_	ref=2
+23	во	въ	ADP	R-	_	24	case	_	ref=2
+24	ѹтробѣ	утроба	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	25	obl	_	ref=2
+25	носѧщи	носити	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	16	conj	_	ref=2
+26	ꙗк	яко	ADV	Df	_	25	advmod	_	ref=2
+27	нѣкое	нѣкыи	DET	Px	Case=Acc|Gender=Neut|Number=Sing	28	det	_	ref=2
+28	сокровище	съкровище	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	26	obj:dir	_	ref=2
+29	многоцѣнное	мъногоцѣньныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	28	amod	_	ref=2
+30	и	и	CCONJ	C-	_	26	cc	_	ref=2
+31	ꙗко	яко	ADV	Df	_	26	conj	_	ref=2
+32	драгїи	драгыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	33	amod	_	ref=2
+33	камень	камы	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	31	obj:dir	_	ref=2
+34	и	и	CCONJ	C-	_	26	cc	_	ref=2
+35	ꙗко	яко	ADV	Df	_	26	conj	_	ref=2
+36	чюдныи	чудьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	37	amod	_	ref=2
+37	бисеръ	бьсиръ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	35	obj:dir	_	ref=2
+38	и	и	CCONJ	C-	_	26	cc	_	ref=2
+39	ꙗк	яко	ADV	Df	_	26	conj	_	ref=2
+40	сосѹд	съсудъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	39	obj:dir	_	ref=2
+41	из꙽бранъ	избьрати	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	40	acl	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = и егда в себѣ сего носѧше и сим непразднѣ сѹщи еи тогда сама соблюдаше сѧ ѿ всѧкїѧ ск꙽верны и ѿ всѧкїѧ нечистоты постом огражаѧ сѧ и всѧкїѧ пища толъстыѧ ошаѧв с꙽ѧ и ѿ мѧс и ѿ млека
+# sent_id = 196917
+1	и	и	CCONJ	C-	_	14	cc	_	ref=2
+2	егда	егда	ADV	Dq	PronType=Rel	6	advmod	_	ref=2
+3	в	въ	ADP	R-	_	4	case	_	ref=2
+4	себѣ	себе	PRON	Pk	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	obl	_	ref=2
+5	сего	сии	ADJ	Pd	Case=Gen|Gender=Masc|Number=Sing	6	obj:dir	_	ref=2
+6	носѧше	носити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	advcl	_	ref=2
+7	и	и	CCONJ	C-	_	6	cc	_	ref=2
+8	сим	сии	ADJ	Pd	Case=Ins|Gender=Masc|Number=Sing	10	obl	_	ref=2
+9	непразднѣ	непраздьныи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	10	xcomp	_	ref=2
+10	сѹщи	быти	VERB	V-	Case=Dat|Gender=Fem|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	6	conj	_	ref=2
+11	еи	и	PRON	Pp	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	ref=2
+12	тогда	тъгда	ADV	Df	_	14	advmod	_	ref=2
+13	сама	самъ	ADJ	Pd	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	ref=2
+14	соблюдаше	съблюдати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+15	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	14	obj:dir	_	ref=2
+16	ѿ	отъ	ADP	R-	_	18	case	_	ref=2
+17	всѧкїѧ	вьсякыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	18	amod	_	ref=2
+18	ск꙽верны	сквьрна	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	14	obl	_	ref=2
+19	и	и	CCONJ	C-	_	14	cc	_	ref=2
+20	ѿ	отъ	ADP	R-	_	22	case	_	ref=2
+21	всѧкїѧ	вьсякыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	22	amod	_	ref=2
+22	нечистоты	нечистота	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	24	obl	_	ref=2
+23	постом	постъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	24	obl	_	ref=2
+24	огражаѧ	огражати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	14	conj	_	ref=2
+25	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	24	obj:dir	_	ref=2
+26	и	и	CCONJ	C-	_	14	cc	_	ref=2
+27	всѧкїѧ	вьсякыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	28	amod	_	ref=2
+28	пища	пища	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	30	iobj	_	ref=2
+29	толъстыѧ	тълстыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	28	amod	_	ref=2
+30	ошаѧв	ошаяти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	14	conj	_	ref=2
+31	с꙽ѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	30	aux	_	ref=2
+32	и	и	CCONJ	C-	_	28	cc	_	ref=2
+33	ѿ	отъ	ADP	R-	_	34	case	_	ref=2
+34	мѧс	мясо	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	28	conj	_	ref=2
+35	и	и	CCONJ	C-	_	28	cc	_	ref=2
+36	ѿ	отъ	ADP	R-	_	37	case	_	ref=2
+37	млека	млѣко	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	28	conj	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = и рыбъ не ѧдѧше
+# sent_id = 196955
+1	и	и	CCONJ	C-	_	4	cc	_	ref=2
+2	рыбъ	рыба	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	4	obj:dir	_	ref=2
+3	не	не	ADV	Df	_	4	advmod	_	ref=2
+4	ѧдѧше	ясти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = хлѣбом точїю и зелїем и водою питаше сѧ
+# sent_id = 196923
+1	хлѣбом	хлѣбъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	7	iobj	_	ref=2
+2	точїю	тъчию	ADV	Df	_	1	advmod	_	ref=2
+3	и	и	CCONJ	C-	_	1	cc	_	ref=2
+4	зелїем	зелие	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	1	conj	_	ref=2
+5	и	и	CCONJ	C-	_	1	cc	_	ref=2
+6	водою	вода	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	1	conj	_	ref=2
+7	питаше	питати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+8	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	7	aux	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = и ѿ пїѧньс꙽тва ѿтинꙋд воздръжаше сѧ
+# sent_id = 196956
+1	и	и	CCONJ	C-	_	5	cc	_	ref=2
+2	ѿ	отъ	ADP	R-	_	3	case	_	ref=2
+3	пїѧньс꙽тва	пияньство	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	5	obl	_	ref=2
+4	ѿтинꙋд	отъинудь	ADV	Df	_	5	advmod	_	ref=2
+5	воздръжаше	въздьржати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+6	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	5	aux	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = но в꙽ мѣсто питїѧ всѧкого водꙋ единꙋ точїю и то по ѡскѹдꙋ испиваше
+# sent_id = 196924
+1	но	нъ	CCONJ	C-	_	13	cc	_	ref=2
+2	в꙽	въ	ADP	R-	_	3	case	_	ref=2
+3	мѣсто	мѣсто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	13	obl	_	ref=2
+4	питїѧ	питие	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	ref=2
+5	всѧкого	вьсякыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	4	amod	_	ref=2
+6	водꙋ	вода	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	13	obj:dir	_	ref=2
+7	единꙋ	единъ	NUM	Ma	Case=Acc|Gender=Fem|Number=Sing	6	nummod	_	ref=2
+8	точїю	тъчию	ADV	Df	_	6	advmod	_	ref=2
+9	и	и	CCONJ	C-	_	13	cc	_	ref=2
+10	то	тыи	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	13	conj	_	ref=2
+11	по	по	ADP	R-	_	12	case	_	ref=2
+12	ѡскѹдꙋ	оскудъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	10	orphan	_	ref=2
+13	испиваше	испивати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = на часте же в таинѣ на единѣ со воз꙽дыханїем и со слезами молѧше сѧ къ бг҃ѹ гл҃ѧ
+# sent_id = 196925
+1	на	на	ADP	R-	_	2	case	_	ref=2
+2	часте	частыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	13	advmod	_	ref=2
+3	же	же	ADV	Df	_	13	advmod	_	ref=2
+4	в	въ	ADP	R-	_	5	case	_	ref=2
+5	таинѣ	таина	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	13	obl	_	ref=2
+6	на	на	ADP	R-	_	7	case	_	ref=2
+7	единѣ	единъ	NUM	Ma	Case=Loc|Gender=Fem|Number=Sing	13	obl	_	ref=2
+8	со	съ	ADP	R-	_	9	case	_	ref=2
+9	воз꙽дыханїем	въздыхание	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	13	obl	_	ref=2
+10	и	и	CCONJ	C-	_	9	cc	_	ref=2
+11	со	съ	ADP	R-	_	12	case	_	ref=2
+12	слезами	сльза	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	9	conj	_	ref=2
+13	молѧше	молити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+14	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	13	aux	_	ref=2
+15	къ	къ	ADP	R-	_	16	case	_	ref=2
+16	бг҃ѹ	богъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	13	obl	_	ref=2
+17	гл҃ѧ	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	13	advcl	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = г҃и спси мѧ
+# sent_id = 196926
+1	г҃и	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	ref=2
+2	спси	съпасти#1	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+3	мѧ	азъ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	2	obj:dir	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = соблюди мѧ ѹбогѹю си рабѹ свою
+# sent_id = 196957
+1	соблюди	съблюсти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+2	мѧ	азъ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	1	obj:dir	_	ref=2
+3	ѹбогѹю	убогыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	5	amod	_	ref=2
+4	си	себе	PRON	Pk	Case=Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	det	_	ref=2
+5	рабѹ	раба	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	appos	_	ref=2
+6	свою	свои	ADJ	Pt	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	5	nmod	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = и сего младенца носимаго во ѹтробе моеи сп҃си и сохрани
+# sent_id = 196927
+1	и	и	CCONJ	C-	_	8	cc	_	ref=2
+2	сего	сии	DET	Pd	Case=Gen|Gender=Masc|Number=Sing	3	det	_	ref=2
+3	младенца	младеньць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	obj:dir	_	ref=2
+4	носимаго	носити	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Pass	3	acl	_	ref=2
+5	во	въ	ADP	R-	_	6	case	_	ref=2
+6	ѹтробе	утроба	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	4	obl	_	ref=2
+7	моеи	мои	ADJ	Ps	Case=Loc|Gender=Fem|Number=Sing|Person=1|Poss=Yes	6	nmod	_	ref=2
+8	сп҃си	съпасти#1	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+9	и	и	CCONJ	C-	_	8	cc	_	ref=2
+10	сохрани	съхранити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = ты бо еси хранѧи младенца г҃ь
+# sent_id = 196928
+1	ты	ты	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	ref=2
+2	бо	бо	ADV	Df	_	3	advmod	_	ref=2
+3	еси	быти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+4	хранѧи	хранити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	6	acl	_	ref=2
+5	младенца	младеньць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	obj:dir	_	ref=2
+6	г҃ь	господь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	xcomp	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = и волѧ твоѧ да бѹдет ги
+# sent_id = 196958
+1	и	и	CCONJ	C-	_	5	cc	_	ref=2
+2	волѧ	воля	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	ref=2
+3	твоѧ	твои	ADJ	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes	2	nmod	_	ref=2
+4	да	да#1	ADV	Df	_	5	advmod	_	ref=2
+5	бѹдет	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+6	ги	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = и бѹди имѧ твое блсвено во вѣки вѣком аминь
+# sent_id = 196929
+1	и	и	CCONJ	C-	_	2	cc	_	ref=2
+2	бѹди	быти	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+3	имѧ	имя	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	ref=2
+4	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	3	nmod	_	ref=2
+5	блсвено	благословеныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	2	xcomp	_	ref=2
+6	во	въ	ADP	R-	_	7	case	_	ref=2
+7	вѣки	вѣкъ#1	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	2	obl	_	ref=2
+8	вѣком	вѣкъ#1	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	7	nmod	_	ref=2
+9	аминь	аминъ	INTJ	I-	_	2	vocative	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = и сице творѧ пребываше даже и до самого рожденїѧ его
+# sent_id = 196930
+1	и	и	CCONJ	C-	_	4	cc	_	ref=2
+2	сице	сице	ADV	Df	_	3	advmod	_	ref=2
+3	творѧ	творити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	4	advcl	_	ref=2
+4	пребываше	прѣбывати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+5	даже	даже	ADV	Df	_	7	advmod	_	ref=2
+6	и	и	ADV	Df	_	7	advmod	_	ref=2
+7	до	до	ADP	R-	_	9	case	_	ref=2
+8	самого	самъ	DET	Pd	Case=Gen|Gender=Neut|Number=Sing	9	det	_	ref=2
+9	рожденїѧ	рождение	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	4	obl	_	ref=2
+10	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	det	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = велми ж прилежаше паче всего постѹ и мл҃твѣ ꙗко и самое то зачатїе и ржство полно бѣ поста и мл҃твы
+# sent_id = 196931
+1	велми	вельми	ADV	Df	_	3	advmod	_	ref=2
+2	ж	же	ADV	Df	_	3	advmod	_	ref=2
+3	прилежаше	прилежати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+4	паче	паче	ADV	Df	Degree=Cmp	3	advmod	_	ref=2
+5	всего	вьсь	ADJ	Px	Case=Gen|Gender=Neut|Number=Sing	4	iobj	_	ref=2
+6	постѹ	постъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	ref=2
+7	и	и	CCONJ	C-	_	6	cc	_	ref=2
+8	мл҃твѣ	молитва	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	6	conj	_	ref=2
+9	ꙗко	яко	SCONJ	G-	_	17	mark	_	ref=2
+10	и	и	ADV	Df	_	17	advmod	_	ref=2
+11	самое	самъ	DET	Pd	Case=Nom|Gender=Neut|Number=Sing	13	det	_	ref=2
+12	то	тыи	DET	Pd	Case=Nom|Gender=Neut|Number=Sing	13	det	_	ref=2
+13	зачатїе	зачатие	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	17	nsubj	_	ref=2
+14	и	и	CCONJ	C-	_	13	cc	_	ref=2
+15	ржство	рожьство	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	13	conj	_	ref=2
+16	полно	пълныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	17	xcomp	_	ref=2
+17	бѣ	быти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	ref=2
+18	поста	постъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	16	iobj	_	ref=2
+19	и	и	CCONJ	C-	_	18	cc	_	ref=2
+20	мл҃твы	молитва	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	18	conj	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = бѧше бо и та добродѣтелна сѹщи и ѕело боѧщи сѧ бг҃а ꙗко и преже роженїѧ его ѹвѣдавъши и разѹмѣв꙽ши ꙗже о немъ таковое знаменїе и проѧвленїе и ѹдивленїе
+# sent_id = 196933
+1	бѧше	быти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+2	бо	бо	ADV	Df	_	1	advmod	_	ref=2
+3	и	и	ADV	Df	_	4	advmod	_	ref=2
+4	та	тыи	ADJ	Pd	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	ref=2
+5	добродѣтелна	добродѣтельныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	6	xcomp	_	ref=2
+6	сѹщи	быти	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	1	xcomp	_	ref=2
+7	и	и	CCONJ	C-	_	6	cc	_	ref=2
+8	ѕело	зѣло	ADV	Df	_	9	advmod	_	ref=2
+9	боѧщи	бояти	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	6	conj	_	ref=2
+10	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	9	aux	_	ref=2
+11	бг҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	iobj	_	ref=2
+12	ꙗко	яко	SCONJ	G-	_	17	mark	_	ref=2
+13	и	и	ADV	Df	_	14	advmod	_	ref=2
+14	преже	прѣже	ADP	R-	_	15	case	_	ref=2
+15	роженїѧ	рожение	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	17	obl	_	ref=2
+16	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	det	_	ref=2
+17	ѹвѣдавъши	увѣдати	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	1	advcl	_	ref=2
+18	и	и	CCONJ	C-	_	17	cc	_	ref=2
+19	разѹмѣв꙽ши	разумѣти	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	17	conj	_	ref=2
+20	ꙗже	иже	PRON	Pr	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	22	nsubj	_	ref=2
+21	о	о	ADP	R-	_	22	case	_	ref=2
+22	немъ	и	PRON	Pp	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	det	_	ref=2
+23	таковое	таковыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	24	amod	_	ref=2
+24	знаменїе	знамение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	19	obj:dir	_	ref=2
+25	и	и	CCONJ	C-	_	24	cc	_	ref=2
+26	проѧвленїе	проявление	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	24	conj	_	ref=2
+27	и	и	CCONJ	C-	_	24	cc	_	ref=2
+28	ѹдивленїе	удивление	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	24	conj	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = и совѣщаша с мѹжем своимъ глѧ ꙗко
+# sent_id = 196936
+1	и	и	CCONJ	C-	_	2	cc	_	ref=2
+2	совѣщаша	съвѣщати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+3	с	съ	ADP	R-	_	4	case	_	ref=2
+4	мѹжем	мужь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	2	obl	_	ref=2
+5	своимъ	свои	ADJ	Pt	Case=Ins|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	4	nmod	_	ref=2
+6	глѧ	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	ref=2
+7	ꙗко	яко	SCONJ	G-	_	6	ccomp	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = аще бѹдет ражаемое мѹжескъ полъ обѣщаеве сѧ принести его въ цр҃ковь и дати его блгдтлю всѣх бг҃ѹ
+# sent_id = 196960
+1	аще	аще	SCONJ	G-	_	2	mark	_	ref=2
+2	бѹдет	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	advcl	_	ref=2
+3	ражаемое	ражати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Pass	2	nsubj	_	ref=2
+4	мѹжескъ	мужьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	5	amod	_	ref=2
+5	полъ	полъ#2	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	xcomp	_	ref=2
+6	обѣщаеве	обѣщати	VERB	V-	Mood=Ind|Number=Dual|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+7	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	6	aux	_	ref=2
+8	принести	принести	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	6	xcomp	_	ref=2
+9	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj:dir	_	ref=2
+10	въ	въ	ADP	R-	_	11	case	_	ref=2
+11	цр҃ковь	цьркы	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	ref=2
+12	и	и	CCONJ	C-	_	8	cc	_	ref=2
+13	дати	дати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	conj	_	ref=2
+14	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj:dir	_	ref=2
+15	блгдтлю	благодѣтель	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	13	iobj	_	ref=2
+16	всѣх	вьсь	ADJ	Px	Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	ref=2
+17	бг҃ѹ	богъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	15	appos	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = ꙗкоже и быс
+# sent_id = 196959
+1	ꙗкоже	якоже	ADV	Dq	PronType=Rel	3	advmod	_	ref=2
+2	и	и	ADV	Df	_	3	advmod	_	ref=2
+3	быс	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = ѡле вѣры добрїѧ
+# sent_id = 196939
+1	ѡле	оле	INTJ	I-	_	0	root	_	ref=2
+2	вѣры	вѣра	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	1	vocative	_	ref=2
+3	добрїѧ	добрыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	2	amod	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = ѡ теплоты бл҃ги
+# sent_id = 196961
+1	ѡ	о	INTJ	I-	_	0	root	_	ref=2
+2	теплоты	тепло	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	1	vocative	_	ref=2
+3	бл҃ги	благыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	2	amod	_	ref=2
+
+# source = Life of Sergij of Radonezh, 2
+# text = ꙗко и преже рожес꙽тва его ѡбѣщаста сѧ привести его и вдати бл҃гих подателю бг҃ѹ ꙗкоже древле анна пррочица мт҃и самоилѧ пррока
+# sent_id = 196940
+1	ꙗко	яко	ADV	Df	_	6	advmod	_	ref=2
+2	и	и	ADV	Df	_	3	advmod	_	ref=2
+3	преже	прѣже	ADV	Df	_	6	advmod	_	ref=2
+4	рожес꙽тва	рожьство	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	3	iobj	_	ref=2
+5	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	det	_	ref=2
+6	ѡбѣщаста	обѣщати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=2
+7	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	6	aux	_	ref=2
+8	привести	привести	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	6	xcomp	_	ref=2
+9	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj:dir	_	ref=2
+10	и	и	CCONJ	C-	_	8	cc	_	ref=2
+11	вдати	въдати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	conj	_	ref=2
+12	бл҃гих	благыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	13	nmod	_	ref=2
+13	подателю	податель	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	11	iobj	_	ref=2
+14	бг҃ѹ	богъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	13	appos	_	ref=2
+15	ꙗкоже	якоже	ADV	Dq	PronType=Rel	17	orphan	_	ref=2
+16	древле	древле	ADV	Df	_	17	orphan	_	ref=2
+17	анна	анна	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	6	obl	_	ref=2
+18	пррочица	пророчица	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	17	appos	_	ref=2
+19	мт҃и	мати	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	17	appos	_	ref=2
+20	самоилѧ	самуилъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	ref=2
+21	пррока	пророкъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	20	appos	_	ref=2
+
+# source = Life of Sergij of Radonezh, 3
+# text = егда же исполниша сѧ д҃нїе родити еи и роди младенца своего
+# sent_id = 196970
+1	егда	егда	ADV	Dq	PronType=Rel	3	advmod	_	ref=3
+2	же	же	ADV	Df	_	3	advmod	_	ref=3
+3	исполниша	испълнити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=3
+5	д҃нїе	дьнь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	ref=3
+6	родити	родити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	acl	_	ref=3
+7	еи	и	PRON	Pp	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	ref=3
+8	и	и	CCONJ	C-	_	3	cc	_	ref=3
+9	роди	родити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=3
+10	младенца	младеньць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	obj:dir	_	ref=3
+11	своего	свои	ADJ	Pt	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	10	nmod	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = и ѕело непечално ржство прїим꙽ши родтели же его призваста к себѣ ѹжики своѧ и дрѹги и сꙋсѣди
+# sent_id = 197112
+1	и	и	CCONJ	C-	_	9	cc	_	ref=3
+2	ѕело	зѣло	ADV	Df	_	3	advmod	_	ref=3
+3	непечално	непечальныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	5	advmod	_	ref=3
+4	ржство	рожьство	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obj:dir	_	ref=3
+5	прїим꙽ши	прияти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	9	advcl	_	ref=3
+6	родтели	родитель	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	ref=3
+7	же	же	ADV	Df	_	6	advmod	_	ref=3
+8	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	ref=3
+9	призваста	призъвати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+10	к	къ	ADP	R-	_	11	case	_	ref=3
+11	себѣ	себе	PRON	Pk	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	9	obl	_	ref=3
+12	ѹжики	ужика	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	9	obj:dir	_	ref=3
+13	своѧ	свои	ADJ	Pt	Case=Acc|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	12	nmod	_	ref=3
+14	и	и	CCONJ	C-	_	12	cc	_	ref=3
+15	дрѹги	другъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	12	conj	_	ref=3
+16	и	и	CCONJ	C-	_	12	cc	_	ref=3
+17	сꙋсѣди	сусѣдъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	12	conj	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = и возвеселиша сѧ славѧще и бл҃годарѧще бг҃а дав꙽шаго има таковыи дѣтищь
+# sent_id = 197113
+1	и	и	CCONJ	C-	_	2	cc	_	ref=3
+2	возвеселиша	възвеселити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=3
+4	славѧще	славити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	ref=3
+5	и	и	CCONJ	C-	_	4	cc	_	ref=3
+6	бл҃годарѧще	благодарити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	4	conj	_	ref=3
+7	бг҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	obj:dir	_	ref=3
+8	дав꙽шаго	дати	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	6	advcl	_	ref=3
+9	има	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Dual|Person=3|PronType=Prs	8	iobj	_	ref=3
+10	таковыи	таковыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	11	amod	_	ref=3
+11	дѣтищь	дѣтищь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obj:dir	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = по роженїи же его внегда и пеленами повито быс отроча нѹжа всѧко бѧше еже и к сосцѹ принести
+# sent_id = 196973
+1	по	по	ADP	R-	_	2	case	_	ref=3
+2	роженїи	рожение	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	13	obl	_	ref=3
+3	же	же	ADV	Df	_	13	advmod	_	ref=3
+4	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	det	_	ref=3
+5	внегда	вънегда	ADV	Dq	PronType=Rel	9	advmod	_	ref=3
+6	и	и	ADV	Df	_	9	advmod	_	ref=3
+7	пеленами	пелена	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	8	iobj	_	ref=3
+8	повито	повити	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	9	xcomp	_	ref=3
+9	быс	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	advcl	_	ref=3
+10	отроча	отроча	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	ref=3
+11	нѹжа	нужа	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	ref=3
+12	всѧко	вьсяко	ADV	Df	_	13	advmod	_	ref=3
+13	бѧше	быти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+14	еже	иже	DET	Pd	Case=Nom|Gender=Neut|Number=Sing	18	det	_	ref=3
+15	и	и	ADV	Df	_	18	advmod	_	ref=3
+16	к	къ	ADP	R-	_	17	case	_	ref=3
+17	сосцѹ	съсьць	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	18	obl	_	ref=3
+18	принести	принести	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	11	nmod	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = да внегда аще слꙋчаше сѧ мт҃ри его пищѹ нѣкѹю в꙽кѹсит еже ѿ мѧсъ и тою насыщенѣ быти и полнѣ ѹтробе еѧ тогда же никакоже младенецъ сосцѹ касаше сѧ
+# sent_id = 196975
+1	да	да#2	ADV	Df	_	27	advmod	_	ref=3
+2	внегда	вънегда	ADV	Dq	PronType=Rel	4	advmod	_	ref=3
+3	аще	аще	SCONJ	G-	_	4	mark	_	ref=3
+4	слꙋчаше	сълучати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	27	advcl	_	ref=3
+5	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	4	aux	_	ref=3
+6	мт҃ри	мати	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	4	iobj	_	ref=3
+7	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	det	_	ref=3
+8	пищѹ	пища	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	obj:dir	_	ref=3
+9	нѣкѹю	нѣкыи	DET	Px	Case=Acc|Gender=Fem|Number=Sing	8	det	_	ref=3
+10	в꙽кѹсит	въкусити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	xcomp	_	ref=3
+11	еже	иже	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	13	nsubj	_	ref=3
+12	ѿ	отъ	ADP	R-	_	13	case	_	ref=3
+13	мѧсъ	мясо	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	ref=3
+14	и	и	CCONJ	C-	_	4	cc	_	ref=3
+15	тою	тыи	ADJ	Pd	Case=Ins|Gender=Fem|Number=Sing	16	iobj	_	ref=3
+16	насыщенѣ	насытити	VERB	V-	Case=Dat|Gender=Fem|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	17	xcomp	_	ref=3
+17	быти	быти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	20	orphan	_	ref=3
+18	и	и	CCONJ	C-	_	16	cc	_	ref=3
+19	полнѣ	пълныи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	16	conj	_	ref=3
+20	ѹтробе	утроба	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	4	conj	_	ref=3
+21	еѧ	и	PRON	Pp	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	20	det	_	ref=3
+22	тогда	тъгда	ADV	Df	_	27	advmod	_	ref=3
+23	же	же	ADV	Df	_	27	advmod	_	ref=3
+24	никакоже	никакоже	ADV	Df	_	27	advmod	_	ref=3
+25	младенецъ	младеньць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	27	nsubj	_	ref=3
+26	сосцѹ	съсьць	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	27	iobj	_	ref=3
+27	касаше	касати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+28	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	27	aux	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = и сїе слѹчаше сѧ не единою бывати но ѡвогда дн҃ь ѡвогда два младенцꙋ не напитати сѧ
+# sent_id = 197114
+1	и	и	CCONJ	C-	_	3	cc	_	ref=3
+2	сїе	сии	ADJ	Pd	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	ref=3
+3	слѹчаше	сълучати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=3
+5	не	не	ADV	Df	_	6	advmod	_	ref=3
+6	единою	единою	ADV	Df	_	3	advmod	_	ref=3
+7	бывати	бывати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=3
+8	но	нъ	CCONJ	C-	_	3	cc	_	ref=3
+9	ѡвогда	овъгда	ADV	Df	_	10	orphan	_	ref=3
+10	дн҃ь	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	conj	_	ref=3
+11	ѡвогда	овъгда	ADV	Df	_	15	advmod	_	ref=3
+12	два	дъва	NUM	Ma	Case=Acc|Gender=Masc|Number=Dual	15	obl	_	ref=3
+13	младенцꙋ	младеньць	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	15	nsubj	_	ref=3
+14	не	не	ADV	Df	_	15	advmod	_	ref=3
+15	напитати	напитати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	orphan	_	ref=3
+16	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	15	aux	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = иже ѿтинѹд о семъ ѹжасъ вкѹпѣ и скорбь обдеръжаше рожешѹю и сродникы еѧ
+# sent_id = 196979
+1	иже	иже	ADV	Df	_	9	advmod	_	ref=3
+2	ѿтинѹд	отъинудь	ADV	Df	_	9	advmod	_	ref=3
+3	о	о	ADP	R-	_	4	case	_	ref=3
+4	семъ	сии	DET	Pd	Case=Loc|Gender=Neut|Number=Sing	5	det	_	ref=3
+5	ѹжасъ	ужасъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	ref=3
+6	вкѹпѣ	въкупѣ	ADV	Df	_	5	amod	_	ref=3
+7	и	и	CCONJ	C-	_	5	cc	_	ref=3
+8	скорбь	скърбь	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	conj	_	ref=3
+9	обдеръжаше	объдьржати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+10	рожешѹю	родити	VERB	V-	Case=Acc|Gender=Fem|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	9	obj:dir	_	ref=3
+11	и	и	CCONJ	C-	_	10	cc	_	ref=3
+12	сродникы	съродьникъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	10	conj	_	ref=3
+13	еѧ	и	PRON	Pp	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	det	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = и едва разѹмѣша ꙗко не хощет младенецъ еже ѿ мѧс питаемѣ питателнице его быти тѣм млеком напаати сѧ но точїю ѿ поста еи не раздрѣшати сѧ и ѹже ѿтодѣ пища мт҃рнѧ воздержанїе и постъ бѧше
+# sent_id = 196980
+1	и	и	CCONJ	C-	_	3	cc	_	ref=3
+2	едва	едъва	ADV	Df	_	3	advmod	_	ref=3
+3	разѹмѣша	разумѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+4	ꙗко	яко	SCONJ	G-	_	6	mark	_	ref=3
+5	не	не	ADV	Df	_	6	advmod	_	ref=3
+6	хощет	хотѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	ref=3
+7	младенецъ	младеньць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=3
+8	еже	еже	SCONJ	G-	_	14	mark	_	ref=3
+9	ѿ	отъ	ADP	R-	_	10	case	_	ref=3
+10	мѧс	мясо	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	11	obl	_	ref=3
+11	питаемѣ	питати	VERB	V-	Case=Dat|Gender=Fem|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Pass	14	xcomp	_	ref=3
+12	питателнице	питательница	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	14	nsubj	_	ref=3
+13	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	det	_	ref=3
+14	быти	быти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	6	advcl	_	ref=3
+15	тѣм	тыи	DET	Pd	Case=Ins|Gender=Neut|Number=Sing	16	det	_	ref=3
+16	млеком	млѣко	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	17	iobj	_	ref=3
+17	напаати	напаяти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	6	xcomp	_	ref=3
+18	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	17	aux	_	ref=3
+19	но	нъ	CCONJ	C-	_	14	cc	_	ref=3
+20	точїю	тъчию	ADV	Df	_	25	advmod	_	ref=3
+21	ѿ	отъ	ADP	R-	_	22	case	_	ref=3
+22	поста	постъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	25	obl	_	ref=3
+23	еи	и	PRON	Pp	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	ref=3
+24	не	не	ADV	Df	_	25	advmod	_	ref=3
+25	раздрѣшати	раздрѣшати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	14	conj	_	ref=3
+26	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	25	aux	_	ref=3
+27	и	и	CCONJ	C-	_	3	cc	_	ref=3
+28	ѹже	уже	ADV	Df	_	35	advmod	_	ref=3
+29	ѿтодѣ	отътолѣ	ADV	Df	_	35	advmod	_	ref=3
+30	пища	пища	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	35	nsubj	_	ref=3
+31	мт҃рнѧ	матерьнии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	30	amod	_	ref=3
+32	воздержанїе	въздьржание	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	35	xcomp	_	ref=3
+33	и	и	CCONJ	C-	_	32	cc	_	ref=3
+34	постъ	постъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	32	conj	_	ref=3
+35	бѧше	быти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = и ѿтолѣ младенецъ повсегда по ѡбычаю питаемъ бываше
+# sent_id = 196988
+1	и	и	CCONJ	C-	_	8	cc	_	ref=3
+2	ѿтолѣ	отътолѣ	ADV	Df	_	8	advmod	_	ref=3
+3	младенецъ	младеньць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=3
+4	повсегда	повьсьгда	ADV	Df	_	8	advmod	_	ref=3
+5	по	по	ADP	R-	_	6	case	_	ref=3
+6	ѡбычаю	обычаи	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	ref=3
+7	питаемъ	питати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Pass	8	xcomp	_	ref=3
+8	бываше	бывати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = и исполниша сѧ дн҃їе обѣщанїю мт҃ри его
+# sent_id = 196989
+1	и	и	CCONJ	C-	_	2	cc	_	ref=3
+2	исполниша	испълнити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=3
+4	дн҃їе	дьнь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	ref=3
+5	обѣщанїю	обѣщание	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	4	nmod	_	ref=3
+6	мт҃ри	мати	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	5	nmod	_	ref=3
+7	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	det	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = ꙗко бысть по дн҃ех шестих седмицъ еже ес четверодесѧтныи дн҃ь по ржствѣ его родители же его принесоста младенецъ въ цр҃ковь бж҃їю воздающе ꙗко ж и прїꙗста ꙗкоже ѡбѣщаста сѧ воздати его бг҃ѹ дав꙽шемѹ его кѹпно же іерееви повелѣвающа ꙗко крщ҃енїем бжственым совершити и
+# sent_id = 196990
+1	ꙗко	яко	ADV	Dq	PronType=Rel	2	advmod	_	ref=3
+2	бысть	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	17	advcl	_	ref=3
+3	по	по	ADP	R-	_	4	case	_	ref=3
+4	дн҃ех	дьнь	NOUN	Nb	Case=Loc|Gender=Masc|Number=Plur	2	nsubj	_	ref=3
+5	шестих	шесть	NUM	Ma	Case=Loc|Gender=Fem|Number=Plur	4	appos	_	ref=3
+6	седмицъ	седмица	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	ref=3
+7	еже	иже	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	8	nsubj	_	ref=3
+8	ес	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	ref=3
+9	четверодесѧтныи	четверодесятьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	10	amod	_	ref=3
+10	дн҃ь	дьнь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	xcomp	_	ref=3
+11	по	по	ADP	R-	_	12	case	_	ref=3
+12	ржствѣ	рожьство	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	10	nmod	_	ref=3
+13	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	det	_	ref=3
+14	родители	родитель	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	17	nsubj	_	ref=3
+15	же	же	ADV	Df	_	14	advmod	_	ref=3
+16	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nmod	_	ref=3
+17	принесоста	принести	VERB	V-	Aspect=Perf|Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+18	младенецъ	младеньць	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	17	obj:dir	_	ref=3
+19	въ	въ	ADP	R-	_	20	case	_	ref=3
+20	цр҃ковь	цьркы	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	17	obl	_	ref=3
+21	бж҃їю	божии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	20	amod	_	ref=3
+22	воздающе	въздаяти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	17	advcl	_	ref=3
+23	ꙗко	якоже	ADV	Dq	PronType=Rel	26	advmod	_	ref=3
+24	ж	ж	ADV	Dq	PronType=Rel	23	flat	_	ref=3
+25	и	и	ADV	Df	_	26	advmod	_	ref=3
+26	прїꙗста	прияти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	22	advcl	_	ref=3
+27	ꙗкоже	якоже	SCONJ	G-	_	28	mark	_	ref=3
+28	ѡбѣщаста	обѣщати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	22	advcl	_	ref=3
+29	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	28	aux	_	ref=3
+30	воздати	въздати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	28	xcomp	_	ref=3
+31	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	obj:dir	_	ref=3
+32	бг҃ѹ	богъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	30	iobj	_	ref=3
+33	дав꙽шемѹ	дати	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	30	advcl	_	ref=3
+34	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	33	obj:dir	_	ref=3
+35	кѹпно	купьно	ADV	Df	_	38	advmod	_	ref=3
+36	же	же	ADV	Df	_	35	advmod	_	ref=3
+37	іерееви	иереи	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	38	iobj	_	ref=3
+38	повелѣвающа	повелѣвати	VERB	V-	Case=Nom|Gender=Masc|Number=Dual|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	17	advcl	_	ref=3
+39	ꙗко	яко	SCONJ	G-	_	42	mark	_	ref=3
+40	крщ҃енїем	крьщение	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	42	obl	_	ref=3
+41	бжственым	божьствьныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	40	amod	_	ref=3
+42	совершити	съвьршити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	38	ccomp	_	ref=3
+43	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	42	obj:dir	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = иереи же огласивъ его и мнѡго млт҃вовавъ над нимъ и с радѡстїю дх҃овною и со тщанїемъ крсти его во имѧ ѿц҃а и сн҃а и ст҃го дх҃а варфоломѣѧ во ст҃ѣмъ крщ҃енїи нарекъ того имѧ
+# sent_id = 196995
+1	иереи	иереи	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=3
+2	же	же	ADV	Df	_	3	advmod	_	ref=3
+3	огласивъ	огласити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=3
+4	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj:dir	_	ref=3
+5	и	и	CCONJ	C-	_	3	cc	_	ref=3
+6	мнѡго	мъного	ADV	Df	Degree=Pos	7	advmod	_	ref=3
+7	млт҃вовавъ	молитвовати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	3	conj	_	ref=3
+8	над	надъ	ADP	R-	_	9	case	_	ref=3
+9	нимъ	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	ref=3
+10	и	и	CCONJ	C-	_	3	cc	_	ref=3
+11	с	съ	ADP	R-	_	12	case	_	ref=3
+12	радѡстїю	радость	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	17	obl	_	ref=3
+13	дх҃овною	духовьныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	ref=3
+14	и	и	CCONJ	C-	_	12	cc	_	ref=3
+15	со	съ	ADP	R-	_	16	case	_	ref=3
+16	тщанїемъ	тъщание	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	12	conj	_	ref=3
+17	крсти	крьстити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=3
+18	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obj:dir	_	ref=3
+19	во	въ	ADP	R-	_	20	case	_	ref=3
+20	имѧ	имя	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	17	obl	_	ref=3
+21	ѿц҃а	отьць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	ref=3
+22	и	и	CCONJ	C-	_	21	cc	_	ref=3
+23	сн҃а	сынъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	21	conj	_	ref=3
+24	и	и	CCONJ	C-	_	21	cc	_	ref=3
+25	ст҃го	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	26	amod	_	ref=3
+26	дх҃а	духъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	21	conj	_	ref=3
+27	варфоломѣѧ	варфоломеи	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	31	xcomp	_	ref=3
+28	во	въ	ADP	R-	_	30	case	_	ref=3
+29	ст҃ѣмъ	святыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	30	amod	_	ref=3
+30	крщ҃енїи	крьщение	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	31	obl	_	ref=3
+31	нарекъ	нарещи	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	17	advcl	_	ref=3
+32	того	тыи	DET	Pd	Case=Gen|Gender=Masc|Number=Sing	33	det	_	ref=3
+33	имѧ	имя	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	31	obj:dir	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = возвед же его абїе ѿ кѹпѣлныѧ воды крщ҃енїѧ блгдть прїим꙽ши богатно ст҃го дх҃а и провидѣвъ дх҃омъ бж҃ественым и проразѹмѣ сосѹдѹ из꙽браннѹ быти младеньцꙋ
+# sent_id = 196998
+1	возвед	възвести	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=3
+2	же	же	ADV	Df	_	1	advmod	_	ref=3
+3	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj:dir	_	ref=3
+4	абїе	абие	ADV	Df	_	1	advmod	_	ref=3
+5	ѿ	отъ	ADP	R-	_	7	case	_	ref=3
+6	кѹпѣлныѧ	купѣльныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	7	amod	_	ref=3
+7	воды	вода	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	1	obl	_	ref=3
+8	крщ҃енїѧ	крьщение	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	ref=3
+9	блгдть	благодать	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	obj:dir	_	ref=3
+10	прїим꙽ши	прияти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	1	advcl	_	ref=3
+11	богатно	богатьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	10	advmod	_	ref=3
+12	ст҃го	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	13	amod	_	ref=3
+13	дх҃а	духъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	ref=3
+14	и	и	CCONJ	C-	_	1	cc	_	ref=3
+15	провидѣвъ	провидѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	1	conj	_	ref=3
+16	дх҃омъ	духъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	15	obl	_	ref=3
+17	бж҃ественым	божьствьныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	16	amod	_	ref=3
+18	и	и	CCONJ	C-	_	1	cc	_	ref=3
+19	проразѹмѣ	проразумѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=3
+20	сосѹдѹ	съсудъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	22	xcomp	_	ref=3
+21	из꙽браннѹ	избьрати	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	20	acl	_	ref=3
+22	быти	быти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	19	ccomp	_	ref=3
+23	младеньцꙋ	младеньць	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	22	nsubj	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = ѡтц҃ъ же его и мт҃и разѹм имѹща ст҃го писанїѧ не хѹдѣ и та повѣдаста іереови како носим сын во ѹтробе мт҃рни въ цр҃кви три краты провоз꙽гласи
+# sent_id = 197002
+1	ѡтц҃ъ	отьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=3
+2	же	же	ADV	Df	_	7	advmod	_	ref=3
+3	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	det	_	ref=3
+4	и	и	CCONJ	C-	_	1	cc	_	ref=3
+5	мт҃и	мати	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	ref=3
+6	разѹм	разумъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	7	obj:dir	_	ref=3
+7	имѹща	имѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Dual|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	ref=3
+8	ст҃го	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	9	amod	_	ref=3
+9	писанїѧ	писание	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	ref=3
+10	не	не	ADV	Df	_	11	advmod	_	ref=3
+11	хѹдѣ	худѣ	ADV	Df	Degree=Pos	7	advmod	_	ref=3
+12	и	и	CCONJ	C-	_	7	cc	_	ref=3
+13	та	тыи	ADJ	Pd	Case=Nom|Gender=Masc|Number=Dual	14	nsubj	_	ref=3
+14	повѣдаста	повѣдати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	ref=3
+15	іереови	иереи	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	14	iobj	_	ref=3
+16	како	како	ADV	Du	PronType=Int	26	advmod	_	ref=3
+17	носим	носити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Pass	26	advcl	_	ref=3
+18	сын	сынъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	26	nsubj	_	ref=3
+19	во	въ	ADP	R-	_	20	case	_	ref=3
+20	ѹтробе	утроба	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	17	obl	_	ref=3
+21	мт҃рни	матерьнии	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	20	amod	_	ref=3
+22	въ	въ	ADP	R-	_	23	case	_	ref=3
+23	цр҃кви	цьркы	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	26	obl	_	ref=3
+24	три	трие	NUM	Ma	Case=Acc|Gender=Masc|Number=Plur	25	nummod	_	ref=3
+25	краты	кратъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	26	obl	_	ref=3
+26	провоз꙽гласи	провъзгласити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	ccomp	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = что ѹбѡ бѹдет сїе мы не вѣмы
+# sent_id = 197223
+1	что	чьто	PRON	Pi	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	3	xcomp	_	ref=3
+2	ѹбѡ	убо	ADV	Df	_	7	advmod	_	ref=3
+3	бѹдет	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	ccomp	_	ref=3
+4	сїе	сии	ADJ	Pd	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	ref=3
+5	мы	мы	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	ref=3
+6	не	не	ADV	Df	_	7	advmod	_	ref=3
+7	вѣмы	вѣдѣти	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = іерѣи ж именем михаилъ разсѹденъ сыи книгам повѣдаше има ѿ бжственаго писанїѧ ѿ обою закона ветхаго и новаго
+# sent_id = 197005
+1	іерѣи	иереи	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=3
+2	ж	же	ADV	Df	_	8	advmod	_	ref=3
+3	именем	имя	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	4	nmod	_	ref=3
+4	михаилъ	михаилъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	ref=3
+5	разсѹденъ	расудьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	6	xcomp	_	ref=3
+6	сыи	быти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	1	acl	_	ref=3
+7	книгам	кънига	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	5	iobj	_	ref=3
+8	повѣдаше	повѣдати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+9	има	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Dual|Person=3|PronType=Prs	8	iobj	_	ref=3
+10	ѿ	отъ	ADP	R-	_	12	case	_	ref=3
+11	бжственаго	божьствьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	12	amod	_	ref=3
+12	писанїѧ	писание	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	8	obj:dir	_	ref=3
+13	ѿ	отъ	ADP	R-	_	15	case	_	ref=3
+14	обою	оба	NUM	Ma	Case=Gen|Gender=Masc|Number=Dual	15	nummod	_	ref=3
+15	закона	законъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	10	appos	_	ref=3
+16	ветхаго	ветъхыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	14	appos	_	ref=3
+17	и	и	CCONJ	C-	_	16	cc	_	ref=3
+18	новаго	новыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	16	conj	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = сказа гл҃ѧ
+# sent_id = 197224
+1	сказа	съказати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+2	гл҃ѧ	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = дв҃дꙋ во псалтирѣ рекшѹ ꙗко не содѣланное мое видѣста очи твои и самъ г҃ь ст҃ыми своими ѹсты ѹчн҃ком си рече
+# sent_id = 197006
+1	дв҃дꙋ	давыдъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	4	nsubj	_	ref=3
+2	во	въ	ADP	R-	_	3	case	_	ref=3
+3	псалтирѣ	псалътырь	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	4	obl	_	ref=3
+4	рекшѹ	рещи	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=3
+5	ꙗко	яко	SCONJ	G-	_	9	mark	_	ref=3
+6	не	несъдѣланьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	9	obj:dir	_	ref=3
+7	содѣланное	содѣланное	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	6	flat	_	ref=3
+8	мое	мои	ADJ	Ps	Case=Acc|Gender=Neut|Number=Sing|Person=1|Poss=Yes	6	nmod	_	ref=3
+9	видѣста	видѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	ref=3
+10	очи	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Dual	9	nsubj	_	ref=3
+11	твои	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Dual|Person=2|Poss=Yes	10	nmod	_	ref=3
+12	и	и	CCONJ	C-	_	4	cc	_	ref=3
+13	самъ	самъ	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	14	det	_	ref=3
+14	г҃ь	господь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	ref=3
+15	ст҃ыми	святыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	17	amod	_	ref=3
+16	своими	свои	ADJ	Pt	Case=Ins|Gender=Neut|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	17	nmod	_	ref=3
+17	ѹсты	уста	NOUN	Nb	Case=Ins|Gender=Neut|Number=Plur	20	obl	_	ref=3
+18	ѹчн҃ком	ученикъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	20	iobj	_	ref=3
+19	си	себе	PRON	Pk	Case=Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	18	det	_	ref=3
+20	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = вы же ꙗкѡ искони со мною есте
+# sent_id = 197009
+1	вы	вы	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	ref=3
+2	же	же	ADV	Df	_	7	advmod	_	ref=3
+3	ꙗкѡ	яко	ADV	Df	_	7	advmod	_	ref=3
+4	искони	искони	ADV	Df	_	7	advmod	_	ref=3
+5	со	съ	ADP	R-	_	6	case	_	ref=3
+6	мною	азъ	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	xcomp	_	ref=3
+7	есте	быти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = тамо в꙽ ветхом законѣ иеремѣѧ проркъ во чреве мт҃ерни ост҃и сѧ
+# sent_id = 197010
+1	тамо	тамо	ADV	Df	_	10	advmod	_	ref=3
+2	в꙽	въ	ADP	R-	_	4	case	_	ref=3
+3	ветхом	ветъхыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=3
+4	законѣ	законъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	1	appos	_	ref=3
+5	иеремѣѧ	иеремия	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	ref=3
+6	проркъ	пророкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	appos	_	ref=3
+7	во	въ	ADP	R-	_	8	case	_	ref=3
+8	чреве	чрѣво	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	10	obl	_	ref=3
+9	мт҃ерни	матерьнии	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	8	amod	_	ref=3
+10	ост҃и	освятити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+11	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	10	aux	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = здѣ же в новѣмъ павелъ апслъ вопїѧше
+# sent_id = 197011
+1	здѣ	сьдѣ	ADV	Df	_	7	advmod	_	ref=3
+2	же	же	ADV	Df	_	7	advmod	_	ref=3
+3	в	въ	ADP	R-	_	4	case	_	ref=3
+4	новѣмъ	новыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	1	appos	_	ref=3
+5	павелъ	павьлъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=3
+6	апслъ	апостолъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	appos	_	ref=3
+7	вопїѧше	въпити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = бг҃ъ ѿц҃ъ г҃а нашего іс҃ х҃а возвавыи мѧ изъ чрева мт҃ре моеѧ ꙗвити сн҃а своего во мнѣ да блг҃овѣстѹю въ с꙽транахъ
+# sent_id = 197226
+1	бг҃ъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=3
+2	ѿц҃ъ	отьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	ref=3
+3	г҃а	господь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	ref=3
+4	нашего	нашь	ADJ	Ps	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes	3	nmod	_	ref=3
+5	іс҃	исусъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	appos	_	ref=3
+6	х҃а	христ(ос)ъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	flat:name	_	ref=3
+7	возвавыи	възъвати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	1	acl	_	ref=3
+8	мѧ	азъ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	obj:dir	_	ref=3
+9	изъ	из	ADP	R-	_	10	case	_	ref=3
+10	чрева	чрѣво	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	7	obl	_	ref=3
+11	мт҃ре	мати	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	ref=3
+12	моеѧ	мои	ADJ	Ps	Case=Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes	11	nmod	_	ref=3
+13	ꙗвити	явити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	advcl	_	ref=3
+14	сн҃а	сынъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	13	obj:dir	_	ref=3
+15	своего	свои	ADJ	Pt	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	14	nmod	_	ref=3
+16	во	въ	ADP	R-	_	17	case	_	ref=3
+17	мнѣ	азъ	PRON	Pp	Case=Loc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	13	obl	_	ref=3
+18	да	да	SCONJ	G-	_	19	mark	_	ref=3
+19	блг҃овѣстѹю	благовѣстовати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	ref=3
+20	въ	въ	ADP	R-	_	21	case	_	ref=3
+21	с꙽транахъ	страна	NOUN	Nb	Case=Loc|Gender=Fem|Number=Plur	19	obl	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = и ина мнѡжаишаѧ ѿ ст҃ыхъ повѣдаема писанїѧ
+# sent_id = 197013
+1	и	и	CCONJ	C-	_	0	root	_	ref=3
+2	ина	иныи	DET	Px	Case=Acc|Gender=Neut|Number=Plur	7	det	_	ref=3
+3	мнѡжаишаѧ	мъногыи	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Plur|Strength=Weak	7	amod	_	ref=3
+4	ѿ	отъ	ADP	R-	_	5	case	_	ref=3
+5	ст҃ыхъ	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	6	obl:agent	_	ref=3
+6	повѣдаема	повѣдати	VERB	V-	Case=Acc|Gender=Neut|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Pass	7	acl	_	ref=3
+7	писанїѧ	писание	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	1	obj:dir	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = ѡ младенци же рече к꙽ родителемъ
+# sent_id = 197014
+1	ѡ	о	ADP	R-	_	2	case	_	ref=3
+2	младенци	младеньць	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	4	obl	_	ref=3
+3	же	же	ADV	Df	_	4	advmod	_	ref=3
+4	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+5	к꙽	къ	ADP	R-	_	6	case	_	ref=3
+6	родителемъ	родитель	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	4	obl	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = не скорбите о семъ но паче радꙋите сѧ и веселити сѧ ꙗко бѹдет сосѹдъ из꙽бранъ бг҃ѹ ѡбитель и слѹжитель ст҃ыѧ троца
+# sent_id = 197227
+1	не	не	ADV	Df	_	2	advmod	_	ref=3
+2	скорбите	скърбѣти	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+3	о	о	ADP	R-	_	4	case	_	ref=3
+4	семъ	сии	ADJ	Pd	Case=Loc|Gender=Masc|Number=Sing	2	obl	_	ref=3
+5	но	нъ	CCONJ	C-	_	2	cc	_	ref=3
+6	паче	паче	ADV	Df	_	7	advmod	_	ref=3
+7	радꙋите	радовати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=3
+8	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	7	aux	_	ref=3
+9	и	и	CCONJ	C-	_	7	cc	_	ref=3
+10	веселити	веселити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	conj	_	ref=3
+11	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	10	aux	_	ref=3
+12	ꙗко	яко	SCONJ	G-	_	13	mark	_	ref=3
+13	бѹдет	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	10	advcl	_	ref=3
+14	сосѹдъ	съсудъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	13	xcomp	_	ref=3
+15	из꙽бранъ	избьрати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	14	acl	_	ref=3
+16	бг҃ѹ	богъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	17	nmod	_	ref=3
+17	ѡбитель	обитель	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	14	appos	_	ref=3
+18	и	и	CCONJ	C-	_	17	cc	_	ref=3
+19	слѹжитель	служитель	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	17	conj	_	ref=3
+20	ст҃ыѧ	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	21	amod	_	ref=3
+21	троца	троица	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = еже и бысть
+# sent_id = 197228
+1	еже	иже	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	3	nsubj	_	ref=3
+2	и	и	ADV	Df	_	3	advmod	_	ref=3
+3	бысть	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = и тако блсвивъ отроча и родтелѧ его ѿпꙋсти ѧ въ дѡм ею
+# sent_id = 197016
+1	и	и	CCONJ	C-	_	8	cc	_	ref=3
+2	тако	тако	ADV	Df	_	8	advmod	_	ref=3
+3	блсвивъ	благословити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	_	ref=3
+4	отроча	отроча	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	3	obj:dir	_	ref=3
+5	и	и	CCONJ	C-	_	4	cc	_	ref=3
+6	родтелѧ	родитель	NOUN	Nb	Case=Acc|Gender=Masc|Number=Dual	4	conj	_	ref=3
+7	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	ref=3
+8	ѿпꙋсти	отъпустити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+9	ѧ	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	obj:dir	_	ref=3
+10	въ	въ	ADP	R-	_	11	case	_	ref=3
+11	дѡм	домъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	ref=3
+12	ею	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Dual|Person=3|PronType=Prs	11	det	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = потом꙽ же по времени малым минѹвъшим дн҃емъ о младенци паки чюдодѣиствоваше сѧ дрꙋгое нѣкое знаменїе с꙽транно нѣчто и незнаемо
+# sent_id = 197018
+1	потом꙽	потомь	ADV	Df	_	11	advmod	_	ref=3
+2	же	же	ADV	Df	_	11	advmod	_	ref=3
+3	по	по	ADP	R-	_	4	case	_	ref=3
+4	времени	врѣмя	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	11	obl	_	ref=3
+5	малым	малыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	7	amod	_	ref=3
+6	минѹвъшим	минути	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	11	advcl	_	ref=3
+7	дн҃емъ	дьнь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	6	nsubj	_	ref=3
+8	о	о	ADP	R-	_	9	case	_	ref=3
+9	младенци	младеньць	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	11	obl	_	ref=3
+10	паки	пакы	ADV	Df	_	11	advmod	_	ref=3
+11	чюдодѣиствоваше	чудодѣиствовати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+12	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	11	aux	_	ref=3
+13	дрꙋгое	другыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	15	amod	_	ref=3
+14	нѣкое	нѣкыи	DET	Px	Case=Nom|Gender=Neut|Number=Sing	15	det	_	ref=3
+15	знаменїе	знамение	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	ref=3
+16	с꙽транно	страньныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	15	appos	_	ref=3
+17	нѣчто	нѣчьто	DET	Px	Case=Nom|Gender=Neut|Number=Sing	16	det	_	ref=3
+18	и	и	CCONJ	C-	_	16	cc	_	ref=3
+19	незнаемо	незнаемыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	16	conj	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = в꙽ средѹ бо и в пѧтокъ не прїимаше ни ѿ сосцꙋ ни ѿ млека кравьѧ но ѡтинѹд ошаати сѧ емѹ и не с꙽сати и не ѧдꙋщѹ пребывати емѹ в вес дн҃ь
+# sent_id = 197020
+1	в꙽	въ	ADP	R-	_	2	case	_	ref=3
+2	средѹ	срѣда	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	ref=3
+3	бо	бо	ADV	Df	_	8	advmod	_	ref=3
+4	и	и	CCONJ	C-	_	2	cc	_	ref=3
+5	в	въ	ADP	R-	_	6	case	_	ref=3
+6	пѧтокъ	пятъкъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	conj	_	ref=3
+7	не	не	ADV	Df	_	8	advmod	_	ref=3
+8	прїимаше	приимати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+9	ни	ни	CCONJ	C-	_	11	cc	_	ref=3
+10	ѿ	отъ	ADP	R-	_	11	case	_	ref=3
+11	сосцꙋ	съсьць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Dual	8	obj:dir	_	ref=3
+12	ни	ни	CCONJ	C-	_	11	cc	_	ref=3
+13	ѿ	отъ	ADP	R-	_	14	case	_	ref=3
+14	млека	млѣко	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	11	conj	_	ref=3
+15	кравьѧ	кравии	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	14	amod	_	ref=3
+16	но	нъ	CCONJ	C-	_	8	cc	_	ref=3
+17	ѡтинѹд	отъинудь	ADV	Df	_	18	advmod	_	ref=3
+18	ошаати	ошаяти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	conj	_	ref=3
+19	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	18	aux	_	ref=3
+20	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	ref=3
+21	и	и	CCONJ	C-	_	18	cc	_	ref=3
+22	не	не	ADV	Df	_	23	advmod	_	ref=3
+23	с꙽сати	съсати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	18	conj	_	ref=3
+24	и	и	CCONJ	C-	_	18	cc	_	ref=3
+25	не	не	ADV	Df	_	26	advmod	_	ref=3
+26	ѧдꙋщѹ	ясти	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	27	xcomp	_	ref=3
+27	пребывати	прѣбывати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	18	conj	_	ref=3
+28	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	nsubj	_	ref=3
+29	в	въ	ADP	R-	_	31	case	_	ref=3
+30	вес	вьсь	DET	Px	Case=Acc|Gender=Masc|Number=Sing	31	det	_	ref=3
+31	дн҃ь	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	27	obl	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = кромѣ ж среды и пѧтка въ прочаѧ дн҃и по ѡбычаю питаше сѧ
+# sent_id = 197023
+1	кромѣ	кромѣ	ADP	R-	_	3	case	_	ref=3
+2	ж	же	ADV	Df	_	11	advmod	_	ref=3
+3	среды	срѣда	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	11	obl	_	ref=3
+4	и	и	CCONJ	C-	_	3	cc	_	ref=3
+5	пѧтка	пятъкъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	conj	_	ref=3
+6	въ	въ	ADP	R-	_	8	case	_	ref=3
+7	прочаѧ	прочии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	8	amod	_	ref=3
+8	дн҃и	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	appos	_	ref=3
+9	по	по	ADP	R-	_	10	case	_	ref=3
+10	ѡбычаю	обычаи	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	11	obl	_	ref=3
+11	питаше	питати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+12	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	11	aux	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = аще ли бꙋдѧше въ средѹ и в꙽ пѧтокъ то ал꙽ченъ младенецъ пребываше
+# sent_id = 197235
+1	аще	аще	SCONJ	G-	_	3	mark	_	ref=3
+2	ли	ли	ADV	Df	_	12	advmod	_	ref=3
+3	бꙋдѧше	быти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	_	ref=3
+4	въ	въ	ADP	R-	_	5	case	_	ref=3
+5	средѹ	срѣда	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	ref=3
+6	и	и	CCONJ	C-	_	5	cc	_	ref=3
+7	в꙽	въ	ADP	R-	_	8	case	_	ref=3
+8	пѧтокъ	пятъкъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	conj	_	ref=3
+9	то	то	ADV	Df	_	12	advmod	_	ref=3
+10	ал꙽ченъ	алъчьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	12	xcomp	_	ref=3
+11	младенецъ	младеньць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	ref=3
+12	пребываше	прѣбывати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = се же ни единою ни дважды но и мнѡгажды прилѹчаше сѧ еже есть по всѧ среды и пѧт꙽кы бываше
+# sent_id = 197026
+1	се	сии	ADJ	Pd	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	ref=3
+2	же	же	ADV	Df	_	10	advmod	_	ref=3
+3	ни	ни	CCONJ	C-	_	4	cc	_	ref=3
+4	единою	единою	ADV	Df	_	10	advmod	_	ref=3
+5	ни	ни	CCONJ	C-	_	4	cc	_	ref=3
+6	дважды	дъвашьды	ADV	Df	_	4	conj	_	ref=3
+7	но	нъ	CCONJ	C-	_	4	cc	_	ref=3
+8	и	и	ADV	Df	_	9	advmod	_	ref=3
+9	мнѡгажды	мъногашьды	ADV	Df	_	4	conj	_	ref=3
+10	прилѹчаше	прилучати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+11	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	10	aux	_	ref=3
+12	еже	иже	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	19	nsubj	_	ref=3
+13	есть	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	aux	_	ref=3
+14	по	по	ADP	R-	_	16	case	_	ref=3
+15	всѧ	вьсь	DET	Px	Case=Acc|Gender=Masc|Number=Plur	16	det	_	ref=3
+16	среды	срѣда	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	19	obl	_	ref=3
+17	и	и	CCONJ	C-	_	16	cc	_	ref=3
+18	пѧт꙽кы	пятъкъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	16	conj	_	ref=3
+19	бываше	бывати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	acl	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = ѿ сего нѣким мнѧше сѧ ꙗко болно бѣ дѣтище
+# sent_id = 197028
+1	ѿ	отъ	ADP	R-	_	2	case	_	ref=3
+2	сего	сии	ADJ	Pd	Case=Gen|Gender=Neut|Number=Sing	4	obl	_	ref=3
+3	нѣким	нѣкыи	ADJ	Px	Case=Dat|Gender=Masc|Number=Plur	4	iobj	_	ref=3
+4	мнѧше	мьнѣти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+5	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	4	aux	_	ref=3
+6	ꙗко	яко	SCONJ	G-	_	8	mark	_	ref=3
+7	болно	больныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	8	xcomp	_	ref=3
+8	бѣ	быти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	ref=3
+9	дѣтище	дѣтище	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = о сем же ѹбо мт҃и его скорбѧщи сѣтоваше и съ дрꙋгими женами съ прочими кормителницами расматрѧюще бѣѧше
+# sent_id = 197029
+1	о	о	ADP	R-	_	2	case	_	ref=3
+2	сем	сии	ADJ	Pd	Case=Loc|Gender=Neut|Number=Sing	8	obl	_	ref=3
+3	же	же	ADV	Df	_	8	advmod	_	ref=3
+4	ѹбо	убо	ADV	Df	_	8	advmod	_	ref=3
+5	мт҃и	мати	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	ref=3
+6	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	det	_	ref=3
+7	скорбѧщи	скърбѣти	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	8	advcl	_	ref=3
+8	сѣтоваше	сѣтовати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+9	и	и	CCONJ	C-	_	8	cc	_	ref=3
+10	съ	съ	ADP	R-	_	12	case	_	ref=3
+11	дрꙋгими	другыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	12	amod	_	ref=3
+12	женами	жена	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	16	obl	_	ref=3
+13	съ	съ	ADP	R-	_	10	mark	_	ref=3
+14	прочими	прочии	ADJ	A-	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	15	amod	_	ref=3
+15	кормителницами	кърмительница	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	12	appos	_	ref=3
+16	расматрѧюще	расъматряти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	17	xcomp	_	ref=3
+17	бѣѧше	быти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = мнѧше ꙗко ѿ кѣкїѧ болѣзни младенцѹ приключаше сѧ сїе бывати
+# sent_id = 197030
+1	мнѧше	мьнѣти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+2	ꙗко	яко	SCONJ	G-	_	7	mark	_	ref=3
+3	ѿ	отъ	ADP	R-	_	5	case	_	ref=3
+4	кѣкїѧ	нѣкыи	DET	Px	Case=Gen|Gender=Fem|Number=Sing	5	det	_	ref=3
+5	болѣзни	болѣзнь	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	obl	_	ref=3
+6	младенцѹ	младеньць	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	10	obl	_	ref=3
+7	приключаше	приключати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	ref=3
+8	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	7	aux	_	ref=3
+9	сїе	сии	ADJ	Pd	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	ref=3
+10	бывати	бывати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	xcomp	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = но ѡбаче обзирахѹ повсюдѹ младенца ꙗко нѣсть болно и ꙗко не обрѣташе сѧ в немъ ꙗвленыѧ или неꙗвленныѧ знаменїе болѣзни
+# sent_id = 197031
+1	но	нъ	CCONJ	C-	_	3	cc	_	ref=3
+2	ѡбаче	обаче	ADV	Df	_	3	advmod	_	ref=3
+3	обзирахѹ	объзирати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+4	повсюдѹ	повьсюду	ADV	Df	_	3	advmod	_	ref=3
+5	младенца	младеньць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	iobj	_	ref=3
+6	ꙗко	яко	SCONJ	G-	_	7	mark	_	ref=3
+7	нѣсть	не.быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	ref=3
+8	болно	больныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	7	xcomp	_	ref=3
+9	и	и	CCONJ	C-	_	6	cc	_	ref=3
+10	ꙗко	яко	SCONJ	G-	_	12	mark	_	ref=3
+11	не	не	ADV	Df	_	12	advmod	_	ref=3
+12	обрѣташе	обрѣтати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	ref=3
+13	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	12	aux	_	ref=3
+14	в	въ	ADP	R-	_	15	case	_	ref=3
+15	немъ	и	PRON	Pp	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obl	_	ref=3
+16	ꙗвленыѧ	явленыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	20	amod	_	ref=3
+17	или	или	CCONJ	C-	_	16	cc	_	ref=3
+18	неꙗвленныѧ	неявленыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	16	conj	_	ref=3
+19	знаменїе	знамение	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	ref=3
+20	болѣзни	болѣзнь	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = ни плакаше ни стонѧше ни дрѧхловаше но и лице и срдце и ѡчи весели и всѧческїи младенцѹ радос꙽тнѹ сѹщѹ ꙗко и рѹчицами играше
+# sent_id = 197033
+1	ни	ни	CCONJ	C-	_	2	cc	_	ref=3
+2	плакаше	плакати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+3	ни	ни	CCONJ	C-	_	2	cc	_	ref=3
+4	стонѧше	стонати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=3
+5	ни	ни	CCONJ	C-	_	2	cc	_	ref=3
+6	дрѧхловаше	дряхловати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=3
+7	но	нъ	CCONJ	C-	_	2	cc	_	ref=3
+8	и	и	CCONJ	C-	_	9	cc	_	ref=3
+9	лице	лице	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	ref=3
+10	и	и	CCONJ	C-	_	9	cc	_	ref=3
+11	срдце	сьрдьце	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	9	conj	_	ref=3
+12	и	и	CCONJ	C-	_	9	cc	_	ref=3
+13	ѡчи	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Dual	9	conj	_	ref=3
+14	весели	веселыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	2	conj	_	ref=3
+15	и	и	CCONJ	C-	_	14	cc	_	ref=3
+16	всѧческїи	вьсячьскы	ADV	Df	_	19	advmod	_	ref=3
+17	младенцѹ	младеньць	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	19	nsubj	_	ref=3
+18	радос꙽тнѹ	радостьныи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	19	xcomp	_	ref=3
+19	сѹщѹ	быти	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	14	conj	_	ref=3
+20	ꙗко	яко	SCONJ	G-	_	23	mark	_	ref=3
+21	и	и	ADV	Df	_	23	advmod	_	ref=3
+22	рѹчицами	ручица	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	23	obl	_	ref=3
+23	играше	играти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	19	advcl	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = тогда в꙽си видѧщи и позънаша и разѹмѣша ꙗко не болѣзни ради в꙽ пѧтокъ и въ средѹ младенецъ млека не приимаше но проꙗвленїе нѣкое прознаменаше сѧ ꙗко блгдть бж҃їѧ бѣ на нем
+# sent_id = 197036
+1	тогда	тъгда	ADV	Df	_	3	advmod	_	ref=3
+2	в꙽си	вьсь	ADJ	Px	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	ref=3
+3	видѧщи	видѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	ref=3
+4	и	и	CCONJ	C-	_	3	cc	_	ref=3
+5	позънаша	познати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=3
+6	и	и	CCONJ	C-	_	3	cc	_	ref=3
+7	разѹмѣша	разумѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=3
+8	ꙗко	яко	SCONJ	G-	_	20	mark	_	ref=3
+9	не	не	ADV	Df	_	11	advmod	_	ref=3
+10	болѣзни	болѣзнь	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	20	obl	_	ref=3
+11	ради	ради	ADP	R-	_	10	case	_	ref=3
+12	в꙽	въ	ADP	R-	_	13	case	_	ref=3
+13	пѧтокъ	пятъкъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	20	obl	_	ref=3
+14	и	и	CCONJ	C-	_	13	cc	_	ref=3
+15	въ	въ	ADP	R-	_	16	case	_	ref=3
+16	средѹ	срѣда	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	13	conj	_	ref=3
+17	младенецъ	младеньць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	ref=3
+18	млека	млѣко	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	20	obj:dir	_	ref=3
+19	не	не	ADV	Df	_	20	advmod	_	ref=3
+20	приимаше	приимати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	ccomp	_	ref=3
+21	но	нъ	CCONJ	C-	_	20	cc	_	ref=3
+22	проꙗвленїе	проявление	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	24	nsubj	_	ref=3
+23	нѣкое	нѣкыи	DET	Px	Case=Nom|Gender=Neut|Number=Sing	22	det	_	ref=3
+24	прознаменаше	прознаменати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	conj	_	ref=3
+25	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	24	aux	_	ref=3
+26	ꙗко	яко	SCONJ	G-	_	29	mark	_	ref=3
+27	блгдть	благодать	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	29	nsubj	_	ref=3
+28	бж҃їѧ	божии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	27	amod	_	ref=3
+29	бѣ	быти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	24	advcl	_	ref=3
+30	на	на	ADP	R-	_	31	case	_	ref=3
+31	нем	и	PRON	Pp	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	xcomp	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = еже проꙗвлѧше бѹдꙋщаго воз꙽дръжанїѧ образъ ꙗко нѣкогда въ грѧдꙋщаѧ времена и лѣта в꙽ пос꙽тномъ житїи просїѧти емѹ
+# sent_id = 197239
+1	еже	иже	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	2	nsubj	_	ref=3
+2	проꙗвлѧше	проявляти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+3	бѹдꙋщаго	быти	VERB	V-	Case=Gen|Gender=Neut|Number=Sing|Strength=Weak|Tense=Fut|VerbForm=Part|Voice=Act	4	acl	_	ref=3
+4	воз꙽дръжанїѧ	въздьржание	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	ref=3
+5	образъ	образъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	obj:dir	_	ref=3
+6	ꙗко	яко	SCONJ	G-	_	16	mark	_	ref=3
+7	нѣкогда	нѣкъгда	ADV	Df	_	8	advmod	_	ref=3
+8	въ	въ	ADP	R-	_	10	case	_	ref=3
+9	грѧдꙋщаѧ	грясти	VERB	V-	Case=Acc|Gender=Neut|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	10	acl	_	ref=3
+10	времена	врѣмя	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	16	obl	_	ref=3
+11	и	и	CCONJ	C-	_	10	cc	_	ref=3
+12	лѣта	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	10	conj	_	ref=3
+13	в꙽	въ	ADP	R-	_	15	case	_	ref=3
+14	пос꙽тномъ	почьстьныи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	15	amod	_	ref=3
+15	житїи	житие	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	16	obl	_	ref=3
+16	просїѧти	просияти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	acl	_	ref=3
+17	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = е и бы҃
+# sent_id = 197240
+1	е	иже	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	3	nsubj	_	ref=3
+2	и	и	ADV	Df	_	3	advmod	_	ref=3
+3	бы҃	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = дрѹгоицы же мт҃и его привожаше к немꙋ женѹ нѣкѹю доилицѹ имѹщꙋ млеко да бы его напитала
+# sent_id = 197042
+1	дрѹгоицы	другоици	ADV	Df	_	5	advmod	_	ref=3
+2	же	же	ADV	Df	_	5	advmod	_	ref=3
+3	мт҃и	мати	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	ref=3
+4	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	det	_	ref=3
+5	привожаше	приводити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+6	к	къ	ADP	R-	_	7	case	_	ref=3
+7	немꙋ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	ref=3
+8	женѹ	жена	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	ref=3
+9	нѣкѹю	нѣкыи	DET	Px	Case=Acc|Gender=Fem|Number=Sing	8	det	_	ref=3
+10	доилицѹ	доилица	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	appos	_	ref=3
+11	имѹщꙋ	имѣти	VERB	V-	Case=Acc|Gender=Fem|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	8	acl	_	ref=3
+12	млеко	млѣко	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	11	obj:dir	_	ref=3
+13	да	да	SCONJ	G-	_	16	mark	_	ref=3
+14	бы	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	aux	_	ref=3
+15	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj:dir	_	ref=3
+16	напитала	напитати	VERB	V-	Aspect=Res|Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	5	advcl	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = младенец же не рачи прїѧти никакоже ѿ чюждїѧ матери питати сѧ но точїю ѿ своеѧ си рѡдительница
+# sent_id = 197043
+1	младенец	младеньць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=3
+2	же	же	ADV	Df	_	4	advmod	_	ref=3
+3	не	не	ADV	Df	_	7	advmod	_	ref=3
+4	рачи	рачити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+5	прїѧти	прияти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	xcomp	_	ref=3
+6	никакоже	никакоже	ADV	Df	_	7	advmod	_	ref=3
+7	ѿ	отъ	ADP	R-	_	9	case	_	ref=3
+8	чюждїѧ	чуждии	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	9	amod	_	ref=3
+9	матери	мати	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	10	obl	_	ref=3
+10	питати	питати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	xcomp	_	ref=3
+11	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	10	aux	_	ref=3
+12	но	нъ	CCONJ	C-	_	9	cc	_	ref=3
+13	точїю	тъчию	ADV	Df	_	14	advmod	_	ref=3
+14	ѿ	отъ	ADP	R-	_	17	case	_	ref=3
+15	своеѧ	свои	ADJ	Pt	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	17	nmod	_	ref=3
+16	си	себе	PRON	Pk	Case=Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	17	nmod	_	ref=3
+17	рѡдительница	родительница	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	9	conj	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = и сїе видѣв꙽ше прихождахѹ к немѹ и дрꙋгїѧ жены тацы же и доилици
+# sent_id = 197045
+1	и	и	CCONJ	C-	_	4	cc	_	ref=3
+2	сїе	сии	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	3	obj:dir	_	ref=3
+3	видѣв꙽ше	видѣти	VERB	V-	Case=Nom|Gender=Fem|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	4	advcl	_	ref=3
+4	прихождахѹ	приходити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+5	к	къ	ADP	R-	_	6	case	_	ref=3
+6	немѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	ref=3
+7	и	и	ADV	Df	_	9	advmod	_	ref=3
+8	дрꙋгїѧ	другыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	9	amod	_	ref=3
+9	жены	жена	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	ref=3
+10	тацы	такыиже	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Strength=Strong	13	amod	_	ref=3
+11	же	же	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Strength=Strong	10	flat	_	ref=3
+12	и	и	ADV	Df	_	13	advmod	_	ref=3
+13	доилици	доилица	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	9	appos	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = тѣмъ подобно такоже творити ꙗкоже и первїе
+# sent_id = 197241
+1	тѣмъ	тыи	ADJ	Pd	Case=Dat|Gender=Fem|Number=Plur	4	nsubj	_	ref=3
+2	подобно	подобьно	ADV	Df	Degree=Pos	4	advmod	_	ref=3
+3	такоже	такоже	ADV	Df	_	4	advmod	_	ref=3
+4	творити	творити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=3
+5	ꙗкоже	якоже	ADV	Dq	PronType=Rel	2	advmod	_	ref=3
+6	и	и	ADV	Df	_	5	advmod	_	ref=3
+7	первїе	пьрвѣе	ADV	Df	_	5	orphan	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = и тако пребыс своею токмо питаемъ мт҃рїю дондеже и ѿдоенъ быс
+# sent_id = 197047
+1	и	и	CCONJ	C-	_	3	cc	_	ref=3
+2	тако	тако	ADV	Df	_	3	advmod	_	ref=3
+3	пребыс	прѣбыти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+4	своею	свои	ADJ	Pt	Case=Ins|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	7	nmod	_	ref=3
+5	токмо	тъкъмо#1	ADV	Df	_	7	advmod	_	ref=3
+6	питаемъ	питати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Pass	3	xcomp	_	ref=3
+7	мт҃рїю	мати	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	6	obl:agent	_	ref=3
+8	дондеже	доньдеже	SCONJ	G-	_	11	mark	_	ref=3
+9	и	и	ADV	Df	_	11	advmod	_	ref=3
+10	ѿдоенъ	отъдоити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	11	xcomp	_	ref=3
+11	быс	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = се же сматрѧют нѣцїи ꙗко и се знаменїе бысть ꙗко да бы добра корене добраѧ лѣторасль нес꙽кверным млекомъ воспитанъ бывъ
+# sent_id = 197049
+1	се	сии	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	3	obj:dir	_	ref=3
+2	же	же	ADV	Df	_	3	advmod	_	ref=3
+3	сматрѧют	съматряти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+4	нѣцїи	нѣкыи	ADJ	Px	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	ref=3
+5	ꙗко	яко	SCONJ	G-	_	9	mark	_	ref=3
+6	и	и	ADV	Df	_	7	advmod	_	ref=3
+7	се	сии	ADJ	Pd	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	ref=3
+8	знаменїе	знамение	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	9	xcomp	_	ref=3
+9	бысть	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	ref=3
+10	ꙗко	яко	SCONJ	G-	_	20	mark	_	ref=3
+11	да	да#1	ADV	Df	_	20	advmod	_	ref=3
+12	бы	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	aux	_	ref=3
+13	добра	добрыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	14	amod	_	ref=3
+14	корене	коря	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	ref=3
+15	добраѧ	добрыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	16	amod	_	ref=3
+16	лѣторасль	леторасль	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	20	nsubj	_	ref=3
+17	нес꙽кверным	несквьрньныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	18	amod	_	ref=3
+18	млекомъ	млѣко	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	19	iobj	_	ref=3
+19	воспитанъ	въспитати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	20	xcomp	_	ref=3
+20	бывъ	быти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	8	acl	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = нам же мнит сѧ сице быти ꙗко сїи младенецъ изъ млада быс гв҃и рачитель иже в самои ѹтрѡбе и ѡ ѹтрѡбы мт҃ернѧ къ бг҃оразѹмїю прилѣпи сѧ иже ѿ самѣхъ пеленъ бг҃а позналъ и в꙽ правдꙋ ѹразѹмѣлъ иже в꙽ пеленах сыи в самои колыбѣли пощенїю навыкаше иже ѿ мт҃ри млекомъ питаем сыи вкѹпѣ с꙽ плотнымъ млекомъ воздержанїю ѹчаше сѧ иже по есс꙽твѹ младенецъ сыи но выше естес꙽тва постъ начинаше иже въ младенце чстотныи бысть въскоръмленикъ иже бл҃гочестїемъ паче нежели млекомъ воспитанъ бысть иже преж роженїѧ его изъбранъ бг҃ом и пронареченъ едга во ѹтробе мт҃рне носим трикраты въ цр҃кви провозгласи иже и слышащаѧ ѹдивлѧет
+# sent_id = 197051
+1	нам	мы	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	3	iobj	_	ref=3
+2	же	же	ADV	Df	_	3	advmod	_	ref=3
+3	мнит	мьнѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=3
+5	сице	сице	ADV	Df	_	6	xcomp	_	ref=3
+6	быти	быти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	ccomp	_	ref=3
+7	ꙗко	яко	SCONJ	G-	_	12	mark	_	ref=3
+8	сїи	сии	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	9	det	_	ref=3
+9	младенецъ	младеньць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	ref=3
+10	изъ	из	ADP	R-	_	11	case	_	ref=3
+11	млада	младыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	12	advmod	_	ref=3
+12	быс	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	ref=3
+13	гв҃и	господь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	14	nmod	_	ref=3
+14	рачитель	рачитель	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	xcomp	_	ref=3
+15	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	25	nsubj	_	ref=3
+16	в	въ	ADP	R-	_	18	case	_	ref=3
+17	самои	самъ	DET	Pd	Case=Loc|Gender=Fem|Number=Sing	18	det	_	ref=3
+18	ѹтрѡбе	утроба	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	25	obl	_	ref=3
+19	и	и	CCONJ	C-	_	18	cc	_	ref=3
+20	ѡ	отъ	ADP	R-	_	21	case	_	ref=3
+21	ѹтрѡбы	утроба	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	18	conj	_	ref=3
+22	мт҃ернѧ	матерьнии	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	21	amod	_	ref=3
+23	къ	къ	ADP	R-	_	24	case	_	ref=3
+24	бг҃оразѹмїю	благоразумие	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	25	obl	_	ref=3
+25	прилѣпи	прилѣпити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	acl	_	ref=3
+26	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	25	aux	_	ref=3
+27	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	32	nsubj	_	ref=3
+28	ѿ	отъ	ADP	R-	_	30	case	_	ref=3
+29	самѣхъ	самъ	ADJ	Pd	Case=Loc|Gender=Fem|Number=Plur	30	nmod	_	ref=3
+30	пеленъ	пелена	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	32	obl	_	ref=3
+31	бг҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	32	obj:dir	_	ref=3
+32	позналъ	познати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	9	acl	_	ref=3
+33	и	и	CCONJ	C-	_	32	cc	_	ref=3
+34	в꙽	въ	ADP	R-	_	35	case	_	ref=3
+35	правдꙋ	правьда	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	36	obl	_	ref=3
+36	ѹразѹмѣлъ	уразумѣти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	32	conj	_	ref=3
+37	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	45	nsubj	_	ref=3
+38	в꙽	въ	ADP	R-	_	39	case	_	ref=3
+39	пеленах	пелена	NOUN	Nb	Case=Loc|Gender=Fem|Number=Plur	40	xcomp	_	ref=3
+40	сыи	быти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	45	advcl	_	ref=3
+41	в	въ	ADP	R-	_	43	case	_	ref=3
+42	самои	самъ	DET	Pd	Case=Loc|Gender=Fem|Number=Sing	43	det	_	ref=3
+43	колыбѣли	колыбѣль	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	45	obl	_	ref=3
+44	пощенїю	пощение	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	45	iobj	_	ref=3
+45	навыкаше	навыкати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	acl	_	ref=3
+46	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	57	nsubj	_	ref=3
+47	ѿ	отъ	ADP	R-	_	48	case	_	ref=3
+48	мт҃ри	мати	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	50	obl:agent	_	ref=3
+49	млекомъ	млѣко	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	50	iobj	_	ref=3
+50	питаем	питати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Pass	51	xcomp	_	ref=3
+51	сыи	быти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	57	advcl	_	ref=3
+52	вкѹпѣ	въкупѣ	ADV	Df	_	53	advmod	_	ref=3
+53	с꙽	съ	ADP	R-	_	55	case	_	ref=3
+54	плотнымъ	плътьныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	55	amod	_	ref=3
+55	млекомъ	млѣко	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	57	obl	_	ref=3
+56	воздержанїю	въздьржание	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	57	iobj	_	ref=3
+57	ѹчаше	учити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	acl	_	ref=3
+58	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	57	aux	_	ref=3
+59	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	63	nsubj	_	ref=3
+60	по	по	ADP	R-	_	61	case	_	ref=3
+61	есс꙽твѹ	естьство	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	63	obl	_	ref=3
+62	младенецъ	младеньць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	63	xcomp	_	ref=3
+63	сыи	быти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	9	acl	_	ref=3
+64	но	нъ	CCONJ	C-	_	63	cc	_	ref=3
+65	выше	выше	ADV	Df	_	68	advmod	_	ref=3
+66	естес꙽тва	естьство	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	65	iobj	_	ref=3
+67	постъ	постъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	68	obj:dir	_	ref=3
+68	начинаше	начинати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	63	conj	_	ref=3
+69	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	73	nsubj	_	ref=3
+70	въ	въ	ADP	R-	_	71	case	_	ref=3
+71	младенце	младеньць	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	73	obl	_	ref=3
+72	чстотныи	чистотьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	74	amod	_	ref=3
+73	бысть	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	acl	_	ref=3
+74	въскоръмленикъ	въскърмленикъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	73	xcomp	_	ref=3
+75	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	81	nsubj	_	ref=3
+76	бл҃гочестїемъ	благочьстие	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	80	iobj	_	ref=3
+77	паче	паче	ADV	Df	_	76	advmod	_	ref=3
+78	нежели	нежели	ADV	Df	_	77	advmod	_	ref=3
+79	млекомъ	млѣко	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	78	iobj	_	ref=3
+80	воспитанъ	въспитати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	81	xcomp	_	ref=3
+81	бысть	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	acl	_	ref=3
+82	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	98	nsubj	_	ref=3
+83	преж	прѣже	ADP	R-	_	84	case	_	ref=3
+84	роженїѧ	рожение	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	98	advmod	_	ref=3
+85	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	84	det	_	ref=3
+86	изъбранъ	избьрати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	84	conj	_	ref=3
+87	бг҃ом	богъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	84	obl:agent	_	ref=3
+88	и	и	CCONJ	C-	_	84	cc	_	ref=3
+89	пронареченъ	пронарещи	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	84	conj	_	ref=3
+90	едга	егда	ADV	Dq	PronType=Rel	94	advmod	_	ref=3
+91	во	въ	ADP	R-	_	92	case	_	ref=3
+92	ѹтробе	утроба	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	94	obl	_	ref=3
+93	мт҃рне	матерьнии	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	92	amod	_	ref=3
+94	носим	носити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Pass	98	advcl	_	ref=3
+95	трикраты	трикраты	ADV	Df	_	98	advmod	_	ref=3
+96	въ	въ	ADP	R-	_	97	case	_	ref=3
+97	цр҃кви	цьркы	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	98	obl	_	ref=3
+98	провозгласи	провъзгласити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	acl	_	ref=3
+99	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	102	nsubj	_	ref=3
+100	и	и	ADV	Df	_	101	advmod	_	ref=3
+101	слышащаѧ	слышати	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	102	obj:dir	_	ref=3
+102	ѹдивлѧет	удивляти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = и паки како не по малѹ провозъгласи но во всю церковь ꙗко да во всю землю изыдет слово ѡ немъ егда сѹщеи родителнице его или на пирѹ или в нощи спѧще но въ цр҃кви паче же и на мл҃тве да мл҃твеникъ крѣпокъ бѹдет къ богѹ
+# sent_id = 197066
+1	и	и	CCONJ	C-	_	7	cc	_	ref=3
+2	паки	пакы	ADV	Df	_	7	advmod	_	ref=3
+3	како	како	ADV	Du	PronType=Int	7	advmod	_	ref=3
+4	не	не	ADV	Df	_	5	advmod	_	ref=3
+5	по	по	ADP	R-	_	6	case	_	ref=3
+6	малѹ	малыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	7	advmod	_	ref=3
+7	провозъгласи	провъзгласити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+8	но	нъ	CCONJ	C-	_	6	cc	_	ref=3
+9	во	въ	ADP	R-	_	11	case	_	ref=3
+10	всю	вьсь	DET	Px	Case=Acc|Gender=Fem|Number=Sing	11	det	_	ref=3
+11	церковь	цьркы	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	conj	_	ref=3
+12	ꙗко	яко	SCONJ	G-	_	17	mark	_	ref=3
+13	да	да#1	ADV	Df	_	17	advmod	_	ref=3
+14	во	въ	ADP	R-	_	16	case	_	ref=3
+15	всю	вьсь	DET	Px	Case=Acc|Gender=Fem|Number=Sing	16	det	_	ref=3
+16	землю	земля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	17	obl	_	ref=3
+17	изыдет	изити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	ref=3
+18	слово	слово	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	17	nsubj	_	ref=3
+19	ѡ	о	ADP	R-	_	20	case	_	ref=3
+20	немъ	и	PRON	Pp	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nmod	_	ref=3
+21	егда	егда	ADV	Dq	PronType=Rel	22	advmod	_	ref=3
+22	сѹщеи	быти	VERB	V-	Case=Dat|Gender=Fem|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	7	advcl	_	ref=3
+23	родителнице	родительница	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	22	nsubj	_	ref=3
+24	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	det	_	ref=3
+25	или	или	CCONJ	C-	_	27	cc	_	ref=3
+26	на	на	ADP	R-	_	27	case	_	ref=3
+27	пирѹ	пиръ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	22	xcomp	_	ref=3
+28	или	или	CCONJ	C-	_	27	cc	_	ref=3
+29	в	въ	ADP	R-	_	30	case	_	ref=3
+30	нощи	нощь	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	31	obl	_	ref=3
+31	спѧще	съпати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	27	conj	_	ref=3
+32	но	нъ	CCONJ	C-	_	27	cc	_	ref=3
+33	въ	въ	ADP	R-	_	34	case	_	ref=3
+34	цр҃кви	цьркы	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	27	conj	_	ref=3
+35	паче	паче	ADV	Df	_	34	advmod	_	ref=3
+36	же	же	ADV	Df	_	34	advmod	_	ref=3
+37	и	и	CCONJ	C-	_	34	cc	_	ref=3
+38	на	на	ADP	R-	_	39	case	_	ref=3
+39	мл҃тве	молитва	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	34	conj	_	ref=3
+40	да	да	SCONJ	G-	_	43	mark	_	ref=3
+41	мл҃твеникъ	молитвьникъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	43	xcomp	_	ref=3
+42	крѣпокъ	крѣпъкыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	41	amod	_	ref=3
+43	бѹдет	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	advcl	_	ref=3
+44	къ	къ	ADP	R-	_	45	case	_	ref=3
+45	богѹ	богъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	41	nmod	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = и како не провереща нѣ в коеи хлѣвинѣ или не в чисте мѣсте нѣкоем и ненарочите но паче въ црк҃ви стоѧщи на мѣсте чисте на мѣсте ст҃е идѣже подобает ст҃ыню гн҃ю совершити ꙗко да обрѧщет сѧ совершенаѧ ст҃ынѧ гн҃ѧ во страсѣ бж҃іи
+# sent_id = 197071
+1	и	и	CCONJ	C-	_	4	cc	_	ref=3
+2	како	како	ADV	Du	PronType=Int	4	advmod	_	ref=3
+3	не	не	ADV	Df	_	8	advmod	_	ref=3
+4	провереща	проверещати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+5	нѣ	не	ADV	Df	_	7	advmod	_	ref=3
+6	в	въ	ADP	R-	_	8	case	_	ref=3
+7	коеи	кыи	DET	Px	Case=Loc|Gender=Fem|Number=Sing	8	det	_	ref=3
+8	хлѣвинѣ	хлѣвина	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	4	obl	_	ref=3
+9	или	или	CCONJ	C-	_	8	cc	_	ref=3
+10	не	не	ADV	Df	_	12	advmod	_	ref=3
+11	в	въ	ADP	R-	_	13	case	_	ref=3
+12	чисте	чистыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	13	amod	_	ref=3
+13	мѣсте	мѣсто	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	8	conj	_	ref=3
+14	нѣкоем	нѣкыи	DET	Px	Case=Loc|Gender=Neut|Number=Sing	13	det	_	ref=3
+15	и	и	CCONJ	C-	_	12	cc	_	ref=3
+16	ненарочите	ненарочитыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	12	conj	_	ref=3
+17	но	нъ	CCONJ	C-	_	8	cc	_	ref=3
+18	паче	паче	ADV	Df	_	19	advmod	_	ref=3
+19	въ	въ	ADP	R-	_	20	case	_	ref=3
+20	црк҃ви	цьркы	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	8	conj	_	ref=3
+21	стоѧщи	стояти	VERB	V-	Case=Loc|Gender=Fem|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	20	acl	_	ref=3
+22	на	на	ADP	R-	_	23	case	_	ref=3
+23	мѣсте	мѣсто	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	21	obl	_	ref=3
+24	чисте	чистыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	23	amod	_	ref=3
+25	на	на	ADP	R-	_	26	case	_	ref=3
+26	мѣсте	мѣсто	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	22	appos	_	ref=3
+27	ст҃е	святыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	26	amod	_	ref=3
+28	идѣже	идѣже	ADV	Dq	PronType=Rel	29	advmod	_	ref=3
+29	подобает	подобати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	advcl	_	ref=3
+30	ст҃ыню	святыни	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	32	obj:dir	_	ref=3
+31	гн҃ю	господьнь	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	30	amod	_	ref=3
+32	совершити	съвьршити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	29	xcomp	_	ref=3
+33	ꙗко	яко	SCONJ	G-	_	35	mark	_	ref=3
+34	да	да#1	ADV	Df	_	35	advmod	_	ref=3
+35	обрѧщет	обрѣсти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	ref=3
+36	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	35	aux	_	ref=3
+37	совершенаѧ	съвьршити	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	38	acl	_	ref=3
+38	ст҃ынѧ	святыни	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	35	nsubj	_	ref=3
+39	гн҃ѧ	господьнь	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	38	amod	_	ref=3
+40	во	въ	ADP	R-	_	41	case	_	ref=3
+41	страсѣ	страхъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	35	obl	_	ref=3
+42	бж҃іи	божии	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	41	nmod	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = паки емѹ достоит чюдити сѧ что ради не провозъгласи единицею или дважды но паче третицею ꙗко да ꙗвит сѧ ѹчн҃къ ст҃ыѧ троца понеже ѹбо тричисленое число паче инѣхъ прочих числъ больши есть ѕѣло чтомо
+# sent_id = 197075
+1	паки	пакы	ADV	Df	_	3	advmod	_	ref=3
+2	емѹ	и	PRON	Pp	Case=Dat|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	iobj	_	ref=3
+3	достоит	достояти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+4	чюдити	чудити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=3
+5	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	4	aux	_	ref=3
+6	что	чьто	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	9	obl	_	ref=3
+7	ради	ради	ADP	R-	_	6	case	_	ref=3
+8	не	не	ADV	Df	_	10	advmod	_	ref=3
+9	провозъгласи	провъзгласити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	acl	_	ref=3
+10	единицею	единицею	ADV	Df	_	9	advmod	_	ref=3
+11	или	или	CCONJ	C-	_	10	cc	_	ref=3
+12	дважды	дъвашьды	ADV	Df	_	10	conj	_	ref=3
+13	но	нъ	CCONJ	C-	_	10	cc	_	ref=3
+14	паче	паче	ADV	Df	_	15	advmod	_	ref=3
+15	третицею	третицею	ADV	Df	_	10	conj	_	ref=3
+16	ꙗко	яко	SCONJ	G-	_	18	mark	_	ref=3
+17	да	да#1	ADV	Df	_	18	advmod	_	ref=3
+18	ꙗвит	явити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	ref=3
+19	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	18	aux	_	ref=3
+20	ѹчн҃къ	ученикъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	18	xcomp	_	ref=3
+21	ст҃ыѧ	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	22	amod	_	ref=3
+22	троца	троица	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	ref=3
+23	понеже	понеже	SCONJ	G-	_	32	mark	_	ref=3
+24	ѹбо	убо	ADV	Df	_	32	advmod	_	ref=3
+25	тричисленое	тричисльныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	26	amod	_	ref=3
+26	число	число	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	32	nsubj	_	ref=3
+27	паче	паче	ADV	Df	_	31	advmod	_	ref=3
+28	инѣхъ	иныи	DET	Px	Case=Gen|Gender=Neut|Number=Plur	30	det	_	ref=3
+29	прочих	прочии	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	30	amod	_	ref=3
+30	числъ	число	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	31	iobj	_	ref=3
+31	больши	большии	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing|Strength=Strong	34	advmod	_	ref=3
+32	есть	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	advcl	_	ref=3
+33	ѕѣло	зѣло	ADV	Df	_	31	advmod	_	ref=3
+34	чтомо	чисти	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Pass	32	xcomp	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = вездѣ бѡ троечисленое число всемꙋ добрꙋ начало и вина возвѣщенїю
+# sent_id = 197079
+1	вездѣ	вьсьдѣ	ADV	Df	_	7	advmod	_	ref=3
+2	бѡ	бо	ADV	Df	_	7	advmod	_	ref=3
+3	троечисленое	троечисльныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	4	amod	_	ref=3
+4	число	число	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	ref=3
+5	всемꙋ	вьсь	DET	Px	Case=Dat|Gender=Neut|Number=Sing	6	det	_	ref=3
+6	добрꙋ	добро	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	7	nmod	_	ref=3
+7	начало	начало	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	0	root	_	ref=3
+8	и	и	CCONJ	C-	_	7	cc	_	ref=3
+9	вина	вина	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	conj	_	ref=3
+10	возвѣщенїю	възвѣщение	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	9	nmod	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = ꙗко же се Глаголю
+# sent_id = 197242
+1	ꙗко	якоже	ADV	Df	_	4	advmod	_	ref=3
+2	же	же	ADV	Df	_	1	flat	_	ref=3
+3	се	сии	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	4	obj:dir	_	ref=3
+4	Глаголю	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = трижды г҃ь самѡила прорѡка возва
+# sent_id = 197081
+1	трижды	тришьды	ADV	Df	_	5	advmod	_	ref=3
+2	г҃ь	господь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=3
+3	самѡила	самуилъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	obj:dir	_	ref=3
+4	прорѡка	пророкъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	appos	_	ref=3
+5	возва	възъвати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = трею каменїю пращею двдъ голїѧда порази
+# sent_id = 197082
+1	трею	трие	NUM	Ma	Case=Gen|Gender=Neut|Number=Dual	2	nummod	_	ref=3
+2	каменїю	камение	NOUN	Nb	Case=Gen|Gender=Neut|Number=Dual	3	nmod	_	ref=3
+3	пращею	праща	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	6	obl	_	ref=3
+4	двдъ	давыдъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=3
+5	голїѧда	голиядъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	obj:dir	_	ref=3
+6	порази	поразити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = трижды повелѣ возливати водѹ ильѧ на полѣна рекъ
+# sent_id = 197083
+1	трижды	тришьды	ADV	Df	_	2	advmod	_	ref=3
+2	повелѣ	повелѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+3	возливати	възливати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=3
+4	водѹ	вода	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obj:dir	_	ref=3
+5	ильѧ	илия	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=3
+6	на	на	ADP	R-	_	7	case	_	ref=3
+7	полѣна	полѣно	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	3	obl	_	ref=3
+8	рекъ	рещи	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	2	advcl	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = ѹтроите
+# sent_id = 197244
+1	ѹтроите	утроити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = и ѹтроиша
+# sent_id = 197243
+1	и	и	CCONJ	C-	_	2	cc	_	ref=3
+2	ѹтроиша	утроити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = трижды тожде илїѧ дꙋнѹ на отрочища и воскр҃си его
+# sent_id = 197085
+1	трижды	тришьды	ADV	Df	_	4	advmod	_	ref=3
+2	тожде	тожде	ADV	Df	_	4	advmod	_	ref=3
+3	илїѧ	илия	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=3
+4	дꙋнѹ	дунути	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+5	на	на	ADP	R-	_	6	case	_	ref=3
+6	отрочища	отрочищь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	obl	_	ref=3
+7	и	и	CCONJ	C-	_	4	cc	_	ref=3
+8	воскр҃си	въскрѣсити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	ref=3
+9	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj:dir	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = три дн҃и и три нощи иона проркъ в ките тридн҃евнова
+# sent_id = 197086
+1	три	трие	NUM	Ma	Case=Acc|Gender=Masc|Number=Plur	2	nummod	_	ref=3
+2	дн҃и	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	10	obl	_	ref=3
+3	и	и	CCONJ	C-	_	2	cc	_	ref=3
+4	три	трие	NUM	Ma	Case=Acc|Gender=Fem|Number=Plur	5	nummod	_	ref=3
+5	нощи	нощь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	2	conj	_	ref=3
+6	иона	иона	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	ref=3
+7	проркъ	пророкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	appos	_	ref=3
+8	в	въ	ADP	R-	_	9	case	_	ref=3
+9	ките	китъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	10	obl	_	ref=3
+10	тридн҃евнова	тридьневьновати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = трїе отроцы в вавилонѣ пещъ огненꙋю ѹгасиша
+# sent_id = 197087
+1	трїе	трие	NUM	Ma	Case=Nom|Gender=Masc|Number=Plur	2	nummod	_	ref=3
+2	отроцы	отрокъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	ref=3
+3	в	въ	ADP	R-	_	4	case	_	ref=3
+4	вавилонѣ	вавилонъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	7	obl	_	ref=3
+5	пещъ	пещь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj:dir	_	ref=3
+6	огненꙋю	огньныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	5	amod	_	ref=3
+7	ѹгасиша	угасити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = тричисленое же слышанїе ісаію проркѹ серафимовидцѹ егда на нб҃си слышаше сѧ емѹ пѣнїе агг҃льское трист҃ое вопїющихъ
+# sent_id = 197088
+1	тричисленое	тричисльныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	0	root	_	ref=3
+2	же	же	ADV	Df	_	1	advmod	_	ref=3
+3	слышанїе	слышание	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	ref=3
+4	ісаію	исаия	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	3	nmod	_	ref=3
+5	проркѹ	пророкъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	ref=3
+6	серафимовидцѹ	серафимовидьць	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	ref=3
+7	егда	егда	ADV	Dq	PronType=Rel	10	advmod	_	ref=3
+8	на	на	ADP	R-	_	9	case	_	ref=3
+9	нб҃си	небо	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	10	obl	_	ref=3
+10	слышаше	слышати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	ref=3
+11	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	10	aux	_	ref=3
+12	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	iobj	_	ref=3
+13	пѣнїе	пѣние	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	ref=3
+14	агг҃льское	ангельскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	13	amod	_	ref=3
+15	трист҃ое	трисвятыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	13	amod	_	ref=3
+16	вопїющихъ	въпити	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	13	acl	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = стъ стъ стъ г҃ь саваѡфъ
+# sent_id = 197245
+1	стъ	святыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	0	root	_	ref=3
+2	стъ	святыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	1	conj	_	ref=3
+3	стъ	святыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	1	conj	_	ref=3
+4	г҃ь	господь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=3
+5	саваѡфъ	саваофъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = трею же лѣт в꙽ведена быс въ цр҃ковь ст҃аѧ ст҃ых пречстаѧ дв҃а м҃ріѧ
+# sent_id = 197092
+1	трею	трие	NUM	Ma	Case=Gen|Gender=Neut|Number=Dual	3	nummod	_	ref=3
+2	же	же	ADV	Df	_	5	advmod	_	ref=3
+3	лѣт	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	5	obl	_	ref=3
+4	в꙽ведена	въвести	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	5	xcomp	_	ref=3
+5	быс	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+6	въ	въ	ADP	R-	_	7	case	_	ref=3
+7	цр҃ковь	цьркы	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	ref=3
+8	ст҃аѧ	святыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	7	appos	_	ref=3
+9	ст҃ых	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	8	amod	_	ref=3
+10	пречстаѧ	прѣчистыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	11	amod	_	ref=3
+11	дв҃а	дѣва	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	ref=3
+12	м҃ріѧ	мария	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	11	appos	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = тридесѧти же лѣтъ х҃с крсти сѧ ѿ іѡанна во іерданѣ
+# sent_id = 197094
+1	тридесѧти	тридесяте	NUM	Ma	Case=Gen|Gender=Fem|Number=Sing	5	obl	_	ref=3
+2	же	же	ADV	Df	_	5	advmod	_	ref=3
+3	лѣтъ	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	1	nmod	_	ref=3
+4	х҃с	христ(ос)ъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=3
+5	крсти	крьстити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+6	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	5	aux	_	ref=3
+7	ѿ	отъ	ADP	R-	_	8	case	_	ref=3
+8	іѡанна	иоанъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	obl:agent	_	ref=3
+9	во	въ	ADP	R-	_	10	case	_	ref=3
+10	іерданѣ	иерданъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = три же ѹченики х҃с постави на фаворѣ и преѡбрази сѧ предъ ними
+# sent_id = 197095
+1	три	трие	NUM	Ma	Case=Acc|Gender=Masc|Number=Plur	3	nummod	_	ref=3
+2	же	же	ADV	Df	_	5	advmod	_	ref=3
+3	ѹченики	ученикъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	5	obj:dir	_	ref=3
+4	х҃с	христ(ос)ъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=3
+5	постави	поставити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+6	на	на	ADP	R-	_	7	case	_	ref=3
+7	фаворѣ	фаворъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	ref=3
+8	и	и	CCONJ	C-	_	5	cc	_	ref=3
+9	преѡбрази	прѣобразити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	ref=3
+10	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	9	aux	_	ref=3
+11	предъ	прѣдъ	ADP	R-	_	12	case	_	ref=3
+12	ними	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obl	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = тридн҃евно же х҃с изъ мрт҃выхъ воскр҃се
+# sent_id = 197096
+1	тридн҃евно	тридьневьно	ADV	Df	_	6	advmod	_	ref=3
+2	же	же	ADV	Df	_	6	advmod	_	ref=3
+3	х҃с	христ(ос)ъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=3
+4	изъ	из	ADP	R-	_	5	case	_	ref=3
+5	мрт҃выхъ	мьртвыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	6	obl	_	ref=3
+6	воскр҃се	въскрьснути	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = трикраты ж х҃с по воскр҃сенїи реч
+# sent_id = 197097
+1	трикраты	трикраты	ADV	Df	_	6	advmod	_	ref=3
+2	ж	же	ADV	Df	_	6	advmod	_	ref=3
+3	х҃с	христ(ос)ъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=3
+4	по	по	ADP	R-	_	5	case	_	ref=3
+5	воскр҃сенїи	въскрьсение	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	6	obl	_	ref=3
+6	реч	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = петре любиши ли мѧ
+# sent_id = 197246
+1	петре	петръ	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	ref=3
+2	любиши	любити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+3	ли	ли	ADV	Du	PronType=Int	2	advmod	_	ref=3
+4	мѧ	азъ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	2	obj:dir	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = что же извещаю по три числа а что ради не помѧнѹ бол꙽шаго и с꙽трашнаго еже есть тричисленое бжство треми ст҃ынѧми треми образы треми собьс꙽твы въ три лица едино бжство прест҃ыѧ троца ѿц҃а и сн҃а и ст҃го дх҃а триѹпостаснаго бжства едина сила едина власть едино г҃ьство
+# sent_id = 197098
+1	что	чьто	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	3	obl	_	ref=3
+2	же	же	ADV	Df	_	3	advmod	_	ref=3
+3	извещаю	извѣщати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+4	по	по	ADV	Df	_	6	advmod	_	ref=3
+5	три	трие	NUM	Ma	Case=Acc|Gender=Neut|Number=Plur	6	nummod	_	ref=3
+6	числа	число	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	3	obj:dir	_	ref=3
+7	а	а	CCONJ	C-	_	3	cc	_	ref=3
+8	что	чьто	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	11	obl	_	ref=3
+9	ради	ради	ADP	R-	_	8	case	_	ref=3
+10	не	не	ADV	Df	_	11	advmod	_	ref=3
+11	помѧнѹ	помянути	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=3
+12	бол꙽шаго	большии	ADJ	A-	Case=Gen|Degree=Cmp|Gender=Neut|Number=Sing|Strength=Weak	11	obj:dir	_	ref=3
+13	и	и	CCONJ	C-	_	12	cc	_	ref=3
+14	с꙽трашнаго	страшьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	12	conj	_	ref=3
+15	еже	иже	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	16	nsubj	_	ref=3
+16	есть	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	acl	_	ref=3
+17	тричисленое	тричисльныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	18	amod	_	ref=3
+18	бжство	божьство	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	16	xcomp	_	ref=3
+19	треми	трие	NUM	Ma	Case=Ins|Gender=Fem|Number=Plur	20	nummod	_	ref=3
+20	ст҃ынѧми	святыни	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	29	nmod	_	ref=3
+21	треми	трие	NUM	Ma	Case=Ins|Gender=Masc|Number=Plur	22	nummod	_	ref=3
+22	образы	образъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	29	nmod	_	ref=3
+23	треми	трие	NUM	Ma	Case=Ins|Gender=Neut|Number=Plur	24	nummod	_	ref=3
+24	собьс꙽твы	собьство	NOUN	Nb	Case=Ins|Gender=Neut|Number=Plur	29	nmod	_	ref=3
+25	въ	въ	ADP	R-	_	27	case	_	ref=3
+26	три	трие	NUM	Ma	Case=Acc|Gender=Neut|Number=Plur	27	nummod	_	ref=3
+27	лица	лице	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	29	nmod	_	ref=3
+28	едино	единъ	NUM	Ma	Case=Nom|Gender=Neut|Number=Sing	29	nummod	_	ref=3
+29	бжство	божьство	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	18	appos	_	ref=3
+30	прест҃ыѧ	прѣсвятыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	31	amod	_	ref=3
+31	троца	троица	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	29	nmod	_	ref=3
+32	ѿц҃а	отьць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	31	appos	_	ref=3
+33	и	и	CCONJ	C-	_	32	cc	_	ref=3
+34	сн҃а	сынъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	32	conj	_	ref=3
+35	и	и	CCONJ	C-	_	32	cc	_	ref=3
+36	ст҃го	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	37	amod	_	ref=3
+37	дх҃а	духъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	32	conj	_	ref=3
+38	триѹпостаснаго	триупостасьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	39	amod	_	ref=3
+39	бжства	божьство	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	12	appos	_	ref=3
+40	едина	единъ	NUM	Ma	Case=Nom|Gender=Fem|Number=Sing	41	nummod	_	ref=3
+41	сила	сила	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	39	appos	_	ref=3
+42	едина	единъ	NUM	Ma	Case=Nom|Gender=Fem|Number=Sing	43	nummod	_	ref=3
+43	власть	власть	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	39	appos	_	ref=3
+44	едино	единъ	NUM	Ma	Case=Nom|Gender=Neut|Number=Sing	45	nummod	_	ref=3
+45	г҃ьство	господьство	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	39	appos	_	ref=3
+
+# source = Life of Sergij of Radonezh, 3
+# text = лѣпо же бѧше и семѹ младенцꙋ трижды провоз꙽гласити во ѹтробе мт҃ерне сѹщꙋ преже роженїѧ прознаменѹѧ ѿ сего ꙗко бѹдет нѣкогда троичныи ѹчн҃къ еж и быс и многи приведет в разѹм и во ѹвѣдѣнїе бж҃їе ѹча словесныѧ овца вѣровати во ст҃ѹю троцꙋ единосѹщнѹю во едино бжство
+# sent_id = 197107
+1	лѣпо	лѣпыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	3	xcomp	_	ref=3
+2	же	же	ADV	Df	_	3	advmod	_	ref=3
+3	бѧше	быти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=3
+4	и	и	ADV	Df	_	6	advmod	_	ref=3
+5	семѹ	сии	DET	Pd	Case=Dat|Gender=Masc|Number=Sing	6	det	_	ref=3
+6	младенцꙋ	младеньць	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	ref=3
+7	трижды	тришьды	ADV	Df	_	8	advmod	_	ref=3
+8	провоз꙽гласити	провъзгласити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	ccomp	_	ref=3
+9	во	въ	ADP	R-	_	10	case	_	ref=3
+10	ѹтробе	утроба	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	12	xcomp	_	ref=3
+11	мт҃ерне	матерьнии	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	10	amod	_	ref=3
+12	сѹщꙋ	быти	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	8	advcl	_	ref=3
+13	преже	прѣже	ADP	R-	_	14	case	_	ref=3
+14	роженїѧ	рожение	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	8	obl	_	ref=3
+15	прознаменѹѧ	прознаменовати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	8	advcl	_	ref=3
+16	ѿ	отъ	ADP	R-	_	17	case	_	ref=3
+17	сего	сии	ADJ	Pd	Case=Gen|Gender=Neut|Number=Sing	15	obl	_	ref=3
+18	ꙗко	яко	SCONJ	G-	_	19	mark	_	ref=3
+19	бѹдет	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	15	ccomp	_	ref=3
+20	нѣкогда	нѣкъгда	ADV	Df	_	19	advmod	_	ref=3
+21	троичныи	троичьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	22	amod	_	ref=3
+22	ѹчн҃къ	ученикъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	19	xcomp	_	ref=3
+23	еж	иже	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	25	nsubj	_	ref=3
+24	и	и	ADV	Df	_	25	advmod	_	ref=3
+25	быс	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	ref=3
+26	и	и	CCONJ	C-	_	19	cc	_	ref=3
+27	многи	мъногыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	28	obj:dir	_	ref=3
+28	приведет	привести	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	conj	_	ref=3
+29	в	въ	ADP	R-	_	30	case	_	ref=3
+30	разѹм	разумъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	28	obl	_	ref=3
+31	и	и	CCONJ	C-	_	30	cc	_	ref=3
+32	во	въ	ADP	R-	_	33	case	_	ref=3
+33	ѹвѣдѣнїе	увѣдѣние	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	30	conj	_	ref=3
+34	бж҃їе	божии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	33	nmod	_	ref=3
+35	ѹча	учити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	28	advcl	_	ref=3
+36	словесныѧ	словесьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	37	amod	_	ref=3
+37	овца	овьца	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	35	obj:dir	_	ref=3
+38	вѣровати	вѣровати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	35	xcomp	_	ref=3
+39	во	въ	ADP	R-	_	41	case	_	ref=3
+40	ст҃ѹю	святыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	41	amod	_	ref=3
+41	троцꙋ	троица	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	38	obl	_	ref=3
+42	единосѹщнѹю	единосущьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	41	amod	_	ref=3
+43	во	въ	ADP	R-	_	45	case	_	ref=3
+44	едино	единъ	NUM	Ma	Case=Acc|Gender=Neut|Number=Sing	45	nummod	_	ref=3
+45	бжство	божьство	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	39	appos	_	ref=3
+
+# source = Life of Sergij of Radonezh, 4
+# text = воле не ѹказанїе ли се бѹдетъ ꙗвѣ ꙗже о томъ послѣди бѹдѹщаѧ дивна и с꙽транна
+# sent_id = 197115
+1	воле	воле	INTJ	I-	_	6	vocative	_	ref=4
+2	не	не	ADV	Df	_	6	advmod	_	ref=4
+3	ѹказанїе	указание	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	xcomp	_	ref=4
+4	ли	ли	ADV	Du	PronType=Int	6	advmod	_	ref=4
+5	се	сии	ADJ	Pd	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=4
+6	бѹдетъ	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+7	ꙗвѣ	явѣ	ADV	Df	_	6	advmod	_	ref=4
+8	ꙗже	аже	SCONJ	G-	_	12	mark	_	ref=4
+9	о	о	ADP	R-	_	10	case	_	ref=4
+10	томъ	тыи	ADJ	Pd	Case=Loc|Gender=Masc|Number=Sing	12	obl	_	ref=4
+11	послѣди	послѣди	ADV	Df	_	12	advmod	_	ref=4
+12	бѹдѹщаѧ	быти	VERB	V-	Case=Nom|Gender=Neut|Number=Plur|Strength=Weak|Tense=Fut|VerbForm=Part|Voice=Act	3	ccomp	_	ref=4
+13	дивна	дивьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Strength=Strong	12	nsubj	_	ref=4
+14	и	и	CCONJ	C-	_	13	cc	_	ref=4
+15	с꙽транна	страньныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Strength=Strong	13	conj	_	ref=4
+
+# source = Life of Sergij of Radonezh, 4
+# text = воле не знаменїе ли се есть истовое да покажет сѧ ꙗже о немъ да збѹдет сѧ дѣлесы чюдесными на послѣдокъ
+# sent_id = 197117
+1	воле	воле	INTJ	I-	_	6	vocative	_	ref=4
+2	не	не	ADV	Df	_	6	advmod	_	ref=4
+3	знаменїе	знамение	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	xcomp	_	ref=4
+4	ли	ли	ADV	Df	_	6	advmod	_	ref=4
+5	се	сии	ADJ	Pd	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=4
+6	есть	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+7	истовое	истовыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	3	amod	_	ref=4
+8	да	да	SCONJ	G-	_	9	mark	_	ref=4
+9	покажет	показати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	ref=4
+10	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	9	aux	_	ref=4
+11	ꙗже	иже	PRON	Pr	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	13	nsubj	_	ref=4
+12	о	о	ADP	R-	_	13	case	_	ref=4
+13	немъ	и	PRON	Pp	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	ref=4
+14	да	да	SCONJ	G-	_	15	mark	_	ref=4
+15	збѹдет	събыти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	ccomp	_	ref=4
+16	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	15	aux	_	ref=4
+17	дѣлесы	дѣло	NOUN	Nb	Case=Ins|Gender=Neut|Number=Plur	15	obl	_	ref=4
+18	чюдесными	чудесьныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	17	amod	_	ref=4
+19	на	на	ADP	R-	_	20	case	_	ref=4
+20	послѣдокъ	послѣдъкъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	15	obl	_	ref=4
+
+# source = Life of Sergij of Radonezh, 4
+# text = подобает꙽ бо видѣв꙽шим и слышав꙽шим перваѧ и вѣровати послѣдним
+# sent_id = 197120
+1	подобает꙽	подобати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+2	бо	бо	ADV	Df	_	1	advmod	_	ref=4
+3	видѣв꙽шим	видѣти	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	1	advcl	_	ref=4
+4	и	и	CCONJ	C-	_	3	cc	_	ref=4
+5	слышав꙽шим	слышати	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	3	conj	_	ref=4
+6	перваѧ	пьрвыи	ADJ	Mo	Case=Acc|Gender=Neut|Number=Plur	3	obj:dir	_	ref=4
+7	и	и	ADV	Df	_	8	advmod	_	ref=4
+8	вѣровати	вѣровати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	ref=4
+9	послѣдним	послѣдьнии	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	8	iobj	_	ref=4
+
+# source = Life of Sergij of Radonezh, 4
+# text = ꙗко и преже роженїѧ его бг҃ъ прознаменалъ есть его
+# sent_id = 197121
+1	ꙗко	яко	ADV	Df	_	7	advmod	_	ref=4
+2	и	и	ADV	Df	_	3	advmod	_	ref=4
+3	преже	прѣже	ADP	R-	_	4	case	_	ref=4
+4	роженїѧ	рожение	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	7	obl	_	ref=4
+5	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	det	_	ref=4
+6	бг҃ъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=4
+7	прознаменалъ	прознаменати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=4
+8	есть	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	ref=4
+9	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj:dir	_	ref=4
+
+# source = Life of Sergij of Radonezh, 4
+# text = не просто бо ни бездобь таковое знаменїе и ѹдивленїе быв꙽шее преднее но предпѹтїе ес послѣди бѹдꙋщим
+# sent_id = 197122
+1	не	не	ADV	Df	_	2	advmod	_	ref=4
+2	просто	простыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	0	root	_	ref=4
+3	бо	бо	ADV	Df	_	2	advmod	_	ref=4
+4	ни	ни	CCONJ	C-	_	2	cc	_	ref=4
+5	бездобь	бездобь	ADJ	A-	_	2	conj	_	ref=4
+6	таковое	таковыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	7	amod	_	ref=4
+7	знаменїе	знамение	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	ref=4
+8	и	и	CCONJ	C-	_	7	cc	_	ref=4
+9	ѹдивленїе	удивление	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	7	conj	_	ref=4
+10	быв꙽шее	быти	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	9	acl	_	ref=4
+11	преднее	прѣдьнии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	10	xcomp	_	ref=4
+12	но	нъ	CCONJ	C-	_	2	cc	_	ref=4
+13	предпѹтїе	прѣдъпутие	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	14	xcomp	_	ref=4
+14	ес	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=4
+15	послѣди	послѣди	ADV	Df	_	16	advmod	_	ref=4
+16	бѹдꙋщим	быти	VERB	V-	Case=Dat|Gender=Neut|Number=Plur|Strength=Weak|Tense=Fut|VerbForm=Part|Voice=Act	13	acl	_	ref=4
+
+# source = Life of Sergij of Radonezh, 4
+# text = се же понѹдихом сѧ рещи ел꙽ма же чюдна мѹжа чюдно и житїе повѣдает сѧ
+# sent_id = 197124
+1	се	сии	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	5	obj:dir	_	ref=4
+2	же	же	ADV	Df	_	3	advmod	_	ref=4
+3	понѹдихом	понудити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=4
+5	рещи	рещи	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=4
+6	ел꙽ма	ельмаже	SCONJ	G-	_	13	mark	_	ref=4
+7	же	же	SCONJ	G-	_	6	flat	_	ref=4
+8	чюдна	чудьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	9	amod	_	ref=4
+9	мѹжа	мужь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	ref=4
+10	чюдно	чудьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	12	amod	_	ref=4
+11	и	и	ADV	Df	_	12	advmod	_	ref=4
+12	житїе	житие	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	ref=4
+13	повѣдает	повѣдати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	ref=4
+14	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	13	aux	_	ref=4
+
+# source = Life of Sergij of Radonezh, 4
+# text = лѣпо же здѣ помѧнѹти и древних ст҃ых иже в꙽ ветхом и новѣмъ законѣ восїѧвших
+# sent_id = 197125
+1	лѣпо	лѣпыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	0	root	_	ref=4
+2	же	же	ADV	Df	_	1	advmod	_	ref=4
+3	здѣ	сьдѣ	ADV	Df	_	1	advmod	_	ref=4
+4	помѧнѹти	помянути	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	ccomp	_	ref=4
+5	и	и	ADV	Df	_	7	advmod	_	ref=4
+6	древних	древьнии	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	7	amod	_	ref=4
+7	ст҃ых	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	4	obj:dir	_	ref=4
+8	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	14	nsubj	_	ref=4
+9	в꙽	въ	ADP	R-	_	13	case	_	ref=4
+10	ветхом	ветъхыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	13	amod	_	ref=4
+11	и	и	CCONJ	C-	_	10	cc	_	ref=4
+12	новѣмъ	новыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	10	conj	_	ref=4
+13	законѣ	законъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	14	obl	_	ref=4
+14	восїѧвших	въсияти	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	7	acl	_	ref=4
+
+# source = Life of Sergij of Radonezh, 4
+# text = и многих бо ст҃ых зачатїе и рожес꙽тво ѿкровенїем бжственым нѣкако ѿкровено быс
+# sent_id = 197126
+1	и	и	ADV	Df	_	5	advmod	_	ref=4
+2	многих	мъногыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	4	amod	_	ref=4
+3	бо	бо	ADV	Df	_	12	advmod	_	ref=4
+4	ст҃ых	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	5	amod	_	ref=4
+5	зачатїе	зачатие	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	ref=4
+6	и	и	CCONJ	C-	_	5	cc	_	ref=4
+7	рожес꙽тво	рожьство	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	conj	_	ref=4
+8	ѿкровенїем	отъкръвение	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	11	obl	_	ref=4
+9	бжственым	божьствьныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	8	amod	_	ref=4
+10	нѣкако	нѣкако	ADV	Df	_	11	advmod	_	ref=4
+11	ѿкровено	отъкрыти	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	12	xcomp	_	ref=4
+12	быс	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+
+# source = Life of Sergij of Radonezh, 4
+# text = мы бо не ѿ себе износим слово но ѿ ст҃ыхъ възимающи писанїи словеса и къ предлежащеи повѣсти повѣсть приѹподблѧюще воспомїнанїем сице
+# sent_id = 197127
+1	мы	мы	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	ref=4
+2	бо	бо	ADV	Df	_	6	advmod	_	ref=4
+3	не	не	ADV	Df	_	6	advmod	_	ref=4
+4	ѿ	отъ	ADP	R-	_	5	case	_	ref=4
+5	себе	себе	PRON	Pk	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	obl	_	ref=4
+6	износим	износити	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+7	слово	слово	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	obj:dir	_	ref=4
+8	но	нъ	CCONJ	C-	_	6	cc	_	ref=4
+9	ѿ	отъ	ADP	R-	_	12	case	_	ref=4
+10	ст҃ыхъ	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	12	amod	_	ref=4
+11	възимающи	възимати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	6	conj	_	ref=4
+12	писанїи	писание	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	11	obl	_	ref=4
+13	словеса	слово	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	11	obj:dir	_	ref=4
+14	и	и	CCONJ	C-	_	11	cc	_	ref=4
+15	къ	къ	ADP	R-	_	17	case	_	ref=4
+16	предлежащеи	прѣдълежати	VERB	V-	Case=Dat|Gender=Fem|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	17	acl	_	ref=4
+17	повѣсти	повѣсть	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	19	obl	_	ref=4
+18	повѣсть	повѣсть	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	19	obj:dir	_	ref=4
+19	приѹподблѧюще	приуподобляти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	11	conj	_	ref=4
+20	воспомїнанїем	въспоминание	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	19	obl	_	ref=4
+21	сице	сице	ADV	Df	_	19	advmod	_	ref=4
+
+# source = Life of Sergij of Radonezh, 4
+# text = и понеже иеремѣю прорка бг҃ъ во чреве мт҃ерни ост҃и
+# sent_id = 197130
+1	и	и	ADV	Df	_	3	advmod	_	ref=4
+2	понеже	понеже	ADV	Df	_	9	advmod	_	ref=4
+3	иеремѣю	иеремия	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	9	obj:dir	_	ref=4
+4	прорка	пророкъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	appos	_	ref=4
+5	бг҃ъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	ref=4
+6	во	въ	ADP	R-	_	7	case	_	ref=4
+7	чреве	чрѣво	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	9	obl	_	ref=4
+8	мт҃ерни	матерьнии	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	7	amod	_	ref=4
+9	ост҃и	освятити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+
+# source = Life of Sergij of Radonezh, 4
+# text = и прежде рожденїѧ его провѣдыи ꙗко провидецъ бг҃ъ ꙗко быти емѹ прїѧтелищꙋ ст҃го дх҃а наполнѧет сего абїе бдг҃одати ѿ юнос꙽тна возраста
+# sent_id = 197131
+1	и	и	CCONJ	C-	_	15	cc	_	ref=4
+2	прежде	прѣжде	ADV	Df	_	5	advmod	_	ref=4
+3	рожденїѧ	рождение	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	2	iobj	_	ref=4
+4	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	det	_	ref=4
+5	провѣдыи	провѣдѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	15	advcl	_	ref=4
+6	ꙗко	яко	ADV	Df	_	5	advcl	_	ref=4
+7	провидецъ	провидьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=4
+8	бг҃ъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	ref=4
+9	ꙗко	яко	SCONJ	G-	_	10	mark	_	ref=4
+10	быти	быти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	ccomp	_	ref=4
+11	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	ref=4
+12	прїѧтелищꙋ	приятелище	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	10	xcomp	_	ref=4
+13	ст҃го	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	14	amod	_	ref=4
+14	дх҃а	духъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	ref=4
+15	наполнѧет	напълняти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+16	сего	сии	ADJ	Pd	Case=Gen|Gender=Masc|Number=Sing	15	obj:dir	_	ref=4
+17	абїе	абие	ADV	Df	_	15	advmod	_	ref=4
+18	бдг҃одати	благодать	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	15	iobj	_	ref=4
+19	ѿ	отъ	ADP	R-	_	21	case	_	ref=4
+20	юнос꙽тна	юностьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	21	amod	_	ref=4
+21	возраста	възрастъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	15	obl	_	ref=4
+
+# source = Life of Sergij of Radonezh, 4
+# text = исаіѧ же проркъ рече
+# sent_id = 197135
+1	исаіѧ	исаия	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=4
+2	же	же	ADV	Df	_	4	advmod	_	ref=4
+3	проркъ	пророкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	ref=4
+4	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+
+# source = Life of Sergij of Radonezh, 4
+# text = гл҃етъ г҃ь возвавыи мѧ изъ ѹтробы и ис꙽ чрева мт҃ре моеѧ из꙽бравъ пронарече мѧ
+# sent_id = 197248
+1	гл҃етъ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+2	г҃ь	господь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=4
+3	возвавыи	възъвати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	1	advcl	_	ref=4
+4	мѧ	азъ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	obj:dir	_	ref=4
+5	изъ	из	ADP	R-	_	6	case	_	ref=4
+6	ѹтробы	утроба	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	obl	_	ref=4
+7	и	и	CCONJ	C-	_	1	cc	_	ref=4
+8	ис꙽	из	ADP	R-	_	9	case	_	ref=4
+9	чрева	чрѣво	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	12	obl	_	ref=4
+10	мт҃ре	мати	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	ref=4
+11	моеѧ	мои	ADJ	Ps	Case=Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes	10	nmod	_	ref=4
+12	из꙽бравъ	избьрати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	13	advcl	_	ref=4
+13	пронарече	пронарещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=4
+14	мѧ	азъ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	13	obj:dir	_	ref=4
+
+# source = Life of Sergij of Radonezh, 4
+# text = ст҃ыи же великїи іѡаннъ проркъ прдтча еще сыи во ѹтробе мт҃рни позна г҃а носимаго в ложеснѣх прчстыѧ прснодв҃ы м҃рїѧ
+# sent_id = 197138
+1	ст҃ыи	святыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=4
+2	же	же	ADV	Df	_	12	advmod	_	ref=4
+3	великїи	великыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=4
+4	іѡаннъ	иоанъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	ref=4
+5	проркъ	пророкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	ref=4
+6	прдтча	прѣдътеча	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	ref=4
+7	еще	еще	ADV	Df	_	8	advmod	_	ref=4
+8	сыи	быти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	12	advcl	_	ref=4
+9	во	въ	ADP	R-	_	10	case	_	ref=4
+10	ѹтробе	утроба	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	8	xcomp	_	ref=4
+11	мт҃рни	матерьнии	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	10	nmod	_	ref=4
+12	позна	познати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+13	г҃а	господь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	12	obj:dir	_	ref=4
+14	носимаго	носити	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Pass	12	advcl	_	ref=4
+15	в	въ	ADP	R-	_	16	case	_	ref=4
+16	ложеснѣх	ложесно	NOUN	Nb	Case=Loc|Gender=Neut|Number=Plur	14	obl	_	ref=4
+17	прчстыѧ	прѣчистыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	18	amod	_	ref=4
+18	прснодв҃ы	присьнодѣва	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	ref=4
+19	м҃рїѧ	мария	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	18	appos	_	ref=4
+
+# source = Life of Sergij of Radonezh, 4
+# text = и взыгра сѧ младенецъ радощами во чреве мт҃ри своеѧ елисафи
+# sent_id = 197139
+1	и	и	CCONJ	C-	_	2	cc	_	ref=4
+2	взыгра	възиграти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=4
+4	младенецъ	младеньць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=4
+5	радощами	радощи	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	2	obl	_	ref=4
+6	во	въ	ADP	R-	_	7	case	_	ref=4
+7	чреве	чрѣво	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	2	obl	_	ref=4
+8	мт҃ри	мати	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	ref=4
+9	своеѧ	свои	ADJ	Pt	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	8	nmod	_	ref=4
+10	елисафи	елисафь	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	8	appos	_	ref=4
+
+# source = Life of Sergij of Radonezh, 4
+# text = и тоѧ ѹс꙽тнами прорчес꙽твова
+# sent_id = 197140
+1	и	и	CCONJ	C-	_	4	cc	_	ref=4
+2	тоѧ	тыи	DET	Pd	Case=Gen|Gender=Fem|Number=Sing	3	det	_	ref=4
+3	ѹс꙽тнами	устьна	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	4	obl	_	ref=4
+4	прорчес꙽твова	пророчьствовати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+
+# source = Life of Sergij of Radonezh, 4
+# text = и возопи тогда гл҃ѧ
+# sent_id = 197141
+1	и	и	CCONJ	C-	_	2	cc	_	ref=4
+2	возопи	възъпити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+3	тогда	тъгда	ADV	Df	_	2	advmod	_	ref=4
+4	гл҃ѧ	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	ref=4
+
+# source = Life of Sergij of Radonezh, 4
+# text = ѿкꙋдꙋ се мнѣ да прїиде мт҃и г҃а моего къ мнѣ
+# sent_id = 197142
+1	ѿкꙋдꙋ	отъкуду	ADV	Du	PronType=Int	0	root	_	ref=4
+2	се	сии	ADJ	Pd	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	ref=4
+3	мнѣ	азъ	PRON	Pp	Case=Dat|Gender=Fem|Number=Sing|Person=1|PronType=Prs	1	obl	_	ref=4
+4	да	да	SCONJ	G-	_	5	mark	_	ref=4
+5	прїиде	приити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	acl	_	ref=4
+6	мт҃и	мати	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	ref=4
+7	г҃а	господь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	ref=4
+8	моего	мои	ADJ	Ps	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes	7	nmod	_	ref=4
+9	къ	къ	ADP	R-	_	10	case	_	ref=4
+10	мнѣ	азъ	PRON	Pp	Case=Dat|Gender=Fem|Number=Sing|Person=1|PronType=Prs	5	obl	_	ref=4
+
+# source = Life of Sergij of Radonezh, 4
+# text = ст҃ыи же славныи проркъ илїѧ фезвитѧнинъ
+# sent_id = 197143
+1	ст҃ыи	святыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=4
+2	же	же	ADV	Df	_	0	root	_	ref=4
+3	славныи	славьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=4
+4	проркъ	пророкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=4
+5	илїѧ	илия	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	ref=4
+6	фезвитѧнинъ	фезвитянинъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	ref=4
+
+# source = Life of Sergij of Radonezh, 4
+# text = егда роди его мт҃и его тогда родители его видѣша видѣнїе ꙗко мѹжїе бл҃гокрасни и бѣлоѡбразни нарицахꙋть имѧ емꙋ и огнеными пеленами повивахѹ его и пламы огненыи даѧхѹ емѹ ꙗсти
+# sent_id = 197404
+1	егда	егда	ADV	Dq	PronType=Rel	2	advmod	_	ref=4
+2	роди	родити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	ref=4
+3	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj:dir	_	ref=4
+4	мт҃и	мати	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=4
+5	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	det	_	ref=4
+6	тогда	тъгда	ADV	Df	_	9	advmod	_	ref=4
+7	родители	родитель	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	ref=4
+8	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	_	ref=4
+9	видѣша	видѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+10	видѣнїе	видѣние	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	9	obj:dir	_	ref=4
+11	ꙗко	яко	SCONJ	G-	_	16	mark	_	ref=4
+12	мѹжїе	мужь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	ref=4
+13	бл҃гокрасни	благокрасьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	12	amod	_	ref=4
+14	и	и	CCONJ	C-	_	13	cc	_	ref=4
+15	бѣлоѡбразни	бѣлообразьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	13	conj	_	ref=4
+16	нарицахꙋть	нарицати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	ccomp	_	ref=4
+17	имѧ	имя	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	16	obj:dir	_	ref=4
+18	емꙋ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	det	_	ref=4
+19	и	и	CCONJ	C-	_	16	cc	_	ref=4
+20	огнеными	огньныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	21	amod	_	ref=4
+21	пеленами	пелена	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	22	iobj	_	ref=4
+22	повивахѹ	повивати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	conj	_	ref=4
+23	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obj:dir	_	ref=4
+24	и	и	CCONJ	C-	_	16	cc	_	ref=4
+25	пламы	пламы	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	27	obj:dir	_	ref=4
+26	огненыи	огньныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	25	amod	_	ref=4
+27	даѧхѹ	даяти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	conj	_	ref=4
+28	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	iobj	_	ref=4
+29	ꙗсти	ясти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	27	advcl	_	ref=4
+
+# source = Life of Sergij of Radonezh, 4
+# text = ѿц҃ъ же его шед во іерслимъ возвести сїѧ архїереѡм
+# sent_id = 197149
+1	ѿц҃ъ	отьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=4
+2	же	же	ADV	Df	_	7	advmod	_	ref=4
+3	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	det	_	ref=4
+4	шед	ити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	7	advcl	_	ref=4
+5	во	въ	ADP	R-	_	6	case	_	ref=4
+6	іерслимъ	иерусалимъ	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	ref=4
+7	возвести	възвѣстити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+8	сїѧ	сии	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	7	obj:dir	_	ref=4
+9	архїереѡм	архиереи	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	7	iobj	_	ref=4
+
+# source = Life of Sergij of Radonezh, 4
+# text = они же рѣша емꙋ
+# sent_id = 197150
+1	они	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	ref=4
+2	же	же	ADV	Df	_	3	advmod	_	ref=4
+3	рѣша	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+4	емꙋ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	ref=4
+
+# source = Life of Sergij of Radonezh, 4
+# text = не бои сѧ чл҃че
+# sent_id = 197405
+1	не	не	ADV	Df	_	2	advmod	_	ref=4
+2	бои	бояти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=4
+4	чл҃че	человѣкъ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	ref=4
+
+# source = Life of Sergij of Radonezh, 4
+# text = бѹдетъ бо дѣтища сего житїе свѣт и слово сѹдъ и тъ сѹдитъ іизр҃лю ѡрѹжїемъ и огнемъ
+# sent_id = 197151
+1	бѹдетъ	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+2	бо	бо	ADV	Df	_	1	advmod	_	ref=4
+3	дѣтища	дѣтищь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	ref=4
+4	сего	сии	DET	Pd	Case=Gen|Gender=Masc|Number=Sing	3	det	_	ref=4
+5	житїе	житие	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	ref=4
+6	свѣт	свѣтъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	xcomp	_	ref=4
+7	и	и	CCONJ	C-	_	1	cc	_	ref=4
+8	слово	слово	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	1	conj	_	ref=4
+9	сѹдъ	судъ#1	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	orphan	_	ref=4
+10	и	и	CCONJ	C-	_	1	cc	_	ref=4
+11	тъ	тыи	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	ref=4
+12	сѹдитъ	судити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=4
+13	іизр҃лю	израиль	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	12	iobj	_	ref=4
+14	ѡрѹжїемъ	оружие	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	12	obl	_	ref=4
+15	и	и	CCONJ	C-	_	14	cc	_	ref=4
+16	огнемъ	огнь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	14	conj	_	ref=4
+
+# source = Life of Sergij of Radonezh, 4
+# text = еже и бысть
+# sent_id = 197406
+1	еже	иже	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	3	nsubj	_	ref=4
+2	и	и	ADV	Df	_	3	advmod	_	ref=4
+3	бысть	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+
+# source = Life of Sergij of Radonezh, 4
+# text = ст҃ыи николае чюдотворецъ егда роди сѧ и начаша омывати его внезаапꙋ воста младенецъ на ногѹ свою
+# sent_id = 197152
+1	ст҃ыи	святыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	2	amod	_	ref=4
+2	николае	никола	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	13	appos	_	ref=4
+3	чюдотворецъ	чудотворьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	ref=4
+4	егда	егда	ADV	Dq	PronType=Rel	5	advmod	_	ref=4
+5	роди	родити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	advcl	_	ref=4
+6	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	5	aux	_	ref=4
+7	и	и	CCONJ	C-	_	5	cc	_	ref=4
+8	начаша	начати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	ref=4
+9	омывати	омывати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	xcomp	_	ref=4
+10	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj:dir	_	ref=4
+11	внезаапꙋ	вънезаапу	ADV	Df	_	12	advmod	_	ref=4
+12	воста	въстати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+13	младенецъ	младеньць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	ref=4
+14	на	на	ADP	R-	_	15	case	_	ref=4
+15	ногѹ	нога	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	12	obl	_	ref=4
+16	свою	свои	ADJ	Pt	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	15	nmod	_	ref=4
+
+# source = Life of Sergij of Radonezh, 4
+# text = и стоѧше простъ в ночвахъ полтора часа
+# sent_id = 197153
+1	и	и	CCONJ	C-	_	2	cc	_	ref=4
+2	стоѧше	стояти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=4
+3	простъ	простыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	2	advmod	_	ref=4
+4	в	въ	ADP	R-	_	5	case	_	ref=4
+5	ночвахъ	ночьва	NOUN	Nb	Case=Loc|Gender=Fem|Number=Plur	2	obl	_	ref=4
+6	полтора	полътора	NUM	Ma	Case=Acc|Gender=Masc|Number=Sing	7	nummod	_	ref=4
+7	часа	часъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Dual	2	obl	_	ref=4
+
+# source = Life of Sergij of Radonezh, 4
+# text = ст҃ыи же прпдбныи ѿц҃ъ нашъ ефрѣмъ сѵринъ егда бѣ роди сѧ младенецъ родителїе его видѣнїе видѣста
+# sent_id = 197154
+1	ст҃ыи	святыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=4
+2	же	же	ADV	Df	_	16	advmod	_	ref=4
+3	прпдбныи	прѣподобьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=4
+4	ѿц҃ъ	отьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	appos	_	ref=4
+5	нашъ	нашь	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=1|Poss=Yes	4	nmod	_	ref=4
+6	ефрѣмъ	ефрѣмъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	ref=4
+7	сѵринъ	сиринъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	appos	_	ref=4
+8	егда	егда	ADV	Dq	PronType=Rel	10	advmod	_	ref=4
+9	бѣ	быти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	aux	_	ref=4
+10	роди	родити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	advcl	_	ref=4
+11	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	10	aux	_	ref=4
+12	младенецъ	младеньць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	ref=4
+13	родителїе	родитель	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	ref=4
+14	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nmod	_	ref=4
+15	видѣнїе	видѣние	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	16	obj:dir	_	ref=4
+16	видѣста	видѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=4

@@ -17,11 +17,11 @@ There are three pretrained models:
 
 Best results on test sets (as detailed in paper [1]) are as follows:
 
-| Model name    | Varieties     | UAS   | LAS   |
-| ------------- |:-------------:| -----:| -----:|
-| jPTDP-GEN     | Generic       | $1600 | Cool  |
-| jPTDP-ESL     | East Slavic   |   $12 | Cool  |
-| jPTDP-SSL     | South Slavic  |    $1 | Cool  |
+| Model name    | Test set        | UAS   | LAS   |
+| ------------- |:-------------:  | -----:| -----:|
+| jPTDP-GEN     | Codex Marianus  | 83.79 | 78.42 |
+| jPTDP-ESL     | PVL             | 85.70 | 80.16 |
+| jPTDP-SSL     | Codex Marianus  | 83.61 | 77.98 |
 
 All models were trained on data from the Tromsø Old Russian and Old Church Slavonic Treebank (TOROT) (https://torottreebank.github.io), 20200116 release. 
 

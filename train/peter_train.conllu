@@ -1,0 +1,139 @@
+# source = Correspondence of Peter the Great, Letter 1 to Natalia Kirilovna
+# text = Вселюбезенейшей і паче живота телесного дражайщей моей матушьке гасударыни царице і великой княгине Наталиі Кириловънѣ
+# sent_id = 219339
+1	Вселюбезенейшей	вьселюбьзныи	ADJ	A-	Case=Dat|Degree=Sup|Gender=Fem|Number=Sing|Strength=Weak	8	advmod	_	ref=
+2	і	и	CCONJ	C-	_	1	cc	_	ref=
+3	паче	паче	ADV	Df	_	6	advmod	_	ref=
+4	живота	животъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	iobj	_	ref=
+5	телесного	тѣлесьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	4	amod	_	ref=
+6	дражайщей	драгыи	ADJ	A-	Case=Dat|Degree=Sup|Gender=Fem|Number=Sing|Strength=Weak	1	conj	_	ref=
+7	моей	мои	ADJ	Ps	Case=Dat|Gender=Fem|Number=Sing|Person=1|Poss=Yes	8	nmod	_	ref=
+8	матушьке	матушька	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	0	root	_	ref=
+9	гасударыни	государыни	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	8	appos	_	ref=
+10	царице	царица	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	9	appos	_	ref=
+11	і	и	CCONJ	C-	_	9	cc	_	ref=
+12	великой	великыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	13	amod	_	ref=
+13	княгине	кънягыни	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	9	conj	_	ref=
+14	Наталиі	наталья	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	8	appos	_	ref=
+15	Кириловънѣ	кириловьна	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	14	flat:name	_	ref=
+
+# source = Correspondence of Peter the Great, Letter 1 to Natalia Kirilovna
+# text = сынишъка твой в работе пребывающей Петрушъка
+# sent_id = 219390
+1	сынишъка	сынишька	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=
+2	твой	твои	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes	1	nmod	_	ref=
+3	в	въ	ADP	R-	_	4	case	_	ref=
+4	работе	работа	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	5	xcomp	_	ref=
+5	пребывающей	прѣбывати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	1	acl	_	ref=
+6	Петрушъка	петрушька	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	ref=
+
+# source = Correspondence of Peter the Great, Letter 1 to Natalia Kirilovna
+# text = благосъловения прошу а о твоемъ здравиі слышеть желаю
+# sent_id = 219391
+1	благосъловения	благословение	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	2	iobj	_	ref=
+2	прошу	просити	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	а	а	CCONJ	C-	_	2	cc	_	ref=
+4	о	о	ADP	R-	_	6	case	_	ref=
+5	твоемъ	твои	ADJ	Ps	Case=Loc|Gender=Neut|Number=Sing|Person=2|Poss=Yes	6	nmod	_	ref=
+6	здравиі	съдравие	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	7	obl	_	ref=
+7	слышеть	слышати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	xcomp	_	ref=
+8	желаю	желати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=
+
+# source = Correspondence of Peter the Great, Letter 1 to Natalia Kirilovna
+# text = А у насъ молитвами твоіми здорово все
+# sent_id = 219340
+1	А	а	CCONJ	C-	_	6	cc	_	ref=
+2	у	у	ADP	R-	_	3	case	_	ref=
+3	насъ	мы	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	6	obl	_	ref=
+4	молитвами	молитва	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	6	obl	_	ref=
+5	твоіми	твои	ADJ	Ps	Case=Ins|Gender=Fem|Number=Plur|Person=2|Poss=Yes	4	nmod	_	ref=
+6	здорово	съдоровыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	0	root	_	ref=
+7	все	вьсь	ADJ	Px	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=
+
+# source = Correspondence of Peter the Great, Letter 1 to Natalia Kirilovna
+# text = а озеро все вскрыло сь сего 20-го числа
+# sent_id = 219341
+1	а	а	CCONJ	C-	_	4	cc	_	ref=
+2	озеро	озеро	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	ref=
+3	все	вьсь	DET	Px	Case=Nom|Gender=Neut|Number=Sing	2	det	_	ref=
+4	вскрыло	въскрыти	VERB	V-	Aspect=Res|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+5	сь	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	4	aux	_	ref=
+6	сего	сии	DET	Pd	Case=Gen|Gender=Neut|Number=Sing	8	det	_	ref=
+7	20-го	дъванадесятыи	ADJ	Mo	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	ref=
+8	числа	число	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	4	obl	_	ref=
+
+# source = Correspondence of Peter the Great, Letter 1 to Natalia Kirilovna
+# text = і суды все кромѣ болшого коробля в оддѣлъкѣ
+# sent_id = 219392
+1	і	и	CCONJ	C-	_	8	cc	_	ref=
+2	суды	судъ#2	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	ref=
+3	все	вьсь	DET	Px	Case=Nom|Gender=Masc|Number=Plur	2	det	_	ref=
+4	кромѣ	кромѣ	ADP	R-	_	6	case	_	ref=
+5	болшого	большии	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	6	amod	_	ref=
+6	коробля	корабль	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	ref=
+7	в	въ	ADP	R-	_	8	case	_	ref=
+8	оддѣлъкѣ	отъдѣлъка	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	0	root	_	ref=
+
+# source = Correspondence of Peter the Great, Letter 1 to Natalia Kirilovna
+# text = тол(ко за канатами станетъ
+# sent_id = 219393
+1	тол(ко	только	ADV	Df	_	4	advmod	_	ref=
+2	за	за	ADP	R-	_	3	case	_	ref=
+3	канатами	канатъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	4	obl	_	ref=
+4	станетъ	стати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = Correspondence of Peter the Great, Letter 1 to Natalia Kirilovna
+# text = і о томъ милости прошу чтопъ тѣ канат(ы по семисотъ саженъ исъ Пушъкарского приказу не мешкоѳъ присланы были
+# sent_id = 219394
+1	і	и	CCONJ	C-	_	5	cc	_	ref=
+2	о	о	ADP	R-	_	3	case	_	ref=
+3	томъ	тыи	ADJ	Pd	Case=Loc|Gender=Neut|Number=Sing	5	obl	_	ref=
+4	милости	милость	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	iobj	_	ref=
+5	прошу	просити	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	чтопъ	чьтобы	SCONJ	G-	_	18	mark	_	ref=
+7	тѣ	тыи	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	8	det	_	ref=
+8	канат(ы	канатъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	18	nsubj	_	ref=
+9	по	по	ADP	R-	_	10	case	_	ref=
+10	семисотъ	семьсътъ	NUM	Ma	Case=Dat|Gender=Neut|Number=Plur	8	nummod	_	ref=
+11	саженъ	сажень	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	ref=
+12	исъ	из	ADP	R-	_	14	case	_	ref=
+13	Пушъкарского	пушькарьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	14	amod	_	ref=
+14	приказу	приказъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	17	obl	_	ref=
+15	не	не	ADV	Df	_	16	advmod	_	ref=
+16	мешкоѳъ	мѣшкати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	18	advcl	_	ref=
+17	присланы	присълати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	18	xcomp	_	ref=
+18	были	быти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	3	acl	_	ref=
+
+# source = Correspondence of Peter the Great, Letter 1 to Natalia Kirilovna
+# text = а за ними дѣло станетъ і житье наше продолжит ца
+# sent_id = 219342
+1	а	а	CCONJ	C-	_	5	cc	_	ref=
+2	за	за	ADP	R-	_	3	case	_	ref=
+3	ними	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	obl	_	ref=
+4	дѣло	дѣло	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	ref=
+5	станетъ	стати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	і	и	CCONJ	C-	_	5	cc	_	ref=
+7	житье	житие	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	ref=
+8	наше	нашь	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=1|Poss=Yes	7	nmod	_	ref=
+9	продолжит	продължити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	ref=
+10	ца	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	9	aux	_	ref=
+
+# source = Correspondence of Peter the Great, Letter 1 to Natalia Kirilovna
+# text = По семъ паки благословения прошу
+# sent_id = 219343
+1	По	по	ADP	R-	_	2	case	_	ref=
+2	семъ	сии	ADJ	Pd	Case=Loc|Gender=Neut|Number=Sing	5	obl	_	ref=
+3	паки	пакы	ADV	Df	_	5	advmod	_	ref=
+4	благословения	благословение	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	5	iobj	_	ref=
+5	прошу	просити	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = Correspondence of Peter the Great, Letter 1 to Natalia Kirilovna
+# text = Ісъ Переславъля апреля 20 д 1689
+# sent_id = 219344
+1	Ісъ	из	ADP	R-	_	2	case	_	ref=
+2	Переславъля	переславль	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	0	root	_	ref=
+3	апреля	априль	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	ref=
+4	20	дъвадесяти	NUM	Ma	_	5	nummod	_	ref=
+5	д	дьнь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	obl	_	ref=
+6	1689	1689	NUM	Ma	_	2	obl	_	ref=
+

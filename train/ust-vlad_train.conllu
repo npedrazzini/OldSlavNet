@@ -1,0 +1,460 @@
+
+# source = Statute of Prince Vladimir, Statute of Prince Vladimir
+# text = по томь разверзъше грецьскыи номоканонъ и ѡбрѣтохомъ въ немь ѡже не подобаѥть сихъ сѹдовъ и тѧжь кн҃зю сѹдити ни боꙗромъ ѥго ни сѹдьꙗмъ
+# sent_id = 189779
+1	по	по	ADP	R-	_	2	case	_	ref=
+2	томь	тыи	ADJ	Pd	Case=Loc|Gender=Neut|Number=Sing	3	obl	_	ref=
+3	разверзъше	разврѣсти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=
+4	грецьскыи	грьчьскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	5	amod	_	ref=
+5	номоканонъ	номоканонъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obj:dir	_	ref=
+6	и	и	CCONJ	C-	_	3	cc	_	ref=
+7	ѡбрѣтохомъ	обрѣсти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=
+8	въ	въ	ADP	R-	_	9	case	_	ref=
+9	немь	и	PRON	Pp	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	ref=
+10	ѡже	оже	SCONJ	G-	_	12	mark	_	ref=
+11	не	не	ADV	Df	_	12	advmod	_	ref=
+12	подобаѥть	подобати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	ccomp	_	ref=
+13	сихъ	сии	DET	Pd	Case=Gen|Gender=Masc|Number=Plur	14	det	_	ref=
+14	сѹдовъ	судъ#1	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	18	obj:dir	_	ref=
+15	и	и	CCONJ	C-	_	14	cc	_	ref=
+16	тѧжь	тяжа	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	14	conj	_	ref=
+17	кн҃зю	кънязь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	18	nsubj	_	ref=
+18	сѹдити	судити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	12	xcomp	_	ref=
+19	ни	ни	CCONJ	C-	_	17	cc	_	ref=
+20	боꙗромъ	бояринъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	17	conj	_	ref=
+21	ѥго	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	det	_	ref=
+22	ни	ни	CCONJ	C-	_	17	cc	_	ref=
+23	сѹдьꙗмъ	судия	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	17	conj	_	ref=
+
+# source = Statute of Prince Vladimir, Statute of Prince Vladimir
+# text = и ꙗзъ съгадавъ съ своѥю кнѧгинею съ анною и съ своими дѣтми далъ ѥсмь ты сѹды цр҃квамъ митрополитѹ и всѣмъ пискѹпиѧмъ по рѹсьскои землї
+# sent_id = 189783
+1	и	и	CCONJ	C-	_	13	cc	_	ref=
+2	ꙗзъ	язъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	ref=
+3	съгадавъ	съгадати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	13	advcl	_	ref=
+4	съ	съ	ADP	R-	_	6	case	_	ref=
+5	своѥю	свои	ADJ	Pt	Case=Ins|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	6	nmod	_	ref=
+6	кнѧгинею	кънягыни	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	3	obl	_	ref=
+7	съ	съ	ADP	R-	_	8	case	_	ref=
+8	анною	анна	PROPN	Ne	Case=Ins|Gender=Fem|Number=Sing	4	appos	_	ref=
+9	и	и	CCONJ	C-	_	6	cc	_	ref=
+10	съ	съ	ADP	R-	_	12	case	_	ref=
+11	своими	свои	ADJ	Pt	Case=Ins|Gender=Neut|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	12	nmod	_	ref=
+12	дѣтми	дѣтя	NOUN	Nb	Case=Ins|Gender=Neut|Number=Plur	6	conj	_	ref=
+13	далъ	дати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+14	ѥсмь	быти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux	_	ref=
+15	ты	тыи	DET	Pd	Case=Acc|Gender=Masc|Number=Plur	16	det	_	ref=
+16	сѹды	судъ#1	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	13	obj:dir	_	ref=
+17	цр҃квамъ	цьркы	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	13	iobj	_	ref=
+18	митрополитѹ	митрополитъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	17	conj	_	ref=
+19	и	и	CCONJ	C-	_	17	cc	_	ref=
+20	всѣмъ	вьсь	DET	Px	Case=Dat|Gender=Fem|Number=Plur	21	det	_	ref=
+21	пискѹпиѧмъ	епископия	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	17	conj	_	ref=
+22	по	по	ADP	R-	_	24	case	_	ref=
+23	рѹсьскои	русьскыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	24	amod	_	ref=
+24	землї	земля	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	21	nmod	_	ref=
+
+# source = Statute of Prince Vladimir, Statute of Prince Vladimir
+# text = а по семь не надобѣ въстѹпати сѧ ни дѣтемъ моимъ ни внѹчатом ни въсемѹ родѹ моѥму до вѣка ни в люди црк҃вныѣ ни во всѣ сѹды ихъ
+# sent_id = 189788
+1	а	а	CCONJ	C-	_	5	cc	_	ref=
+2	по	по	ADP	R-	_	3	case	_	ref=
+3	семь	сии	ADJ	Pd	Case=Loc|Gender=Neut|Number=Sing	5	obl	_	ref=
+4	не	не	ADV	Df	_	5	advmod	_	ref=
+5	надобѣ	надобѣ	ADV	Df	_	0	root	_	ref=
+6	въстѹпати	въступати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	ccomp	_	ref=
+7	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	6	aux	_	ref=
+8	ни	ни	CCONJ	C-	_	9	cc	_	ref=
+9	дѣтемъ	дѣтя	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	6	nsubj	_	ref=
+10	моимъ	мои	ADJ	Ps	Case=Dat|Gender=Neut|Number=Plur|Person=1|Poss=Yes	9	nmod	_	ref=
+11	ни	ни	CCONJ	C-	_	9	cc	_	ref=
+12	внѹчатом	вънуча	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	9	conj	_	ref=
+13	ни	ни	CCONJ	C-	_	9	cc	_	ref=
+14	въсемѹ	вьсь	DET	Px	Case=Dat|Gender=Masc|Number=Sing	15	det	_	ref=
+15	родѹ	родъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	9	conj	_	ref=
+16	моѥму	мои	ADJ	Ps	Case=Dat|Gender=Masc|Number=Sing|Person=1|Poss=Yes	15	nmod	_	ref=
+17	до	до	ADP	R-	_	18	case	_	ref=
+18	вѣка	вѣкъ#1	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	ref=
+19	ни	ни	CCONJ	C-	_	21	cc	_	ref=
+20	в	въ	ADP	R-	_	21	case	_	ref=
+21	люди	людие	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	6	obl	_	ref=
+22	црк҃вныѣ	цьркъвьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	21	amod	_	ref=
+23	ни	ни	CCONJ	C-	_	21	cc	_	ref=
+24	во	въ	ADP	R-	_	26	case	_	ref=
+25	всѣ	вьсь	DET	Px	Case=Acc|Gender=Masc|Number=Plur	26	det	_	ref=
+26	сѹды	судъ#1	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	21	conj	_	ref=
+27	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	26	det	_	ref=
+
+# source = Statute of Prince Vladimir, Statute of Prince Vladimir
+# text = то все далъ ѥсмь по всѣмъ городомъ и по погостом и по свободамъ гдѣ нъ сѹть хрстиꙗне
+# sent_id = 189790
+1	то	тыи	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	3	obj:dir	_	ref=
+2	все	вьсь	DET	Px	Case=Acc|Gender=Neut|Number=Sing	1	det	_	ref=
+3	далъ	дати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+4	ѥсмь	быти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	ref=
+5	по	по	ADP	R-	_	7	case	_	ref=
+6	всѣмъ	вьсь	DET	Px	Case=Dat|Gender=Masc|Number=Plur	7	det	_	ref=
+7	городомъ	городъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	3	obl	_	ref=
+8	и	и	CCONJ	C-	_	7	cc	_	ref=
+9	по	по	ADP	R-	_	10	case	_	ref=
+10	погостом	погостъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	7	conj	_	ref=
+11	и	и	CCONJ	C-	_	7	cc	_	ref=
+12	по	по	ADP	R-	_	13	case	_	ref=
+13	свободамъ	свобода	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	7	conj	_	ref=
+14	гдѣ	къдѣ	ADV	Dq	PronType=Rel	16	xcomp	_	ref=
+15	нъ	ни	ADV	Df	_	16	advmod	_	ref=
+16	сѹть	быти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl	_	ref=
+17	хрстиꙗне	хрьстиянинъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	ref=
+
+# source = Statute of Prince Vladimir, Statute of Prince Vladimir
+# text = и своимъ тиѹномъ приказываю црк҃внаго сѹда не ѡбидѣти ни сѹдити безъ влдчнѧ намѣстника
+# sent_id = 189795
+1	и	и	CCONJ	C-	_	4	cc	_	ref=
+2	своимъ	свои	ADJ	Pt	Case=Dat|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	3	nmod	_	ref=
+3	тиѹномъ	тиунъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	4	iobj	_	ref=
+4	приказываю	приказывати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	црк҃внаго	цьркъвьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	6	amod	_	ref=
+6	сѹда	судъ#1	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	obj:dir	_	ref=
+7	не	не	ADV	Df	_	8	advmod	_	ref=
+8	ѡбидѣти	обидѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	xcomp	_	ref=
+9	ни	ни	CCONJ	C-	_	8	cc	_	ref=
+10	сѹдити	судити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	conj	_	ref=
+11	безъ	без	ADP	R-	_	13	case	_	ref=
+12	влдчнѧ	владычьнь	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	13	amod	_	ref=
+13	намѣстника	намѣстьникъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	10	obl	_	ref=
+
+# source = Statute of Prince Vladimir, Statute of Prince Vladimir
+# text = тѣ всѣ сѹды церкви даны сѹть
+# sent_id = 189825
+1	тѣ	тыи	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	3	det	_	ref=
+2	всѣ	вьсь	DET	Px	Case=Nom|Gender=Masc|Number=Plur	3	det	_	ref=
+3	сѹды	судъ#1	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	ref=
+4	церкви	цьркы	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	5	iobj	_	ref=
+5	даны	дати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	6	xcomp	_	ref=
+6	сѹть	быти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = Statute of Prince Vladimir, Statute of Prince Vladimir
+# text = кнѧзю и боꙗромъ и сѹдьꙗмъ ихъ въ ты сѹды нѣлзѣ въстѹпатї сѧ
+# sent_id = 189826
+1	кнѧзю	кънязь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	10	obl	_	ref=
+2	и	и	CCONJ	C-	_	1	cc	_	ref=
+3	боꙗромъ	бояринъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	1	conj	_	ref=
+4	и	и	CCONJ	C-	_	1	cc	_	ref=
+5	сѹдьꙗмъ	судия	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	1	conj	_	ref=
+6	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	det	_	ref=
+7	въ	въ	ADP	R-	_	9	case	_	ref=
+8	ты	тыи	DET	Pd	Case=Acc|Gender=Masc|Number=Plur	9	det	_	ref=
+9	сѹды	судъ#1	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	11	obl	_	ref=
+10	нѣлзѣ	нельзѣ	ADV	Df	_	0	root	_	ref=
+11	въстѹпатї	въступати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	ccomp	_	ref=
+12	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	11	aux	_	ref=
+
+# source = Statute of Prince Vladimir, Statute of Prince Vladimir
+# text = то вьсе дал ѥсмь по пьрвыхъ цcрвъ ѹ рѧженью и по вселеньскыхъ ст҃хъ семї зборовъ великыхъ ст҃ль
+# sent_id = 189828
+1	то	тыи	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	3	obj:dir	_	ref=
+2	вьсе	вьсь	DET	Px	Case=Acc|Gender=Neut|Number=Sing	1	det	_	ref=
+3	дал	дати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+4	ѥсмь	быти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	ref=
+5	по	по	ADP	R-	_	8	case	_	ref=
+6	пьрвыхъ	пьрвыи	ADJ	Mo	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	ref=
+7	цcрвъ	цѣсарь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	ref=
+8	ѹ	уряжение	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	3	obl	_	ref=
+9	рѧженью	рѧженью	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	8	flat	_	ref=
+10	и	и	CCONJ	C-	_	8	cc	_	ref=
+11	по	по	ADP	R-	_	15	case	_	ref=
+12	вселеньскыхъ	въселеньскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	15	amod	_	ref=
+13	ст҃хъ	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	15	amod	_	ref=
+14	семї	седмь	NUM	Ma	Case=Gen|Gender=Masc|Number=Sing	15	nummod	_	ref=
+15	зборовъ	съборъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	8	conj	_	ref=
+16	великыхъ	великыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	17	amod	_	ref=
+17	ст҃ль	святитель	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	ref=
+
+# source = Statute of Prince Vladimir, Statute of Prince Vladimir
+# text = аже кто преѡбидить нашь ѹставъ таковымъ не прощенымъ быти ѿ закѡна бж҃иꙗ и горе собѣ наслѣдѹють
+# sent_id = 189831
+1	аже	аже	SCONJ	G-	_	3	mark	_	ref=
+2	кто	къто	ADJ	Px	Case=Nom|Number=Sing	3	nsubj	_	ref=
+3	преѡбидить	прѣобидѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	ref=
+4	нашь	нашь	ADJ	Ps	Case=Acc|Gender=Masc|Number=Sing|Person=1|Poss=Yes	5	nmod	_	ref=
+5	ѹставъ	уставъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obj:dir	_	ref=
+6	таковымъ	таковыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	9	nsubj	_	ref=
+7	не	не	ADV	Df	_	9	advmod	_	ref=
+8	прощенымъ	простити	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	9	xcomp	_	ref=
+9	быти	быти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+10	ѿ	отъ	ADP	R-	_	11	case	_	ref=
+11	закѡна	законъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	obl:agent	_	ref=
+12	бж҃иꙗ	божии	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	11	amod	_	ref=
+13	и	и	CCONJ	C-	_	9	cc	_	ref=
+14	горе	горе	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	16	obj:dir	_	ref=
+15	собѣ	себе	PRON	Pk	Case=Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	16	obl	_	ref=
+16	наслѣдѹють	наслѣдовати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	ref=
+
+# source = Statute of Prince Vladimir, Statute of Prince Vladimir
+# text = а кто поѡбидїть сѹдъ црк҃вныи платити ѥмѹ собою
+# sent_id = 189839
+1	а	а	CCONJ	C-	_	6	cc	_	ref=
+2	кто	къто	ADJ	Px	Case=Nom|Number=Sing	3	nsubj	_	ref=
+3	поѡбидїть	пообидѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	ref=
+4	сѹдъ	судъ#1	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obj:dir	_	ref=
+5	црк҃вныи	цьркъвьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=
+6	платити	платити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+7	ѥмѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	ref=
+8	собою	себе	PRON	Pk	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	obl	_	ref=
+
+# source = Statute of Prince Vladimir, Statute of Prince Vladimir
+# text = а перед бм҃ь томѹ же ѿвѣчати на страшнѣмъ сѹдѣ пред тмами анг҃лъ идеже когождо дѣла не скрыють с блг҃аꙗ илї злаꙗ идеже не поможеть никто же комѹ но тѡкмо правда избавить ѿ вторыꙗ см҃ртї ѿ вѣчныꙗ мѹкы ѿ хрщ҃ениꙗ несп҃сенаго ѿ огнѧ негасимаго
+# sent_id = 189841
+1	а	а	CCONJ	C-	_	6	cc	_	ref=
+2	перед	передъ	ADP	R-	_	3	case	_	ref=
+3	бм҃ь	богъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	6	obl	_	ref=
+4	томѹ	тыиже	ADJ	Pd	Case=Dat|Gender=Masc|Number=Sing	6	nsubj	_	ref=
+5	же	же	ADJ	Pd	Case=Dat|Gender=Masc|Number=Sing	4	flat	_	ref=
+6	ѿвѣчати	отъвѣчати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+7	на	на	ADP	R-	_	9	case	_	ref=
+8	страшнѣмъ	страшьныи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	9	amod	_	ref=
+9	сѹдѣ	судъ#1	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	ref=
+10	пред	прѣдъ	ADP	R-	_	11	case	_	ref=
+11	тмами	тьма	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	6	obl	_	ref=
+12	анг҃лъ	ангелъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	ref=
+13	идеже	идѣже	ADV	Dq	PronType=Rel	17	advmod	_	ref=
+14	когождо	къжьдо	DET	Px	Case=Gen|Gender=Masc|Number=Sing	15	det	_	ref=
+15	дѣла	дѣло	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	17	nsubj	_	ref=
+16	не	не	ADV	Df	_	17	advmod	_	ref=
+17	скрыють	съкрыти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	ref=
+18	с	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	17	aux	_	ref=
+19	блг҃аꙗ	благыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	15	amod	_	ref=
+20	илї	или	CCONJ	C-	_	19	cc	_	ref=
+21	злаꙗ	зълыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	19	conj	_	ref=
+22	идеже	идѣже	ADV	Dq	PronType=Rel	24	advmod	_	ref=
+23	не	не	ADV	Df	_	24	advmod	_	ref=
+24	поможеть	помощи	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	ref=
+25	никто	никътоже	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	ref=
+26	же	же	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	25	flat	_	ref=
+27	комѹ	къто	ADJ	Px	Case=Dat|Gender=Masc|Number=Sing	24	iobj	_	ref=
+28	но	нъ	CCONJ	C-	_	24	cc	_	ref=
+29	тѡкмо	тъкъмо#1	ADV	Df	_	30	advmod	_	ref=
+30	правда	правьда	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	31	nsubj	_	ref=
+31	избавить	избавити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	conj	_	ref=
+32	ѿ	отъ	ADP	R-	_	34	case	_	ref=
+33	вторыꙗ	въторыи	ADJ	Mo	Case=Gen|Gender=Fem|Number=Sing	34	nmod	_	ref=
+34	см҃ртї	съмьрть	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	31	obl	_	ref=
+35	ѿ	отъ	ADP	R-	_	37	case	_	ref=
+36	вѣчныꙗ	вѣчьныи#1	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	37	amod	_	ref=
+37	мѹкы	мука#1	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	34	conj	_	ref=
+38	ѿ	отъ	ADP	R-	_	39	case	_	ref=
+39	хрщ҃ениꙗ	хрищение	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	34	conj	_	ref=
+40	несп҃сенаго	несъпасьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	39	amod	_	ref=
+41	ѿ	отъ	ADP	R-	_	42	case	_	ref=
+42	огнѧ	огнь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	34	conj	_	ref=
+43	негасимаго	негасимыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	42	amod	_	ref=
+
+# source = Statute of Prince Vladimir, Statute of Prince Vladimir
+# text = гсь реч
+# sent_id = 189851
+1	гсь	господь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=
+2	реч	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = Statute of Prince Vladimir, Statute of Prince Vladimir
+# text = в дн҃ь месть въздамь съдержащимъ неправъдѹ в разѹмѣ
+# sent_id = 189852
+1	в	въ	ADP	R-	_	2	case	_	ref=
+2	дн҃ь	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	ref=
+3	месть	мьсть	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj:dir	_	ref=
+4	въздамь	въздати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	съдержащимъ	съдьржати	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	4	advcl	_	ref=
+6	неправъдѹ	неправьда	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	ref=
+7	в	въ	ADP	R-	_	8	case	_	ref=
+8	разѹмѣ	разумъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	ref=
+
+# source = Statute of Prince Vladimir, Statute of Prince Vladimir
+# text = тѣхъ ѡгнь не ѹгаснеть и червь ихъ не ѹмреть
+# sent_id = 189853
+1	тѣхъ	тыи	DET	Pd	Case=Gen|Gender=Masc|Number=Plur	2	det	_	ref=
+2	ѡгнь	огнь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=
+3	не	не	ADV	Df	_	4	advmod	_	ref=
+4	ѹгаснеть	угаснути	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	и	и	CCONJ	C-	_	4	cc	_	ref=
+6	червь	чьрвь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	ref=
+7	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	det	_	ref=
+8	не	не	ADV	Df	_	9	advmod	_	ref=
+9	ѹмреть	умрѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	ref=
+
+# source = Statute of Prince Vladimir, Statute of Prince Vladimir
+# text = створшимъ же благаꙗ въ жизнь и вь радость и неизреченнѹю
+# sent_id = 189855
+1	створшимъ	сътворити	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=
+2	же	же	ADV	Df	_	1	advmod	_	ref=
+3	благаꙗ	благыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	1	obj:dir	_	ref=
+4	въ	въ	ADP	R-	_	5	case	_	ref=
+5	жизнь	жизнь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obl	_	ref=
+6	и	и	CCONJ	C-	_	5	cc	_	ref=
+7	вь	въ	ADP	R-	_	8	case	_	ref=
+8	радость	радость	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	conj	_	ref=
+9	и	и	ADV	Df	_	10	advmod	_	ref=
+10	неизреченнѹю	неизреченьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	8	amod	_	ref=
+
+# source = Statute of Prince Vladimir, Statute of Prince Vladimir
+# text = еже искѡни ѹставлено ѥсть и порѹчено ст҃ымъ псп҃ьꙗмъ городьскыѣ и торговыѣ всѧкаꙗ мѣрила и спуды извѣсы ставила
+# sent_id = 189859
+1	еже	еже	SCONJ	G-	_	4	mark	_	ref=
+2	искѡни	искони	ADV	Df	_	3	advmod	_	ref=
+3	ѹставлено	уставити	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	4	xcomp	_	ref=
+4	ѥсть	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	и	и	CCONJ	C-	_	3	cc	_	ref=
+6	порѹчено	поручити	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	3	conj	_	ref=
+7	ст҃ымъ	святыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	8	amod	_	ref=
+8	псп҃ьꙗмъ	епископия	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	6	iobj	_	ref=
+9	городьскыѣ	городьскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	13	amod	_	ref=
+10	и	и	CCONJ	C-	_	9	cc	_	ref=
+11	торговыѣ	търговыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	9	conj	_	ref=
+12	всѧкаꙗ	вьсякыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	9	conj	_	ref=
+13	мѣрила	мѣрило	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	6	obj:dir	_	ref=
+14	и	и	CCONJ	C-	_	13	cc	_	ref=
+15	спуды	спудъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	13	conj	_	ref=
+16	извѣсы	извѣсъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	13	conj	_	ref=
+17	ставила	ставило	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	13	conj	_	ref=
+
+# source = Statute of Prince Vladimir, Statute of Prince Vladimir
+# text = ѿ б҃а тако искони ѹставлено пискѹпѹ блюсти бес пакости нисти бес пакости ни ѹмалити ни ѹмножити
+# sent_id = 189863
+1	ѿ	отъ	ADP	R-	_	2	case	_	ref=
+2	б҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	obl:agent	_	ref=
+3	тако	тако	ADV	Df	_	5	advmod	_	ref=
+4	искони	искони	ADV	Df	_	5	advmod	_	ref=
+5	ѹставлено	уставити	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=
+6	пискѹпѹ	пискупъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	7	nsubj	_	ref=
+7	блюсти	блюсти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	csubj:pass	_	ref=
+8	бес	без	ADP	R-	_	9	case	_	ref=
+9	пакости	пакость	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	obl	_	ref=
+10	нисти	блюсти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	advcl	_	ref=
+11	бес	без	ADP	R-	_	12	case	_	ref=
+12	пакости	пакость	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	10	obl	_	ref=
+13	ни	ни	CCONJ	C-	_	14	cc	_	ref=
+14	ѹмалити	умалити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	conj	_	ref=
+15	ни	ни	CCONJ	C-	_	14	cc	_	ref=
+16	ѹмножити	умъножити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	14	conj	_	ref=
+
+# source = Statute of Prince Vladimir, Statute of Prince Vladimir
+# text = за все то дати ѥмѹ слов въ дн҃ь сѹда великаго ꙗко же и ѡ дш҃ахъ члвчскахъ
+# sent_id = 189868
+1	за	за	ADP	R-	_	3	case	_	ref=
+2	все	вьсь	DET	Px	Case=Acc|Gender=Neut|Number=Sing	3	det	_	ref=
+3	то	тыи	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	ref=
+4	дати	дати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+5	ѥмѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	ref=
+6	слов	слово	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	4	obj:dir	_	ref=
+7	въ	въ	ADP	R-	_	8	case	_	ref=
+8	дн҃ь	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	ref=
+9	сѹда	судъ#1	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	ref=
+10	великаго	великыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	9	amod	_	ref=
+11	ꙗко	якоже	ADV	Df	_	4	advmod	_	ref=
+12	же	же	ADV	Df	_	11	flat	_	ref=
+13	и	и	ADV	Df	_	14	advmod	_	ref=
+14	ѡ	о	ADP	R-	_	15	case	_	ref=
+15	дш҃ахъ	душа	NOUN	Nb	Case=Loc|Gender=Fem|Number=Plur	11	obl	_	ref=
+16	члвчскахъ	человѣчьскыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Strong	15	amod	_	ref=
+
+# source = Statute of Prince Vladimir, Statute of Prince Vladimir
+# text = то люди црк҃вныѣ ба҃дѣлныѣ
+# sent_id = 189875
+1	то	тыи	ADJ	Pd	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	ref=
+2	люди	людие	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	0	root	_	ref=
+3	црк҃вныѣ	цьркъвьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	2	advmod	_	ref=
+4	ба҃дѣлныѣ	богадѣльныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	3	conj	_	ref=
+
+# source = Statute of Prince Vladimir, Statute of Prince Vladimir
+# text = мїтропѡлитъ или ппсъ вѣдаѥть межи ими сѹдъ или ѡбида илї котора или вражда или задница
+# sent_id = 189911
+1	мїтропѡлитъ	митрополитъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=
+2	или	или	CCONJ	C-	_	1	cc	_	ref=
+3	ппсъ	пискупъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	ref=
+4	вѣдаѥть	вѣдати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	межи	межи	ADP	R-	_	6	case	_	ref=
+6	ими	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	det	_	ref=
+7	сѹдъ	судъ#1	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj:dir	_	ref=
+8	или	или	CCONJ	C-	_	7	cc	_	ref=
+9	ѡбида	обида	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	conj	_	ref=
+10	илї	или	CCONJ	C-	_	7	cc	_	ref=
+11	котора	котора	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	conj	_	ref=
+12	или	или	CCONJ	C-	_	7	cc	_	ref=
+13	вражда	вражьда	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	conj	_	ref=
+14	или	или	CCONJ	C-	_	7	cc	_	ref=
+15	задница	задьница	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	conj	_	ref=
+
+# source = Statute of Prince Vladimir, Statute of Prince Vladimir
+# text = аже бѹдеть иномѹ члв҃кѹ с тымъ члв҃комь рѣчь то ѡбчии сѹдъ
+# sent_id = 189881
+1	аже	аже	SCONJ	G-	_	2	mark	_	ref=
+2	бѹдеть	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	9	advcl	_	ref=
+3	иномѹ	иныи	DET	Px	Case=Dat|Gender=Masc|Number=Sing	4	det	_	ref=
+4	члв҃кѹ	человѣкъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	ref=
+5	с	съ	ADP	R-	_	7	case	_	ref=
+6	тымъ	тыи	DET	Pd	Case=Ins|Gender=Masc|Number=Sing	7	det	_	ref=
+7	члв҃комь	человѣкъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	8	nmod	_	ref=
+8	рѣчь	рѣчь	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=
+9	то	то	ADV	Df	_	0	root	_	ref=
+10	ѡбчии	обьщии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	11	amod	_	ref=
+11	сѹдъ	судъ#1	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	ref=
+
+# source = Statute of Prince Vladimir, Statute of Prince Vladimir
+# text = кто перестѹпить си правила ꙗко же ѥсмы ѹправили по ст҃хъ ѡц҃ь правиломъ и по пьрвыхъ цсрвъ ѹправленью кто иметь перестѹпати правїла си или дѣти мои или правнѹчата їли въ которомь городѣ намѣстникъ или тиѹнъ или сѹдьꙗ а поѡбидѧть сѹдъ цр҃квныи или кто иныи да бѹдѹть проклѧти въ сии вѣкъ и вь бѹдѹщиї семию зборовъ ст҃хъ ѡц҃ь вселеньскыхъ
+# sent_id = 189883
+1	кто	къто	PRON	Pr	Case=Nom|Number=Sing|PronType=Rel	2	nsubj	_	ref=
+2	перестѹпить	переступити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	45	nsubj	_	ref=
+3	си	сии	DET	Pd	Case=Acc|Gender=Neut|Number=Plur	4	det	_	ref=
+4	правила	правило	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	2	obj:dir	_	ref=
+5	ꙗко	яко	ADV	Dq	PronType=Rel	8	advmod	_	ref=
+6	же	же	ADV	Df	_	8	advmod	_	ref=
+7	ѥсмы	быти	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	ref=
+8	ѹправили	управити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	4	acl	_	ref=
+9	по	по	ADP	R-	_	12	case	_	ref=
+10	ст҃хъ	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	11	amod	_	ref=
+11	ѡц҃ь	отьць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	ref=
+12	правиломъ	правило	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	8	obl	_	ref=
+13	и	и	CCONJ	C-	_	12	cc	_	ref=
+14	по	по	ADP	R-	_	17	case	_	ref=
+15	пьрвыхъ	пьрвыи	ADJ	Mo	Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	ref=
+16	цсрвъ	цѣсарь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	ref=
+17	ѹправленью	управление	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	12	conj	_	ref=
+18	кто	къто	PRON	Pr	Case=Nom|Number=Sing|PronType=Rel	19	nsubj	_	ref=
+19	иметь	имѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	ref=
+20	перестѹпати	переступати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	19	xcomp	_	ref=
+21	правїла	правило	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	20	obj:dir	_	ref=
+22	си	сии	DET	Pd	Case=Acc|Gender=Neut|Number=Plur	21	det	_	ref=
+23	или	или	CCONJ	C-	_	24	cc	_	ref=
+24	дѣти	дѣтя	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	18	appos	_	ref=
+25	мои	мои	ADJ	Ps	Case=Nom|Gender=Masc|Number=Plur|Person=1|Poss=Yes	24	nmod	_	ref=
+26	или	или	CCONJ	C-	_	24	cc	_	ref=
+27	правнѹчата	правънуча	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	24	conj	_	ref=
+28	їли	или	CCONJ	C-	_	24	cc	_	ref=
+29	въ	въ	ADP	R-	_	31	case	_	ref=
+30	которомь	которыи	DET	Px	Case=Loc|Gender=Masc|Number=Sing	31	det	_	ref=
+31	городѣ	городъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	32	nmod	_	ref=
+32	намѣстникъ	намѣстьникъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	24	conj	_	ref=
+33	или	или	CCONJ	C-	_	24	cc	_	ref=
+34	тиѹнъ	тиунъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	24	conj	_	ref=
+35	или	или	CCONJ	C-	_	24	cc	_	ref=
+36	сѹдьꙗ	судия	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	24	conj	_	ref=
+37	а	а	CCONJ	C-	_	2	cc	_	ref=
+38	поѡбидѧть	пообидѣти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=
+39	сѹдъ	судъ#1	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	38	obj:dir	_	ref=
+40	цр҃квныи	цьркъвьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	39	amod	_	ref=
+41	или	или	CCONJ	C-	_	24	cc	_	ref=
+42	кто	къто	ADJ	Px	Case=Nom|Number=Sing	24	conj	_	ref=
+43	иныи	иныи	DET	Px	Case=Nom|Gender=Masc|Number=Sing	42	det	_	ref=
+44	да	да#1	ADV	Df	_	45	advmod	_	ref=
+45	бѹдѹть	быти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	ref=
+46	проклѧти	прокляти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	45	xcomp	_	ref=
+47	въ	въ	ADP	R-	_	49	case	_	ref=
+48	сии	сии	DET	Pd	Case=Acc|Gender=Masc|Number=Sing	49	det	_	ref=
+49	вѣкъ	вѣкъ#1	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	46	obl	_	ref=
+50	и	и	CCONJ	C-	_	49	cc	_	ref=
+51	вь	въ	ADP	R-	_	52	case	_	ref=
+52	бѹдѹщиї	быти	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Strength=Weak|Tense=Fut|VerbForm=Part|Voice=Act	49	conj	_	ref=
+53	семию	седмь	NUM	Ma	Case=Ins|Gender=Fem|Number=Sing	46	obl:agent	_	ref=
+54	зборовъ	съборъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	53	nmod	_	ref=
+55	ст҃хъ	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	56	amod	_	ref=
+56	ѡц҃ь	отьць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	54	nmod	_	ref=
+57	вселеньскыхъ	въселеньскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	54	amod	_	ref=
+

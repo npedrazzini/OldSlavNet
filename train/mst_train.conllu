@@ -1,0 +1,189 @@
+# source = Mstislav’s letter, Mstislav’s letter
+# text = Се азъ мьстиславъ володимирь сн҃ъ дьржа рѹськѹ землю въ своѥ кнѧжениѥ повелѣлъ ѥсмь сн҃у своѥму всеволодѹ ѿдати бѹицѣ ст҃мѹ геѡргиеви съ данию и съ вирами и съ продажами
+# sent_id = 189407
+1	Се	се	INTJ	I-	_	12	vocative	_	ref=
+2	азъ	азъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	ref=
+3	мьстиславъ	мьстиславъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	ref=
+4	володимирь	володимирь	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	5	amod	_	ref=
+5	сн҃ъ	сынъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	ref=
+6	дьржа	дьржати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	12	advcl	_	ref=
+7	рѹськѹ	русьскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	8	amod	_	ref=
+8	землю	земля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obj:dir	_	ref=
+9	въ	въ	ADP	R-	_	11	case	_	ref=
+10	своѥ	свои	ADJ	Pt	Case=Acc|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	11	nmod	_	ref=
+11	кнѧжениѥ	къняжение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	ref=
+12	повелѣлъ	повелѣти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+13	ѥсмь	быти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	_	ref=
+14	сн҃у	сынъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	12	iobj	_	ref=
+15	своѥму	свои	ADJ	Pt	Case=Dat|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	14	nmod	_	ref=
+16	всеволодѹ	вьсеволодъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	14	appos	_	ref=
+17	ѿдати	отъдати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	12	xcomp	_	ref=
+18	бѹицѣ	буици	PROPN	Ne	Case=Acc|Gender=Fem|Number=Plur	17	obj:dir	_	ref=
+19	ст҃мѹ	святыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	20	amod	_	ref=
+20	геѡргиеви	георгии	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	17	iobj	_	ref=
+21	съ	съ	ADP	R-	_	22	case	_	ref=
+22	данию	дань	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	18	nmod	_	ref=
+23	и	и	CCONJ	C-	_	22	cc	_	ref=
+24	съ	съ	ADP	R-	_	25	case	_	ref=
+25	вирами	вира	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	22	conj	_	ref=
+26	и	и	CCONJ	C-	_	22	cc	_	ref=
+27	съ	съ	ADP	R-	_	28	case	_	ref=
+28	продажами	продажа	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	22	conj	_	ref=
+
+# source = Mstislav’s letter, Mstislav’s letter
+# text = даже которыи кнѧзь по моѥмь кнѧжении почьнеть хотѣти ѿꙗти ѹ ст҃го геѡргиꙗ а бъ бѹди за тѣмь и ст҃аꙗ бц҃а и тъ ст҃ыи геѡргии ѹ него то ѡтимаѥть
+# sent_id = 189701
+1	даже	даже	SCONJ	G-	_	7	mark	_	ref=
+2	которыи	которыи	DET	Px	Case=Nom|Gender=Masc|Number=Sing	3	det	_	ref=
+3	кнѧзь	кънязь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=
+4	по	по	ADP	R-	_	6	case	_	ref=
+5	моѥмь	мои	ADJ	Ps	Case=Loc|Gender=Neut|Number=Sing|Person=1|Poss=Yes	6	nmod	_	ref=
+6	кнѧжении	къняжение	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	7	obl	_	ref=
+7	почьнеть	почати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	хотѣти	хотѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	xcomp	_	ref=
+9	ѿꙗти	отъяти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	xcomp	_	ref=
+10	ѹ	у	ADP	R-	_	12	case	_	ref=
+11	ст҃го	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	12	amod	_	ref=
+12	геѡргиꙗ	георгии	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	9	obl	_	ref=
+13	а	а	CCONJ	C-	_	1	cc	_	ref=
+14	бъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	ref=
+15	бѹди	быти	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=
+16	за	за	ADP	R-	_	17	case	_	ref=
+17	тѣмь	тыи	ADJ	Pd	Case=Ins|Gender=Masc|Number=Sing	15	xcomp	_	ref=
+18	и	и	CCONJ	C-	_	14	cc	_	ref=
+19	ст҃аꙗ	святыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	20	amod	_	ref=
+20	бц҃а	богородица	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	14	conj	_	ref=
+21	и	и	CCONJ	C-	_	14	cc	_	ref=
+22	тъ	тыи	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	24	det	_	ref=
+23	ст҃ыи	святыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	24	amod	_	ref=
+24	геѡргии	георгии	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	14	conj	_	ref=
+25	ѹ	у	ADP	R-	_	26	case	_	ref=
+26	него	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	obl	_	ref=
+27	то	тыи	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	26	det	_	ref=
+28	ѡтимаѥть	отъимати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	acl	_	ref=
+
+# source = Mstislav’s letter, Mstislav’s letter
+# text = и ты игѹмене исаиѥ и вы братиѣ донѥлѣже сѧ миръ състоить молите б҃а за мѧ и за моѣ дѣти
+# sent_id = 189409
+1	и	и	CCONJ	C-	_	12	cc	_	ref=
+2	ты	ты	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	ref=
+3	игѹмене	игуменъ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	12	vocative	_	ref=
+4	исаиѥ	исаия	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	3	appos	_	ref=
+5	и	и	CCONJ	C-	_	2	cc	_	ref=
+6	вы	вы	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	2	conj	_	ref=
+7	братиѣ	братия	NOUN	Nb	Case=Voc|Gender=Fem|Number=Sing	12	vocative	_	ref=
+8	донѥлѣже	донелѣже	SCONJ	G-	_	11	mark	_	ref=
+9	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	11	aux	_	ref=
+10	миръ	миръ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	ref=
+11	състоить	състояти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	ref=
+12	молите	молити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+13	б҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	12	obj:dir	_	ref=
+14	за	за	ADP	R-	_	15	case	_	ref=
+15	мѧ	азъ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	12	obl	_	ref=
+16	и	и	CCONJ	C-	_	15	cc	_	ref=
+17	за	за	ADP	R-	_	19	case	_	ref=
+18	моѣ	мои	ADJ	Ps	Case=Acc|Gender=Masc|Number=Plur|Person=1|Poss=Yes	19	nmod	_	ref=
+19	дѣти	дѣтя	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	15	conj	_	ref=
+
+# source = Mstislav’s letter, Mstislav’s letter
+# text = кто сѧ изоѡстанеть въ манастыри то вы тѣмь дължьни ѥсте молити за ны б҃а и при животѣ и въ съмьрти
+# sent_id = 194688
+1	кто	къто	ADJ	Px	Case=Nom|Number=Sing	3	nsubj	_	ref=
+2	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=
+3	изоѡстанеть	изоостати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	ref=
+4	въ	въ	ADP	R-	_	5	case	_	ref=
+5	манастыри	манастырь	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	3	obl	_	ref=
+6	то	то	ADV	Df	_	10	advmod	_	ref=
+7	вы	вы	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	10	nsubj	_	ref=
+8	тѣмь	тыи	ADJ	Pd	Case=Ins|Gender=Neut|Number=Sing	10	obl	_	ref=
+9	дължьни	дължьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	10	xcomp	_	ref=
+10	ѥсте	быти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+11	молити	молити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	advcl	_	ref=
+12	за	за	ADP	R-	_	13	case	_	ref=
+13	ны	мы	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	11	obl	_	ref=
+14	б҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	11	obj:dir	_	ref=
+15	и	и	CCONJ	C-	_	17	cc	_	ref=
+16	при	при	ADP	R-	_	17	case	_	ref=
+17	животѣ	животъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	11	obl	_	ref=
+18	и	и	CCONJ	C-	_	17	cc	_	ref=
+19	въ	въ	ADP	R-	_	20	case	_	ref=
+20	съмьрти	съмьрть	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	17	conj	_	ref=
+
+# source = Mstislav’s letter, Mstislav’s letter
+# text = а ꙗзъ далъ рѹкою своѥю и осеньнѥѥ полюдиѥ даровьноѥ полъ третиꙗ десѧте гривьнъ ст҃мѹ же геѡргиеви
+# sent_id = 189415
+1	а	а	CCONJ	C-	_	3	cc	_	ref=
+2	ꙗзъ	язъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	ref=
+3	далъ	дати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+4	рѹкою	рука	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	3	obl	_	ref=
+5	своѥю	свои	ADJ	Pt	Case=Ins|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	4	nmod	_	ref=
+6	и	и	ADV	Df	_	8	advmod	_	ref=
+7	осеньнѥѥ	осеньнии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	8	iobj	_	ref=
+8	полюдиѥ	полюдие	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	3	obj:dir	_	ref=
+9	даровьноѥ	даровьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	8	iobj	_	ref=
+10	полъ	полъ#1	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	appos	_	ref=
+11	третиꙗ	третии	ADJ	Mo	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	ref=
+12	десѧте	десять	NUM	Ma	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	ref=
+13	гривьнъ	гривьна	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	12	nmod	_	ref=
+14	ст҃мѹ	святыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	16	amod	_	ref=
+15	же	же	ADV	Df	_	16	advmod	_	ref=
+16	геѡргиеви	георгии	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	ref=
+
+# source = Mstislav’s letter, Mstislav’s letter
+# text = а се ꙗ всеволодъ далъ ѥсмь блюдо серебрьно въ л҃ грв҃нъ серебра ст҃мѹ же геѡргиеви
+# sent_id = 189417
+1	а	а	CCONJ	C-	_	5	cc	_	ref=
+2	се	се	INTJ	I-	_	5	vocative	_	ref=
+3	ꙗ	я	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	ref=
+4	всеволодъ	вьсеволодъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	ref=
+5	далъ	дати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+6	ѥсмь	быти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	ref=
+7	блюдо	блюдо	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obj:dir	_	ref=
+8	серебрьно	сьребрьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	7	amod	_	ref=
+9	въ	въ	ADP	R-	_	10	case	_	ref=
+10	л҃	тридесяте	NUM	Ma	_	7	nummod	_	ref=
+11	грв҃нъ	гривьна	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	ref=
+12	серебра	сьребро	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	ref=
+13	ст҃мѹ	святыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	15	amod	_	ref=
+14	же	же	ADV	Df	_	15	advmod	_	ref=
+15	геѡргиеви	георгии	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	5	iobj	_	ref=
+
+# source = Mstislav’s letter, Mstislav’s letter
+# text = велѣлъ ѥсмь бити въ нѥ на ѡбѣдѣ коли игѹменъ ѡбѣдаѥть
+# sent_id = 189702
+1	велѣлъ	велѣти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+2	ѥсмь	быти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	ref=
+3	бити	бити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	ref=
+4	въ	въ	ADP	R-	_	5	case	_	ref=
+5	нѥ	и	PRON	Pp	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obl	_	ref=
+6	на	на	ADP	R-	_	7	case	_	ref=
+7	ѡбѣдѣ	обѣдъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	3	obl	_	ref=
+8	коли	коли	ADV	Dq	PronType=Rel	10	advmod	_	ref=
+9	игѹменъ	игуменъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	ref=
+10	ѡбѣдаѥть	обѣдати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	ref=
+
+# source = Mstislav’s letter, Mstislav’s letter
+# text = даже кто запъртить или тѹ дань и се блюдо да сѹдить ѥмѹ б҃ъ въ дн҃ь пришьствиꙗ своѥго и тъ ст҃ыи геѡргии
+# sent_id = 189421
+1	даже	даже	SCONJ	G-	_	3	mark	_	ref=
+2	кто	къто	ADJ	Px	Case=Nom|Number=Sing	3	nsubj	_	ref=
+3	запъртить	запъртити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	ref=
+4	или	или	CCONJ	C-	_	6	cc	_	ref=
+5	тѹ	тыи	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	6	det	_	ref=
+6	дань	дань	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obj:dir	_	ref=
+7	и	и	CCONJ	C-	_	6	cc	_	ref=
+8	се	сии	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	9	det	_	ref=
+9	блюдо	блюдо	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	conj	_	ref=
+10	да	да#1	ADV	Df	_	11	advmod	_	ref=
+11	сѹдить	судити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+12	ѥмѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	iobj	_	ref=
+13	б҃ъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	ref=
+14	въ	въ	ADP	R-	_	15	case	_	ref=
+15	дн҃ь	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	11	obl	_	ref=
+16	пришьствиꙗ	пришьствие	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	ref=
+17	своѥго	свои	ADJ	Pt	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	16	nmod	_	ref=
+18	и	и	CCONJ	C-	_	13	cc	_	ref=
+19	тъ	тыи	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	21	det	_	ref=
+20	ст҃ыи	святыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	21	amod	_	ref=
+21	геѡргии	георгии	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	13	conj	_	ref=
+

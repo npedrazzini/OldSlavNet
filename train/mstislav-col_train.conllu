@@ -1,0 +1,328 @@
+# source = Colophon to Mstislav’s Gospel book, Colophon to Mstislav’s Gospel book
+# text = Ги҃ б҃е оц҃ь нашихъ авраамовъ исаковъ иꙗковль и сѣмене ихъ правьдьнааго съподобивыи мѧ грѣшьнааго раба своѥго алексоу написати сиѥ еуангелиѥ бл҃говѣрьноуоумоу и хрьстолюбивоѡмоу и бг҃мь чьстимоомоу кнѧзю ѳеѡдороу а мирьскы мьстиславоу въноукоу соущю вьсеволожю а сн҃оу володимирю кнѧзю новъгородьскоуомоу иже съвьрши сиѥ еуагѥ на блсвниѥ прѣс҃тѣи чс҃тѣи влдчци нашеи бц҃и
+# sent_id = 213342
+1	Ги҃	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	0	root	_	ref=
+2	б҃е	богъ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	1	appos	_	ref=
+3	оц҃ь	отьць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	ref=
+4	нашихъ	нашь	ADJ	Ps	Case=Gen|Gender=Masc|Number=Plur|Person=1|Poss=Yes	3	nmod	_	ref=
+5	авраамовъ	авраамовъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	3	appos	_	ref=
+6	исаковъ	исаковъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	5	conj	_	ref=
+7	иꙗковль	ияковль	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	5	conj	_	ref=
+8	и	и	CCONJ	C-	_	3	cc	_	ref=
+9	сѣмене	сѣмя	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	3	conj	_	ref=
+10	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	det	_	ref=
+11	правьдьнааго	правьдьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	9	amod	_	ref=
+12	съподобивыи	съподобити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	1	acl	_	ref=
+13	мѧ	азъ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	12	obj:dir	_	ref=
+14	грѣшьнааго	грѣшьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	15	amod	_	ref=
+15	раба	рабъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	13	appos	_	ref=
+16	своѥго	свои	ADJ	Pt	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	15	nmod	_	ref=
+17	алексоу	алекса	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	13	appos	_	ref=
+18	написати	написати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	12	xcomp	_	ref=
+19	сиѥ	сии	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	20	det	_	ref=
+20	еуангелиѥ	евангелие	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	18	obj:dir	_	ref=
+21	бл҃говѣрьноуоумоу	благовѣрьныи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	27	amod	_	ref=
+22	и	и	CCONJ	C-	_	21	cc	_	ref=
+23	хрьстолюбивоѡмоу	христолюбивыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	21	conj	_	ref=
+24	и	и	CCONJ	C-	_	21	cc	_	ref=
+25	бг҃мь	богъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	26	obl:agent	_	ref=
+26	чьстимоомоу	чьстити	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Pass	21	conj	_	ref=
+27	кнѧзю	кънязь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	18	obl	_	ref=
+28	ѳеѡдороу	феодоръ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	27	appos	_	ref=
+29	а	а	CCONJ	C-	_	28	cc	_	ref=
+30	мирьскы	мирьскы	ADV	Df	_	31	amod	_	ref=
+31	мьстиславоу	мьстиславъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	28	conj	_	ref=
+32	въноукоу	вънукъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	33	xcomp	_	ref=
+33	соущю	быти	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	27	acl	_	ref=
+34	вьсеволожю	вьсеволожь	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	32	amod	_	ref=
+35	а	а	CCONJ	C-	_	32	cc	_	ref=
+36	сн҃оу	сынъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	32	conj	_	ref=
+37	володимирю	володимирь	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	36	amod	_	ref=
+38	кнѧзю	кънязь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	27	appos	_	ref=
+39	новъгородьскоуомоу	новъгородьскыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	38	amod	_	ref=
+40	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	41	nsubj	_	ref=
+41	съвьрши	съвьршити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	27	acl	_	ref=
+42	сиѥ	сии	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	43	det	_	ref=
+43	еуагѥ	евангелие	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	41	obj:dir	_	ref=
+44	на	на	ADP	R-	_	45	case	_	ref=
+45	блсвниѥ	благословение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	41	obl	_	ref=
+46	прѣс҃тѣи	прѣсвятыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	48	amod	_	ref=
+47	чс҃тѣи	чистыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	48	amod	_	ref=
+48	влдчци	владычица	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	45	nmod	_	ref=
+49	нашеи	нашь	ADJ	Ps	Case=Dat|Gender=Fem|Number=Sing|Person=1|Poss=Yes	48	nmod	_	ref=
+50	бц҃и	богородица	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	48	appos	_	ref=
+
+# source = Colophon to Mstislav’s Gospel book, Colophon to Mstislav’s Gospel book
+# text = даи же ѥму г҃ь б҃ъ млость свою и наслѣдиѥ цсрства нб҃сьнааго и дълголѣтно кнѧжениѥ и съ всѣми своими аминь
+# sent_id = 213352
+1	даи	даяти	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	же	же	ADV	Df	_	1	advmod	_	ref=
+3	ѥму	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	ref=
+4	г҃ь	господь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=
+5	б҃ъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	ref=
+6	млость	милость	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj:dir	_	ref=
+7	свою	свои	ADJ	Pt	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	6	nmod	_	ref=
+8	и	и	CCONJ	C-	_	6	cc	_	ref=
+9	наслѣдиѥ	наслѣдие	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	conj	_	ref=
+10	цсрства	цѣсарьство	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	ref=
+11	нб҃сьнааго	небесьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	10	amod	_	ref=
+12	и	и	CCONJ	C-	_	6	cc	_	ref=
+13	дълголѣтно	дълголѣтьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	14	amod	_	ref=
+14	кнѧжениѥ	къняжение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	conj	_	ref=
+15	и	и	ADV	Df	_	16	advmod	_	ref=
+16	съ	съ	ADP	R-	_	18	case	_	ref=
+17	всѣми	вьсь	DET	Px	Case=Ins|Gender=Masc|Number=Plur	18	det	_	ref=
+18	своими	свои	ADJ	Pt	Case=Ins|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	3	nmod	_	ref=
+19	аминь	аминъ	INTJ	I-	_	1	vocative	_	ref=
+
+# source = Colophon to Mstislav’s Gospel book, Colophon to Mstislav’s Gospel book
+# text = Вы же братѥ почитающе въ сиѥ еуагѥ аще кде криво налѣзете то исправивъше чьтѣте же а не кльнѣте
+# sent_id = 213354
+1	Вы	вы	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	14	nsubj	_	ref=
+2	же	же	ADV	Df	_	14	advmod	_	ref=
+3	братѥ	братия	NOUN	Nb	Case=Voc|Gender=Fem|Number=Sing	14	vocative	_	ref=
+4	почитающе	почитати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	14	advcl	_	ref=
+5	въ	въ	ADP	R-	_	7	case	_	ref=
+6	сиѥ	сии	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	7	det	_	ref=
+7	еуагѥ	евангелие	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	ref=
+8	аще	аще	SCONJ	G-	_	11	mark	_	ref=
+9	кде	къдѣ	ADV	Df	_	11	advmod	_	ref=
+10	криво	кривыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	11	obj:dir	_	ref=
+11	налѣзете	налѣзти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	ref=
+12	то	то	ADV	Df	_	14	advmod	_	ref=
+13	исправивъше	исправити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	14	advcl	_	ref=
+14	чьтѣте	чьтити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+15	же	же	ADV	Df	_	14	advmod	_	ref=
+16	а	а	CCONJ	C-	_	14	cc	_	ref=
+17	не	не	ADV	Df	_	18	advmod	_	ref=
+18	кльнѣте	кляти	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	ref=
+
+# source = Colophon to Mstislav’s Gospel book, Colophon to Mstislav’s Gospel book
+# text = азъ бо грѣшьныи рабъ алекса написахъ сиѥ еуагѥ сн҃ъ лазоревъ прозвутера
+# sent_id = 213357
+1	азъ	азъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	ref=
+2	бо	бо	ADV	Df	_	6	advmod	_	ref=
+3	грѣшьныи	грѣшьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=
+4	рабъ	рабъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	ref=
+5	алекса	алекса	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	ref=
+6	написахъ	написати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+7	сиѥ	сии	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	8	det	_	ref=
+8	еуагѥ	евангелие	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	obj:dir	_	ref=
+9	сн҃ъ	сынъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	ref=
+10	лазоревъ	лазоревъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	9	amod	_	ref=
+11	прозвутера	прозвитеръ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	10	appos	_	ref=
+
+# source = Colophon to Mstislav’s Gospel book, Colophon to Mstislav’s Gospel book
+# text = ѡчи сп҃си кнѧ҃зѧ нашего ѳеѡдора мъногы лѣт а мирьскы мьстислава
+# sent_id = 213359
+1	ѡчи	отьць	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	ref=
+2	сп҃си	съпасти#1	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	кнѧ҃зѧ	кънязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	obj:dir	_	ref=
+4	нашего	нашь	ADJ	Ps	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes	3	nmod	_	ref=
+5	ѳеѡдора	феодоръ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	appos	_	ref=
+6	мъногы	мъногыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Plur|Strength=Strong	2	advmod	_	ref=
+7	лѣт	лѣто	NOUN	Nb	Case=Ins|Gender=Neut|Number=Plur	6	nmod	_	ref=
+8	а	а	CCONJ	C-	_	5	cc	_	ref=
+9	мирьскы	мирьскы	ADV	Df	_	10	amod	_	ref=
+10	мьстислава	мьстиславъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	conj	_	ref=
+
+# source = Colophon to Mstislav’s Gospel book, Colophon to Mstislav’s Gospel book
+# text = жадѣнъ пьсалъ
+# sent_id = 213362
+1	жадѣнъ	жадѣнъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=
+2	пьсалъ	пьсати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Colophon to Mstislav’s Gospel book, Colophon to Mstislav’s Gospel book
+# text = Азъ рабъ бж҃ии недостоиныи хоудыи грѣшьныи съпьсахъ памѧти дѣлѧ цр҃ѫ нашемоу и лѫдемъ о съконьчаньи еуаг ѥже бѧшеть казалъ мьстиславъ кънѧзь хоудомоу наславоу
+# sent_id = 213363
+1	Азъ	азъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	ref=
+2	рабъ	рабъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	ref=
+3	бж҃ии	божии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	ref=
+4	недостоиныи	недостоиныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	2	amod	_	ref=
+5	хоудыи	худыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	2	amod	_	ref=
+6	грѣшьныи	грѣшьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	2	amod	_	ref=
+7	съпьсахъ	съписати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	памѧти	память	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	obl	_	ref=
+9	дѣлѧ	дѣля	ADP	R-	_	8	case	_	ref=
+10	цр҃ѫ	цѣсарь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	8	nmod	_	ref=
+11	нашемоу	нашь	ADJ	Ps	Case=Dat|Gender=Masc|Number=Sing|Person=1|Poss=Yes	10	nmod	_	ref=
+12	и	и	CCONJ	C-	_	10	cc	_	ref=
+13	лѫдемъ	людие	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	10	conj	_	ref=
+14	о	о	ADP	R-	_	15	case	_	ref=
+15	съконьчаньи	съконьчание	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	7	obl	_	ref=
+16	еуаг	евангелие	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	ref=
+17	ѥже	иже	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	19	obj:dir	_	ref=
+18	бѧшеть	быти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	19	aux	_	ref=
+19	казалъ	казати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	16	acl	_	ref=
+20	мьстиславъ	мьстиславъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	ref=
+21	кънѧзь	кънязь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	20	appos	_	ref=
+22	хоудомоу	худыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	23	amod	_	ref=
+23	наславоу	наславъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	19	iobj	_	ref=
+
+# source = Colophon to Mstislav’s Gospel book, Colophon to Mstislav’s Gospel book
+# text = и возивъ цр҃ю городоу и оучинихъ химипетъ
+# sent_id = 213368
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	возивъ	возити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=
+3	цр҃ю	цѣсарьгородъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	ref=
+4	городоу	городоу	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	3	flat	_	ref=
+5	и	и	CCONJ	C-	_	2	cc	_	ref=
+6	оучинихъ	учинити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=
+7	химипетъ	химипетъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obj:dir	_	ref=
+
+# source = Colophon to Mstislav’s Gospel book, Colophon to Mstislav’s Gospel book
+# text = бж҃іѥю же волею възвратихъ сѧ исъ ц҃рѧ. города
+# sent_id = 213369
+1	бж҃іѥю	божии	ADJ	A-	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	ref=
+2	же	же	ADV	Df	_	4	advmod	_	ref=
+3	волею	воля	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	4	obl	_	ref=
+4	възвратихъ	възвратити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	4	aux	_	ref=
+6	исъ	из	ADP	R-	_	7	case	_	ref=
+7	ц҃рѧ.	цѣсарьгородъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	obl	_	ref=
+8	города	города	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	7	flat	_	ref=
+
+# source = Colophon to Mstislav’s Gospel book, Colophon to Mstislav’s Gospel book
+# text = и съправихъ вьсе злато и сребро и драгыи камень пришедъ кыѥвоу
+# sent_id = 213370
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	съправихъ	съправити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	вьсе	вьсь	DET	Px	Case=Acc|Gender=Neut|Number=Sing	4	det	_	ref=
+4	злато	злато	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obj:dir	_	ref=
+5	и	и	CCONJ	C-	_	4	cc	_	ref=
+6	сребро	сьребро	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	conj	_	ref=
+7	и	и	CCONJ	C-	_	4	cc	_	ref=
+8	драгыи	драгыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	9	amod	_	ref=
+9	камень	камы	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	conj	_	ref=
+10	пришедъ	приити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	2	advcl	_	ref=
+11	кыѥвоу	кыевъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	10	iobj	_	ref=
+
+# source = Colophon to Mstislav’s Gospel book, Colophon to Mstislav’s Gospel book
+# text = и съконьча сѧ вьсе дѣло мсца августа въ к҃
+# sent_id = 213372
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	съконьча	съконьчати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=
+4	вьсе	вьсь	DET	Px	Case=Nom|Gender=Neut|Number=Sing	5	det	_	ref=
+5	дѣло	дѣло	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	ref=
+6	мсца	мѣсяць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	ref=
+7	августа	авъгустъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	appos	_	ref=
+8	въ	въ	ADP	R-	_	9	case	_	ref=
+9	к҃	дъвадесяти	NUM	Ma	_	2	obl	_	ref=
+
+# source = Colophon to Mstislav’s Gospel book, Colophon to Mstislav’s Gospel book
+# text = цѣноу же еꙋангелиꙗ сего ѥдинъ б҃ъ вѣдаѥ
+# sent_id = 213374
+1	цѣноу	цѣна	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj:dir	_	ref=
+2	же	же	ADV	Df	_	7	advmod	_	ref=
+3	еꙋангелиꙗ	евангелие	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	ref=
+4	сего	сии	DET	Pd	Case=Gen|Gender=Neut|Number=Sing	3	det	_	ref=
+5	ѥдинъ	единъ	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	6	appos	_	ref=
+6	б҃ъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=
+7	вѣдаѥ	вѣдати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = Colophon to Mstislav’s Gospel book, Colophon to Mstislav’s Gospel book
+# text = азъ же хоудыи наславъ много троуда подъꙗхъ и печали
+# sent_id = 213435
+1	азъ	азъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	ref=
+2	же	же	ADV	Df	_	7	advmod	_	ref=
+3	хоудыи	худыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=
+4	наславъ	наславъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	ref=
+5	много	мъногыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	7	obj:dir	_	ref=
+6	троуда	трудъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	ref=
+7	подъꙗхъ	подъяти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	и	и	CCONJ	C-	_	6	cc	_	ref=
+9	печали	печаль	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	conj	_	ref=
+
+# source = Colophon to Mstislav’s Gospel book, Colophon to Mstislav’s Gospel book
+# text = нъ б҃ъ оутѣши мѧ добрааго кънѧзѧ мл҃твою
+# sent_id = 213376
+1	нъ	нъ	CCONJ	C-	_	3	cc	_	ref=
+2	б҃ъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+3	оутѣши	утѣшити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	мѧ	азъ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	obj:dir	_	ref=
+5	добрааго	добрыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	6	amod	_	ref=
+6	кънѧзѧ	кънязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	ref=
+7	мл҃твою	молитва	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	3	obl	_	ref=
+
+# source = Colophon to Mstislav’s Gospel book, Colophon to Mstislav’s Gospel book
+# text = и тако даи б҃ъ вьсѣмъ людемъ оугодиꙗ ѥму творити слышащемъ ѥго цсрствиѥ пребывающе въ радости и въ веселии и въ любъви
+# sent_id = 213377
+1	и	и	CCONJ	C-	_	3	cc	_	ref=
+2	тако	тако	ADV	Df	_	3	advmod	_	ref=
+3	даи	даяти	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	б҃ъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+5	вьсѣмъ	вьсь	DET	Px	Case=Dat|Gender=Masc|Number=Plur	6	det	_	ref=
+6	людемъ	людие	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	3	iobj	_	ref=
+7	оугодиꙗ	угодие	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	9	obj:dir	_	ref=
+8	ѥму	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	_	ref=
+9	творити	творити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=
+10	слышащемъ	слышати	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	3	advcl	_	ref=
+11	ѥго	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	det	_	ref=
+12	цсрствиѥ	цѣсарьствие	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	10	obj:dir	_	ref=
+13	пребывающе	прѣбывати	VERB	V-	Case=Acc|Gender=Neut|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	10	xcomp	_	ref=
+14	въ	въ	ADP	R-	_	15	case	_	ref=
+15	радости	радость	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	13	xcomp	_	ref=
+16	и	и	CCONJ	C-	_	15	cc	_	ref=
+17	въ	въ	ADP	R-	_	18	case	_	ref=
+18	веселии	веселие	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	15	conj	_	ref=
+19	и	и	CCONJ	C-	_	15	cc	_	ref=
+20	въ	въ	ADP	R-	_	21	case	_	ref=
+21	любъви	любы	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	15	conj	_	ref=
+
+# source = Colophon to Mstislav’s Gospel book, Colophon to Mstislav’s Gospel book
+# text = и даи б҃ъ ѥго мл҃твоу вьсѣмъ хрьстиꙗномъ и мънѣ хоудомоу наславоу правѧщи ѥго ороудиꙗ въ правьдоу и обрѣсти честь и милость ѿ б҃а и ѿ своѥго цсрѧ и ѿ братиѥ вѣроующе въ ст҃оу тр҃цю оц҃а и сн҃а и ст҃го дх҃а нынѧ и присно и въ вѣкы вѣкомъ
+# sent_id = 213380
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	даи	даяти	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	б҃ъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=
+4	ѥго	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	det	_	ref=
+5	мл҃твоу	молитва	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	18	obj:dir	_	ref=
+6	вьсѣмъ	вьсь	DET	Px	Case=Dat|Gender=Masc|Number=Plur	7	det	_	ref=
+7	хрьстиꙗномъ	хрьстиянинъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	2	iobj	_	ref=
+8	и	и	CCONJ	C-	_	7	cc	_	ref=
+9	мънѣ	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	conj	_	ref=
+10	хоудомоу	худыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	11	amod	_	ref=
+11	наславоу	наславъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	9	appos	_	ref=
+12	правѧщи	правити	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	ref=
+13	ѥго	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	det	_	ref=
+14	ороудиꙗ	орудие	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	12	obj:dir	_	ref=
+15	въ	въ	ADP	R-	_	16	case	_	ref=
+16	правьдоу	правьда	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	12	obl	_	ref=
+17	и	и	CCONJ	C-	_	18	cc	_	ref=
+18	обрѣсти	обрѣсти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+19	честь	чьсть	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	18	obj:dir	_	ref=
+20	и	и	CCONJ	C-	_	19	cc	_	ref=
+21	милость	милость	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	19	conj	_	ref=
+22	ѿ	отъ	ADP	R-	_	23	case	_	ref=
+23	б҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	18	obl	_	ref=
+24	и	и	CCONJ	C-	_	23	cc	_	ref=
+25	ѿ	отъ	ADP	R-	_	27	case	_	ref=
+26	своѥго	свои	ADJ	Pt	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	27	nmod	_	ref=
+27	цсрѧ	цѣсарь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	23	conj	_	ref=
+28	и	и	CCONJ	C-	_	23	cc	_	ref=
+29	ѿ	отъ	ADP	R-	_	30	case	_	ref=
+30	братиѥ	братия	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	23	conj	_	ref=
+31	вѣроующе	вѣровати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	18	advcl	_	ref=
+32	въ	въ	ADP	R-	_	34	case	_	ref=
+33	ст҃оу	святыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	34	amod	_	ref=
+34	тр҃цю	троица	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	31	obl	_	ref=
+35	оц҃а	отьць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	34	appos	_	ref=
+36	и	и	CCONJ	C-	_	35	cc	_	ref=
+37	сн҃а	сынъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	35	conj	_	ref=
+38	и	и	CCONJ	C-	_	35	cc	_	ref=
+39	ст҃го	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	40	amod	_	ref=
+40	дх҃а	духъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	35	conj	_	ref=
+41	нынѧ	ныня	ADV	Df	_	31	advmod	_	ref=
+42	и	и	CCONJ	C-	_	41	cc	_	ref=
+43	присно	присьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	41	conj	_	ref=
+44	и	и	CCONJ	C-	_	41	cc	_	ref=
+45	въ	въ	ADP	R-	_	46	case	_	ref=
+46	вѣкы	вѣкъ#1	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	41	conj	_	ref=
+47	вѣкомъ	вѣкъ#1	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	46	nmod	_	ref=
+
+# source = Colophon to Mstislav’s Gospel book, Colophon to Mstislav’s Gospel book
+# text = аминь
+# sent_id = 213436
+1	аминь	аминъ	INTJ	I-	_	0	root	_	ref=
+

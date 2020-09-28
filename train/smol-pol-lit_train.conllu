@@ -1,0 +1,427 @@
+# source = Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386, Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386
+# text = мы юрьи свѧтъславич҃ кн҃зь великии смоленьскии даємъ ведомо
+# sent_id = 199559
+1	мы	мы	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	ref=
+2	юрьи	юрьи	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	ref=
+3	свѧтъславич҃	святославичь	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	ref=
+4	кн҃зь	кънязь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	ref=
+5	великии	великыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=
+6	смоленьскии	смольньскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=
+7	даємъ	даяти	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	ведомо	вѣдомо	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	advmod	_	ref=
+
+# source = Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386, Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386
+# text = кто коли сю грамоту видить а любо слышить с володиславомъ бь҃єю млс҃тью с королемъ полскимъ литовьскимъ и рус҃скимъ иныхъ земль ѡсподаремъ так҃ єсмь оу докончаньи оу правдѣ и оу хрс҃тнмъ целованьи как҃ же єсмь нѧл сѧ и докончалъ съ братомъ съ єго со кн҃змъ с великимъ скиригкаиломъ
+# sent_id = 199561
+1	кто	къто	ADJ	Px	Case=Nom|Number=Sing	5	nsubj	_	ref=
+2	коли	коли	ADV	Df	_	1	advmod	_	ref=
+3	сю	сии	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	4	det	_	ref=
+4	грамоту	грамота	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	ref=
+5	видить	видѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	advcl	_	ref=
+6	а	а	CCONJ	C-	_	5	cc	_	ref=
+7	любо	любо	CCONJ	C-	_	5	cc	_	ref=
+8	слышить	слышати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	ref=
+9	с	съ	ADP	R-	_	10	case	_	ref=
+10	володиславомъ	володиславъ	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	23	obl	_	ref=
+11	бь҃єю	божии	ADJ	A-	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	ref=
+12	млс҃тью	милость	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	14	nmod	_	ref=
+13	с	съ	ADP	R-	_	9	mark	_	ref=
+14	королемъ	король	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	10	appos	_	ref=
+15	полскимъ	польскыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	14	amod	_	ref=
+16	литовьскимъ	литъвьскыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	15	conj	_	ref=
+17	и	и	CCONJ	C-	_	15	cc	_	ref=
+18	рус҃скимъ	русьскыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	15	conj	_	ref=
+19	иныхъ	иныи	DET	Px	Case=Gen|Gender=Fem|Number=Plur	20	det	_	ref=
+20	земль	земля	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	21	nmod	_	ref=
+21	ѡсподаремъ	господарь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	10	appos	_	ref=
+22	так҃	тако	ADV	Df	_	23	xcomp	_	ref=
+23	єсмь	быти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+24	оу	въ	ADP	R-	_	25	case	_	ref=
+25	докончаньи	доконьчание	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	23	obl	_	ref=
+26	оу	въ	ADP	R-	_	27	case	_	ref=
+27	правдѣ	правьда	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	25	conj	_	ref=
+28	и	и	CCONJ	C-	_	25	cc	_	ref=
+29	оу	въ	ADP	R-	_	31	case	_	ref=
+30	хрс҃тнмъ	хрьстьныи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	31	nmod	_	ref=
+31	целованьи	цѣлование	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	25	conj	_	ref=
+32	как҃	како	ADV	Dq	PronType=Rel	35	advmod	_	ref=
+33	же	же	ADV	Df	_	35	advmod	_	ref=
+34	єсмь	быти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	35	aux	_	ref=
+35	нѧл	няти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	22	advcl	_	ref=
+36	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	35	aux	_	ref=
+37	и	и	CCONJ	C-	_	35	cc	_	ref=
+38	докончалъ	доконьчати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	35	conj	_	ref=
+39	съ	съ	ADP	R-	_	40	case	_	ref=
+40	братомъ	братъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	38	obl	_	ref=
+41	съ	съ	ADP	R-	_	39	mark	_	ref=
+42	єго	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	40	det	_	ref=
+43	со	съ	ADP	R-	_	39	mark	_	ref=
+44	кн҃змъ	кънязь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	40	appos	_	ref=
+45	с	съ	ADP	R-	_	39	mark	_	ref=
+46	великимъ	великыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	44	amod	_	ref=
+47	скиригкаиломъ	скиригаило	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	40	appos	_	ref=
+
+# source = Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386, Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386
+# text = приєхати ми было оу литву
+# sent_id = 199568
+1	приєхати	приѣхати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+2	ми	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	ref=
+3	было	быти	VERB	V-	Aspect=Res|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	1	aux	_	ref=
+4	оу	въ	ADP	R-	_	5	case	_	ref=
+5	литву	литъва	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	1	obl	_	ref=
+
+# source = Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386, Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386
+# text = и то єсмь исправилъ
+# sent_id = 199569
+1	и	и	CCONJ	C-	_	4	cc	_	ref=
+2	то	тыи	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	4	obj:dir	_	ref=
+3	єсмь	быти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	ref=
+4	исправилъ	исправити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386, Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386
+# text = приєхаль єсмь оу литву
+# sent_id = 199570
+1	приєхаль	приѣхати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+2	єсмь	быти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	ref=
+3	оу	въ	ADP	R-	_	4	case	_	ref=
+4	литву	литъва	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	1	obl	_	ref=
+
+# source = Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386, Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386
+# text = и запсалъ єсмь с королемъ што ми с нимъ за ѡдинъ быти
+# sent_id = 199571
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	запсалъ	запьсати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+3	єсмь	быти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	_	ref=
+4	с	съ	ADP	R-	_	5	case	_	ref=
+5	королемъ	король	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	2	obl	_	ref=
+6	што	чьто	SCONJ	G-	_	12	mark	_	ref=
+7	ми	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	ref=
+8	с	съ	ADP	R-	_	9	case	_	ref=
+9	нимъ	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl	_	ref=
+10	за	за	ADP	R-	_	11	case	_	ref=
+11	ѡдинъ	одинъ	NUM	Ma	Case=Acc|Gender=Masc|Number=Sing	12	xcomp	_	ref=
+12	быти	быти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	ccomp	_	ref=
+
+# source = Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386, Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386
+# text = не ѡстати ми королѧ никоторымъ веремѧнемъ а никоторымь дѣломь
+# sent_id = 199826
+1	не	не	ADV	Df	_	2	advmod	_	ref=
+2	ѡстати	остати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+3	ми	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	ref=
+4	королѧ	король	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	iobj	_	ref=
+5	никоторымъ	никоторыи	DET	Px	Case=Ins|Gender=Neut|Number=Sing	6	det	_	ref=
+6	веремѧнемъ	веремя	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	2	obl	_	ref=
+7	а	а	CCONJ	C-	_	6	cc	_	ref=
+8	никоторымь	никоторыи	DET	Px	Case=Ins|Gender=Neut|Number=Sing	9	det	_	ref=
+9	дѣломь	дѣло	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	6	conj	_	ref=
+
+# source = Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386, Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386
+# text = ни оу лисе а ни оу добрѣ не ѿверечи ми сѧ королѧ
+# sent_id = 199575
+1	ни	ни	ADV	Df	_	2	advmod	_	ref=
+2	оу	въ	ADP	R-	_	3	case	_	ref=
+3	лисе	лихо	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	9	obl	_	ref=
+4	а	а	CCONJ	C-	_	3	cc	_	ref=
+5	ни	ни	ADV	Df	_	6	advmod	_	ref=
+6	оу	въ	ADP	R-	_	7	case	_	ref=
+7	добрѣ	добро	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	3	conj	_	ref=
+8	не	не	ADV	Df	_	9	advmod	_	ref=
+9	ѿверечи	отъверечи	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+10	ми	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	ref=
+11	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	9	aux	_	ref=
+12	королѧ	король	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	iobj	_	ref=
+
+# source = Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386, Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386
+# text = далъ єсмь єму правду и до своєго живота не изменити ми тоє правды
+# sent_id = 199576
+1	далъ	дати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+2	єсмь	быти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	ref=
+3	єму	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	ref=
+4	правду	правьда	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj:dir	_	ref=
+5	и	и	CCONJ	C-	_	1	cc	_	ref=
+6	до	до	ADP	R-	_	8	case	_	ref=
+7	своєго	свои	ADJ	Pt	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	8	nmod	_	ref=
+8	живота	животъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	10	obl	_	ref=
+9	не	не	ADV	Df	_	10	advmod	_	ref=
+10	изменити	измѣнити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	conj	_	ref=
+11	ми	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	ref=
+12	тоє	тыи	DET	Pd	Case=Gen|Gender=Fem|Number=Sing	13	det	_	ref=
+13	правды	правьда	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	10	obj:dir	_	ref=
+
+# source = Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386, Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386
+# text = а помагати ми королю бес хитрости
+# sent_id = 199578
+1	а	а	CCONJ	C-	_	2	cc	_	ref=
+2	помагати	помагати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+3	ми	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	ref=
+4	королю	король	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	ref=
+5	бес	без	ADP	R-	_	6	case	_	ref=
+6	хитрости	хытрость	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	2	obl	_	ref=
+
+# source = Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386, Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386
+# text = где коли єму надобѣ поити ми самому
+# sent_id = 199579
+1	где	къдѣ	ADV	Dq	PronType=Rel	4	ccomp	_	ref=
+2	коли	коли	ADV	Df	_	1	advmod	_	ref=
+3	єму	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	ref=
+4	надобѣ	надобѣ	ADV	Df	_	5	advmod	_	ref=
+5	поити	поити#1	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+6	ми	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	ref=
+7	самому	самъ	DET	Pd	Case=Dat|Gender=Masc|Number=Sing	6	det	_	ref=
+
+# source = Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386, Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386
+# text = ажь пакъ некоторая мѧ дѣла заидуть или немочь ино ми послати брата своєго бес хитрости
+# sent_id = 199581
+1	ажь	аже	SCONJ	G-	_	6	mark	_	ref=
+2	пакъ	пакы	ADV	Df	_	11	advmod	_	ref=
+3	некоторая	нѣкоторыи	DET	Px	Case=Nom|Gender=Neut|Number=Plur	5	det	_	ref=
+4	мѧ	азъ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	6	obj:dir	_	ref=
+5	дѣла	дѣло	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	6	nsubj	_	ref=
+6	заидуть	заити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	ref=
+7	или	или	CCONJ	C-	_	5	cc	_	ref=
+8	немочь	немочь	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	conj	_	ref=
+9	ино	ино	ADV	Df	_	11	advmod	_	ref=
+10	ми	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	ref=
+11	послати	посълати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+12	брата	братъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	11	obj:dir	_	ref=
+13	своєго	свои	ADJ	Pt	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	12	nmod	_	ref=
+14	бес	без	ADP	R-	_	15	case	_	ref=
+15	хитрости	хытрость	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	11	obl	_	ref=
+
+# source = Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386, Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386
+# text = а с кимь король миренъ и братъ єго кнѧзь великии скиригкаило и с тымь и ѧзъ миренъ
+# sent_id = 199584
+1	а	а	CCONJ	C-	_	5	cc	_	ref=
+2	с	съ	ADP	R-	_	3	case	_	ref=
+3	кимь	къто	PRON	Pr	Case=Ins|Gender=Masc|Number=Sing|PronType=Rel	5	obl	_	ref=
+4	король	король	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=
+5	миренъ	мирьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	0	root	_	ref=
+6	и	и	CCONJ	C-	_	4	cc	_	ref=
+7	братъ	братъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	ref=
+8	єго	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	det	_	ref=
+9	кнѧзь	кънязь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	appos	_	ref=
+10	великии	великыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	9	amod	_	ref=
+11	скиригкаило	скиригаило	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	9	appos	_	ref=
+12	и	и	CCONJ	C-	_	5	cc	_	ref=
+13	с	съ	ADP	R-	_	14	case	_	ref=
+14	тымь	тыи	ADJ	Pd	Case=Ins|Gender=Masc|Number=Sing	17	obl	_	ref=
+15	и	и	ADV	Df	_	16	advmod	_	ref=
+16	ѧзъ	язъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	ref=
+17	миренъ	мирьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	5	conj	_	ref=
+
+# source = Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386, Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386
+# text = а и с кимь король не миренъ и братъ єго кнѧзь великии скиригкаило и с тымь и ѧзъ не миренъ хотѧ бы с ыною братьєю своєю не миренъ
+# sent_id = 199587
+1	а	а	CCONJ	C-	_	7	cc	_	ref=
+2	и	и	CCONJ	C-	_	5	cc	_	ref=
+3	с	съ	ADP	R-	_	4	case	_	ref=
+4	кимь	къто	PRON	Pr	Case=Ins|Gender=Masc|Number=Sing|PronType=Rel	7	obl	_	ref=
+5	король	король	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=
+6	не	не	ADV	Df	_	7	advmod	_	ref=
+7	миренъ	мирьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	0	root	_	ref=
+8	и	и	CCONJ	C-	_	5	cc	_	ref=
+9	братъ	братъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	ref=
+10	єго	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	det	_	ref=
+11	кнѧзь	кънязь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	appos	_	ref=
+12	великии	великыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	11	amod	_	ref=
+13	скиригкаило	скиригаило	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	11	appos	_	ref=
+14	и	и	CCONJ	C-	_	7	cc	_	ref=
+15	с	съ	ADP	R-	_	16	case	_	ref=
+16	тымь	тыи	ADJ	Pd	Case=Ins|Gender=Masc|Number=Sing	20	obl	_	ref=
+17	и	и	ADV	Df	_	18	advmod	_	ref=
+18	ѧзъ	язъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	20	nsubj	_	ref=
+19	не	не	ADV	Df	_	20	advmod	_	ref=
+20	миренъ	мирьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	7	conj	_	ref=
+21	хотѧ	хотя	SCONJ	G-	_	28	mark	_	ref=
+22	бы	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	28	aux	_	ref=
+23	с	съ	ADP	R-	_	25	case	_	ref=
+24	ыною	иныи	DET	Px	Case=Ins|Gender=Fem|Number=Sing	25	det	_	ref=
+25	братьєю	братия	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	28	obl	_	ref=
+26	своєю	свои	ADJ	Pt	Case=Ins|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	25	nmod	_	ref=
+27	не	не	ADV	Df	_	28	advmod	_	ref=
+28	миренъ	мирьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	20	advmod	_	ref=
+
+# source = Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386, Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386
+# text = и с тыми миру не держати ми
+# sent_id = 199591
+1	и	и	CCONJ	C-	_	6	cc	_	ref=
+2	с	съ	ADP	R-	_	3	case	_	ref=
+3	тыми	тыи	ADJ	Pd	Case=Ins|Gender=Masc|Number=Plur	6	obl	_	ref=
+4	миру	миръ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	obj:dir	_	ref=
+5	не	не	ADV	Df	_	6	advmod	_	ref=
+6	держати	дьржати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+7	ми	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	ref=
+
+# source = Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386, Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386
+# text = и со ѡндреємъ полоцкимъ и с полочаны миру не держати ми а ни сылати сѧ
+# sent_id = 199592
+1	и	и	CCONJ	C-	_	10	cc	_	ref=
+2	со	съ	ADP	R-	_	3	case	_	ref=
+3	ѡндреємъ	ондрѣи	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	10	obl	_	ref=
+4	полоцкимъ	полотьскыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	3	amod	_	ref=
+5	и	и	CCONJ	C-	_	3	cc	_	ref=
+6	с	съ	ADP	R-	_	7	case	_	ref=
+7	полочаны	полочанинъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	3	conj	_	ref=
+8	миру	миръ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	10	obj:dir	_	ref=
+9	не	не	ADV	Df	_	10	advmod	_	ref=
+10	держати	дьржати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+11	ми	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	ref=
+12	а	а	CCONJ	C-	_	10	cc	_	ref=
+13	ни	ни	ADV	Df	_	14	advmod	_	ref=
+14	сылати	съсылати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	conj	_	ref=
+15	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	14	aux	_	ref=
+
+# source = Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386, Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386
+# text = а што были єсмы повоєвали и поимали а то єсмь нѧлъ сѧ ѿворотити и ѿдати
+# sent_id = 199594
+1	а	а	CCONJ	C-	_	5	cc	_	ref=
+2	што	чьто	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	5	obj:dir	_	ref=
+3	были	быти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	5	aux	_	ref=
+4	єсмы	быти	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	ref=
+5	повоєвали	повоевати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+6	и	и	CCONJ	C-	_	5	cc	_	ref=
+7	поимали	поимати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	5	conj	_	ref=
+8	а	а	CCONJ	C-	_	5	cc	_	ref=
+9	то	тыи	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	13	obj:dir	_	ref=
+10	єсмь	быти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux	_	ref=
+11	нѧлъ	няти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	5	conj	_	ref=
+12	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	11	aux	_	ref=
+13	ѿворотити	отъворотити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	11	xcomp	_	ref=
+14	и	и	CCONJ	C-	_	13	cc	_	ref=
+15	ѿдати	отъдати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	13	conj	_	ref=
+
+# source = Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386, Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386
+# text = на томъ на всемъ далъ єсмь правду
+# sent_id = 199597
+1	на	на	ADP	R-	_	2	case	_	ref=
+2	томъ	тыи	ADJ	Pd	Case=Loc|Gender=Neut|Number=Sing	5	obl	_	ref=
+3	на	на	ADP	R-	_	1	mark	_	ref=
+4	всемъ	вьсь	DET	Px	Case=Loc|Gender=Neut|Number=Sing	2	det	_	ref=
+5	далъ	дати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+6	єсмь	быти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	ref=
+7	правду	правьда	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	ref=
+
+# source = Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386, Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386
+# text = хрс҃тъ єсмь целовалъ за всю свою братью и за всю свою землю и за вси свои люди
+# sent_id = 199598
+1	хрс҃тъ	хрьстъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obj:dir	_	ref=
+2	єсмь	быти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	ref=
+3	целовалъ	цѣловати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+4	за	за	ADP	R-	_	7	case	_	ref=
+5	всю	вьсь	DET	Px	Case=Acc|Gender=Fem|Number=Sing	7	det	_	ref=
+6	свою	свои	ADJ	Pt	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	7	nmod	_	ref=
+7	братью	братия	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	ref=
+8	и	и	CCONJ	C-	_	7	cc	_	ref=
+9	за	за	ADP	R-	_	12	case	_	ref=
+10	всю	вьсь	DET	Px	Case=Acc|Gender=Fem|Number=Sing	12	det	_	ref=
+11	свою	свои	ADJ	Pt	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	12	nmod	_	ref=
+12	землю	земля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	conj	_	ref=
+13	и	и	CCONJ	C-	_	7	cc	_	ref=
+14	за	за	ADP	R-	_	17	case	_	ref=
+15	вси	вьсь	DET	Px	Case=Acc|Gender=Masc|Number=Plur	17	det	_	ref=
+16	свои	свои	ADJ	Pt	Case=Acc|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	17	nmod	_	ref=
+17	люди	людие	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	7	conj	_	ref=
+
+# source = Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386, Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386
+# text = а то єсмь оучинилъ и записалъ своєю доброю волею што ми то сдержати крѣпко и до своєго живота а не изменити
+# sent_id = 199827
+1	а	а	CCONJ	C-	_	4	cc	_	ref=
+2	то	тыи	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	4	obj:dir	_	ref=
+3	єсмь	быти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	ref=
+4	оучинилъ	учинити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+5	и	и	CCONJ	C-	_	4	cc	_	ref=
+6	записалъ	запьсати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	4	conj	_	ref=
+7	своєю	свои	ADJ	Pt	Case=Ins|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	9	nmod	_	ref=
+8	доброю	добрыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	ref=
+9	волею	воля	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	6	obl	_	ref=
+10	што	чьто	SCONJ	G-	_	13	mark	_	ref=
+11	ми	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	ref=
+12	то	тыи	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	13	obj:dir	_	ref=
+13	сдержати	съдьржати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	acl	_	ref=
+14	крѣпко	крѣпъко	ADV	Df	Degree=Pos	15	advmod	_	ref=
+15	и	и	ADV	Df	_	13	advmod	_	ref=
+16	до	до	ADP	R-	_	18	case	_	ref=
+17	своєго	свои	ADJ	Pt	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	18	nmod	_	ref=
+18	живота	животъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	15	obl	_	ref=
+19	а	а	CCONJ	C-	_	13	cc	_	ref=
+20	не	не	ADV	Df	_	21	advmod	_	ref=
+21	изменити	измѣнити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	13	conj	_	ref=
+
+# source = Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386, Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386
+# text = и своими кнѧзми и своими боѧры
+# sent_id = 199888
+1	и	и	CCONJ	C-	_	3	cc	_	ref=
+2	своими	свои	ADJ	Pt	Case=Ins|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	3	nmod	_	ref=
+3	кнѧзми	кънязь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	0	root	_	ref=
+4	и	и	CCONJ	C-	_	3	cc	_	ref=
+5	своими	свои	ADJ	Pt	Case=Ins|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	6	nmod	_	ref=
+6	боѧры	бояринъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	3	conj	_	ref=
+
+# source = Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386, Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386
+# text = кн҃зь федоръ романовичь кнѧз҃ михаило иванович҃ вѧземьскии семенъ непролѣи гаврилович҃ юрьи голова прокофеи їванович҃ глѣбъ васильєвичь ѡндрѣи микулиничь борисъ меркурьєвич҃ ѡндрѣи мирославич҃ хрс҃тъ целовали
+# sent_id = 199602
+1	кн҃зь	кънязь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	ref=
+2	федоръ	феодоръ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	ref=
+3	романовичь	романовичь	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	ref=
+4	кнѧз҃	кънязь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	ref=
+5	михаило	михаило	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	ref=
+6	иванович҃	ивановичь	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	ref=
+7	вѧземьскии	вязьмьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	6	appos	_	ref=
+8	семенъ	семеонъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	ref=
+9	непролѣи	непролѣи	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	flat:name	_	ref=
+10	гаврилович҃	гавриловичь	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	8	flat:name	_	ref=
+11	юрьи	юрьи	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	ref=
+12	голова	голова	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	ref=
+13	прокофеи	прокопии	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	ref=
+14	їванович҃	ивановичь	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	13	flat:name	_	ref=
+15	глѣбъ	гълѣбъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	ref=
+16	васильєвичь	василиевичь	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	15	flat:name	_	ref=
+17	ѡндрѣи	ондрѣи	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	ref=
+18	микулиничь	микулиничь	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	17	flat:name	_	ref=
+19	борисъ	борисъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	ref=
+20	меркурьєвич҃	меркуриевичь	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	19	flat:name	_	ref=
+21	ѡндрѣи	ондрѣи	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	ref=
+22	мирославич҃	мирославичь	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	21	flat:name	_	ref=
+23	хрс҃тъ	хрьстъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	24	obj:dir	_	ref=
+24	целовали	цѣловати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386, Charter of Prince Jurij Svjatoslavich of Smolensk on the alliance with Poland and Lithuania, 1386
+# text = на то ж҃ сюю грамоту дали єсмы и своими печатьми завесили оу городѣ у вилни оу нед҃лю по оуздвиженьи чсн҃го хрс҃та мс҃ца семтѧбрѧ оу з҃і дн҃ь подъ леты бь҃яго нарож҃нья лѣтъ тысѧча и триста ѡсмьдесѧтъ шестаго
+# sent_id = 199610
+1	на	на	ADP	R-	_	2	case	_	ref=
+2	то	тыи	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	ref=
+3	ж҃	же	ADV	Df	_	6	advmod	_	ref=
+4	сюю	сии	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	5	det	_	ref=
+5	грамоту	грамота	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obj:dir	_	ref=
+6	дали	дати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+7	єсмы	быти	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	ref=
+8	и	и	CCONJ	C-	_	6	cc	_	ref=
+9	своими	свои	ADJ	Pt	Case=Ins|Gender=Fem,Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	10	nmod	_	ref=
+10	печатьми	печать	NOUN	Nb	Case=Ins|Gender=Fem,Masc|Number=Plur	11	iobj	_	ref=
+11	завесили	завѣсити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	6	conj	_	ref=
+12	оу	въ	ADP	R-	_	13	case	_	ref=
+13	городѣ	городъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	11	obl	_	ref=
+14	у	въ	ADP	R-	_	12	mark	_	ref=
+15	вилни	вильня	PROPN	Ne	Case=Loc|Gender=Fem|Number=Sing	13	appos	_	ref=
+16	оу	въ	ADP	R-	_	17	case	_	ref=
+17	нед҃лю	недѣля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	11	obl	_	ref=
+18	по	по	ADP	R-	_	19	case	_	ref=
+19	оуздвиженьи	въздвижение	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	17	nmod	_	ref=
+20	чсн҃го	чьстьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	21	amod	_	ref=
+21	хрс҃та	хрьстъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	ref=
+22	мс҃ца	мѣсяць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	ref=
+23	семтѧбрѧ	сентябрь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	22	appos	_	ref=
+24	оу	въ	ADP	R-	_	26	case	_	ref=
+25	з҃і	седмьнадесять	NUM	Ma	_	26	nummod	_	ref=
+26	дн҃ь	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	16	appos	_	ref=
+27	подъ	подъ	ADP	R-	_	28	case	_	ref=
+28	леты	лѣто	NOUN	Nb	Case=Ins|Gender=Neut|Number=Plur	31	nmod	_	ref=
+29	бь҃яго	божии	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	30	amod	_	ref=
+30	нарож҃нья	нарожение	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	28	nmod	_	ref=
+31	лѣтъ	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	22	nmod	_	ref=
+32	тысѧча	тысяча	NUM	Ma	Case=Nom|Gender=Fem|Number=Sing	31	nummod	_	ref=
+33	и	и	CCONJ	C-	_	32	cc	_	ref=
+34	триста	трисъта	NUM	Ma	Case=Nom|Gender=Neut|Number=Plur	32	conj	_	ref=
+35	ѡсмьдесѧтъ	осмьдесятъ	NUM	Ma	Case=Nom|Gender=Fem|Number=Sing	32	conj	_	ref=
+36	шестаго	шестыи	ADJ	Mo	Case=Gen|Gender=Neut|Number=Sing	32	conj	_	ref=
+

@@ -1,0 +1,2879 @@
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и множство много користи вȥем воȥврати с
+# sent_id = 200184
+1	и	и	CCONJ	C-	_	6	cc	_	ref=
+2	множство	мъножьство	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obj:dir	_	ref=
+3	много	мъногыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	2	amod	_	ref=
+4	користи	користь	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	ref=
+5	вȥем	възяти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	6	advcl	_	ref=
+6	воȥврати	възвратити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+7	с	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	6	aux	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = приставовъ тѣх почтив ѿпѹсти рек
+# sent_id = 200185
+1	приставовъ	приставъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	4	obj:dir	_	ref=
+2	тѣх	тыи	DET	Pd	Case=Gen|Gender=Masc|Number=Plur	1	det	_	ref=
+3	почтив	почьтити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	4	advcl	_	ref=
+4	ѿпѹсти	отъпустити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	рек	рещи	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	4	advcl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = шедше повѣсте црю вашемѹ ꙗкож видѣсте
+# sent_id = 200494
+1	шедше	ити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	2	advcl	_	ref=
+2	повѣсте	повѣдѣти	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	црю	цѣсарь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	ref=
+4	вашемѹ	вашь	ADJ	Ps	Case=Dat|Gender=Masc|Number=Sing|Person=2|Poss=Yes	3	nmod	_	ref=
+5	ꙗкож	якоже	ADV	Dq	PronType=Rel	6	advmod	_	ref=
+6	видѣсте	видѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = сколко могох толико есмь емѹ послꙋжил
+# sent_id = 200186
+1	сколко	сколько	ADV	Dq	PronType=Rel	2	advmod	_	ref=
+2	могох	мощи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	ref=
+3	толико	толико	ADV	Df	_	6	advmod	_	ref=
+4	есмь	быти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	ref=
+5	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	ref=
+6	послꙋжил	послужити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и бѹдет емѹ ѹгодна моѧ слѹжба и аȥъ еще хощѹ емѹ тако слѹжити какова ми есть сила
+# sent_id = 200187
+1	и	и	CCONJ	C-	_	0	root	_	ref=
+2	бѹдет	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	advcl	_	ref=
+3	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	ref=
+4	ѹгодна	угодьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	2	xcomp	_	ref=
+5	моѧ	мои	ADJ	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=1|Poss=Yes	6	nmod	_	ref=
+6	слѹжба	служьба	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=
+7	и	и	CCONJ	C-	_	1	cc	_	ref=
+8	аȥъ	азъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	ref=
+9	еще	еще	ADV	Df	_	10	advmod	_	ref=
+10	хощѹ	хотѣти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=
+11	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	iobj	_	ref=
+12	тако	тако	ADV	Df	_	13	advmod	_	ref=
+13	слѹжити	служити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	xcomp	_	ref=
+14	какова	каковыи	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	16	xcomp	_	ref=
+15	ми	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	17	det	_	ref=
+16	есть	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	ref=
+17	сила	сила	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = црь же ничтож емꙋ не може ѹчинити
+# sent_id = 200189
+1	црь	цѣсарь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=
+2	же	же	ADV	Df	_	6	advmod	_	ref=
+3	ничтож	ничьтоже	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	7	obj:dir	_	ref=
+4	емꙋ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	iobj	_	ref=
+5	не	не	ADV	Df	_	6	advmod	_	ref=
+6	може	мощи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+7	ѹчинити	учинити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	6	xcomp	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = но срамом побѣженъ быс
+# sent_id = 200190
+1	но	нъ	CCONJ	C-	_	4	cc	_	ref=
+2	срамом	срамъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	3	obl:agent	_	ref=
+3	побѣженъ	побѣдити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	4	xcomp	_	ref=
+4	быс	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = И толико ненавидѧ во своеи ȥемли ȥла ꙗко хто ѹчинит кое ȥло татбѹ или раȥбои или кѹю лжѹ или неправдѹ тои никако не бѹдет живъ аще л велики болѧринъ ил сщенник ил инок или просты
+# sent_id = 200191
+1	И	и	CCONJ	C-	_	3	cc	_	ref=
+2	толико	толико	ADV	Df	_	3	advmod	_	ref=
+3	ненавидѧ	ненавидѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	ref=
+4	во	въ	ADP	R-	_	6	case	_	ref=
+5	своеи	свои	ADJ	Pt	Case=Loc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	6	nmod	_	ref=
+6	ȥемли	земля	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	7	nmod	_	ref=
+7	ȥла	зъло	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	3	iobj	_	ref=
+8	ꙗко	яко	SCONJ	G-	_	24	mark	_	ref=
+9	хто	къто	PRON	Pr	Case=Nom|Number=Sing|PronType=Rel	10	nsubj	_	ref=
+10	ѹчинит	учинити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	acl	_	ref=
+11	кое	кыи	DET	Px	Case=Acc|Gender=Neut|Number=Sing	12	det	_	ref=
+12	ȥло	зъло	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	10	obj:dir	_	ref=
+13	татбѹ	татьба	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	12	appos	_	ref=
+14	или	или	CCONJ	C-	_	13	cc	_	ref=
+15	раȥбои	разбои	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	13	conj	_	ref=
+16	или	или	CCONJ	C-	_	13	cc	_	ref=
+17	кѹю	кыи	DET	Px	Case=Acc|Gender=Fem|Number=Sing	18	det	_	ref=
+18	лжѹ	лъжа	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	13	conj	_	ref=
+19	или	или	CCONJ	C-	_	13	cc	_	ref=
+20	неправдѹ	неправьда	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	13	conj	_	ref=
+21	тои	тыи	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	24	nsubj	_	ref=
+22	никако	никако	ADV	Df	_	24	advmod	_	ref=
+23	не	не	ADV	Df	_	24	advmod	_	ref=
+24	бѹдет	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	advcl	_	ref=
+25	живъ	живыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	24	xcomp	_	ref=
+26	аще	аще	SCONJ	G-	_	29	mark	_	ref=
+27	л	ли	ADV	Df	_	24	advmod	_	ref=
+28	велики	великыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	29	amod	_	ref=
+29	болѧринъ	боляринъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	24	obl	_	ref=
+30	ил	или	CCONJ	C-	_	29	cc	_	ref=
+31	сщенник	священикъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	29	conj	_	ref=
+32	ил	или	CCONJ	C-	_	29	cc	_	ref=
+33	инок	инокъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	29	conj	_	ref=
+34	или	или	CCONJ	C-	_	29	cc	_	ref=
+35	просты	простыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	29	conj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = аще и велико бгатьство имѣл бы кто не может искѹпити с ѿ смрти
+# sent_id = 200200
+1	аще	аще	SCONJ	G-	_	5	mark	_	ref=
+2	и	и	ADV	Df	_	5	advmod	_	ref=
+3	велико	великыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	4	amod	_	ref=
+4	бгатьство	богатьство	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obj:dir	_	ref=
+5	имѣл	имѣти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	9	advcl	_	ref=
+6	бы	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	aux	_	ref=
+7	кто	къто	ADJ	Px	Case=Nom|Number=Sing	5	nsubj	_	ref=
+8	не	не	ADV	Df	_	9	advmod	_	ref=
+9	может	мощи	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+10	искѹпити	искупити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	xcomp	_	ref=
+11	с	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	10	aux	_	ref=
+12	ѿ	отъ	ADP	R-	_	13	case	_	ref=
+13	смрти	съмьрть	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	10	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и толико гроȥенъ быс
+# sent_id = 200202
+1	и	и	CCONJ	C-	_	4	cc	_	ref=
+2	толико	толико	ADV	Df	_	3	advmod	_	ref=
+3	гроȥенъ	грозьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	4	xcomp	_	ref=
+4	быс	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = источникъ его и кладѧȥ на едином мѣстѣ
+# sent_id = 200203
+1	источникъ	источьникъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=
+2	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	det	_	ref=
+3	и	и	CCONJ	C-	_	1	cc	_	ref=
+4	кладѧȥ	кладязь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	ref=
+5	на	на	ADP	R-	_	7	case	_	ref=
+6	едином	единъ	NUM	Ma	Case=Loc|Gender=Neut|Number=Sing	7	nummod	_	ref=
+7	мѣстѣ	мѣсто	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и к томѹ кладѧȥѹ и источникѹ пришли пѹтїе мноȥи ѿ многых странъ
+# sent_id = 200204
+1	и	и	CCONJ	C-	_	7	cc	_	ref=
+2	к	къ	ADP	R-	_	4	case	_	ref=
+3	томѹ	тыи	DET	Pd	Case=Dat|Gender=Masc|Number=Sing	4	det	_	ref=
+4	кладѧȥѹ	кладязь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	ref=
+5	и	и	CCONJ	C-	_	4	cc	_	ref=
+6	источникѹ	источьникъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	conj	_	ref=
+7	пришли	приити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+8	пѹтїе	путь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=
+9	мноȥи	мъногыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	8	amod	_	ref=
+10	ѿ	отъ	ADP	R-	_	12	case	_	ref=
+11	многых	мъногыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	12	amod	_	ref=
+12	странъ	страна	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	7	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и прихождахѹ люде мноȥи и пїѧхѹ ѿ кладѧȥѧ и источника водѹ
+# sent_id = 200205
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	прихождахѹ	приходити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	люде	людие	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	ref=
+4	мноȥи	мъногыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	3	amod	_	ref=
+5	и	и	CCONJ	C-	_	2	cc	_	ref=
+6	пїѧхѹ	пити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=
+7	ѿ	отъ	ADP	R-	_	8	case	_	ref=
+8	кладѧȥѧ	кладязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	obl	_	ref=
+9	и	и	CCONJ	C-	_	8	cc	_	ref=
+10	источника	источьникъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	conj	_	ref=
+11	водѹ	вода	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obj:dir	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = стѹдена бо бѣ и сладка
+# sent_id = 200506
+1	стѹдена	студеныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	3	xcomp	_	ref=
+2	бо	бо	ADV	Df	_	3	advmod	_	ref=
+3	бѣ	быти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	и	и	CCONJ	C-	_	1	cc	_	ref=
+5	сладка	сладъкыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	1	conj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡн же ѹ того кладѧȥѧ на пѹстом мѣстѣ постави чарѹ велїю и дивнѹ ȥлатѹ
+# sent_id = 200206
+1	ѡн	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	ref=
+2	же	же	ADV	Df	_	9	advmod	_	ref=
+3	ѹ	у	ADP	R-	_	5	case	_	ref=
+4	того	тыи	DET	Pd	Case=Gen|Gender=Masc|Number=Sing	5	det	_	ref=
+5	кладѧȥѧ	кладязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	obl	_	ref=
+6	на	на	ADP	R-	_	8	case	_	ref=
+7	пѹстом	пустыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	8	amod	_	ref=
+8	мѣстѣ	мѣсто	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	3	appos	_	ref=
+9	постави	поставити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+10	чарѹ	чара	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	obj:dir	_	ref=
+11	велїю	велии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	10	amod	_	ref=
+12	и	и	CCONJ	C-	_	11	cc	_	ref=
+13	дивнѹ	дивьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	11	conj	_	ref=
+14	ȥлатѹ	златыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	10	amod	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = И хто хотѧще водѹ пити да тою чарою пїетъ на том мѣстѣ да поставит
+# sent_id = 200207
+1	И	и	CCONJ	C-	_	9	cc	_	ref=
+2	хто	къто	ADJ	Px	Case=Nom|Number=Sing	3	nsubj	_	ref=
+3	хотѧще	хотѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	9	nsubj	_	ref=
+4	водѹ	вода	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	ref=
+5	пити	пити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=
+6	да	да#1	ADV	Df	_	9	advmod	_	ref=
+7	тою	тыи	DET	Pd	Case=Ins|Gender=Fem|Number=Sing	8	det	_	ref=
+8	чарою	чара	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	9	obl	_	ref=
+9	пїетъ	пити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+10	на	на	ADP	R-	_	12	case	_	ref=
+11	том	тыи	DET	Pd	Case=Loc|Gender=Neut|Number=Sing	12	det	_	ref=
+12	мѣстѣ	мѣсто	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	14	obl	_	ref=
+13	да	да	CCONJ	C-	_	9	cc	_	ref=
+14	поставит	поставити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и елико ѡно времѧ пребыс никтож смѣаше тѹ чарѹ вȥѧти
+# sent_id = 200208
+1	и	и	CCONJ	C-	_	7	cc	_	ref=
+2	елико	еликыи	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	4	det	_	ref=
+3	ѡно	онъ	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	4	det	_	ref=
+4	времѧ	врѣмя	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	ref=
+5	пребыс	прѣбыти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	ref=
+6	никтож	никътоже	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=
+7	смѣаше	съмѣти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	тѹ	тыи	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	9	det	_	ref=
+9	чарѹ	чара	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	obj:dir	_	ref=
+10	вȥѧти	възяти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	xcomp	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = единою ж пѹсти по всеи ȥемли свое велѣнїе да кто старъ ил немощенъ ил чимъ вреденъ ил нищъ вси да прїидѹт к немѹ
+# sent_id = 200497
+1	единою	единою	ADV	Df	_	3	advmod	_	ref=
+2	ж	же	ADV	Df	_	3	advmod	_	ref=
+3	пѹсти	пустити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	по	по	ADP	R-	_	6	case	_	ref=
+5	всеи	вьсь	DET	Px	Case=Dat|Gender=Fem|Number=Sing	6	det	_	ref=
+6	ȥемли	земля	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	3	obl	_	ref=
+7	свое	свои	ADJ	Pt	Case=Acc|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	8	nmod	_	ref=
+8	велѣнїе	велѣние	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	3	obj:dir	_	ref=
+9	да	да	SCONJ	G-	_	21	mark	_	ref=
+10	кто	къто	PRON	Pr	Case=Nom|Number=Sing|PronType=Rel	11	nsubj	_	ref=
+11	старъ	старыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	19	appos	_	ref=
+12	ил	или	CCONJ	C-	_	11	cc	_	ref=
+13	немощенъ	немощьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	11	conj	_	ref=
+14	ил	или	CCONJ	C-	_	11	cc	_	ref=
+15	чимъ	чьто	ADJ	Px	Case=Ins|Gender=Neut|Number=Sing	16	obl:agent	_	ref=
+16	вреденъ	врѣдьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	11	conj	_	ref=
+17	ил	или	CCONJ	C-	_	11	cc	_	ref=
+18	нищъ	нищии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	11	conj	_	ref=
+19	вси	вьсь	ADJ	Px	Case=Nom|Gender=Masc|Number=Plur	21	nsubj	_	ref=
+20	да	да#1	ADV	Df	_	21	advmod	_	ref=
+21	прїидѹт	приити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl	_	ref=
+22	к	къ	ADP	R-	_	23	case	_	ref=
+23	немѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и собраша с бесчисленое множство нищих и странных к немѹ чающе ѿ него великїа млсти
+# sent_id = 200211
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	собраша	събьрати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	с	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=
+4	бесчисленое	бесчисльныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	5	amod	_	ref=
+5	множство	мъножьство	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	ref=
+6	нищих	нищии	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	5	nmod	_	ref=
+7	и	и	CCONJ	C-	_	6	cc	_	ref=
+8	странных	страньныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	6	conj	_	ref=
+9	к	къ	ADP	R-	_	10	case	_	ref=
+10	немѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	ref=
+11	чающе	чаяти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	ref=
+12	ѿ	отъ	ADP	R-	_	13	case	_	ref=
+13	него	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	ref=
+14	великїа	великыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	15	amod	_	ref=
+15	млсти	милость	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	11	iobj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡн же повелѣ собрати всѣх во единѹ храминꙋ великѹ на то ѹстроенѹ
+# sent_id = 200212
+1	ѡн	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	повелѣ	повелѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	собрати	събьрати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=
+5	всѣх	вьсь	ADJ	Px	Case=Gen|Gender=Masc|Number=Plur	4	obj:dir	_	ref=
+6	во	въ	ADP	R-	_	8	case	_	ref=
+7	единѹ	единъ	NUM	Ma	Case=Acc|Gender=Fem|Number=Sing	8	nummod	_	ref=
+8	храминꙋ	храмина	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	ref=
+9	великѹ	великыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	8	amod	_	ref=
+10	на	на	ADP	R-	_	11	case	_	ref=
+11	то	тыи	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	12	obl	_	ref=
+12	ѹстроенѹ	устроити	VERB	V-	Case=Acc|Gender=Fem|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	8	acl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и повелѣ дати имъ ꙗсти и пити доволно
+# sent_id = 200213
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	повелѣ	повелѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	дати	дати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+4	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	iobj	_	ref=
+5	ꙗсти	ясти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	advcl	_	ref=
+6	и	и	CCONJ	C-	_	5	cc	_	ref=
+7	пити	пити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	conj	_	ref=
+8	доволно	довольныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	3	obj:dir	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡни ж ꙗдше и воȥвеселиша с
+# sent_id = 200214
+1	ѡни	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	ref=
+2	ж	же	ADV	Df	_	3	advmod	_	ref=
+3	ꙗдше	ясти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=
+4	и	и	CCONJ	C-	_	3	cc	_	ref=
+5	воȥвеселиша	възвеселити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=
+6	с	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	5	aux	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡн же сам прииде к нимъ и гла имъ
+# sent_id = 200215
+1	ѡн	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=
+2	же	же	ADV	Df	_	4	advmod	_	ref=
+3	сам	самъ	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	1	det	_	ref=
+4	прииде	приити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	к	къ	ADP	R-	_	6	case	_	ref=
+6	нимъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obl	_	ref=
+7	и	и	CCONJ	C-	_	4	cc	_	ref=
+8	гла	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	ref=
+9	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	iobj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = что еще требѹете
+# sent_id = 200498
+1	что	чьто	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	3	obj:dir	_	ref=
+2	еще	еще	ADV	Df	_	3	advmod	_	ref=
+3	требѹете	трѣбовати	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡни ж вси ѿвѣщаша
+# sent_id = 200216
+1	ѡни	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	ref=
+2	ж	же	ADV	Df	_	4	advmod	_	ref=
+3	вси	вьсь	DET	Px	Case=Nom|Gender=Masc|Number=Plur	1	det	_	ref=
+4	ѿвѣщаша	отъвѣщати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = вѣдает гдрю бгъ и твое величество
+# sent_id = 200499
+1	вѣдает	вѣдати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	гдрю	государь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	ref=
+3	бгъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=
+4	и	и	CCONJ	C-	_	3	cc	_	ref=
+5	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	6	nmod	_	ref=
+6	величество	величьство	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	3	conj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = как тѧ бъ враȥѹмит
+# sent_id = 200507
+1	как	како	ADV	Dq	PronType=Rel	4	advmod	_	ref=
+2	тѧ	ты	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obj:dir	_	ref=
+3	бъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=
+4	враȥѹмит	въразумити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡн же гла к ним
+# sent_id = 200217
+1	ѡн	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	гла	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	к	къ	ADP	R-	_	5	case	_	ref=
+5	ним	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = хощете ли да сотворю вас беспечалны на сем свѣтѣ и ничим же нѹжни бѹдете
+# sent_id = 200502
+1	хощете	хотѣти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	ли	ли	ADV	Du	PronType=Int	1	advmod	_	ref=
+3	да	да	SCONJ	G-	_	4	mark	_	ref=
+4	сотворю	сътворити	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	ref=
+5	вас	вы	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	4	obj:dir	_	ref=
+6	беспечалны	беспечальныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	4	xcomp	_	ref=
+7	на	на	ADP	R-	_	9	case	_	ref=
+8	сем	сии	DET	Pd	Case=Loc|Gender=Masc|Number=Sing	9	det	_	ref=
+9	свѣтѣ	свѣтъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	ref=
+10	и	и	CCONJ	C-	_	4	cc	_	ref=
+11	ничим	ничьтоже	ADJ	Px	Case=Ins|Gender=Neut|Number=Sing	13	obl:agent	_	ref=
+12	же	же	ADJ	Px	Case=Ins|Gender=Neut|Number=Sing	11	flat	_	ref=
+13	нѹжни	нужьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	14	xcomp	_	ref=
+14	бѹдете	быти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	4	conj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡни ж чающе ѿ него велико нѣчто и глаша
+# sent_id = 200218
+1	ѡни	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	ref=
+2	ж	же	ADV	Df	_	3	advmod	_	ref=
+3	чающе	чаяти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	ref=
+4	ѿ	отъ	ADP	R-	_	5	case	_	ref=
+5	него	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	ref=
+6	велико	великыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	3	obj:dir	_	ref=
+7	нѣчто	нѣчьто	DET	Px	Case=Acc|Gender=Neut|Number=Sing	6	det	_	ref=
+8	и	и	CCONJ	C-	_	3	cc	_	ref=
+9	глаша	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = вси хощемъ гдрю
+# sent_id = 200503
+1	вси	вьсь	ADJ	Px	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	ref=
+2	хощемъ	хотѣти	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	гдрю	государь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡн же повелѣ ȥаперети храм и ȥажещи ѡгнем
+# sent_id = 200220
+1	ѡн	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	повелѣ	повелѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	ȥаперети	заперети	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=
+5	храм	храмъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj:dir	_	ref=
+6	и	и	CCONJ	C-	_	4	cc	_	ref=
+7	ȥажещи	зажещи	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	conj	_	ref=
+8	ѡгнем	огнь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	7	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и вси тѹ иȥгорѣша
+# sent_id = 200504
+1	и	и	CCONJ	C-	_	4	cc	_	ref=
+2	вси	вьсь	ADJ	Px	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	ref=
+3	тѹ	ту	ADV	Df	_	4	advmod	_	ref=
+4	иȥгорѣша	изгорѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и глаше к болѧром своимъ
+# sent_id = 200221
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	глаше	глаголати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	к	къ	ADP	R-	_	4	case	_	ref=
+4	болѧром	боляринъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	2	obl	_	ref=
+5	своимъ	свои	ADJ	Pt	Case=Dat|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	4	nmod	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = да вѣсте что ѹчиних тако
+# sent_id = 200505
+1	да	да#1	ADV	Df	_	2	advmod	_	ref=
+2	вѣсте	вѣдѣти	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	что	чьто	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	4	obl	_	ref=
+4	ѹчиних	учинити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	ref=
+5	тако	тако	ADV	Df	_	4	advmod	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = первое да не стѹжают людем
+# sent_id = 200222
+1	первое	пьрвое	ADV	Df	_	0	root	_	ref=
+2	да	да	SCONJ	G-	_	4	mark	_	ref=
+3	не	не	ADV	Df	_	4	advmod	_	ref=
+4	стѹжают	сътужати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	ref=
+5	людем	людие	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	4	iobj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и никтож да не бѹдеть нищь в моеи ȥемли но вси богтїи
+# sent_id = 200223
+1	и	и	CCONJ	C-	_	0	root	_	ref=
+2	никтож	никътоже	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=
+3	да	да	SCONJ	G-	_	5	mark	_	ref=
+4	не	не	ADV	Df	_	5	advmod	_	ref=
+5	бѹдеть	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	advcl	_	ref=
+6	нищь	нищии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	5	xcomp	_	ref=
+7	в	въ	ADP	R-	_	9	case	_	ref=
+8	моеи	мои	ADJ	Ps	Case=Loc|Gender=Fem|Number=Sing|Person=1|Poss=Yes	9	nmod	_	ref=
+9	ȥемли	земля	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	5	obl	_	ref=
+10	но	нъ	CCONJ	C-	_	5	cc	_	ref=
+11	вси	вьсь	ADJ	Px	Case=Nom|Gender=Masc|Number=Plur	5	conj	_	ref=
+12	богтїи	богатыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	11	orphan	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = второе свободих ихъ да не стражѹт никтож ѿ них на семъ свѣтѣ ѿ нищеты ил ѿ недѹга
+# sent_id = 200224
+1	второе	въторое	ADV	Df	_	2	advmod	_	ref=
+2	свободих	свободити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj:dir	_	ref=
+4	да	да	SCONJ	G-	_	6	mark	_	ref=
+5	не	не	ADV	Df	_	6	advmod	_	ref=
+6	стражѹт	страдати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	ref=
+7	никтож	никътоже	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=
+8	ѿ	отъ	ADP	R-	_	9	case	_	ref=
+9	них	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	nmod	_	ref=
+10	на	на	ADP	R-	_	12	case	_	ref=
+11	семъ	сии	DET	Pd	Case=Loc|Gender=Masc|Number=Sing	12	det	_	ref=
+12	свѣтѣ	свѣтъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	ref=
+13	ѿ	отъ	ADP	R-	_	14	case	_	ref=
+14	нищеты	нищета	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	obl	_	ref=
+15	ил	или	CCONJ	C-	_	14	cc	_	ref=
+16	ѿ	отъ	ADP	R-	_	17	case	_	ref=
+17	недѹга	недугъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	14	conj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = единою ж прїидоша к немѹ ѿ ѹгорскыѧ ȥемли два латинска мниха млстыни ради
+# sent_id = 200225
+1	единою	единою	ADV	Df	_	3	advmod	_	ref=
+2	ж	же	ADV	Df	_	3	advmod	_	ref=
+3	прїидоша	приити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	к	къ	ADP	R-	_	5	case	_	ref=
+5	немѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	ref=
+6	ѿ	отъ	ADP	R-	_	8	case	_	ref=
+7	ѹгорскыѧ	угърьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	8	amod	_	ref=
+8	ȥемли	земля	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	obl	_	ref=
+9	два	дъва	NUM	Ma	Case=Nom|Gender=Masc|Number=Dual	11	nummod	_	ref=
+10	латинска	латиньскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Dual|Strength=Strong	11	amod	_	ref=
+11	мниха	мънихъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Dual	3	nsubj	_	ref=
+12	млстыни	милостыня	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	obl	_	ref=
+13	ради	ради	ADP	R-	_	12	case	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡн же повелѣ ихъ раȥвести раȥно
+# sent_id = 200226
+1	ѡн	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	повелѣ	повелѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	obj:dir	_	ref=
+5	раȥвести	развести	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=
+6	раȥно	разьно	ADV	Df	_	5	advmod	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и приȥва к себѣ единого ѿ них и покаȥа емѹ окрѹг двора множство бесчисленое людеи на колѣхъ и на колесѣх
+# sent_id = 200227
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	приȥва	призъвати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	к	къ	ADP	R-	_	4	case	_	ref=
+4	себѣ	себе	PRON	Pk	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	obl	_	ref=
+5	единого	единъ	NUM	Ma	Case=Gen|Gender=Masc|Number=Sing	2	obj:dir	_	ref=
+6	ѿ	отъ	ADP	R-	_	7	case	_	ref=
+7	них	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nmod	_	ref=
+8	и	и	CCONJ	C-	_	2	cc	_	ref=
+9	покаȥа	показати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=
+10	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	_	ref=
+11	окрѹг	округъ	ADP	R-	_	12	case	_	ref=
+12	двора	дворъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	obl	_	ref=
+13	множство	мъножьство	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	9	obj:dir	_	ref=
+14	бесчисленое	бесчисльныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	13	amod	_	ref=
+15	людеи	людие	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	ref=
+16	на	на	ADP	R-	_	17	case	_	ref=
+17	колѣхъ	колъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Plur	15	nmod	_	ref=
+18	и	и	CCONJ	C-	_	17	cc	_	ref=
+19	на	на	ADP	R-	_	20	case	_	ref=
+20	колесѣх	коло	NOUN	Nb	Case=Loc|Gender=Neut|Number=Plur	17	conj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и вопроси его
+# sent_id = 200508
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	вопроси	въпросити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj:dir	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = добро ли тако сътворих
+# sent_id = 200509
+1	добро	добро	ADV	Df	Degree=Pos	4	advmod	_	ref=
+2	ли	ли	ADV	Du	PronType=Int	4	advmod	_	ref=
+3	тако	тако	ADV	Df	_	4	advmod	_	ref=
+4	сътворих	сътворити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и како ти сѹт иже на колїи
+# sent_id = 200510
+1	и	и	CCONJ	C-	_	4	cc	_	ref=
+2	како	како	ADV	Du	PronType=Int	4	xcomp	_	ref=
+3	ти	тыи	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	ref=
+4	сѹт	быти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	7	nsubj	_	ref=
+6	на	на	ADP	R-	_	7	case	_	ref=
+7	колїи	колие	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	3	nmod	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡн же гла
+# sent_id = 200228
+1	ѡн	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	гла	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ни гдрю ȥло чиниша
+# sent_id = 200511
+1	ни	ни	INTJ	I-	_	4	vocative	_	ref=
+2	гдрю	государь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	ref=
+3	ȥло	зъло	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obj:dir	_	ref=
+4	чиниша	чинити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = беȥ млсти каȥниши
+# sent_id = 200513
+1	беȥ	без	ADP	R-	_	2	case	_	ref=
+2	млсти	милость	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	obl	_	ref=
+3	каȥниши	казнити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = подбает гдрю млстивѹ быти
+# sent_id = 200229
+1	подбает	подобати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	гдрю	государь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	ref=
+3	млстивѹ	милостивыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	4	xcomp	_	ref=
+4	быти	быти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = а ти же на кольи мчнци сѹт
+# sent_id = 200230
+1	а	а	CCONJ	C-	_	7	cc	_	ref=
+2	ти	тыи	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	ref=
+3	же	же	ADV	Df	_	7	advmod	_	ref=
+4	на	на	ADP	R-	_	5	case	_	ref=
+5	кольи	колие	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	2	nmod	_	ref=
+6	мчнци	мученикъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	7	xcomp	_	ref=
+7	сѹт	быти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = приȥвав же и дрѹгаго и вопроси его також
+# sent_id = 200231
+1	приȥвав	призъвати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=
+2	же	же	ADV	Df	_	1	advmod	_	ref=
+3	и	и	ADV	Df	_	4	advmod	_	ref=
+4	дрѹгаго	другыи	ADJ	Mo	Case=Gen|Gender=Masc|Number=Sing	1	obj:dir	_	ref=
+5	и	и	CCONJ	C-	_	1	cc	_	ref=
+6	вопроси	въпросити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=
+7	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj:dir	_	ref=
+8	також	такоже	ADV	Df	_	6	advmod	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡн же ѿвѣща
+# sent_id = 200232
+1	ѡн	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	ѿвѣща	отъвѣщати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ты гдрь ѿ ба поставленъ еси лихо творѧщих каȥнити а добро творѧщих жаловати
+# sent_id = 200233
+1	ты	ты	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	ref=
+2	гдрь	государь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	vocative	_	ref=
+3	ѿ	отъ	ADP	R-	_	4	case	_	ref=
+4	ба	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	obl:agent	_	ref=
+5	поставленъ	поставити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	6	xcomp	_	ref=
+6	еси	быти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+7	лихо	лихыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	8	advmod	_	ref=
+8	творѧщих	творити	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	9	obj:dir	_	ref=
+9	каȥнити	казнити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	advcl	_	ref=
+10	а	а	CCONJ	C-	_	9	cc	_	ref=
+11	добро	добро	ADV	Df	Degree=Pos	12	advmod	_	ref=
+12	творѧщих	творити	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	13	obj:dir	_	ref=
+13	жаловати	жаловати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	conj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = а ти лихо творили
+# sent_id = 200235
+1	а	а	CCONJ	C-	_	4	cc	_	ref=
+2	ти	тыи	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	ref=
+3	лихо	лихыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	4	advmod	_	ref=
+4	творили	творити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = по своимъ дѣломъ въспрїали
+# sent_id = 200514
+1	по	по	ADP	R-	_	3	case	_	ref=
+2	своимъ	свои	ADJ	Pt	Case=Dat|Gender=Neut|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	3	nmod	_	ref=
+3	дѣломъ	дѣло	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	4	obl	_	ref=
+4	въспрїали	въсприяти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡн же приȥвавъ перваго и гла к немѹ
+# sent_id = 200236
+1	ѡн	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	приȥвавъ	призъвати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=
+4	перваго	пьрвыи	ADJ	Mo	Case=Gen|Gender=Masc|Number=Sing	3	obj:dir	_	ref=
+5	и	и	CCONJ	C-	_	3	cc	_	ref=
+6	гла	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=
+7	к	къ	ADP	R-	_	8	case	_	ref=
+8	немѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = да по что ты иȥ монастырѧ и ис келїи своеѧ ходиши по великым гдремъ не ȥнаꙗ ничтож
+# sent_id = 200515
+1	да	да	CCONJ	C-	_	11	cc	_	ref=
+2	по	по	ADP	R-	_	3	case	_	ref=
+3	что	чьто	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	11	obl	_	ref=
+4	ты	ты	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	ref=
+5	иȥ	из	ADP	R-	_	6	case	_	ref=
+6	монастырѧ	монастырь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	11	obl	_	ref=
+7	и	и	CCONJ	C-	_	6	cc	_	ref=
+8	ис	из	ADP	R-	_	9	case	_	ref=
+9	келїи	келия	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	conj	_	ref=
+10	своеѧ	свои	ADJ	Pt	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	9	nmod	_	ref=
+11	ходиши	ходити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+12	по	по	ADP	R-	_	14	case	_	ref=
+13	великым	великыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	14	amod	_	ref=
+14	гдремъ	государь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	11	obl	_	ref=
+15	не	не	ADV	Df	_	16	advmod	_	ref=
+16	ȥнаꙗ	знати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	11	advcl	_	ref=
+17	ничтож	ничьтоже	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	16	obj:dir	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = а ннѣ самъ еси глалъ ꙗко ти мчнци сѹт
+# sent_id = 200238
+1	а	а	CCONJ	C-	_	5	cc	_	ref=
+2	ннѣ	нынѣ	ADV	Df	_	5	advmod	_	ref=
+3	самъ	самъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=
+4	еси	быти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	ref=
+5	глалъ	глаголати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+6	ꙗко	яко	SCONJ	G-	_	9	mark	_	ref=
+7	ти	тыи	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	ref=
+8	мчнци	мученикъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	9	xcomp	_	ref=
+9	сѹт	быти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = аȥъ и тебе хощѹ мчнка ѹчинити да и ты с ними бѹдеши мчнкъ
+# sent_id = 200239
+1	аȥъ	азъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	ref=
+2	и	и	ADV	Df	_	3	advmod	_	ref=
+3	тебе	ты	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	obj:dir	_	ref=
+4	хощѹ	хотѣти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	мчнка	мученикъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	xcomp	_	ref=
+6	ѹчинити	учинити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	xcomp	_	ref=
+7	да	да	SCONJ	G-	_	12	mark	_	ref=
+8	и	и	ADV	Df	_	9	advmod	_	ref=
+9	ты	ты	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	ref=
+10	с	съ	ADP	R-	_	11	case	_	ref=
+11	ними	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	obl	_	ref=
+12	бѹдеши	быти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	4	advcl	_	ref=
+13	мчнкъ	мученикъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	xcomp	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и повелѣ его на колъ посадити проходомъ
+# sent_id = 200241
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	повелѣ	повелѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj:dir	_	ref=
+4	на	на	ADP	R-	_	5	case	_	ref=
+5	колъ	колъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	ref=
+6	посадити	посадити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+7	проходомъ	проходъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	6	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = а дрѹгомѹ повелѣ дати н҃ дѹкатъ ȥлата глѧ
+# sent_id = 200242
+1	а	а	CCONJ	C-	_	3	cc	_	ref=
+2	дрѹгомѹ	другыи	ADJ	Mo	Case=Dat|Gender=Masc|Number=Sing	4	iobj	_	ref=
+3	повелѣ	повелѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	дати	дати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=
+5	н҃	пятьдесятъ	NUM	Ma	_	4	obj:dir	_	ref=
+6	дѹкатъ	дукатъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	ref=
+7	ȥлата	злато	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	ref=
+8	глѧ	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	3	advcl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ты еси раȥѹменъ мѹж
+# sent_id = 200517
+1	ты	ты	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	ref=
+2	еси	быти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	раȥѹменъ	разумьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	4	amod	_	ref=
+4	мѹж	мужь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	xcomp	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и повелѣ его на воȥѣ с почестїемъ ѿвести и до ѹгорскыѧ ȥемли
+# sent_id = 200518
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	повелѣ	повелѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj:dir	_	ref=
+4	на	на	ADP	R-	_	5	case	_	ref=
+5	воȥѣ	возъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	8	obl	_	ref=
+6	с	съ	ADP	R-	_	7	case	_	ref=
+7	почестїемъ	почьстие	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	8	obl	_	ref=
+8	ѿвести	отъвести	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+9	и	и	ADV	Df	_	10	advmod	_	ref=
+10	до	до	ADP	R-	_	12	case	_	ref=
+11	ѹгорскыѧ	угърьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	12	amod	_	ref=
+12	ȥемли	земля	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = Нѣкогда ж прїиде кѹпець гость нѣкыи ѿ ѹгорскыѧ ȥемли въ его град
+# sent_id = 200245
+1	Нѣкогда	нѣкъгда	ADV	Df	_	3	advmod	_	ref=
+2	ж	же	ADV	Df	_	3	advmod	_	ref=
+3	прїиде	приити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	кѹпець	купьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+5	гость	гость	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	ref=
+6	нѣкыи	нѣкыи	DET	Px	Case=Nom|Gender=Masc|Number=Sing	5	det	_	ref=
+7	ѿ	отъ	ADP	R-	_	9	case	_	ref=
+8	ѹгорскыѧ	угърьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	9	amod	_	ref=
+9	ȥемли	земля	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	obl	_	ref=
+10	въ	въ	ADP	R-	_	12	case	_	ref=
+11	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	det	_	ref=
+12	град	градъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и по его ȥаповѣди ѡстави воȥъ свои на ѹлици града пред полатою и товаръ свои на воȥѣ
+# sent_id = 200246
+1	и	и	CCONJ	C-	_	5	cc	_	ref=
+2	по	по	ADP	R-	_	4	case	_	ref=
+3	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	det	_	ref=
+4	ȥаповѣди	заповѣдь	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	5	obl	_	ref=
+5	ѡстави	оставити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	воȥъ	возъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	obj:dir	_	ref=
+7	свои	свои	ADJ	Pt	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	6	nmod	_	ref=
+8	на	на	ADP	R-	_	9	case	_	ref=
+9	ѹлици	улица	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	5	obl	_	ref=
+10	града	градъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	ref=
+11	пред	прѣдъ	ADP	R-	_	12	case	_	ref=
+12	полатою	полата	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	8	appos	_	ref=
+13	и	и	CCONJ	C-	_	5	cc	_	ref=
+14	товаръ	товаръ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	conj	_	ref=
+15	свои	свои	ADJ	Pt	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	14	nmod	_	ref=
+16	на	на	ADP	R-	_	17	case	_	ref=
+17	воȥѣ	возъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	14	orphan	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = а самъ спаше в полатѣ
+# sent_id = 200248
+1	а	а	CCONJ	C-	_	3	cc	_	ref=
+2	самъ	самъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+3	спаше	съпати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	в	въ	ADP	R-	_	5	case	_	ref=
+5	полатѣ	полата	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	3	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и пришед нѣкто ѹкраде с воȥа р ѯ҃ дѹкатъ ȥлата
+# sent_id = 200249
+1	и	и	CCONJ	C-	_	4	cc	_	ref=
+2	пришед	приити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	4	advcl	_	ref=
+3	нѣкто	нѣкъто	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=
+4	ѹкраде	украсти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	с	съ	ADP	R-	_	6	case	_	ref=
+6	воȥа	возъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	obl	_	ref=
+7	р	съто	NUM	Ma	_	4	obj:dir	_	ref=
+8	ѯ҃	шестьдесятъ	NUM	Ma	_	7	conj	_	ref=
+9	дѹкатъ	дукатъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	ref=
+10	ȥлата	злато	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = кѹпец же иде къ дракѹлѣ
+# sent_id = 200251
+1	кѹпец	купьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	иде	ити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	къ	къ	ADP	R-	_	5	case	_	ref=
+5	дракѹлѣ	дракула	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	3	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = повѣда емѹ иȥгѹбленїе ȥлата
+# sent_id = 200252
+1	повѣда	повѣдати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	ref=
+3	иȥгѹбленїе	изгубление	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	obj:dir	_	ref=
+4	ȥлата	злато	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = дракѹла же гла емѹ
+# sent_id = 200253
+1	дракѹла	дракула	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	гла	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = поиди
+# sent_id = 200254
+1	поиди	поити#1	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = в сїю нощь ѡбрѧщеши ȥлато
+# sent_id = 200519
+1	в	въ	ADP	R-	_	3	case	_	ref=
+2	сїю	сии	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	3	det	_	ref=
+3	нощь	нощь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	ref=
+4	ѡбрѧщеши	обрѣсти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	ȥлато	злато	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obj:dir	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и повелѣ по всемѹ градѹ искати татѧ глѧ
+# sent_id = 200255
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	повелѣ	повелѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	по	по	ADP	R-	_	5	case	_	ref=
+4	всемѹ	вьсь	DET	Px	Case=Dat|Gender=Masc|Number=Sing	5	det	_	ref=
+5	градѹ	градъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	ref=
+6	искати	искати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+7	татѧ	тать	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	obj:dir	_	ref=
+8	глѧ	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = аще не ѡбрѧщет сѧ тать то весь град погѹблю
+# sent_id = 200520
+1	аще	аще	SCONJ	G-	_	3	mark	_	ref=
+2	не	не	ADV	Df	_	3	advmod	_	ref=
+3	ѡбрѧщет	обрѣсти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	ref=
+4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=
+5	тать	тать	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+6	то	то	ADV	Df	_	9	advmod	_	ref=
+7	весь	вьсь	DET	Px	Case=Acc|Gender=Masc|Number=Sing	8	det	_	ref=
+8	град	градъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	9	obj:dir	_	ref=
+9	погѹблю	погубити	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и повелѣ свое ȥлато несъ положити на воȥѣ в нощи
+# sent_id = 200257
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	повелѣ	повелѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	свое	свои	ADJ	Pt	Case=Acc|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	4	nmod	_	ref=
+4	ȥлато	злато	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	obj:dir	_	ref=
+5	несъ	нести	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	6	advcl	_	ref=
+6	положити	положити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+7	на	на	ADP	R-	_	8	case	_	ref=
+8	воȥѣ	возъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	ref=
+9	в	въ	ADP	R-	_	10	case	_	ref=
+10	нощи	нощь	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	6	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и приложи единъ ȥлатои
+# sent_id = 200258
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	приложи	приложити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	единъ	единъ	NUM	Ma	Case=Acc|Gender=Masc|Number=Sing	4	nummod	_	ref=
+4	ȥлатои	златыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	2	obj:dir	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = кѹпец же въставъ и ѡбрѣте ȥлато
+# sent_id = 200259
+1	кѹпец	купьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	въставъ	въстати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=
+4	и	и	CCONJ	C-	_	3	cc	_	ref=
+5	ѡбрѣте	обрѣсти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=
+6	ȥлато	злато	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obj:dir	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и прочет единою и дващи
+# sent_id = 200260
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	прочет	прочисти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	единою	единою	ADV	Df	_	2	advmod	_	ref=
+4	и	и	CCONJ	C-	_	3	cc	_	ref=
+5	дващи	дъвашьды	ADV	Df	_	3	conj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡбрѣташе с единъ лишнїи ȥлатои
+# sent_id = 200261
+1	ѡбрѣташе	обрѣтати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	с	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	1	aux	_	ref=
+3	единъ	единъ	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	5	nummod	_	ref=
+4	лишнїи	лишьнии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	5	amod	_	ref=
+5	ȥлатои	златыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	1	nsubj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и шед къ дракѹлѣ гла
+# sent_id = 200262
+1	и	и	CCONJ	C-	_	5	cc	_	ref=
+2	шед	ити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	5	advcl	_	ref=
+3	къ	къ	ADP	R-	_	4	case	_	ref=
+4	дракѹлѣ	дракула	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	ref=
+5	гла	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = гдрю ѡбрѣтох ȥлато
+# sent_id = 200263
+1	гдрю	государь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	ref=
+2	ѡбрѣтох	обрѣсти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	ȥлато	злато	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obj:dir	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и се есть единъ ȥлатои не мои лишнїи
+# sent_id = 200264
+1	и	и	CCONJ	C-	_	3	cc	_	ref=
+2	се	се	INTJ	I-	_	3	vocative	_	ref=
+3	есть	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	единъ	единъ	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	5	nummod	_	ref=
+5	ȥлатои	златыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	3	nsubj	_	ref=
+6	не	не	ADV	Df	_	7	advmod	_	ref=
+7	мои	мои	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=1|Poss=Yes	5	nmod	_	ref=
+8	лишнїи	лишьнии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	5	amod	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = тогда же приведоша и татѧ ѡног и съ ȥлатом
+# sent_id = 200265
+1	тогда	тъгда	ADV	Df	_	3	advmod	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	приведоша	привести	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	и	и	ADV	Df	_	5	advmod	_	ref=
+5	татѧ	тать	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	obj:dir	_	ref=
+6	ѡног	оныи	DET	Pd	Case=Gen|Gender=Masc|Number=Sing	5	det	_	ref=
+7	и	и	ADV	Df	_	8	advmod	_	ref=
+8	съ	съ	ADP	R-	_	9	case	_	ref=
+9	ȥлатом	злато	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	5	nmod	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и гла кѹпцю
+# sent_id = 200266
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	гла	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	кѹпцю	купьць	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = иди с миром
+# sent_id = 200521
+1	иди	ити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	с	съ	ADP	R-	_	3	case	_	ref=
+3	миром	миръ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	1	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = аще бы ми еси не повѣдалъ ȥлато готовъ бых и тебе с симъ татемъ на колъ посадити
+# sent_id = 200267
+1	аще	аще	SCONJ	G-	_	6	mark	_	ref=
+2	бы	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	aux	_	ref=
+3	ми	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	6	iobj	_	ref=
+4	еси	быти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	ref=
+5	не	не	ADV	Df	_	6	advmod	_	ref=
+6	повѣдалъ	повѣдати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	9	advcl	_	ref=
+7	ȥлато	злато	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	obj:dir	_	ref=
+8	готовъ	готовыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	9	xcomp	_	ref=
+9	бых	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+10	и	и	ADV	Df	_	11	advmod	_	ref=
+11	тебе	ты	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	17	obj:dir	_	ref=
+12	с	съ	ADP	R-	_	14	case	_	ref=
+13	симъ	сии	DET	Pd	Case=Ins|Gender=Masc|Number=Sing	14	det	_	ref=
+14	татемъ	тать	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	17	obl	_	ref=
+15	на	на	ADP	R-	_	16	case	_	ref=
+16	колъ	колъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	17	obl	_	ref=
+17	посадити	посадити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	advcl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = аще жена каѧ ѿ мѹжа прелюбы сътворит ѡн же велѧше срамъ еи вырѣȥати и кожю содрати и привѧȥати еѧ нагѹ и кожѹ тѹ на столпѣ среди града и торга повѣсити
+# sent_id = 200269
+1	аще	аще	SCONJ	G-	_	7	mark	_	ref=
+2	жена	жена	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	ref=
+3	каѧ	кыи	DET	Px	Case=Nom|Gender=Fem|Number=Sing	2	det	_	ref=
+4	ѿ	отъ	ADP	R-	_	5	case	_	ref=
+5	мѹжа	мужь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	ref=
+6	прелюбы	прѣлюбы	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj:dir	_	ref=
+7	сътворит	сътворити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	ref=
+8	ѡн	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	ref=
+9	же	же	ADV	Df	_	10	advmod	_	ref=
+10	велѧше	велѣти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+11	срамъ	срамъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	13	obj:dir	_	ref=
+12	еи	и	PRON	Pp	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	det	_	ref=
+13	вырѣȥати	вырѣзати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	xcomp	_	ref=
+14	и	и	CCONJ	C-	_	13	cc	_	ref=
+15	кожю	кожа	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	16	obj:dir	_	ref=
+16	содрати	съдьрати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	13	conj	_	ref=
+17	и	и	CCONJ	C-	_	13	cc	_	ref=
+18	привѧȥати	привязати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	13	conj	_	ref=
+19	еѧ	и	PRON	Pp	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	obj:dir	_	ref=
+20	нагѹ	нагыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	18	advmod	_	ref=
+21	и	и	CCONJ	C-	_	13	cc	_	ref=
+22	кожѹ	кожа	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	30	obj:dir	_	ref=
+23	тѹ	тыи	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	22	det	_	ref=
+24	на	на	ADP	R-	_	25	case	_	ref=
+25	столпѣ	стълпъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	30	obl	_	ref=
+26	среди	срѣди	ADP	R-	_	27	case	_	ref=
+27	града	градъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	ref=
+28	и	и	CCONJ	C-	_	27	cc	_	ref=
+29	торга	търгъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	27	conj	_	ref=
+30	повѣсити	повѣсити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	13	conj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и двцамъ кои двьства не сохранѧт и вдовам також
+# sent_id = 200273
+1	и	и	CCONJ	C-	_	0	root	_	ref=
+2	двцамъ	дѣвица	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	1	iobj	_	ref=
+3	кои	кыи	PRON	Pr	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	6	nsubj	_	ref=
+4	двьства	дѣвьство	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	6	obj:dir	_	ref=
+5	не	не	ADV	Df	_	6	advmod	_	ref=
+6	сохранѧт	съхранити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	ref=
+7	и	и	CCONJ	C-	_	1	cc	_	ref=
+8	вдовам	вьдова	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	1	conj	_	ref=
+9	також	такоже	ADV	Df	_	8	orphan	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = а иным сосца ѿрѣȥахꙋ
+# sent_id = 200533
+1	а	а	CCONJ	C-	_	4	cc	_	ref=
+2	иным	иныи	DET	Px	Case=Dat|Gender=Fem|Number=Plur	3	det	_	ref=
+3	сосца	съсьць	NOUN	Nb	Case=Acc|Gender=Masc|Number=Dual	4	obj:dir	_	ref=
+4	ѿрѣȥахꙋ	отрѣзати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡвым же кожѹ содравше со срама еѧ и роженъ желѣȥенъ раȥжегши вонȥахѹ въ срам еи
+# sent_id = 200276
+1	ѡвым	овъ	DET	Px	Case=Dat|Gender=Fem|Number=Plur	3	det	_	ref=
+2	же	же	ADV	Df	_	4	advmod	_	ref=
+3	кожѹ	кожа	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj:dir	_	ref=
+4	содравше	съдьрати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=
+5	со	съ	ADP	R-	_	6	case	_	ref=
+6	срама	срамъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	obl	_	ref=
+7	еѧ	и	PRON	Pp	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	det	_	ref=
+8	и	и	CCONJ	C-	_	4	cc	_	ref=
+9	роженъ	рожьнъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	11	obj:dir	_	ref=
+10	желѣȥенъ	желѣзьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	9	amod	_	ref=
+11	раȥжегши	разжечи	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	12	advcl	_	ref=
+12	вонȥахѹ	въньзати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	ref=
+13	въ	въ	ADP	R-	_	14	case	_	ref=
+14	срам	срамъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	12	obl	_	ref=
+15	еи	и	PRON	Pp	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	det	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и ѹсты исхожаше
+# sent_id = 200522
+1	и	и	CCONJ	C-	_	3	cc	_	ref=
+2	ѹсты	уста	NOUN	Nb	Case=Ins|Gender=Neut|Number=Plur	3	obl	_	ref=
+3	исхожаше	исходити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и тако привѧȥана стоѧше ѹ столпа нага дондеж плот и кости еи распадѹт сѧ ил птицам в снѣд бѹдет
+# sent_id = 200278
+1	и	и	CCONJ	C-	_	4	cc	_	ref=
+2	тако	тако	ADV	Df	_	4	advmod	_	ref=
+3	привѧȥана	привязати	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	4	advcl	_	ref=
+4	стоѧше	стояти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	ѹ	у	ADP	R-	_	6	case	_	ref=
+6	столпа	стълпъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	obl	_	ref=
+7	нага	нагыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	4	advmod	_	ref=
+8	дондеж	доньдеже	SCONJ	G-	_	13	mark	_	ref=
+9	плот	плъть	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	ref=
+10	и	и	CCONJ	C-	_	9	cc	_	ref=
+11	кости	кость	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	9	conj	_	ref=
+12	еи	и	PRON	Pp	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	det	_	ref=
+13	распадѹт	распасти#2	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	ref=
+14	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	13	aux	_	ref=
+15	ил	или	CCONJ	C-	_	13	cc	_	ref=
+16	птицам	пътица	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	18	nmod	_	ref=
+17	в	въ	ADP	R-	_	18	case	_	ref=
+18	снѣд	сънѣдь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	19	xcomp	_	ref=
+19	бѹдет	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	13	conj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = единою ж ꙗздѧщѹ емѹ пѹтем и ѹȥрѣ на нѣкоем сиромахѣ срачицю иȥдранѹ хѹдѹ
+# sent_id = 200280
+1	единою	единою	ADV	Df	_	0	root	_	ref=
+2	ж	же	ADV	Df	_	1	advmod	_	ref=
+3	ꙗздѧщѹ	ѣздити	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	ref=
+4	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	ref=
+5	пѹтем	путь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	3	obl	_	ref=
+6	и	и	CCONJ	C-	_	1	cc	_	ref=
+7	ѹȥрѣ	узьрѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=
+8	на	на	ADP	R-	_	10	case	_	ref=
+9	нѣкоем	нѣкыи	DET	Px	Case=Loc|Gender=Masc|Number=Sing	10	det	_	ref=
+10	сиромахѣ	сиромаха	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	7	obl	_	ref=
+11	срачицю	срачица	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj:dir	_	ref=
+12	иȥдранѹ	издьрати	VERB	V-	Case=Acc|Gender=Fem|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	11	acl	_	ref=
+13	хѹдѹ	худыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	11	amod	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и въпроси его
+# sent_id = 200281
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	въпроси	въпросити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj:dir	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = имаши ли женѹ
+# sent_id = 200523
+1	имаши	имѣти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	ли	ли	ADV	Du	PronType=Int	1	advmod	_	ref=
+3	женѹ	жена	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj:dir	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡн же ѿвѣща
+# sent_id = 200524
+1	ѡн	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	ѿвѣща	отъвѣщати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = имамъ гдрю
+# sent_id = 200525
+1	имамъ	имѣти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	гдрю	государь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡн же гла
+# sent_id = 200283
+1	ѡн	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	гла	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = веди мѧ в дом твои да вижю
+# sent_id = 200526
+1	веди	вести	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	мѧ	азъ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	1	obj:dir	_	ref=
+3	в	въ	ADP	R-	_	4	case	_	ref=
+4	дом	домъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	ref=
+5	твои	твои	ADJ	Ps	Case=Acc|Gender=Masc|Number=Sing|Person=2|Poss=Yes	4	nmod	_	ref=
+6	да	да	SCONJ	G-	_	7	mark	_	ref=
+7	вижю	видѣти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и ѹȥрѣ женѹ его младѹ сѹщѹ и ȥдравѹ
+# sent_id = 200284
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	ѹȥрѣ	узьрѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	женѹ	жена	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj:dir	_	ref=
+4	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	det	_	ref=
+5	младѹ	младыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	6	xcomp	_	ref=
+6	сѹщѹ	быти	VERB	V-	Case=Acc|Gender=Fem|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	2	xcomp	_	ref=
+7	и	и	CCONJ	C-	_	5	cc	_	ref=
+8	ȥдравѹ	съдравыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	5	conj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и гла мѹжѹ еѧ
+# sent_id = 200285
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	гла	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	мѹжѹ	мужь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	ref=
+4	еѧ	и	PRON	Pp	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	det	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = вѣси ли ленъ сѣѧлъ
+# sent_id = 200286
+1	вѣси	вѣдѣти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	ли	ли	ADV	Du	PronType=Int	1	advmod	_	ref=
+3	ленъ	льнъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj:dir	_	ref=
+4	сѣѧлъ	сѣяти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	1	ccomp	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡн же ѿвѣща
+# sent_id = 200287
+1	ѡн	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	ѿвѣща	отъвѣщати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = гси много имам лнѹ
+# sent_id = 200527
+1	гси	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	ref=
+2	много	мъногыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	3	obj:dir	_	ref=
+3	имам	имѣти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	лнѹ	льнъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и покаȥа емѹ много лнѹ
+# sent_id = 200528
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	покаȥа	показати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	iobj	_	ref=
+4	много	мъногыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	2	obj:dir	_	ref=
+5	лнѹ	льнъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и гла женѣ его
+# sent_id = 200288
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	гла	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	женѣ	жена	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	2	iobj	_	ref=
+4	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	det	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = да почто ты лѣность имѣеши к мѹжѹ своемѹ
+# sent_id = 200529
+1	да	да	CCONJ	C-	_	5	cc	_	ref=
+2	почто	почьто	ADV	Du	PronType=Int	5	advmod	_	ref=
+3	ты	ты	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	ref=
+4	лѣность	лѣность	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	ref=
+5	имѣеши	имѣти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	к	къ	ADP	R-	_	7	case	_	ref=
+7	мѹжѹ	мужь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	nmod	_	ref=
+8	своемѹ	свои	ADJ	Pt	Case=Dat|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	7	nmod	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡнъ долженъ есть сѣѧти и ѡрати и тебе хранити
+# sent_id = 200289
+1	ѡнъ	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	долженъ	дължьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	3	xcomp	_	ref=
+3	есть	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	сѣѧти	сѣяти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	advcl	_	ref=
+5	и	и	CCONJ	C-	_	4	cc	_	ref=
+6	ѡрати	орати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	conj	_	ref=
+7	и	и	CCONJ	C-	_	4	cc	_	ref=
+8	тебе	ты	PRON	Pp	Case=Gen|Gender=Fem|Number=Sing|Person=2|PronType=Prs	9	obj:dir	_	ref=
+9	хранити	хранити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	conj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = а ты должна еси на мѹжа своего ѡдежю свѣтлѹ и лѣпѹ чинити
+# sent_id = 200290
+1	а	а	CCONJ	C-	_	4	cc	_	ref=
+2	ты	ты	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	ref=
+3	должна	дължьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	4	xcomp	_	ref=
+4	еси	быти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	на	на	ADP	R-	_	6	case	_	ref=
+6	мѹжа	мужь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	12	obl	_	ref=
+7	своего	свои	ADJ	Pt	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	6	nmod	_	ref=
+8	ѡдежю	одежа	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	12	obj:dir	_	ref=
+9	свѣтлѹ	свѣтьлыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	8	amod	_	ref=
+10	и	и	CCONJ	C-	_	9	cc	_	ref=
+11	лѣпѹ	лѣпыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	9	conj	_	ref=
+12	чинити	чинити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	advcl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = а ты и срачици не хощеши емѹ ѹчинити а ȥдравѹ сѹщѹ тѣлом
+# sent_id = 200291
+1	а	а	CCONJ	C-	_	6	cc	_	ref=
+2	ты	ты	PRON	Pp	Case=Nom|Gender=Fem|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	ref=
+3	и	и	ADV	Df	_	4	advmod	_	ref=
+4	срачици	срачица	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	obj:dir	_	ref=
+5	не	не	ADV	Df	_	6	advmod	_	ref=
+6	хощеши	хотѣти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+7	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	ref=
+8	ѹчинити	учинити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	6	xcomp	_	ref=
+9	а	а	CCONJ	C-	_	6	cc	_	ref=
+10	ȥдравѹ	съдравыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	11	xcomp	_	ref=
+11	сѹщѹ	быти	VERB	V-	Case=Acc|Gender=Fem|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	6	conj	_	ref=
+12	тѣлом	тѣло	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	10	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ты еси повинна а не мѹжь твои
+# sent_id = 200292
+1	ты	ты	PRON	Pp	Case=Nom|Gender=Fem|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	ref=
+2	еси	быти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	повинна	повиньныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	2	xcomp	_	ref=
+4	а	а	CCONJ	C-	_	1	cc	_	ref=
+5	не	не	ADV	Df	_	6	advmod	_	ref=
+6	мѹжь	мужь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	ref=
+7	твои	твои	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes	6	nmod	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = аще л бы мѹж не сѣѧлъ лнѹ то бы мѹж твои повиненъ был
+# sent_id = 200293
+1	аще	аще	SCONJ	G-	_	6	mark	_	ref=
+2	л	ли	ADV	Df	_	13	advmod	_	ref=
+3	бы	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	aux	_	ref=
+4	мѹж	мужь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=
+5	не	не	ADV	Df	_	6	advmod	_	ref=
+6	сѣѧлъ	сѣяти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	8	advcl	_	ref=
+7	лнѹ	льнъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	obj:dir	_	ref=
+8	то	то	ADV	Df	_	13	advmod	_	ref=
+9	бы	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	aux	_	ref=
+10	мѹж	мужь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	ref=
+11	твои	твои	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes	10	nmod	_	ref=
+12	повиненъ	повиньныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	13	xcomp	_	ref=
+13	был	быти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и повелѣ еи рѹцѣ ѿсѣщи и трѹпъ еѧ на колъ всадити
+# sent_id = 200295
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	повелѣ	повелѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	еи	и	PRON	Pp	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	det	_	ref=
+4	рѹцѣ	рука	NOUN	Nb	Case=Acc|Gender=Fem|Number=Dual	5	obj:dir	_	ref=
+5	ѿсѣщи	отъсѣщи	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+6	и	и	CCONJ	C-	_	5	cc	_	ref=
+7	трѹпъ	трупъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	11	obj:dir	_	ref=
+8	еѧ	и	PRON	Pp	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	det	_	ref=
+9	на	на	ADP	R-	_	10	case	_	ref=
+10	колъ	колъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	11	obl	_	ref=
+11	всадити	въсадити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	conj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = Нѣкогда ж ѡбѣдоваше под трѹпїемъ мртвых члвкъ иже на колїе саженых
+# sent_id = 200297
+1	Нѣкогда	нѣкъгда	ADV	Df	_	3	advmod	_	ref=
+2	ж	же	ADV	Df	_	3	advmod	_	ref=
+3	ѡбѣдоваше	обѣдовати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	под	подъ	ADP	R-	_	5	case	_	ref=
+5	трѹпїемъ	трупие	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	3	obl	_	ref=
+6	мртвых	мьртвыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	7	amod	_	ref=
+7	члвкъ	человѣкъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	ref=
+8	иже	иже	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	11	det	_	ref=
+9	на	на	ADP	R-	_	10	case	_	ref=
+10	колїе	колие	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	11	obl	_	ref=
+11	саженых	садити	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	7	nmod	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = множство бо ѡкрѹг стола его
+# sent_id = 200298
+1	множство	мъножьство	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	0	root	_	ref=
+2	бо	бо	ADV	Df	_	1	advmod	_	ref=
+3	ѡкрѹг	округъ	ADP	R-	_	4	case	_	ref=
+4	стола	столъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	ref=
+5	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	det	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡн же среди ихъ ꙗдѧше и тѣмъ ѹслажаше с
+# sent_id = 200299
+1	ѡн	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=
+2	же	же	ADV	Df	_	5	advmod	_	ref=
+3	среди	срѣди	ADP	R-	_	4	case	_	ref=
+4	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	obl	_	ref=
+5	ꙗдѧше	ясти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	и	и	CCONJ	C-	_	5	cc	_	ref=
+7	тѣмъ	тыи	ADJ	Pd	Case=Ins|Gender=Neut|Number=Sing	8	obl	_	ref=
+8	ѹслажаше	усладити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	ref=
+9	с	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	8	aux	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = слѹга ж его иж пред нимъ ꙗсти ставлѧше смрадѹ ѡного не моги терпѣти и ȥаткнѹ носъ и на странꙋ главѹ свою склони
+# sent_id = 200300
+1	слѹга	слуга	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	ref=
+2	ж	же	ADV	Df	_	12	advmod	_	ref=
+3	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	det	_	ref=
+4	иж	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	_	ref=
+5	пред	прѣдъ	ADP	R-	_	6	case	_	ref=
+6	нимъ	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	ref=
+7	ꙗсти	ясти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	advcl	_	ref=
+8	ставлѧше	ставляти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	acl	_	ref=
+9	смрадѹ	смрадъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	13	obj:dir	_	ref=
+10	ѡного	онъ	DET	Pd	Case=Gen|Gender=Masc|Number=Sing	9	det	_	ref=
+11	не	не	ADV	Df	_	12	advmod	_	ref=
+12	моги	мощи	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	ref=
+13	терпѣти	тьрпѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	12	xcomp	_	ref=
+14	и	и	CCONJ	C-	_	12	cc	_	ref=
+15	ȥаткнѹ	затъкнути	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	ref=
+16	носъ	носъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	15	obj:dir	_	ref=
+17	и	и	CCONJ	C-	_	12	cc	_	ref=
+18	на	на	ADP	R-	_	19	case	_	ref=
+19	странꙋ	страна	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	22	obl	_	ref=
+20	главѹ	глава	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	22	obj:dir	_	ref=
+21	свою	свои	ADJ	Pt	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	20	nmod	_	ref=
+22	склони	съклонити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡн же вопроси его
+# sent_id = 200303
+1	ѡн	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	вопроси	въпросити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj:dir	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = что ради тако чинишь
+# sent_id = 200530
+1	что	чьто	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	4	obl	_	ref=
+2	ради	ради	ADP	R-	_	1	case	_	ref=
+3	тако	тако	ADV	Df	_	4	advmod	_	ref=
+4	чинишь	чинити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡн же ѿвѣща
+# sent_id = 200304
+1	ѡн	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	ѿвѣща	отъвѣщати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = гдрю не могѹ смрада сего терпѣти
+# sent_id = 200531
+1	гдрю	государь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	ref=
+2	не	не	ADV	Df	_	3	advmod	_	ref=
+3	могѹ	мощи	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	смрада	смрадъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	obj:dir	_	ref=
+5	сего	сии	DET	Pd	Case=Gen|Gender=Masc|Number=Sing	4	det	_	ref=
+6	терпѣти	тьрпѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = дракѹла же тѹ и повелѣ его на колъ всадити глѧ
+# sent_id = 200305
+1	дракѹла	дракула	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=
+2	же	же	ADV	Df	_	5	advmod	_	ref=
+3	тѹ	ту	ADV	Df	_	5	advmod	_	ref=
+4	и	и	ADV	Df	_	5	advmod	_	ref=
+5	повелѣ	повелѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj:dir	_	ref=
+7	на	на	ADP	R-	_	8	case	_	ref=
+8	колъ	колъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	ref=
+9	всадити	въсадити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	xcomp	_	ref=
+10	глѧ	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	5	advcl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = тамо ти есть высоко жити
+# sent_id = 200532
+1	тамо	тамо	ADV	Df	_	5	advmod	_	ref=
+2	ти	ты	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	ref=
+3	есть	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	ref=
+4	высоко	высоко	ADV	Df	Degree=Pos	1	appos	_	ref=
+5	жити	жити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = смрад не можеть тебе доити
+# sent_id = 200537
+1	смрад	смрадъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	не	не	ADV	Df	_	3	advmod	_	ref=
+3	можеть	мощи	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	тебе	ты	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	iobj	_	ref=
+5	доити	доити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = Иногда ж прїиде ѿ ѹгорскаг королѧ маттѣашѧ апоклисарь до него члвкъ не малъ болѧринъ в лѧсѣх родом
+# sent_id = 200306
+1	Иногда	иногда	ADV	Df	_	3	advmod	_	ref=
+2	ж	же	ADV	Df	_	3	advmod	_	ref=
+3	прїиде	приити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	ѿ	отъ	ADP	R-	_	6	case	_	ref=
+5	ѹгорскаг	угърьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	6	amod	_	ref=
+6	королѧ	король	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	obl	_	ref=
+7	маттѣашѧ	маттѣашь	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	appos	_	ref=
+8	апоклисарь	поклисарь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+9	до	до	ADP	R-	_	10	case	_	ref=
+10	него	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	ref=
+11	члвкъ	человѣкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	appos	_	ref=
+12	не	не	ADV	Df	_	13	advmod	_	ref=
+13	малъ	малыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	11	amod	_	ref=
+14	болѧринъ	боляринъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	appos	_	ref=
+15	в	въ	ADP	R-	_	16	case	_	ref=
+16	лѧсѣх	ляхъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Plur	14	nmod	_	ref=
+17	родом	родъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	15	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и повелѣ емꙋ сѣсти с собою на ѡбѣдѣ среди трѹпїѧ того
+# sent_id = 200307
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	повелѣ	повелѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	емꙋ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	iobj	_	ref=
+4	сѣсти	сѣсти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+5	с	съ	ADP	R-	_	6	case	_	ref=
+6	собою	себе	PRON	Pk	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	obl	_	ref=
+7	на	на	ADP	R-	_	8	case	_	ref=
+8	ѡбѣдѣ	обѣдъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	4	obl	_	ref=
+9	среди	срѣди	ADP	R-	_	10	case	_	ref=
+10	трѹпїѧ	трупие	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	4	obl	_	ref=
+11	того	тыи	DET	Pd	Case=Gen|Gender=Neut|Number=Sing	10	det	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и пред нимъ лежаше единъ колъ велми дебелъ и высокъ весь поȥлащенъ
+# sent_id = 200308
+1	и	и	CCONJ	C-	_	4	cc	_	ref=
+2	пред	прѣдъ	ADP	R-	_	3	case	_	ref=
+3	нимъ	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	ref=
+4	лежаше	лежати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	единъ	единъ	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	6	nummod	_	ref=
+6	колъ	колъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=
+7	велми	вельми	ADV	Df	_	8	advmod	_	ref=
+8	дебелъ	дебелыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	6	amod	_	ref=
+9	и	и	CCONJ	C-	_	8	cc	_	ref=
+10	высокъ	высокыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	8	conj	_	ref=
+11	весь	вьсь	DET	Px	Case=Nom|Gender=Masc|Number=Sing	6	det	_	ref=
+12	поȥлащенъ	позлатити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и вопроси апоклисарѧ дракѹла
+# sent_id = 200538
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	вопроси	въпросити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	апоклисарѧ	поклисарь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	obj:dir	_	ref=
+4	дракѹла	дракула	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = что ради ѹчинихъ сеи колъ тако повѣж ми
+# sent_id = 200309
+1	что	чьто	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	3	obl	_	ref=
+2	ради	ради	ADP	R-	_	1	case	_	ref=
+3	ѹчинихъ	учинити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	7	ccomp	_	ref=
+4	сеи	сии	DET	Pd	Case=Acc|Gender=Masc|Number=Sing	5	det	_	ref=
+5	колъ	колъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obj:dir	_	ref=
+6	тако	тако	ADV	Df	_	7	advmod	_	ref=
+7	повѣж	повѣдѣти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	ми	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	iobj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = посол же тои велми ѹбоѧ сѧ и гла
+# sent_id = 200310
+1	посол	посълъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=
+2	же	же	ADV	Df	_	5	advmod	_	ref=
+3	тои	тыи	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	1	det	_	ref=
+4	велми	вельми	ADV	Df	_	5	advmod	_	ref=
+5	ѹбоѧ	убояти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	5	aux	_	ref=
+7	и	и	CCONJ	C-	_	5	cc	_	ref=
+8	гла	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = гдрю мнит ми сѧ тако
+# sent_id = 200311
+1	гдрю	государь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	ref=
+2	мнит	мьнѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	ми	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	2	iobj	_	ref=
+4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=
+5	тако	тако	ADV	Df	_	2	advmod	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = нѣкии великїи члвкъ пред тобою согрѣши
+# sent_id = 200539
+1	нѣкии	нѣкыи	DET	Px	Case=Nom|Gender=Masc|Number=Sing	3	det	_	ref=
+2	великїи	великыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	3	amod	_	ref=
+3	члвкъ	человѣкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=
+4	пред	прѣдъ	ADP	R-	_	5	case	_	ref=
+5	тобою	ты	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	obl	_	ref=
+6	согрѣши	съгрѣшити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и хощеши емѹ почтенѹ смрть ѹчинити паче иных
+# sent_id = 200312
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	хощеши	хотѣти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	ref=
+4	почтенѹ	почисти	VERB	V-	Case=Acc|Gender=Fem|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	ref=
+5	смрть	съмьрть	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obj:dir	_	ref=
+6	ѹчинити	учинити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+7	паче	паче	ADV	Df	_	4	advmod	_	ref=
+8	иных	иныи	ADJ	Px	Case=Gen|Gender=Fem|Number=Plur	7	iobj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = дракѹла же гла
+# sent_id = 200313
+1	дракѹла	дракула	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	гла	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = право реклъ еси
+# sent_id = 200314
+1	право	право	ADV	Df	Degree=Pos	2	advmod	_	ref=
+2	реклъ	рещи	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+3	еси	быти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ты еси велика гдрѧ посолъ кралевьскыи
+# sent_id = 200540
+1	ты	ты	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	ref=
+2	еси	быти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	велика	великыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	4	amod	_	ref=
+4	гдрѧ	государь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	ref=
+5	посолъ	посълъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	xcomp	_	ref=
+6	кралевьскыи	кралевьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	5	amod	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = тебѣ ѹчиних сеи колъ
+# sent_id = 200541
+1	тебѣ	ты	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	obl	_	ref=
+2	ѹчиних	учинити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	сеи	сии	DET	Pd	Case=Acc|Gender=Masc|Number=Sing	4	det	_	ref=
+4	колъ	колъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	obj:dir	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡн же ѿвѣща
+# sent_id = 200315
+1	ѡн	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	ѿвѣща	отъвѣщати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = гдрю аще достоиное смрти содѣлалъ бѹдѹ твори еже хощеши
+# sent_id = 200316
+1	гдрю	государь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	7	vocative	_	ref=
+2	аще	аще	SCONJ	G-	_	5	mark	_	ref=
+3	достоиное	достоиныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	5	obj:dir	_	ref=
+4	смрти	съмьрть	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	iobj	_	ref=
+5	содѣлалъ	съдѣяти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	7	advcl	_	ref=
+6	бѹдѹ	быти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	5	aux	_	ref=
+7	твори	творити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	еже	иже	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	9	obj:dir	_	ref=
+9	хощеши	хотѣти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	obj:dir	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = првдныи бо еси сѹдиѧ
+# sent_id = 200542
+1	првдныи	правьдьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=
+2	бо	бо	ADV	Df	_	3	advmod	_	ref=
+3	еси	быти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	сѹдиѧ	судия	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	xcomp	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = не ты повиненъ моеи смрти но аȥъ самъ
+# sent_id = 200317
+1	не	не	ADV	Df	_	2	advmod	_	ref=
+2	ты	ты	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	ref=
+3	повиненъ	повиньныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	0	root	_	ref=
+4	моеи	мои	ADJ	Ps	Case=Dat|Gender=Fem|Number=Sing|Person=1|Poss=Yes	5	nmod	_	ref=
+5	смрти	съмьрть	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	3	iobj	_	ref=
+6	но	нъ	CCONJ	C-	_	2	cc	_	ref=
+7	аȥъ	азъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	2	conj	_	ref=
+8	самъ	самъ	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	7	det	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = дракѹла ж расмиѧ сѧ и реч
+# sent_id = 200318
+1	дракѹла	дракула	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	ж	же	ADV	Df	_	3	advmod	_	ref=
+3	расмиѧ	расмѣяти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=
+5	и	и	CCONJ	C-	_	3	cc	_	ref=
+6	реч	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = аще бы ми еси не тако ѿвѣщал во истинѹ бы был еси на семъ колѣ
+# sent_id = 200543
+1	аще	аще	SCONJ	G-	_	7	mark	_	ref=
+2	бы	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	7	aux	_	ref=
+3	ми	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	iobj	_	ref=
+4	еси	быти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	ref=
+5	не	не	ADV	Df	_	7	advmod	_	ref=
+6	тако	тако	ADV	Df	_	7	advmod	_	ref=
+7	ѿвѣщал	отъвѣщати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	11	advcl	_	ref=
+8	во	въ	ADP	R-	_	9	case	_	ref=
+9	истинѹ	истина	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	11	obl	_	ref=
+10	бы	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	11	aux	_	ref=
+11	был	быти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+12	еси	быти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux	_	ref=
+13	на	на	ADP	R-	_	15	case	_	ref=
+14	семъ	сии	DET	Pd	Case=Loc|Gender=Masc|Number=Sing	15	det	_	ref=
+15	колѣ	колъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	11	xcomp	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и почти его велми
+# sent_id = 200319
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	почти	почьтити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj:dir	_	ref=
+4	велми	вельми	ADV	Df	_	2	advmod	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и ѡдаривъ ѿпѹсти глѧ
+# sent_id = 200544
+1	и	и	CCONJ	C-	_	3	cc	_	ref=
+2	ѡдаривъ	одарити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	3	advcl	_	ref=
+3	ѿпѹсти	отъпустити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	глѧ	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	3	advcl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ты в правдѹ ходи на поклисарство ѿ великых гдреи к великым ѡгдремъ
+# sent_id = 200545
+1	ты	ты	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	ref=
+2	в	въ	ADP	R-	_	3	case	_	ref=
+3	правдѹ	правьда	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	ref=
+4	ходи	ходити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	на	на	ADP	R-	_	6	case	_	ref=
+6	поклисарство	поклисарьство	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	ref=
+7	ѿ	отъ	ADP	R-	_	9	case	_	ref=
+8	великых	великыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	9	amod	_	ref=
+9	гдреи	государь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	4	obl	_	ref=
+10	к	къ	ADP	R-	_	12	case	_	ref=
+11	великым	великыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	12	amod	_	ref=
+12	ѡгдремъ	государь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	4	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = наѹчен бо еси съ гдрьми великыми говорити
+# sent_id = 200320
+1	наѹчен	научити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	3	xcomp	_	ref=
+2	бо	бо	ADV	Df	_	3	advmod	_	ref=
+3	еси	быти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	съ	съ	ADP	R-	_	5	case	_	ref=
+5	гдрьми	государь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	7	obl	_	ref=
+6	великыми	великыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	5	amod	_	ref=
+7	говорити	говорити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = прочїи же да не дерȥнѹть но первое ѹчими бѹдѹть какъ имъ съ гдрьми великыми бесѣдовати
+# sent_id = 200321
+1	прочїи	прочии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	5	nsubj	_	ref=
+2	же	же	ADV	Df	_	5	advmod	_	ref=
+3	да	да#1	ADV	Df	_	5	advmod	_	ref=
+4	не	не	ADV	Df	_	5	advmod	_	ref=
+5	дерȥнѹть	дьрзнути	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	но	нъ	CCONJ	C-	_	5	cc	_	ref=
+7	первое	пьрвое	ADV	Df	_	9	advmod	_	ref=
+8	ѹчими	учити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Pass	9	xcomp	_	ref=
+9	бѹдѹть	быти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	5	conj	_	ref=
+10	какъ	како	ADV	Du	PronType=Int	15	advmod	_	ref=
+11	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	ref=
+12	съ	съ	ADP	R-	_	13	case	_	ref=
+13	гдрьми	государь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	15	obl	_	ref=
+14	великыми	великыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	13	amod	_	ref=
+15	бесѣдовати	бесѣдовати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	csubj:pass	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = таковъ ѡбычаи имѣаше дракѹла
+# sent_id = 200323
+1	таковъ	таковыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	2	amod	_	ref=
+2	ѡбычаи	обычаи	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obj:dir	_	ref=
+3	имѣаше	имѣти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	дракѹла	дракула	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѿколе к немꙋ прихождаше посолъ ѿ црѧ ил ѿ королѧ неиȥѧщенъ и не ѹмѣаше противъ коȥнем кто ѿвѣщати то на колъ его всажаше глѧ
+# sent_id = 200324
+1	ѿколе	отъколѣ	ADV	Dq	PronType=Rel	4	advmod	_	ref=
+2	к	къ	ADP	R-	_	3	case	_	ref=
+3	немꙋ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	ref=
+4	прихождаше	приходити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	19	advcl	_	ref=
+5	посолъ	посълъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=
+6	ѿ	отъ	ADP	R-	_	7	case	_	ref=
+7	црѧ	цѣсарь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	obl	_	ref=
+8	ил	или	CCONJ	C-	_	7	cc	_	ref=
+9	ѿ	отъ	ADP	R-	_	10	case	_	ref=
+10	королѧ	король	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	conj	_	ref=
+11	неиȥѧщенъ	неизящьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	5	amod	_	ref=
+12	и	и	CCONJ	C-	_	11	cc	_	ref=
+13	не	не	ADV	Df	_	14	advmod	_	ref=
+14	ѹмѣаше	умѣти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	ref=
+15	противъ	противъ	ADP	R-	_	16	case	_	ref=
+16	коȥнем	къзнь	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	18	obl	_	ref=
+17	кто	къто	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	14	nsubj	_	ref=
+18	ѿвѣщати	отъвѣщати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	14	xcomp	_	ref=
+19	то	то	ADV	Df	_	23	advmod	_	ref=
+20	на	на	ADP	R-	_	21	case	_	ref=
+21	колъ	колъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	23	obl	_	ref=
+22	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	obj:dir	_	ref=
+23	всажаше	въсажати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+24	глѧ	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	23	advcl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = не аȥъ повиненъ твоеи смрти ил гдръ твои ил ты самъ
+# sent_id = 200546
+1	не	не	ADV	Df	_	2	advmod	_	ref=
+2	аȥъ	азъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	ref=
+3	повиненъ	повиньныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	0	root	_	ref=
+4	твоеи	твои	ADJ	Ps	Case=Dat|Gender=Fem|Number=Sing|Person=2|Poss=Yes	5	nmod	_	ref=
+5	смрти	съмьрть	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	3	iobj	_	ref=
+6	ил	или	CCONJ	C-	_	7	cc	_	ref=
+7	гдръ	государь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	ref=
+8	твои	твои	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes	7	nmod	_	ref=
+9	ил	или	CCONJ	C-	_	7	cc	_	ref=
+10	ты	ты	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	conj	_	ref=
+11	самъ	самъ	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	10	det	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = на мене ничтож рци ȥла
+# sent_id = 200547
+1	на	на	ADP	R-	_	2	case	_	ref=
+2	мене	азъ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	obl	_	ref=
+3	ничтож	ничьтоже	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	4	obj:dir	_	ref=
+4	рци	рещи	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	ȥла	зъло	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = аще гдрь твои вѣдаꙗ тебе малоѹмна и не наѹчена послал тѧ есть ко мнѣ вкеликоѹмнѹ гдрю то гдрь твои ѹбил тѧ есть
+# sent_id = 200328
+1	аще	аще	SCONJ	G-	_	10	mark	_	ref=
+2	гдрь	государь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	ref=
+3	твои	твои	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes	2	nmod	_	ref=
+4	вѣдаꙗ	вѣдати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	10	advcl	_	ref=
+5	тебе	ты	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obj:dir	_	ref=
+6	малоѹмна	малоумьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	4	xcomp	_	ref=
+7	и	и	CCONJ	C-	_	6	cc	_	ref=
+8	не	не	ADV	Df	_	9	advmod	_	ref=
+9	наѹчена	научити	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	6	conj	_	ref=
+10	послал	посълати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	17	advcl	_	ref=
+11	тѧ	ты	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	obj:dir	_	ref=
+12	есть	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	ref=
+13	ко	къ	ADP	R-	_	14	case	_	ref=
+14	мнѣ	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	10	obl	_	ref=
+15	вкеликоѹмнѹ	великоумьныи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	16	amod	_	ref=
+16	гдрю	государь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	14	appos	_	ref=
+17	то	то	ADV	Df	_	20	advmod	_	ref=
+18	гдрь	государь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	ref=
+19	твои	твои	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes	18	nmod	_	ref=
+20	ѹбил	убити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+21	тѧ	ты	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	20	obj:dir	_	ref=
+22	есть	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	aux	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = аще л самъ дерȥнꙋлъ еси не наѹчив сѧ то самъ ѹбилъ еси себѧ
+# sent_id = 200330
+1	аще	аще	SCONJ	G-	_	4	mark	_	ref=
+2	л	ли	ADV	Df	_	11	advmod	_	ref=
+3	самъ	самъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=
+4	дерȥнꙋлъ	дьрзнути	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	9	advcl	_	ref=
+5	еси	быти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	ref=
+6	не	не	ADV	Df	_	7	advmod	_	ref=
+7	наѹчив	научити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	4	advcl	_	ref=
+8	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	7	aux	_	ref=
+9	то	то	ADV	Df	_	11	advmod	_	ref=
+10	самъ	самъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	ref=
+11	ѹбилъ	убити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+12	еси	быти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux	_	ref=
+13	себѧ	себе	PRON	Pk	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	11	obj:dir	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = тако поклисарю ѹчинѧше колъ высокъ и поȥлащенъ весь и на него всаждаше
+# sent_id = 200332
+1	тако	тако	ADV	Df	_	3	advmod	_	ref=
+2	поклисарю	поклисарь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	ref=
+3	ѹчинѧше	учинити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	колъ	колъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obj:dir	_	ref=
+5	высокъ	высокыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	4	amod	_	ref=
+6	и	и	CCONJ	C-	_	5	cc	_	ref=
+7	поȥлащенъ	позлатити	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	5	conj	_	ref=
+8	весь	вьсь	DET	Px	Case=Acc|Gender=Masc|Number=Sing	4	det	_	ref=
+9	и	и	CCONJ	C-	_	3	cc	_	ref=
+10	на	на	ADP	R-	_	11	case	_	ref=
+11	него	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obl	_	ref=
+12	всаждаше	въсаждати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и гдрю его тѣ рѣчи ѿписоваше с прочими да не шлет к великоѹмнѹ гдрю малоѹмна и не наѹчена мꙋжа в посольство
+# sent_id = 200334
+1	и	и	CCONJ	C-	_	6	cc	_	ref=
+2	гдрю	государь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	iobj	_	ref=
+3	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	det	_	ref=
+4	тѣ	тыи	DET	Pd	Case=Acc|Gender=Fem|Number=Plur	5	det	_	ref=
+5	рѣчи	рѣчь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	6	obj:dir	_	ref=
+6	ѿписоваше	отъписовати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+7	с	съ	ADP	R-	_	8	case	_	ref=
+8	прочими	прочии	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	6	advmod	_	ref=
+9	да	да	SCONJ	G-	_	11	mark	_	ref=
+10	не	не	ADV	Df	_	11	advmod	_	ref=
+11	шлет	сълати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	ref=
+12	к	къ	ADP	R-	_	14	case	_	ref=
+13	великоѹмнѹ	великоумьныи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	14	amod	_	ref=
+14	гдрю	государь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	11	obl	_	ref=
+15	малоѹмна	малоумьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	19	amod	_	ref=
+16	и	и	CCONJ	C-	_	15	cc	_	ref=
+17	не	не	ADV	Df	_	18	advmod	_	ref=
+18	наѹчена	научити	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	15	conj	_	ref=
+19	мꙋжа	мужь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	11	obj:dir	_	ref=
+20	в	въ	ADP	R-	_	21	case	_	ref=
+21	посольство	посъльство	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	11	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѹчиниша же емѹ мастери бочкы желѣȥны
+# sent_id = 200336
+1	ѹчиниша	учинити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	же	же	ADV	Df	_	1	advmod	_	ref=
+3	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	ref=
+4	мастери	мастеръ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=
+5	бочкы	бъчька	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	1	obj:dir	_	ref=
+6	желѣȥны	желѣзьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Strong	5	amod	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡн же насыпа их ȥлата
+# sent_id = 200337
+1	ѡн	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	насыпа	насыпати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	их	и	PRON	Pp	Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Prs	3	obj:dir	_	ref=
+5	ȥлата	злато	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	3	iobj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = в рѣкѹ положи
+# sent_id = 200548
+1	в	въ	ADP	R-	_	2	case	_	ref=
+2	рѣкѹ	рѣка	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	ref=
+3	положи	положити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = а мастеровъ тѣх посѣщи повелѣ да никтож ѹвѣсть съдѣланнаго имъ ѡкаанства токмо теȥоимениты емѹ дїаволъ
+# sent_id = 200338
+1	а	а	CCONJ	C-	_	5	cc	_	ref=
+2	мастеровъ	мастеръ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	4	obj:dir	_	ref=
+3	тѣх	тыи	DET	Pd	Case=Gen|Gender=Masc|Number=Plur	2	det	_	ref=
+4	посѣщи	посѣщи	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	xcomp	_	ref=
+5	повелѣ	повелѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	да	да	SCONJ	G-	_	8	mark	_	ref=
+7	никтож	никътоже	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=
+8	ѹвѣсть	увѣдѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	ref=
+9	съдѣланнаго	съдѣлати	VERB	V-	Case=Gen|Gender=Neut|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	11	acl	_	ref=
+10	имъ	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl:agent	_	ref=
+11	ѡкаанства	окаяньство	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	8	obj:dir	_	ref=
+12	токмо	тъкъмо#2	ADV	Df	_	7	acl	_	ref=
+13	теȥоимениты	тьзоименитыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	15	amod	_	ref=
+14	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	iobj	_	ref=
+15	дїаволъ	дияволъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = Нѣкогда ж поиде на нег воинством король ѹгорскы маттѣашь
+# sent_id = 200341
+1	Нѣкогда	нѣкъгда	ADV	Df	_	3	advmod	_	ref=
+2	ж	же	ADV	Df	_	3	advmod	_	ref=
+3	поиде	поити#1	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	на	на	ADP	R-	_	5	case	_	ref=
+5	нег	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	ref=
+6	воинством	воиньство	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	3	obl	_	ref=
+7	король	король	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+8	ѹгорскы	угърьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	7	amod	_	ref=
+9	маттѣашь	маттѣашь	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	appos	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡн же поиде противъ емѹ
+# sent_id = 200342
+1	ѡн	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	поиде	поити#1	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	противъ	противъ	ADP	R-	_	5	case	_	ref=
+5	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и срѣте сѧ с ним
+# sent_id = 200553
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	срѣте	сърѣсти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=
+4	с	съ	ADP	R-	_	5	case	_	ref=
+5	ним	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и ѹдариша с ѡбои
+# sent_id = 200554
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	ѹдариша	ударити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	с	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=
+4	ѡбои	обои	NUM	Ma	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и ѹхватиша дракѹлѹ жива ѿ своихъ иȥданъ по крамолѣ
+# sent_id = 200343
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	ѹхватиша	ухватити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	дракѹлѹ	дракула	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	2	obj:dir	_	ref=
+4	жива	живыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	2	advmod	_	ref=
+5	ѿ	отъ	ADP	R-	_	6	case	_	ref=
+6	своихъ	свои	ADJ	Pt	Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	7	obl:agent	_	ref=
+7	иȥданъ	издати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	2	advcl	_	ref=
+8	по	по	ADP	R-	_	9	case	_	ref=
+9	крамолѣ	крамола	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	7	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и приведенъ быс дракѹла ко кралю
+# sent_id = 200344
+1	и	и	CCONJ	C-	_	3	cc	_	ref=
+2	приведенъ	привести	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	3	xcomp	_	ref=
+3	быс	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	дракѹла	дракула	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+5	ко	къ	ADP	R-	_	6	case	_	ref=
+6	кралю	краль	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и повелѣ его метнѹти в темницю
+# sent_id = 200555
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	повелѣ	повелѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj:dir	_	ref=
+4	метнѹти	метнути	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+5	в	въ	ADP	R-	_	6	case	_	ref=
+6	темницю	тьмьница	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и сѣде в вышеградѣ на дѹнаи выше бѹдина ві҃ лѣт
+# sent_id = 200345
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	сѣде	сѣсти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	в	въ	ADP	R-	_	4	case	_	ref=
+4	вышеградѣ	вышеградъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	2	obl	_	ref=
+5	на	на	ADP	R-	_	6	case	_	ref=
+6	дѹнаи	дунаи	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	3	appos	_	ref=
+7	выше	выше	ADV	Df	_	3	appos	_	ref=
+8	бѹдина	будинъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	7	iobj	_	ref=
+9	ві҃	дъванадесять	NUM	Ma	_	2	obl	_	ref=
+10	лѣт	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = а на мѹнтьꙗнскои ȥемли посади иного воеводѹ
+# sent_id = 200346
+1	а	а	CCONJ	C-	_	5	cc	_	ref=
+2	на	на	ADP	R-	_	4	case	_	ref=
+3	мѹнтьꙗнскои	мунтьяньскыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	4	amod	_	ref=
+4	ȥемли	земля	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	5	obl	_	ref=
+5	посади	посадити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	иного	иныи	DET	Px	Case=Gen|Gender=Masc|Number=Sing	7	det	_	ref=
+7	воеводѹ	воевода	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	obj:dir	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѹмершѹ же томѹ воеводѣ и краль пѹсти к немѹ в темницю да аще восхощет быти воевода на мѹнтїанской ȥемли ꙗкож и первїе то да латиньскѹю вѣрѹ прїиметь
+# sent_id = 200347
+1	ѹмершѹ	умрѣти	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=
+2	же	же	ADV	Df	_	1	advmod	_	ref=
+3	томѹ	тыи	DET	Pd	Case=Dat|Gender=Masc|Number=Sing	4	det	_	ref=
+4	воеводѣ	воевода	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	nsubj	_	ref=
+5	и	и	CCONJ	C-	_	1	cc	_	ref=
+6	краль	краль	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=
+7	пѹсти	пустити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=
+8	к	къ	ADP	R-	_	9	case	_	ref=
+9	немѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	ref=
+10	в	въ	ADP	R-	_	11	case	_	ref=
+11	темницю	тьмьница	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	appos	_	ref=
+12	да	да	SCONJ	G-	_	27	mark	_	ref=
+13	аще	аще	SCONJ	G-	_	14	mark	_	ref=
+14	восхощет	въсхотѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	advcl	_	ref=
+15	быти	быти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	14	xcomp	_	ref=
+16	воевода	воевода	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	15	xcomp	_	ref=
+17	на	на	ADP	R-	_	19	case	_	ref=
+18	мѹнтїанской	мунтьяньскыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	19	amod	_	ref=
+19	ȥемли	земля	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	15	obl	_	ref=
+20	ꙗкож	якоже	ADV	Df	_	15	advmod	_	ref=
+21	и	и	ADV	Df	_	22	advmod	_	ref=
+22	первїе	пьрвѣе	ADV	Df	_	20	advmod	_	ref=
+23	то	то	ADV	Df	_	27	advmod	_	ref=
+24	да	да#1	ADV	Df	_	27	advmod	_	ref=
+25	латиньскѹю	латиньскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	26	amod	_	ref=
+26	вѣрѹ	вѣра	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	27	obj:dir	_	ref=
+27	прїиметь	прияти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	ccomp	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = аще л же ни то ѹмрети в темници хощеть
+# sent_id = 200570
+1	аще	аще	SCONJ	G-	_	4	mark	_	ref=
+2	л	ли	ADV	Df	_	9	advmod	_	ref=
+3	же	же	ADV	Df	_	9	advmod	_	ref=
+4	ни	ни	ADV	Df	_	5	appos	_	ref=
+5	то	то	ADV	Df	_	9	advmod	_	ref=
+6	ѹмрети	умрѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	xcomp	_	ref=
+7	в	въ	ADP	R-	_	8	case	_	ref=
+8	темници	тьмьница	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	6	obl	_	ref=
+9	хощеть	хотѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = дракѹла же воȥлюби паче временнаго свѣта сладость нежели вѣчнаго и бесконечнаго
+# sent_id = 200354
+1	дракѹла	дракула	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	воȥлюби	възлюбити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	паче	паче	ADV	Df	_	3	advmod	_	ref=
+5	временнаго	врѣменьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	6	amod	_	ref=
+6	свѣта	свѣтъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	ref=
+7	сладость	сладость	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obj:dir	_	ref=
+8	нежели	нежели	ADV	Df	_	4	advmod	_	ref=
+9	вѣчнаго	вѣчьныи#1	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	8	obj:dir	_	ref=
+10	и	и	CCONJ	C-	_	9	cc	_	ref=
+11	бесконечнаго	бесконьчьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	9	conj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и ѿпаде православїѧ
+# sent_id = 200356
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	ѿпаде	отъпасти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	православїѧ	православие	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	2	iobj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и ѿстѹпи ѿ истинны
+# sent_id = 200357
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	ѿстѹпи	отъступити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	ѿ	отъ	ADP	R-	_	4	case	_	ref=
+4	истинны	истина	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	2	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и ѡстави свѣтъ и прїа тмѹ
+# sent_id = 200358
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	ѡстави	оставити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	свѣтъ	свѣтъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	obj:dir	_	ref=
+4	и	и	CCONJ	C-	_	2	cc	_	ref=
+5	прїа	прияти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=
+6	тмѹ	тьма	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѹвы не воȥможе темничныѧ временныѧ тѧготы понести
+# sent_id = 200359
+1	ѹвы	увы	INTJ	I-	_	3	vocative	_	ref=
+2	не	не	ADV	Df	_	3	advmod	_	ref=
+3	воȥможе	възмощи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	темничныѧ	тьмьничьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	6	amod	_	ref=
+5	временныѧ	врѣменьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	6	amod	_	ref=
+6	тѧготы	тягота	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	obj:dir	_	ref=
+7	понести	понести	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и ѹготова сѧ на бесконечное мчнїе
+# sent_id = 200360
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	ѹготова	уготовати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=
+4	на	на	ADP	R-	_	6	case	_	ref=
+5	бесконечное	бесконьчьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	6	amod	_	ref=
+6	мчнїе	мучение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и ѡстави православнѹю нашѹ вѣрѹ
+# sent_id = 200361
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	ѡстави	оставити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	православнѹю	православьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	5	amod	_	ref=
+4	нашѹ	нашь	ADJ	Ps	Case=Acc|Gender=Fem|Number=Sing|Person=1|Poss=Yes	5	nmod	_	ref=
+5	вѣрѹ	вѣра	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj:dir	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и прїатъ латыньскѹю прелесть
+# sent_id = 200362
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	прїатъ	прияти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	латыньскѹю	латыньскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	4	amod	_	ref=
+4	прелесть	прѣльсть	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj:dir	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = крал же не токмо дасть емѹ воеводство на мѹнтьꙗнскои ȥемли но и сестрѹ свою роднѹю дасть емѹ в женѹ ѿ неѧже роди два сна
+# sent_id = 200363
+1	крал	краль	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=
+2	же	же	ADV	Df	_	5	advmod	_	ref=
+3	не	не	ADV	Df	_	4	advmod	_	ref=
+4	токмо	тъкъмо#1	ADV	Df	_	5	advmod	_	ref=
+5	дасть	дати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	ref=
+7	воеводство	воеводьство	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obj:dir	_	ref=
+8	на	на	ADP	R-	_	10	case	_	ref=
+9	мѹнтьꙗнскои	мунтьяньскыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	10	amod	_	ref=
+10	ȥемли	земля	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	7	nmod	_	ref=
+11	но	нъ	CCONJ	C-	_	5	cc	_	ref=
+12	и	и	ADV	Df	_	13	advmod	_	ref=
+13	сестрѹ	сестра	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	16	obj:dir	_	ref=
+14	свою	свои	ADJ	Pt	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	13	nmod	_	ref=
+15	роднѹю	родьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	13	amod	_	ref=
+16	дасть	дати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	ref=
+17	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	iobj	_	ref=
+18	в	въ	ADP	R-	_	19	case	_	ref=
+19	женѹ	жена	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	16	obl	_	ref=
+20	ѿ	отъ	ADP	R-	_	21	case	_	ref=
+21	неѧже	иже	PRON	Pr	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	22	obl	_	ref=
+22	роди	родити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	acl	_	ref=
+23	два	дъва	NUM	Ma	Case=Acc|Gender=Masc|Number=Dual	24	nummod	_	ref=
+24	сна	сынъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Dual	22	obj:dir	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = пожив же мало ꙗко і҃ лѣт и тако сконча сѧ в тои прельсти
+# sent_id = 200366
+1	пожив	пожити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=
+2	же	же	ADV	Df	_	1	advmod	_	ref=
+3	мало	мало	ADV	Df	_	1	advmod	_	ref=
+4	ꙗко	яко	ADV	Df	_	5	advmod	_	ref=
+5	і҃	десять	NUM	Ma	_	3	appos	_	ref=
+6	лѣт	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	ref=
+7	и	и	CCONJ	C-	_	1	cc	_	ref=
+8	тако	тако	ADV	Df	_	9	advmod	_	ref=
+9	сконча	съконьчати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=
+10	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	9	aux	_	ref=
+11	в	въ	ADP	R-	_	13	case	_	ref=
+12	тои	тыи	DET	Pd	Case=Loc|Gender=Fem|Number=Sing	13	det	_	ref=
+13	прельсти	прѣльсть	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	9	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = глют же ѡ немь ꙗко и в темници сѣдѧ не ѡста сѧ своего ȥлаго ѡбычаꙗ но мыши ловѧ и птици на торгѹ покѹпаꙗ и тако каȥнѧше ихъ
+# sent_id = 200368
+1	глют	глаголати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	же	же	ADV	Df	_	1	advmod	_	ref=
+3	ѡ	о	ADP	R-	_	4	case	_	ref=
+4	немь	и	PRON	Pp	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	ref=
+5	ꙗко	яко	SCONJ	G-	_	11	mark	_	ref=
+6	и	и	ADV	Df	_	9	advmod	_	ref=
+7	в	въ	ADP	R-	_	8	case	_	ref=
+8	темници	тьмьница	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	9	obl	_	ref=
+9	сѣдѧ	сѣдѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	11	advcl	_	ref=
+10	не	не	ADV	Df	_	11	advmod	_	ref=
+11	ѡста	остати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	ref=
+12	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	11	aux	_	ref=
+13	своего	свои	ADJ	Pt	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	15	nmod	_	ref=
+14	ȥлаго	зълыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	15	amod	_	ref=
+15	ѡбычаꙗ	обычаи	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	11	iobj	_	ref=
+16	но	нъ	CCONJ	C-	_	11	cc	_	ref=
+17	мыши	мышь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	18	obj:dir	_	ref=
+18	ловѧ	ловити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	11	conj	_	ref=
+19	и	и	CCONJ	C-	_	18	cc	_	ref=
+20	птици	пътица	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	23	obj:dir	_	ref=
+21	на	на	ADP	R-	_	22	case	_	ref=
+22	торгѹ	търгъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	23	obl	_	ref=
+23	покѹпаꙗ	покупати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	18	conj	_	ref=
+24	и	и	CCONJ	C-	_	18	cc	_	ref=
+25	тако	тако	ADV	Df	_	26	advmod	_	ref=
+26	каȥнѧше	казнити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	conj	_	ref=
+27	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	26	obj:dir	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡвѹ на колъ посажаше
+# sent_id = 200370
+1	ѡвѹ	овъ	ADJ	Px	Case=Acc|Gender=Fem|Number=Sing	4	obj:dir	_	ref=
+2	на	на	ADP	R-	_	3	case	_	ref=
+3	колъ	колъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	ref=
+4	посажаше	посажати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = а инои главꙋ ѿсѣкаше
+# sent_id = 200371
+1	а	а	CCONJ	C-	_	4	cc	_	ref=
+2	инои	иныи	DET	Px	Case=Dat|Gender=Fem|Number=Sing	3	det	_	ref=
+3	главꙋ	глава	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj:dir	_	ref=
+4	ѿсѣкаше	отъсѣкати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = а со иныѧ перїе ѡщипавъ пѹскаше
+# sent_id = 200372
+1	а	а	CCONJ	C-	_	6	cc	_	ref=
+2	со	съ	ADP	R-	_	3	case	_	ref=
+3	иныѧ	иныи	ADJ	Px	Case=Gen|Gender=Fem|Number=Sing	5	obl	_	ref=
+4	перїе	перие	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obj:dir	_	ref=
+5	ѡщипавъ	ощипати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	6	advcl	_	ref=
+6	пѹскаше	пускати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и наѹчи сѧ шити и тѣмъ в темници кормлѧше с
+# sent_id = 200373
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	наѹчи	научити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=
+4	шити	шити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+5	и	и	CCONJ	C-	_	2	cc	_	ref=
+6	тѣмъ	тыи	ADJ	Pd	Case=Ins|Gender=Neut|Number=Sing	9	obl	_	ref=
+7	в	въ	ADP	R-	_	8	case	_	ref=
+8	темници	тьмьница	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	9	obl	_	ref=
+9	кормлѧше	кърмити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=
+10	с	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	9	aux	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = егда ж краль иȥведе его ис темници и приведе его на бѹдинъ и дасть емѹ домъ в пещи противѹ бѹдина и еще ѹ кралѧ не былъ слѹчи сѧ нѣкоемѹ ȥлодѣю ѹити на его дворъ
+# sent_id = 200374
+1	егда	егда	ADV	Dq	PronType=Rel	4	advmod	_	ref=
+2	ж	же	ADV	Df	_	27	advmod	_	ref=
+3	краль	краль	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=
+4	иȥведе	извести	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	27	advcl	_	ref=
+5	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj:dir	_	ref=
+6	ис	из	ADP	R-	_	7	case	_	ref=
+7	темници	тьмьница	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	obl	_	ref=
+8	и	и	CCONJ	C-	_	4	cc	_	ref=
+9	приведе	привести	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	ref=
+10	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj:dir	_	ref=
+11	на	на	ADP	R-	_	12	case	_	ref=
+12	бѹдинъ	будинъ	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	ref=
+13	и	и	CCONJ	C-	_	4	cc	_	ref=
+14	дасть	дати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	ref=
+15	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	iobj	_	ref=
+16	домъ	домъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	14	obj:dir	_	ref=
+17	в	въ	ADP	R-	_	18	case	_	ref=
+18	пещи	пещь	PROPN	Ne	Case=Loc|Gender=Fem|Number=Sing	16	nmod	_	ref=
+19	противѹ	противу	ADP	R-	_	20	case	_	ref=
+20	бѹдина	будинъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	17	appos	_	ref=
+21	и	и	CCONJ	C-	_	4	cc	_	ref=
+22	еще	еще	ADV	Df	_	26	advmod	_	ref=
+23	ѹ	у	ADP	R-	_	24	case	_	ref=
+24	кралѧ	краль	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	26	xcomp	_	ref=
+25	не	не	ADV	Df	_	26	advmod	_	ref=
+26	былъ	быти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	4	conj	_	ref=
+27	слѹчи	сълучити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+28	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	27	aux	_	ref=
+29	нѣкоемѹ	нѣкыи	DET	Px	Case=Dat|Gender=Masc|Number=Sing	30	det	_	ref=
+30	ȥлодѣю	зълодѣи	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	27	iobj	_	ref=
+31	ѹити	уити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	27	xcomp	_	ref=
+32	на	на	ADP	R-	_	34	case	_	ref=
+33	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	det	_	ref=
+34	дворъ	дворъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	31	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и съхрани сѧ
+# sent_id = 200556
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	съхрани	съхранити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = гонѧщїи же прїидоша и начаша искати
+# sent_id = 200378
+1	гонѧщїи	гонити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	прїидоша	приити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	и	и	CCONJ	C-	_	3	cc	_	ref=
+5	начаша	начати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=
+6	искати	искати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	xcomp	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и наидоша его
+# sent_id = 200557
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	наидоша	наити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj:dir	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = дракѹла же воставъ вȥем мечь свои искочи с полаты
+# sent_id = 200379
+1	дракѹла	дракула	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=
+2	же	же	ADV	Df	_	7	advmod	_	ref=
+3	воставъ	въстати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	7	advcl	_	ref=
+4	вȥем	възяти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	7	advcl	_	ref=
+5	мечь	мечь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj:dir	_	ref=
+6	свои	свои	ADJ	Pt	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	5	nmod	_	ref=
+7	искочи	искочити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	с	съ	ADP	R-	_	9	case	_	ref=
+9	полаты	полата	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и ѿсѣче главѹ приставꙋ ѡномѹ держащемѹ ȥлодѣѧ
+# sent_id = 200558
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	ѿсѣче	отъсѣчи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	главѹ	глава	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj:dir	_	ref=
+4	приставꙋ	приставъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	3	nmod	_	ref=
+5	ѡномѹ	онъ	DET	Pd	Case=Dat|Gender=Masc|Number=Sing	4	det	_	ref=
+6	держащемѹ	дьржати	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	ref=
+7	ȥлодѣѧ	зълодѣи	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	obj:dir	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = а ȥлодѣѧ ѿпѹсти
+# sent_id = 200380
+1	а	а	CCONJ	C-	_	3	cc	_	ref=
+2	ȥлодѣѧ	зълодѣи	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	obj:dir	_	ref=
+3	ѿпѹсти	отъпустити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = прочїи же бѣжаша
+# sent_id = 200559
+1	прочїи	прочии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	бѣжаша	бѣжати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и прїидоша к биревѹ
+# sent_id = 200560
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	прїидоша	приити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	к	къ	ADP	R-	_	4	case	_	ref=
+4	биревѹ	биревъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и повѣдаша емѹ бывшее
+# sent_id = 200381
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	повѣдаша	повѣдати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	iobj	_	ref=
+4	бывшее	быти	VERB	V-	Case=Acc|Gender=Neut|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	2	obj:dir	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = бирев же съ всѣми посадникы иде ко кралю жалѹѧ сѧ на дракѹлѹ
+# sent_id = 200382
+1	бирев	биревъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=
+2	же	же	ADV	Df	_	6	advmod	_	ref=
+3	съ	съ	ADP	R-	_	5	case	_	ref=
+4	всѣми	вьсь	DET	Px	Case=Ins|Gender=Masc|Number=Plur	5	det	_	ref=
+5	посадникы	посадьникъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	6	obl	_	ref=
+6	иде	ити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+7	ко	къ	ADP	R-	_	8	case	_	ref=
+8	кралю	краль	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	ref=
+9	жалѹѧ	жаловати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	ref=
+10	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	9	aux	_	ref=
+11	на	на	ADP	R-	_	12	case	_	ref=
+12	дракѹлѹ	дракула	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = корол же посла к немѹ вопрашаѧ
+# sent_id = 200383
+1	корол	король	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	посла	посълати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	к	къ	ADP	R-	_	5	case	_	ref=
+5	немѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	ref=
+6	вопрашаѧ	въпрашати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	3	advcl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = что ради таково ȥло ѹчини
+# sent_id = 200384
+1	что	чьто	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	5	obl	_	ref=
+2	ради	ради	ADP	R-	_	1	case	_	ref=
+3	таково	таковыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	4	amod	_	ref=
+4	ȥло	зъло	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obj:dir	_	ref=
+5	ѹчини	учинити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡн же тако ѿвѣща
+# sent_id = 200385
+1	ѡн	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=
+2	же	же	ADV	Df	_	4	advmod	_	ref=
+3	тако	тако	ADV	Df	_	4	advmod	_	ref=
+4	ѿвѣща	отъвѣщати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ȥло никое ж ѹчиних но ѡнъ самъ себе ѹбил
+# sent_id = 200386
+1	ȥло	зъло	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obj:dir	_	ref=
+2	никое	никыиже	DET	Px	Case=Acc|Gender=Neut|Number=Sing	1	det	_	ref=
+3	ж	ж	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	2	flat	_	ref=
+4	ѹчиних	учинити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	но	нъ	CCONJ	C-	_	4	cc	_	ref=
+6	ѡнъ	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	ref=
+7	самъ	самъ	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	6	det	_	ref=
+8	себе	себе	PRON	Pk	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	9	obj:dir	_	ref=
+9	ѹбил	убити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	4	conj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = находѧ раȥбоиническы на великого гдрѧ домъ всѧкъ такъ погибнеть
+# sent_id = 200561
+1	находѧ	находити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	9	advcl	_	ref=
+2	раȥбоиническы	разбоиничьскы	ADV	Df	_	1	advmod	_	ref=
+3	на	на	ADP	R-	_	6	case	_	ref=
+4	великого	великыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	5	amod	_	ref=
+5	гдрѧ	государь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	ref=
+6	домъ	домъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	ref=
+7	всѧкъ	вьсякыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	9	nsubj	_	ref=
+8	такъ	тако	ADV	Df	_	9	advmod	_	ref=
+9	погибнеть	погыбнути	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = аще л то ко мнѣ пришел бы ꙗвил и аȥъ во своемъ домѹ нашел бы того ȥлодѣѧ или бы выдалъ или просил его ѿ смрти
+# sent_id = 200390
+1	аще	аще	SCONJ	G-	_	6	mark	_	ref=
+2	л	ли	ADV	Df	_	1	advmod	_	ref=
+3	то	то	ADV	Df	_	1	advmod	_	ref=
+4	ко	къ	ADP	R-	_	5	case	_	ref=
+5	мнѣ	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	6	obl	_	ref=
+6	пришел	приити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+7	бы	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	aux	_	ref=
+8	ꙗвил	явити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	6	conj	_	ref=
+9	и	и	CCONJ	C-	_	1	cc	_	ref=
+10	аȥъ	азъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	ref=
+11	во	въ	ADP	R-	_	13	case	_	ref=
+12	своемъ	свои	ADJ	Pt	Case=Loc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	13	nmod	_	ref=
+13	домѹ	домъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	14	obl	_	ref=
+14	нашел	наити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	1	conj	_	ref=
+15	бы	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	aux	_	ref=
+16	того	тыи	DET	Pd	Case=Gen|Gender=Masc|Number=Sing	17	det	_	ref=
+17	ȥлодѣѧ	зълодѣи	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	14	obj:dir	_	ref=
+18	или	или	CCONJ	C-	_	20	cc	_	ref=
+19	бы	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	aux	_	ref=
+20	выдалъ	выдати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	14	conj	_	ref=
+21	или	или	CCONJ	C-	_	20	cc	_	ref=
+22	просил	просити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	20	conj	_	ref=
+23	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obj:dir	_	ref=
+24	ѿ	отъ	ADP	R-	_	25	case	_	ref=
+25	смрти	съмьрть	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	22	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = кралю ж повѣдаша
+# sent_id = 200393
+1	кралю	краль	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	ref=
+2	ж	же	ADV	Df	_	3	advmod	_	ref=
+3	повѣдаша	повѣдати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = корол же нача смѣѧти сѧ и дивити с его срдцю
+# sent_id = 200394
+1	корол	король	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	нача	начати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	смѣѧти	смѣяти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=
+5	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	4	aux	_	ref=
+6	и	и	CCONJ	C-	_	4	cc	_	ref=
+7	дивити	дивити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	conj	_	ref=
+8	с	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	7	aux	_	ref=
+9	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	det	_	ref=
+10	срдцю	сьрдьце	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	7	iobj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = Конец же его сице
+# sent_id = 200395
+1	Конец	коньць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=
+2	же	же	ADV	Df	_	4	advmod	_	ref=
+3	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	det	_	ref=
+4	сице	сице	ADV	Df	_	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = живѧше на мѹнтїанскои ȥемли
+# sent_id = 200562
+1	живѧше	жити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	на	на	ADP	R-	_	4	case	_	ref=
+3	мѹнтїанскои	мунтьяньскыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	4	amod	_	ref=
+4	ȥемли	земля	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	1	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и прїидоша на ȥемлю ег тѹрци
+# sent_id = 200396
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	прїидоша	приити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	на	на	ADP	R-	_	4	case	_	ref=
+4	ȥемлю	земля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	ref=
+5	ег	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	det	_	ref=
+6	тѹрци	турчинъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = начаша плѣнити
+# sent_id = 200563
+1	начаша	начати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	плѣнити	плѣнити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡн же ѹдари на них
+# sent_id = 200397
+1	ѡн	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	ѹдари	ударити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	на	на	ADP	R-	_	5	case	_	ref=
+5	них	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и побѣгоша тѹрци
+# sent_id = 200564
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	побѣгоша	побѣгнути	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	тѹрци	турчинъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = дракѹлино ж воиско беȥъ млсти начаша их сѣщи
+# sent_id = 200398
+1	дракѹлино	дракулинъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	3	amod	_	ref=
+2	ж	же	ADV	Df	_	6	advmod	_	ref=
+3	воиско	воиско	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=
+4	беȥъ	без	ADP	R-	_	5	case	_	ref=
+5	млсти	милость	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	obl	_	ref=
+6	начаша	начати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+7	их	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	obj:dir	_	ref=
+8	сѣщи	сѣщи	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	6	xcomp	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и гнаша их
+# sent_id = 200399
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	гнаша	гънати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	их	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj:dir	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = дракѹла ж ѿ радости въȥгнавъ на горѹ да видить како сѣкѹть тѹрковъ
+# sent_id = 200565
+1	дракѹла	дракула	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=
+2	ж	же	ADV	Df	_	5	advmod	_	ref=
+3	ѿ	отъ	ADP	R-	_	4	case	_	ref=
+4	радости	радость	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	obl	_	ref=
+5	въȥгнавъ	възгънати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=
+6	на	на	ADP	R-	_	7	case	_	ref=
+7	горѹ	гора	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	ref=
+8	да	да	SCONJ	G-	_	9	mark	_	ref=
+9	видить	видѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	ref=
+10	како	како	ADV	Du	PronType=Int	11	advmod	_	ref=
+11	сѣкѹть	сѣщи	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	ccomp	_	ref=
+12	тѹрковъ	турчинъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	11	obj:dir	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и ѿторгъ сѧ ѿ воиска
+# sent_id = 200400
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	ѿторгъ	отътъргнути	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=
+4	ѿ	отъ	ADP	R-	_	5	case	_	ref=
+5	воиска	воиско	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	2	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ближнїи его мнѧщи с ꙗко тѹрчинъ и ѹдари его единъ копїемъ
+# sent_id = 200566
+1	ближнїи	ближьнии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	3	nsubj	_	ref=
+2	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	det	_	ref=
+3	мнѧщи	мьнѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	ref=
+4	с	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=
+5	ꙗко	яко	SCONJ	G-	_	6	mark	_	ref=
+6	тѹрчинъ	турчинъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	ccomp	_	ref=
+7	и	и	CCONJ	C-	_	3	cc	_	ref=
+8	ѹдари	ударити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=
+9	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj:dir	_	ref=
+10	единъ	единъ	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=
+11	копїемъ	копие	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	8	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѡн же видѣвъ ꙗко ѿ своих ѹбиваемъ и тѹ ѹби своих ѹбїиць мечем своимъ е҃
+# sent_id = 200402
+1	ѡн	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	видѣвъ	видѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=
+4	ꙗко	яко	SCONJ	G-	_	7	mark	_	ref=
+5	ѿ	отъ	ADP	R-	_	6	case	_	ref=
+6	своих	свои	ADJ	Pt	Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	7	obl:agent	_	ref=
+7	ѹбиваемъ	оубивати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Pass	3	ccomp	_	ref=
+8	и	и	CCONJ	C-	_	3	cc	_	ref=
+9	тѹ	ту	ADV	Df	_	10	advmod	_	ref=
+10	ѹби	убити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=
+11	своих	свои	ADJ	Pt	Case=Gen|Gender=Fem|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	12	nmod	_	ref=
+12	ѹбїиць	убиица	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	15	nmod	_	ref=
+13	мечем	мечь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	10	obl	_	ref=
+14	своимъ	свои	ADJ	Pt	Case=Ins|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	13	nmod	_	ref=
+15	е҃	пять	NUM	Ma	_	10	obj:dir	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = его ж мноȥими копїи сбодоша
+# sent_id = 200404
+1	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj:dir	_	ref=
+2	ж	же	ADV	Df	_	5	advmod	_	ref=
+3	мноȥими	мъногыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	4	amod	_	ref=
+4	копїи	копие	NOUN	Nb	Case=Ins|Gender=Neut|Number=Plur	5	iobj	_	ref=
+5	сбодоша	събости	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и тако ѹбїенъ быс
+# sent_id = 200405
+1	и	и	CCONJ	C-	_	4	cc	_	ref=
+2	тако	тако	ADV	Df	_	4	advmod	_	ref=
+3	ѹбїенъ	убити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	4	xcomp	_	ref=
+4	быс	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = корол же сестрѹ свою вȥѧт и со двѣма сынми въ ѹгорскѹю ȥемлю на бѹдинъ
+# sent_id = 200406
+1	корол	король	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=
+2	же	же	ADV	Df	_	5	advmod	_	ref=
+3	сестрѹ	сестра	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	ref=
+4	свою	свои	ADJ	Pt	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	3	nmod	_	ref=
+5	вȥѧт	възяти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	и	и	ADV	Df	_	7	advmod	_	ref=
+7	со	съ	ADP	R-	_	9	case	_	ref=
+8	двѣма	дъва	NUM	Ma	Case=Ins|Gender=Masc|Number=Dual	9	nummod	_	ref=
+9	сынми	сынъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	3	nmod	_	ref=
+10	въ	въ	ADP	R-	_	12	case	_	ref=
+11	ѹгорскѹю	угърьскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	12	amod	_	ref=
+12	ȥемлю	земля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	ref=
+13	на	на	ADP	R-	_	14	case	_	ref=
+14	бѹдинъ	будинъ	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	10	appos	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = единъ при кралевѣ снѣ живет
+# sent_id = 200407
+1	единъ	единъ	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=
+2	при	при	ADP	R-	_	4	case	_	ref=
+3	кралевѣ	кралевь	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	4	amod	_	ref=
+4	снѣ	сынъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	ref=
+5	живет	жити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = а дрѹгїи был ѹ варадинског бископа и при нас ѹмре
+# sent_id = 200408
+1	а	а	CCONJ	C-	_	3	cc	_	ref=
+2	дрѹгїи	другыи	ADJ	Mo	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+3	был	быти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+4	ѹ	у	ADP	R-	_	6	case	_	ref=
+5	варадинског	варадиньскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	6	amod	_	ref=
+6	бископа	епископъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	xcomp	_	ref=
+7	и	и	CCONJ	C-	_	3	cc	_	ref=
+8	при	при	ADP	R-	_	9	case	_	ref=
+9	нас	мы	PRON	Pp	Case=Loc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	10	obl	_	ref=
+10	ѹмре	умрѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = а третѧго сна старѣишаг михаила тѹт же на бѹдинѹ видѣхом
+# sent_id = 200409
+1	а	а	CCONJ	C-	_	10	cc	_	ref=
+2	третѧго	третии	ADJ	Mo	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	ref=
+3	сна	сынъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	10	obj:dir	_	ref=
+4	старѣишаг	старыи	ADJ	A-	Case=Gen|Degree=Cmp|Gender=Masc|Number=Sing|Strength=Weak	3	amod	_	ref=
+5	михаила	михаилъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	appos	_	ref=
+6	тѹт	тутъ	ADV	Df	_	10	advmod	_	ref=
+7	же	же	ADV	Df	_	6	advmod	_	ref=
+8	на	на	ADP	R-	_	9	case	_	ref=
+9	бѹдинѹ	будинъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	6	appos	_	ref=
+10	видѣхом	видѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = ѿ црѧ тꙋрскаг прибѣгъ ко кралю еще не женив сѧ прижил его дракѹла съ единою дѣвкою
+# sent_id = 200567
+1	ѿ	отъ	ADP	R-	_	3	case	_	ref=
+2	црѧ	цѣсарь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	ref=
+3	тꙋрскаг	турьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	obl	_	ref=
+4	прибѣгъ	прибѣгнути	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	11	advcl	_	ref=
+5	ко	къ	ADP	R-	_	6	case	_	ref=
+6	кралю	краль	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	ref=
+7	еще	еще	ADV	Df	_	9	advmod	_	ref=
+8	не	не	ADV	Df	_	9	advmod	_	ref=
+9	женив	женити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	11	advcl	_	ref=
+10	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	9	aux	_	ref=
+11	прижил	прижити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+12	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj:dir	_	ref=
+13	дракѹла	дракула	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	ref=
+14	съ	съ	ADP	R-	_	16	case	_	ref=
+15	единою	единъ	NUM	Ma	Case=Ins|Gender=Fem|Number=Sing	16	nummod	_	ref=
+16	дѣвкою	дѣвъка	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	11	obl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = стефан же молдовскыи ȥ кралевы воли посади на мꙋнтьꙗнскои ȥемли нѣкоего воеводскаго сна влада именем
+# sent_id = 200410
+1	стефан	стефанъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=
+2	же	же	ADV	Df	_	7	advmod	_	ref=
+3	молдовскыи	молдовьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	1	amod	_	ref=
+4	ȥ	съ	ADP	R-	_	6	case	_	ref=
+5	кралевы	кралевь	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	6	amod	_	ref=
+6	воли	воля	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	obl	_	ref=
+7	посади	посадити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	на	на	ADP	R-	_	10	case	_	ref=
+9	мꙋнтьꙗнскои	мунтьяньскыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	10	amod	_	ref=
+10	ȥемли	земля	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	7	obl	_	ref=
+11	нѣкоего	нѣкыи	DET	Px	Case=Gen|Gender=Masc|Number=Sing	13	det	_	ref=
+12	воеводскаго	воеводьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	13	amod	_	ref=
+13	сна	сынъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	obj:dir	_	ref=
+14	влада	владъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	13	appos	_	ref=
+15	именем	имя	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	14	nmod	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = бысть бо тои владъ ѿ младенства инокъ
+# sent_id = 200411
+1	бысть	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	бо	бо	ADV	Df	_	1	advmod	_	ref=
+3	тои	тыи	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	4	det	_	ref=
+4	владъ	владъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=
+5	ѿ	отъ	ADP	R-	_	6	case	_	ref=
+6	младенства	младеньство	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	1	obl	_	ref=
+7	инокъ	инокъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	xcomp	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = потомъ и сщенникъ и игѹменъ в монастыри
+# sent_id = 200412
+1	потомъ	потомь	ADV	Df	_	3	advmod	_	ref=
+2	и	и	ADV	Df	_	3	advmod	_	ref=
+3	сщенникъ	священикъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=
+4	и	и	CCONJ	C-	_	3	cc	_	ref=
+5	игѹменъ	игуменъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	ref=
+6	в	въ	ADP	R-	_	7	case	_	ref=
+7	монастыри	монастырь	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	5	nmod	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = потомъ ростриг сѧ и сѣлъ на воеводство и женил сѧ
+# sent_id = 200413
+1	потомъ	потомь	ADV	Df	_	2	advmod	_	ref=
+2	ростриг	ростричи	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=
+4	и	и	CCONJ	C-	_	2	cc	_	ref=
+5	сѣлъ	сѣсти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	2	conj	_	ref=
+6	на	на	ADP	R-	_	7	case	_	ref=
+7	воеводство	воеводьство	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	ref=
+8	и	и	CCONJ	C-	_	2	cc	_	ref=
+9	женил	женити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	2	conj	_	ref=
+10	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	9	aux	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = понѧлъ воеводскѹю женѹ иже после дракѹлы мало побилъ
+# sent_id = 200414
+1	понѧлъ	поняти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+2	воеводскѹю	воеводьскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	3	amod	_	ref=
+3	женѹ	жена	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj:dir	_	ref=
+4	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	_	ref=
+5	после	послѣ	ADP	R-	_	6	case	_	ref=
+6	дракѹлы	дракула	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	8	xcomp	_	ref=
+7	мало	мало	ADV	Df	_	5	advmod	_	ref=
+8	побилъ	побыти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	2	acl	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и ѹбилъ его стефанъ волосьскьї
+# sent_id = 200416
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	ѹбилъ	убити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+3	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj:dir	_	ref=
+4	стефанъ	стефанъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=
+5	волосьскьї	волошьскыи#1	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = того женѹ понѧлъ
+# sent_id = 200568
+1	того	тыи	DET	Pd	Case=Gen|Gender=Masc|Number=Sing	2	det	_	ref=
+2	женѹ	жена	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obj:dir	_	ref=
+3	понѧлъ	поняти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = и ннѣ воевода на мѹнтьꙗнскои ȥемли владъ иже бывьї чернець и игѹменъ
+# sent_id = 200569
+1	и	и	CCONJ	C-	_	3	cc	_	ref=
+2	ннѣ	нынѣ	ADV	Df	_	3	advmod	_	ref=
+3	воевода	воевода	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=
+4	на	на	ADP	R-	_	6	case	_	ref=
+5	мѹнтьꙗнскои	мунтьяньскыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	6	amod	_	ref=
+6	ȥемли	земля	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	3	obl	_	ref=
+7	владъ	владъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+8	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	9	nsubj	_	ref=
+9	бывьї	быти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	7	acl	_	ref=
+10	чернець	чьрньць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	xcomp	_	ref=
+11	и	и	CCONJ	C-	_	10	cc	_	ref=
+12	игѹменъ	игуменъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	conj	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = в лѣт ѕ҃ ц҃ ч д҃ фев гі҃ преж писал
+# sent_id = 200417
+1	в	въ	ADP	R-	_	2	case	_	ref=
+2	лѣт	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	10	obl	_	ref=
+3	ѕ҃	шесть.тысячь	NUM	Ma	_	2	nummod	_	ref=
+4	ц҃	девятьсътъ	NUM	Ma	_	3	conj	_	ref=
+5	ч	девяносто	NUM	Ma	_	3	conj	_	ref=
+6	д҃	четыре	NUM	Ma	_	3	conj	_	ref=
+7	фев	февраль	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	ref=
+8	гі҃	тринадесять	NUM	Ma	_	10	obl	_	ref=
+9	преж	прѣже	ADV	Df	_	10	advmod	_	ref=
+10	писал	пьсати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = The Tale of Dracula, The Tale of Dracula
+# text = та ж В лѣт ѕ҃ ц҃ ч и҃ ген к и҃ в дрѹге преписах аȥъ грѣшны ефросинъ
+# sent_id = 200420
+1	та	таже	ADV	Df	_	14	advmod	_	ref=
+2	ж	ж	ADV	Df	_	1	flat	_	ref=
+3	В	въ	ADP	R-	_	4	case	_	ref=
+4	лѣт	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	14	obl	_	ref=
+5	ѕ҃	шесть.тысячь	NUM	Ma	_	4	nummod	_	ref=
+6	ц҃	девятьсътъ	NUM	Ma	_	5	conj	_	ref=
+7	ч	девяносто	NUM	Ma	_	5	conj	_	ref=
+8	и҃	осмь	NUM	Ma	_	5	conj	_	ref=
+9	ген	генварь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	ref=
+10	к	дъвадесяти	NUM	Ma	_	14	obl	_	ref=
+11	и҃	осмь	NUM	Ma	_	10	conj	_	ref=
+12	в	въ	ADP	R-	_	13	case	_	ref=
+13	дрѹге	другыи	ADJ	Mo	Case=Acc|Gender=Masc|Number=Plur	14	advmod	_	ref=
+14	преписах	прѣписати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+15	аȥъ	азъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	ref=
+16	грѣшны	грѣшьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	17	amod	_	ref=
+17	ефросинъ	ефросинъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	15	appos	_	ref=
+

@@ -1,0 +1,1163 @@
+
+# source = Vesti-Kuranty, From Gdansk, May 3, 1656
+# text = а свѣиские люди из литовскихъ мѣстъ вышли
+# sent_id = 207285
+1	а	а	CCONJ	C-	_	7	cc	_	ref=
+2	свѣиские	свѣискыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	3	amod	_	ref=
+3	люди	людие	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	ref=
+4	из	из	ADP	R-	_	6	case	_	ref=
+5	литовскихъ	литъвьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	6	amod	_	ref=
+6	мѣстъ	мѣсто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	7	obl	_	ref=
+7	вышли	выити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Vesti-Kuranty, From Gdansk, May 3, 1656
+# text = а гдѣ стоѧли все пожгли и раѕорили
+# sent_id = 207284
+1	а	а	CCONJ	C-	_	5	cc	_	ref=
+2	гдѣ	къдѣ	ADV	Dq	PronType=Rel	3	advmod	_	ref=
+3	стоѧли	стояти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	5	advcl	_	ref=
+4	все	вьсь	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	5	obj:dir	_	ref=
+5	пожгли	пожещи	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+6	и	и	CCONJ	C-	_	5	cc	_	ref=
+7	раѕорили	разорити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	5	conj	_	ref=
+
+# source = Vesti-Kuranty, From Gdansk, May 3, 1656
+# text = і вѣсти доходѧть что и Краков ꙋчинил сѧ за полскимъ королемъ по прежнему
+# sent_id = 207283
+1	і	и	CCONJ	C-	_	3	cc	_	ref=
+2	вѣсти	вѣсть	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	ref=
+3	доходѧть	доходити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	что	чьто	SCONJ	G-	_	7	mark	_	ref=
+5	и	и	ADV	Df	_	6	advmod	_	ref=
+6	Краков	краковъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=
+7	ꙋчинил	учинити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	2	ccomp	_	ref=
+8	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	7	aux	_	ref=
+9	за	за	ADP	R-	_	11	case	_	ref=
+10	полскимъ	польскыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	11	amod	_	ref=
+11	королемъ	король	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	7	obl	_	ref=
+12	по	по	ADP	R-	_	13	case	_	ref=
+13	прежнему	прѣжьнии	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	7	advmod	_	ref=
+
+# source = Vesti-Kuranty, From Gdansk, May 3, 1656
+# text = а котѡрые свѣиские люди стоѧли в городе Торне и то мѣсто все раѕорили ж
+# sent_id = 207286
+1	а	а	CCONJ	C-	_	5	cc	_	ref=
+2	котѡрые	которыи	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	4	det	_	ref=
+3	свѣиские	свѣискыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	4	amod	_	ref=
+4	люди	людие	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	ref=
+5	стоѧли	стояти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+6	в	въ	ADP	R-	_	7	case	_	ref=
+7	городе	городъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	ref=
+8	Торне	торна	PROPN	Ne	Case=Loc|Gender=Fem|Number=Sing	7	appos	_	ref=
+9	и	и	CCONJ	C-	_	5	cc	_	ref=
+10	то	тыи	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	11	det	_	ref=
+11	мѣсто	мѣсто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	13	obj:dir	_	ref=
+12	все	вьсь	DET	Px	Case=Acc|Gender=Neut|Number=Sing	11	det	_	ref=
+13	раѕорили	разорити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	5	conj	_	ref=
+14	ж	же	ADV	Df	_	13	advmod	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = Переведено с печатных вестовых листов
+# sent_id = 207235
+1	Переведено	перевести	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=
+2	с	съ	ADP	R-	_	5	case	_	ref=
+3	печатных	печатьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	5	amod	_	ref=
+4	вестовых	вѣстовыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	5	amod	_	ref=
+5	листов	листъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	1	obl	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = в ннешнем во Р ѯ Д м году июля въ К Ѳ де Которыми статями и мѣрами корол полскои ꙋ шведовъ Варшавꙋ достꙋпал и достꙋпил
+# sent_id = 207290
+1	в	въ	ADP	R-	_	3	appos	_	ref=
+2	ннешнем	нынѣшьнии	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	8	advmod	_	ref=
+3	во	въ	ADP	R-	_	8	case	_	ref=
+4	Р	съто	NUM	Ma	_	8	nummod	_	ref=
+5	ѯ	шестьдесятъ	NUM	Ma	_	4	conj	_	ref=
+6	Д	четвьртыи	ADJ	Mo	Case=Loc|Gender=Masc|Number=Sing	4	conj	_	ref=
+7	м	м	ADJ	Mo	Case=Loc|Gender=Masc|Number=Sing	6	flat	_	ref=
+8	году	годъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	0	root	_	ref=
+9	июля	иулии	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	ref=
+10	въ	въ	ADP	R-	_	13	case	_	ref=
+11	К	дъвадесяти	NUM	Ma	_	13	nummod	_	ref=
+12	Ѳ	девять	NUM	Ma	_	11	conj	_	ref=
+13	де	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	ref=
+14	Которыми	которыи	PRON	Pi	Case=Ins|Gender=Fem|Number=Plur|PronType=Int	15	det	_	ref=
+15	статями	статия	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	23	obl	_	ref=
+16	и	и	CCONJ	C-	_	15	cc	_	ref=
+17	мѣрами	мѣра	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	15	conj	_	ref=
+18	корол	король	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	ref=
+19	полскои	польскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	18	amod	_	ref=
+20	ꙋ	у	ADP	R-	_	21	case	_	ref=
+21	шведовъ	шведъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	23	obl	_	ref=
+22	Варшавꙋ	варшава	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	23	obj:dir	_	ref=
+23	достꙋпал	доступати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	8	ccomp	_	ref=
+24	и	и	CCONJ	C-	_	23	cc	_	ref=
+25	достꙋпил	доступити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	23	conj	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = В начале о пристꙋпе города Варшавы подлинная вѣдомость нам ꙋчинила с і вѣдомо какъ в мире бывает
+# sent_id = 207291
+1	В	въ	ADP	R-	_	2	case	_	ref=
+2	начале	начало	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	10	obl	_	ref=
+3	о	о	ADP	R-	_	4	case	_	ref=
+4	пристꙋпе	приступъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	8	nmod	_	ref=
+5	города	городъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	ref=
+6	Варшавы	варшава	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	5	appos	_	ref=
+7	подлинная	подълиньныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	8	amod	_	ref=
+8	вѣдомость	вѣдомость	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	ref=
+9	нам	мы	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	10	iobj	_	ref=
+10	ꙋчинила	учинити	VERB	V-	Aspect=Res|Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+11	с	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	10	aux	_	ref=
+12	і	и	CCONJ	C-	_	10	cc	_	ref=
+13	вѣдомо	вѣдѣти	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Pass	10	conj	_	ref=
+14	какъ	како	ADV	Dq	PronType=Rel	17	xcomp	_	ref=
+15	в	въ	ADP	R-	_	16	case	_	ref=
+16	мире	миръ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	17	obl	_	ref=
+17	бывает	бывати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	nsubj:pass	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = А статя такою ж мѣрою і в околичных пригородках содержит ца смѣло и храбро что дале и то болши обявлен бꙋдет воздержанои ꙋставъ к доставаню и подлинное ꙋчинение к томꙋ печатному писму которомꙋ мочно подлинно вѣрит
+# sent_id = 207292
+1	А	а	CCONJ	C-	_	10	cc	_	ref=
+2	статя	статия	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	ref=
+3	такою	такыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	ref=
+4	ж	же	ADV	Df	_	3	advmod	_	ref=
+5	мѣрою	мѣра	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	10	obl	_	ref=
+6	і	и	ADV	Df	_	7	advmod	_	ref=
+7	в	въ	ADP	R-	_	9	case	_	ref=
+8	околичных	околичьныи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	9	amod	_	ref=
+9	пригородках	пригородъкъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Plur	10	obl	_	ref=
+10	содержит	съдьржати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+11	ца	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	10	aux	_	ref=
+12	смѣло	съмѣло	ADV	Df	Degree=Pos	10	advmod	_	ref=
+13	и	и	CCONJ	C-	_	12	cc	_	ref=
+14	храбро	храбро	ADV	Df	Degree=Pos	12	conj	_	ref=
+15	что	чьто	SCONJ	G-	_	21	mark	_	ref=
+16	дале	дале	ADV	Df	Degree=Cmp	21	advmod	_	ref=
+17	и	и	ADV	Df	_	19	advmod	_	ref=
+18	то	то	ADV	Df	_	19	advmod	_	ref=
+19	болши	большии	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing|Strength=Weak	23	amod	_	ref=
+20	обявлен	объявити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	21	xcomp	_	ref=
+21	бꙋдет	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	advcl	_	ref=
+22	воздержанои	въздьржати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	23	acl	_	ref=
+23	ꙋставъ	уставъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	21	nsubj	_	ref=
+24	к	къ	ADP	R-	_	25	case	_	ref=
+25	доставаню	доставание	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	23	nmod	_	ref=
+26	и	и	CCONJ	C-	_	23	cc	_	ref=
+27	подлинное	подълиньныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	28	amod	_	ref=
+28	ꙋчинение	учинение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	23	conj	_	ref=
+29	к	къ	ADP	R-	_	32	case	_	ref=
+30	томꙋ	тыи	DET	Pd	Case=Dat|Gender=Neut|Number=Sing	32	det	_	ref=
+31	печатному	печатьныи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	32	amod	_	ref=
+32	писму	письмо	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	28	nmod	_	ref=
+33	которомꙋ	которыи	PRON	Pr	Case=Dat|Gender=Neut|Number=Sing|PronType=Rel	36	iobj	_	ref=
+34	мочно	мочьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	23	appos	_	ref=
+35	подлинно	подълиньно	ADV	Df	Degree=Pos	36	advmod	_	ref=
+36	вѣрит	вѣрити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	34	ccomp	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = Из Варшавы Г г числа июля какъ его королевское величество полскои послѣднемъ числѣ июня своему воискꙋ приказал к Варшаве в добромъ изготовлене быти
+# sent_id = 207238
+1	Из	из	ADP	R-	_	2	case	_	ref=
+2	Варшавы	варшава	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	0	root	_	ref=
+3	Г	третии	ADJ	Mo	Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	ref=
+4	г	г	ADJ	Mo	Case=Gen|Gender=Neut|Number=Sing	3	flat	_	ref=
+5	числа	число	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	2	obl	_	ref=
+6	июля	иулии	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	ref=
+7	какъ	како	ADV	Du	PronType=Int	17	advmod	_	ref=
+8	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	det	_	ref=
+9	королевское	королевьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	10	amod	_	ref=
+10	величество	величьство	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	17	nsubj	_	ref=
+11	полскои	польскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	10	appos	_	ref=
+12	послѣднемъ	послѣдьнии	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	13	amod	_	ref=
+13	числѣ	число	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	17	obl	_	ref=
+14	июня	июнь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	ref=
+15	своему	свои	ADJ	Pt	Case=Dat|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	16	nmod	_	ref=
+16	воискꙋ	воиско	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	17	iobj	_	ref=
+17	приказал	приказати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	2	ccomp	_	ref=
+18	к	къ	ADP	R-	_	19	case	_	ref=
+19	Варшаве	варшава	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	17	obl	_	ref=
+20	в	въ	ADP	R-	_	22	case	_	ref=
+21	добромъ	добрыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	22	amod	_	ref=
+22	изготовлене	изготовление	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	23	xcomp	_	ref=
+23	быти	быти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	17	xcomp	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и потом чтоб всѣмъ вѣдомо которым прибегат к городꙋ послано обявить и сказат
+# sent_id = 207240
+1	и	и	CCONJ	C-	_	10	cc	_	ref=
+2	потом	потомь	ADV	Df	_	10	advmod	_	ref=
+3	чтоб	чьтобы	SCONJ	G-	_	5	mark	_	ref=
+4	всѣмъ	вьсь	ADJ	Px	Case=Dat|Gender=Masc|Number=Plur	5	iobj	_	ref=
+5	вѣдомо	вѣдѣти	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Pass	10	advcl	_	ref=
+6	которым	которыи	PRON	Pi	Case=Dat|Gender=Masc|Number=Plur|PronType=Int	7	nsubj	_	ref=
+7	прибегат	прибѣгати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	csubj:pass	_	ref=
+8	к	къ	ADP	R-	_	9	case	_	ref=
+9	городꙋ	городъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	ref=
+10	послано	посълати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=
+11	обявить	объявити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	advcl	_	ref=
+12	и	и	CCONJ	C-	_	11	cc	_	ref=
+13	сказат	съказати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	11	conj	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и охотников или велея таров болши М тысечь к тому с великою охотою себя обявили
+# sent_id = 207241
+1	и	и	CCONJ	C-	_	15	cc	_	ref=
+2	охотников	охотьникъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	ref=
+3	или	или	CCONJ	C-	_	2	cc	_	ref=
+4	велея	велентаръ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	2	conj	_	ref=
+5	таров	таров	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	4	flat	_	ref=
+6	болши	большии	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing|Strength=Strong	15	nsubj	_	ref=
+7	М	четыредесяте	NUM	Ma	_	6	iobj	_	ref=
+8	тысечь	тысяча	NUM	Ma	Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	ref=
+9	к	къ	ADP	R-	_	10	case	_	ref=
+10	тому	тыи	ADJ	Pd	Case=Dat|Gender=Neut|Number=Sing	11	obl	_	ref=
+11	с	съ	ADP	R-	_	13	case	_	ref=
+12	великою	великыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	ref=
+13	охотою	охота	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	15	obl	_	ref=
+14	себя	себе	PRON	Pk	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	15	obj:dir	_	ref=
+15	обявили	объявити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и потомъ они А г числа июля гораздо рано во многих розных мѣстахъ которою б статею почат над городомъ посланы были и з добрым срдцемъ пристꙋпили
+# sent_id = 207293
+1	и	и	CCONJ	C-	_	21	cc	_	ref=
+2	потомъ	потомь	ADV	Df	_	21	advmod	_	ref=
+3	они	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	21	nsubj	_	ref=
+4	А	пьрвыи	ADJ	Mo	Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	ref=
+5	г	г	ADJ	Mo	Case=Gen|Gender=Neut|Number=Sing	4	flat	_	ref=
+6	числа	число	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	21	obl	_	ref=
+7	июля	иулии	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	ref=
+8	гораздо	гораздо	ADV	Df	Degree=Pos	9	advmod	_	ref=
+9	рано	рано	ADV	Df	Degree=Pos	21	advmod	_	ref=
+10	во	въ	ADP	R-	_	13	case	_	ref=
+11	многих	мъногыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	13	amod	_	ref=
+12	розных	розьныи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	13	amod	_	ref=
+13	мѣстахъ	мѣсто	NOUN	Nb	Case=Loc|Gender=Neut|Number=Plur	17	obl	_	ref=
+14	которою	которыи	DET	Px	Case=Ins|Gender=Fem|Number=Sing	16	det	_	ref=
+15	б	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	17	aux	_	ref=
+16	статею	статия	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	17	obl	_	ref=
+17	почат	почати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	20	advcl	_	ref=
+18	над	надъ	ADP	R-	_	19	case	_	ref=
+19	городомъ	городъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	17	obl	_	ref=
+20	посланы	посълати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	21	xcomp	_	ref=
+21	были	быти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+22	и	и	CCONJ	C-	_	21	cc	_	ref=
+23	з	съ	ADP	R-	_	25	case	_	ref=
+24	добрым	добрыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	25	amod	_	ref=
+25	срдцемъ	сьрдьце	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	26	obl	_	ref=
+26	пристꙋпили	приступити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	21	conj	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = а сперва от краковского пригородка шведов из бернадынского мнстря выгнал которои блиско мнишеского женского мнстря которои імянꙋет ца Кларе
+# sent_id = 207242
+1	а	а	CCONJ	C-	_	10	cc	_	ref=
+2	сперва	съпьрва	ADV	Df	_	10	advmod	_	ref=
+3	от	отъ	ADP	R-	_	5	case	_	ref=
+4	краковского	краковьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	5	amod	_	ref=
+5	пригородка	пригородъкъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	10	obl	_	ref=
+6	шведов	шведъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	10	obj:dir	_	ref=
+7	из	из	ADP	R-	_	9	case	_	ref=
+8	бернадынского	бернадыньскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	9	amod	_	ref=
+9	мнстря	монастырь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	appos	_	ref=
+10	выгнал	выгънати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+11	которои	которыи	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	12	nsubj	_	ref=
+12	блиско	близъко	ADV	Df	Degree=Pos	9	acl	_	ref=
+13	мнишеского	мънишьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	15	amod	_	ref=
+14	женского	женьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	15	amod	_	ref=
+15	мнстря	монастырь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	12	iobj	_	ref=
+16	которои	которыи	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	17	nsubj	_	ref=
+17	імянꙋет	именовати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	acl	_	ref=
+18	ца	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	17	aux	_	ref=
+19	Кларе	кларе	PROPN	Ne	_	17	xcomp	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и там они собрав ся бодро били ся покамѣста полские люди всею силою х краковским воротам пристꙋпили и одолѣли и немалым кроволитемъ в город втеснили с і в том часѣ в город почали ис пꙋшекъ бить
+# sent_id = 207243
+1	и	и	CCONJ	C-	_	7	cc	_	ref=
+2	там	тамо	ADV	Df	_	7	advmod	_	ref=
+3	они	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	ref=
+4	собрав	събьрати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	7	advcl	_	ref=
+5	ся	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	4	aux	_	ref=
+6	бодро	бъдро	ADV	Df	Degree=Pos	7	advmod	_	ref=
+7	били	бити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+8	ся	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	7	aux	_	ref=
+9	покамѣста	покамѣста	SCONJ	G-	_	17	mark	_	ref=
+10	полские	польскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	11	amod	_	ref=
+11	люди	людие	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	17	nsubj	_	ref=
+12	всею	вьсь	DET	Px	Case=Ins|Gender=Fem|Number=Sing	13	det	_	ref=
+13	силою	сила	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	17	obl	_	ref=
+14	х	къ	ADP	R-	_	16	case	_	ref=
+15	краковским	краковьскыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	16	amod	_	ref=
+16	воротам	ворота	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	17	obl	_	ref=
+17	пристꙋпили	приступити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	7	advcl	_	ref=
+18	и	и	CCONJ	C-	_	17	cc	_	ref=
+19	одолѣли	одолѣти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	17	conj	_	ref=
+20	и	и	CCONJ	C-	_	17	cc	_	ref=
+21	немалым	немалыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	22	amod	_	ref=
+22	кроволитемъ	кръволитие	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	25	obl	_	ref=
+23	в	въ	ADP	R-	_	24	case	_	ref=
+24	город	городъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	25	obl	_	ref=
+25	втеснили	вътѣсьнити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	17	conj	_	ref=
+26	с	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	25	aux	_	ref=
+27	і	и	CCONJ	C-	_	17	cc	_	ref=
+28	в	въ	ADP	R-	_	30	case	_	ref=
+29	том	тыи	DET	Pd	Case=Loc|Gender=Masc|Number=Sing	30	det	_	ref=
+30	часѣ	часъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	33	obl	_	ref=
+31	в	въ	ADP	R-	_	32	case	_	ref=
+32	город	городъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	36	obl	_	ref=
+33	почали	почати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	17	conj	_	ref=
+34	ис	из	ADP	R-	_	35	case	_	ref=
+35	пꙋшекъ	пушька	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	36	obl	_	ref=
+36	бить	бити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	33	xcomp	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и которые в городе обявленые генералные началные люді именами генерал Витемберхъ Бенедиктъ Оѯенстернъ Алеѯандръ Эскин А веихер Еоргъ Ѳоргель Лаврентеи Кантерштеин ꙋвидели великую силꙋ полскихъ людеи
+# sent_id = 207244
+1	и	и	CCONJ	C-	_	22	cc	_	ref=
+2	которые	которыи	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	8	det	_	ref=
+3	в	въ	ADP	R-	_	4	case	_	ref=
+4	городе	городъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	ref=
+5	обявленые	объявити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	8	acl	_	ref=
+6	генералные	генеральныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	8	amod	_	ref=
+7	началные	начальныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	8	amod	_	ref=
+8	люді	людие	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	22	nsubj	_	ref=
+9	именами	имя	NOUN	Nb	Case=Ins|Gender=Neut|Number=Plur	10	nmod	_	ref=
+10	генерал	генералъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	appos	_	ref=
+11	Витемберхъ	витемберхъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	ref=
+12	Бенедиктъ	бенедиктъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	conj	_	ref=
+13	Оѯенстернъ	оксенстернъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	12	flat:name	_	ref=
+14	Алеѯандръ	александръ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	conj	_	ref=
+15	Эскин	ескинъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	14	flat:name	_	ref=
+16	А	а	PROPN	Ne	_	10	conj	_	ref=
+17	веихер	веихеръ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	16	flat:name	_	ref=
+18	Еоргъ	еоргъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	conj	_	ref=
+19	Ѳоргель	форгель	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	18	flat:name	_	ref=
+20	Лаврентеи	лаврентии	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	conj	_	ref=
+21	Кантерштеин	кантерштеинъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	20	flat:name	_	ref=
+22	ꙋвидели	увидѣти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+23	великую	великыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	24	amod	_	ref=
+24	силꙋ	сила	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	22	obj:dir	_	ref=
+25	полскихъ	польскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	26	amod	_	ref=
+26	людеи	людие	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	24	nmod	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = из великие пꙋшки с стены в город стрелили
+# sent_id = 207294
+1	из	из	ADP	R-	_	3	case	_	ref=
+2	великие	великыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	3	amod	_	ref=
+3	пꙋшки	пушька	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	obl	_	ref=
+4	с	съ	ADP	R-	_	5	case	_	ref=
+5	стены	стѣна	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	obl	_	ref=
+6	в	въ	ADP	R-	_	7	case	_	ref=
+7	город	городъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	ref=
+8	стрелили	стрѣлити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и они в розмышлениі стали
+# sent_id = 207295
+1	и	и	CCONJ	C-	_	5	cc	_	ref=
+2	они	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	ref=
+3	в	въ	ADP	R-	_	4	case	_	ref=
+4	розмышлениі	размышление	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	5	obl	_	ref=
+5	стали	стати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и ꙋчали прошат договорꙋ
+# sent_id = 207250
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	ꙋчали	учати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+3	прошат	прашати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+4	договорꙋ	договоръ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	iobj	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = которого сперва с полскои стороны поляки и слышат не хотѣли
+# sent_id = 207296
+1	которого	которыи	PRON	Pr	Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	8	dep	_	ref=
+2	сперва	съпьрва	ADV	Df	_	10	advmod	_	ref=
+3	с	съ	ADP	R-	_	5	case	_	ref=
+4	полскои	польскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	5	amod	_	ref=
+5	стороны	сторона	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	10	obl	_	ref=
+6	поляки	полякъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	ref=
+7	и	и	ADV	Df	_	8	advmod	_	ref=
+8	слышат	слышати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	xcomp	_	ref=
+9	не	не	ADV	Df	_	10	advmod	_	ref=
+10	хотѣли	хотѣти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = толко сердито пристꙋпали
+# sent_id = 207297
+1	толко	только	ADV	Df	_	3	advmod	_	ref=
+2	сердито	сьрдито	ADV	Df	Degree=Pos	3	advmod	_	ref=
+3	пристꙋпали	приступати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = однако ж его королевское величество тѣмъ осаженым на два часа поволил
+# sent_id = 207251
+1	однако	одьнако	ADV	Df	_	11	advmod	_	ref=
+2	ж	же	ADV	Df	_	11	advmod	_	ref=
+3	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	det	_	ref=
+4	королевское	королевьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	5	amod	_	ref=
+5	величество	величьство	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	ref=
+6	тѣмъ	тыи	DET	Pd	Case=Dat|Gender=Masc|Number=Plur	7	det	_	ref=
+7	осаженым	осадити	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	11	iobj	_	ref=
+8	на	на	ADP	R-	_	10	case	_	ref=
+9	два	дъва	NUM	Ma	Case=Acc|Gender=Masc|Number=Dual	10	nummod	_	ref=
+10	часа	часъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Dual	11	obl	_	ref=
+11	поволил	доволити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = о чемъ шведцкие комисары какъ Кантерштеин и Ѳоргель его королевскому величеству и гсдном сенатором подлинные стати к договорꙋ подали
+# sent_id = 207298
+1	о	о	ADP	R-	_	2	case	_	ref=
+2	чемъ	чьто	PRON	Pr	Case=Loc|Gender=Neut|Number=Sing|PronType=Rel	19	obl	_	ref=
+3	шведцкие	шведьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	4	amod	_	ref=
+4	комисары	комисаръ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	19	nsubj	_	ref=
+5	какъ	како	ADV	Df	_	19	advcl	_	ref=
+6	Кантерштеин	кантерштеинъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=
+7	и	и	CCONJ	C-	_	6	cc	_	ref=
+8	Ѳоргель	форгель	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	ref=
+9	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	det	_	ref=
+10	королевскому	королевьскыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	11	amod	_	ref=
+11	величеству	величьство	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	19	iobj	_	ref=
+12	и	и	CCONJ	C-	_	11	cc	_	ref=
+13	гсдном	господинъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	11	conj	_	ref=
+14	сенатором	сенаторъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	13	appos	_	ref=
+15	подлинные	подълиньныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	16	amod	_	ref=
+16	стати	статия	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	19	obj:dir	_	ref=
+17	к	къ	ADP	R-	_	18	case	_	ref=
+18	договорꙋ	договоръ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	16	nmod	_	ref=
+19	подали	подати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = которые такъ горды были і великую гордостию вышли
+# sent_id = 207299
+1	которые	которыи	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	4	nsubj	_	ref=
+2	такъ	тако	ADV	Df	_	3	advmod	_	ref=
+3	горды	гърдыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	4	xcomp	_	ref=
+4	были	быти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+5	і	и	CCONJ	C-	_	4	cc	_	ref=
+6	великую	великыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	7	amod	_	ref=
+7	гордостию	гърдость	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	8	obl	_	ref=
+8	вышли	выити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	4	conj	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и из нихъ одинъ впрям был чтоб всѣ имѣниѧ свои что князеи Радивилов Ѧнꙋша и Богꙋслава имѣнье поволно б из Варшавы вывесть было
+# sent_id = 207255
+1	и	и	CCONJ	C-	_	6	cc	_	ref=
+2	из	из	ADP	R-	_	3	case	_	ref=
+3	нихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nmod	_	ref=
+4	одинъ	одинъ	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=
+5	впрям	въпрямь	ADV	Df	_	6	advmod	_	ref=
+6	был	быти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+7	чтоб	чьтобы	SCONJ	G-	_	23	mark	_	ref=
+8	всѣ	вьсь	DET	Px	Case=Acc|Gender=Neut|Number=Plur	9	det	_	ref=
+9	имѣниѧ	имѣние	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	22	obj:dir	_	ref=
+10	свои	свои	ADJ	Pt	Case=Acc|Gender=Neut|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	9	nmod	_	ref=
+11	что	чьто	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	17	nsubj	_	ref=
+12	князеи	кънязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	17	nmod	_	ref=
+13	Радивилов	радивилъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Plur	12	appos	_	ref=
+14	Ѧнꙋша	янушъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	12	appos	_	ref=
+15	и	и	CCONJ	C-	_	14	cc	_	ref=
+16	Богꙋслава	богуславъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	14	conj	_	ref=
+17	имѣнье	имѣние	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	9	nmod	_	ref=
+18	поволно	повольныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	23	xcomp	_	ref=
+19	б	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	23	aux	_	ref=
+20	из	из	ADP	R-	_	21	case	_	ref=
+21	Варшавы	варшава	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	22	obl	_	ref=
+22	вывесть	вывезти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	23	ccomp	_	ref=
+23	было	быти	VERB	V-	Aspect=Res|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	4	acl	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = какъ они его величества и господинов сенаторы не послꙋшали
+# sent_id = 207822
+1	какъ	како	ADV	Dq	PronType=Rel	9	advmod	_	ref=
+2	они	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	ref=
+3	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	det	_	ref=
+4	величества	величьство	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	9	iobj	_	ref=
+5	и	и	CCONJ	C-	_	4	cc	_	ref=
+6	господинов	господинъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	4	conj	_	ref=
+7	сенаторы	сенаторъ	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	2	appos	_	ref=
+8	не	не	ADV	Df	_	9	advmod	_	ref=
+9	послꙋшали	послушати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и тꙋ статью отговорили
+# sent_id = 207256
+1	и	и	CCONJ	C-	_	4	cc	_	ref=
+2	тꙋ	ту	ADV	Df	_	4	advmod	_	ref=
+3	статью	статия	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj:dir	_	ref=
+4	отговорили	отъговорити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и имъ против того от полскихъ господинов комисаров дрꙋгие отвѣты даны
+# sent_id = 207257
+1	и	и	CCONJ	C-	_	11	cc	_	ref=
+2	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	iobj	_	ref=
+3	против	противъ	ADP	R-	_	4	case	_	ref=
+4	того	тыи	ADJ	Pd	Case=Gen|Gender=Neut|Number=Sing	11	obl	_	ref=
+5	от	отъ	ADP	R-	_	7	case	_	ref=
+6	полскихъ	польскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	7	amod	_	ref=
+7	господинов	господинъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	11	obl:agent	_	ref=
+8	комисаров	комисаръ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	7	appos	_	ref=
+9	дрꙋгие	другыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	10	amod	_	ref=
+10	отвѣты	отвѣтъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	11	nsubj:pass	_	ref=
+11	даны	дати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = на которые свѣиские комисары с своими генералы помыслят
+# sent_id = 207823
+1	на	на	ADP	R-	_	2	case	_	ref=
+2	которые	которыи	PRON	Pr	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	8	obl	_	ref=
+3	свѣиские	свѣискыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	4	amod	_	ref=
+4	комисары	комисаръ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	ref=
+5	с	съ	ADP	R-	_	7	case	_	ref=
+6	своими	свои	ADJ	Pt	Case=Ins|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	7	nmod	_	ref=
+7	генералы	генералъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	8	obl	_	ref=
+8	помыслят	помыслити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = ꙋ его величества ꙋпросили и достигли по тои совести что имъ в пол часа опят с подлинным отвѣтом стати и королевское величество велить опят вытрꙋбит на приступ
+# sent_id = 207824
+1	ꙋ	у	ADP	R-	_	3	case	_	ref=
+2	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	det	_	ref=
+3	величества	величьство	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	4	obl	_	ref=
+4	ꙋпросили	упросити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+5	и	и	CCONJ	C-	_	4	cc	_	ref=
+6	достигли	достигнути	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	4	conj	_	ref=
+7	по	по	ADP	R-	_	9	case	_	ref=
+8	тои	тыи	DET	Pd	Case=Dat|Gender=Fem|Number=Sing	9	det	_	ref=
+9	совести	съвѣсть	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	6	obl	_	ref=
+10	что	чьто	SCONJ	G-	_	19	mark	_	ref=
+11	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	19	iobj	_	ref=
+12	в	въ	ADP	R-	_	13	case	_	ref=
+13	пол	полъ#1	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	19	obl	_	ref=
+14	часа	часъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	ref=
+15	опят	опять	ADV	Df	_	19	advmod	_	ref=
+16	с	съ	ADP	R-	_	18	case	_	ref=
+17	подлинным	подълиньныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	18	amod	_	ref=
+18	отвѣтом	отвѣтъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	19	obl	_	ref=
+19	стати	стати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	acl	_	ref=
+20	и	и	CCONJ	C-	_	19	cc	_	ref=
+21	королевское	королевьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	22	amod	_	ref=
+22	величество	величьство	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	23	nsubj	_	ref=
+23	велить	велѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	conj	_	ref=
+24	опят	опять	ADV	Df	_	23	advmod	_	ref=
+25	вытрꙋбит	вытрубити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	23	xcomp	_	ref=
+26	на	на	ADP	R-	_	27	case	_	ref=
+27	приступ	приступъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	25	obl	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и какъ королевское величество с комисары розошли ся и песочнои час самъ привратил
+# sent_id = 207260
+1	и	и	CCONJ	C-	_	7	cc	_	ref=
+2	какъ	како	ADV	Dq	PronType=Rel	7	advmod	_	ref=
+3	королевское	королевьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	4	amod	_	ref=
+4	величество	величьство	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	ref=
+5	с	съ	ADP	R-	_	6	case	_	ref=
+6	комисары	комисаръ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	4	nmod	_	ref=
+7	розошли	розити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+8	ся	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	7	aux	_	ref=
+9	и	и	CCONJ	C-	_	7	cc	_	ref=
+10	песочнои	пѣсъчьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	11	amod	_	ref=
+11	час	часъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	13	obj:dir	_	ref=
+12	самъ	самъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	ref=
+13	привратил	привратити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	7	conj	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и бꙋдетъ до тѣх мѣстъ какъ час изоидеть і в том часу опят ꙋчнут приступать
+# sent_id = 207828
+1	и	и	CCONJ	C-	_	8	cc	_	ref=
+2	бꙋдетъ	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	8	aux	_	ref=
+3	до	до	ADP	R-	_	5	case	_	ref=
+4	тѣх	тыи	DET	Pd	Case=Gen|Gender=Neut|Number=Plur	5	det	_	ref=
+5	мѣстъ	мѣсто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	8	obl	_	ref=
+6	какъ	како	ADV	Dq	PronType=Rel	8	advmod	_	ref=
+7	час	часъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=
+8	изоидеть	изити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+9	і	и	CCONJ	C-	_	8	cc	_	ref=
+10	в	въ	ADP	R-	_	12	case	_	ref=
+11	том	тыи	DET	Pd	Case=Loc|Gender=Masc|Number=Sing	12	det	_	ref=
+12	часу	часъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	14	obl	_	ref=
+13	опят	опять	ADV	Df	_	14	advmod	_	ref=
+14	ꙋчнут	учати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	ref=
+15	приступать	приступати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	14	xcomp	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и потом королевское величество велит стрелят к городу
+# sent_id = 207826
+1	и	и	CCONJ	C-	_	5	cc	_	ref=
+2	потом	потомь	ADV	Df	_	5	advmod	_	ref=
+3	королевское	королевьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	4	amod	_	ref=
+4	величество	величьство	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	ref=
+5	велит	велѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	стрелят	стрѣляти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	xcomp	_	ref=
+7	к	къ	ADP	R-	_	8	case	_	ref=
+8	городу	городъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = во многие розные мѣста опят вскоре пристꙋпат стали
+# sent_id = 207830
+1	во	въ	ADP	R-	_	4	case	_	ref=
+2	многие	мъногыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	4	amod	_	ref=
+3	розные	розьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	4	amod	_	ref=
+4	мѣста	мѣсто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	7	obl	_	ref=
+5	опят	опять	ADV	Df	_	8	advmod	_	ref=
+6	вскоре	въскорѣ	ADV	Df	_	8	advmod	_	ref=
+7	пристꙋпат	приступати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	xcomp	_	ref=
+8	стали	стати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и то шведы ꙋвидя что ꙋже дале того нелзя быть къ его величествꙋ своих комисаров опят послали
+# sent_id = 207825
+1	и	и	CCONJ	C-	_	17	cc	_	ref=
+2	то	тыи	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	4	obj:dir	_	ref=
+3	шведы	шведъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	17	nsubj	_	ref=
+4	ꙋвидя	увидѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	17	advcl	_	ref=
+5	что	чьто	SCONJ	G-	_	9	mark	_	ref=
+6	ꙋже	уже	ADV	Df	_	9	advmod	_	ref=
+7	дале	дале	ADV	Df	Degree=Cmp	10	advmod	_	ref=
+8	того	тыи	ADJ	Pd	Case=Gen|Gender=Neut|Number=Sing	10	nsubj	_	ref=
+9	нелзя	нельзѣ	ADV	Df	_	2	appos	_	ref=
+10	быть	быти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	ccomp	_	ref=
+11	къ	къ	ADP	R-	_	13	case	_	ref=
+12	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	det	_	ref=
+13	величествꙋ	величьство	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	17	obl	_	ref=
+14	своих	свои	ADJ	Pt	Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	15	nmod	_	ref=
+15	комисаров	комисаръ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	17	obj:dir	_	ref=
+16	опят	опять	ADV	Df	_	17	advmod	_	ref=
+17	послали	посълати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и договоря на ДІ статеи постановили
+# sent_id = 207832
+1	и	и	CCONJ	C-	_	6	cc	_	ref=
+2	договоря	договоръ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obj:dir	_	ref=
+3	на	на	ADP	R-	_	4	case	_	ref=
+4	ДІ	четырьнадесять	NUM	Ma	_	2	nummod	_	ref=
+5	статеи	статия	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	ref=
+6	постановили	постановити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и свѣискими генералы подписаны и поданы
+# sent_id = 207831
+1	и	и	CCONJ	C-	_	4	cc	_	ref=
+2	свѣискими	свѣискыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	3	amod	_	ref=
+3	генералы	генералъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	4	obl:agent	_	ref=
+4	подписаны	подъписати	VERB	V-	Case=Nom|Gender=Fem|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=
+5	и	и	CCONJ	C-	_	4	cc	_	ref=
+6	поданы	подати	VERB	V-	Case=Nom|Gender=Fem|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	4	conj	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и которые люди приступали и тѣхъ статеи не послꙋшали потому чтѡ они гораздо в срдце вошли
+# sent_id = 207261
+1	и	и	CCONJ	C-	_	4	cc	_	ref=
+2	которые	которыи	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	3	det	_	ref=
+3	люди	людие	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	ref=
+4	приступали	приступати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+5	и	и	CCONJ	C-	_	4	cc	_	ref=
+6	тѣхъ	тыи	DET	Pd	Case=Gen|Gender=Fem|Number=Plur	7	det	_	ref=
+7	статеи	статия	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	9	dep	_	ref=
+8	не	не	ADV	Df	_	9	advmod	_	ref=
+9	послꙋшали	послушати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	4	conj	_	ref=
+10	потому	потому	ADV	Df	_	9	advmod	_	ref=
+11	чтѡ	чьто	SCONJ	G-	_	16	mark	_	ref=
+12	они	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	ref=
+13	гораздо	гораздо	ADV	Df	Degree=Pos	16	advmod	_	ref=
+14	в	въ	ADP	R-	_	15	case	_	ref=
+15	срдце	сьрдьце	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	16	obl	_	ref=
+16	вошли	вънити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	10	advcl	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и по приказу его величества велено приступъ воздержат
+# sent_id = 207262
+1	и	и	CCONJ	C-	_	6	cc	_	ref=
+2	по	по	ADP	R-	_	3	case	_	ref=
+3	приказу	приказъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	ref=
+4	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	det	_	ref=
+5	величества	величьство	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	ref=
+6	велено	велѣти	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=
+7	приступъ	приступъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obj:dir	_	ref=
+8	воздержат	въздьржати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	6	csubj:pass	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и свѣиские генералы и началные люди в городе славнои памяти гсдна Осолинског бывшего великог канцлѣра в полаты
+# sent_id = 207833
+1	и	и	CCONJ	C-	_	8	cc	_	ref=
+2	свѣиские	свѣискыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	3	amod	_	ref=
+3	генералы	генералъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	ref=
+4	и	и	CCONJ	C-	_	3	cc	_	ref=
+5	началные	начальныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	6	amod	_	ref=
+6	люди	людие	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	conj	_	ref=
+7	в	въ	ADP	R-	_	8	case	_	ref=
+8	городе	городъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	0	root	_	ref=
+9	славнои	славьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	10	amod	_	ref=
+10	памяти	память	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	ref=
+11	гсдна	господинъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	ref=
+12	Осолинског	осолиньскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	11	appos	_	ref=
+13	бывшего	бывъшии	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	15	amod	_	ref=
+14	великог	великыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	15	amod	_	ref=
+15	канцлѣра	канцлѣръ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	11	appos	_	ref=
+16	в	въ	ADP	R-	_	17	case	_	ref=
+17	полаты	полата	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	appos	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = гдѣ его королевское величество их дошел
+# sent_id = 207834
+1	гдѣ	къдѣ	ADV	Dq	PronType=Rel	6	advmod	_	ref=
+2	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	det	_	ref=
+3	королевское	королевьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	4	amod	_	ref=
+4	величество	величьство	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=
+5	их	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	iobj	_	ref=
+6	дошел	доити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = і в ночи збереженым ихъ взялъ
+# sent_id = 207836
+1	і	и	CCONJ	C-	_	6	cc	_	ref=
+2	в	въ	ADP	R-	_	3	case	_	ref=
+3	ночи	ночь	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	6	obl	_	ref=
+4	збереженым	съберечи	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	6	advcl	_	ref=
+5	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	obj:dir	_	ref=
+6	взялъ	възяти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и потом шляхта и квартяное и достолное воиско ꙋслышали что тѣ генералы на такую статю здали ся что им со всѣмъ имѣнием поволно выехат бꙋдет и до вѣдомого мѣста их проводит
+# sent_id = 207835
+1	и	и	CCONJ	C-	_	9	cc	_	ref=
+2	потом	потомь	ADV	Df	_	9	advmod	_	ref=
+3	шляхта	шляхта	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	ref=
+4	и	и	CCONJ	C-	_	3	cc	_	ref=
+5	квартяное	квартяныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	8	amod	_	ref=
+6	и	и	CCONJ	C-	_	5	cc	_	ref=
+7	достолное	достольныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	5	conj	_	ref=
+8	воиско	воиско	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	3	conj	_	ref=
+9	ꙋслышали	услышати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+10	что	чьто	SCONJ	G-	_	16	mark	_	ref=
+11	тѣ	тыи	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	12	det	_	ref=
+12	генералы	генералъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	ref=
+13	на	на	ADP	R-	_	15	case	_	ref=
+14	такую	такыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	15	amod	_	ref=
+15	статю	статия	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	16	obl	_	ref=
+16	здали	съдати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	9	ccomp	_	ref=
+17	ся	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	16	aux	_	ref=
+18	что	чьто	SCONJ	G-	_	25	mark	_	ref=
+19	им	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	23	iobj	_	ref=
+20	со	съ	ADP	R-	_	22	case	_	ref=
+21	всѣмъ	вьсь	DET	Px	Case=Ins|Gender=Neut|Number=Sing	22	det	_	ref=
+22	имѣнием	имѣние	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	24	obl	_	ref=
+23	поволно	повольныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	25	xcomp	_	ref=
+24	выехат	выѣхати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	25	ccomp	_	ref=
+25	бꙋдет	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	15	acl	_	ref=
+26	и	и	CCONJ	C-	_	24	cc	_	ref=
+27	до	до	ADP	R-	_	29	case	_	ref=
+28	вѣдомого	вѣдомыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	29	amod	_	ref=
+29	мѣста	мѣсто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	31	obl	_	ref=
+30	их	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	31	obj:dir	_	ref=
+31	проводит	проводити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	24	conj	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = воли ни в чем не дали
+# sent_id = 207263
+1	воли	воля	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	obj:dir	_	ref=
+2	ни	ни	ADV	Df	_	4	advmod	_	ref=
+3	в	въ	ADP	R-	_	4	case	_	ref=
+4	чем	чьто	ADJ	Px	Case=Loc|Gender=Neut|Number=Sing	6	obl	_	ref=
+5	не	не	ADV	Df	_	6	advmod	_	ref=
+6	дали	дати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и ꙋчали его королевскомꙋ величеству говорить которые тут высокие млсти достꙋпат
+# sent_id = 207837
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	ꙋчали	учати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+3	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	det	_	ref=
+4	королевскомꙋ	королевьскыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	5	amod	_	ref=
+5	величеству	величьство	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	6	iobj	_	ref=
+6	говорить	говорити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+7	которые	которыи	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	11	nsubj	_	ref=
+8	тут	тутъ	ADV	Df	_	11	advmod	_	ref=
+9	высокие	высокыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	10	amod	_	ref=
+10	млсти	милость	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	11	iobj	_	ref=
+11	достꙋпат	доступати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	acl	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = і вѣдомыхъ людеи к немꙋ дослали
+# sent_id = 207839
+1	і	и	CCONJ	C-	_	6	cc	_	ref=
+2	вѣдомыхъ	вѣдомыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	3	amod	_	ref=
+3	людеи	людие	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	6	obj:dir	_	ref=
+4	к	къ	ADP	R-	_	5	case	_	ref=
+5	немꙋ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl	_	ref=
+6	дослали	досълати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и на том стояли чтоб тѣх генералов прочь не отпꙋстит і воли им не дат но и сверхъ того в доброе бережене до иного ꙋказу взятии
+# sent_id = 207838
+1	и	и	CCONJ	C-	_	4	cc	_	ref=
+2	на	на	ADP	R-	_	3	case	_	ref=
+3	том	тыи	ADJ	Pd	Case=Loc|Gender=Neut|Number=Sing	4	obl	_	ref=
+4	стояли	стояти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+5	чтоб	чьтобы	SCONJ	G-	_	10	mark	_	ref=
+6	тѣх	тыи	DET	Pd	Case=Gen|Gender=Masc|Number=Plur	7	det	_	ref=
+7	генералов	генералъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	10	obj:dir	_	ref=
+8	прочь	прочь	ADV	Df	_	10	advmod	_	ref=
+9	не	не	ADV	Df	_	10	advmod	_	ref=
+10	отпꙋстит	отъпустити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	acl	_	ref=
+11	і	и	CCONJ	C-	_	10	cc	_	ref=
+12	воли	воля	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	15	obj:dir	_	ref=
+13	им	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	iobj	_	ref=
+14	не	не	ADV	Df	_	15	advmod	_	ref=
+15	дат	дати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	conj	_	ref=
+16	но	нъ	CCONJ	C-	_	10	cc	_	ref=
+17	и	и	ADV	Df	_	26	advmod	_	ref=
+18	сверхъ	съвьрхъ	ADP	R-	_	19	case	_	ref=
+19	того	тыи	ADJ	Pd	Case=Gen|Gender=Neut|Number=Sing	26	obl	_	ref=
+20	в	въ	ADP	R-	_	22	case	_	ref=
+21	доброе	добрыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	22	amod	_	ref=
+22	бережене	бережение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	26	obl	_	ref=
+23	до	до	ADP	R-	_	25	case	_	ref=
+24	иного	иныи	DET	Px	Case=Gen|Gender=Masc|Number=Sing	25	det	_	ref=
+25	ꙋказу	указъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	26	obl	_	ref=
+26	взятии	възяти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	conj	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = тѣмъ шведом выговорить какъ де они стати под Краковом і в ыных мѣстех воздержали
+# sent_id = 207842
+1	тѣмъ	тыи	DET	Pd	Case=Dat|Gender=Masc|Number=Plur	2	det	_	ref=
+2	шведом	шведъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	3	iobj	_	ref=
+3	выговорить	выговорити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+4	какъ	како	ADV	Du	PronType=Int	14	advmod	_	ref=
+5	де	де	ADV	Df	_	14	advmod	_	ref=
+6	они	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	14	nsubj	_	ref=
+7	стати	статия	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	14	obj:dir	_	ref=
+8	под	подъ	ADP	R-	_	9	case	_	ref=
+9	Краковом	краковъ	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	14	obl	_	ref=
+10	і	и	CCONJ	C-	_	9	cc	_	ref=
+11	в	въ	ADP	R-	_	13	case	_	ref=
+12	ыных	иныи	DET	Px	Case=Loc|Gender=Neut|Number=Plur	13	det	_	ref=
+13	мѣстех	мѣсто	NOUN	Nb	Case=Loc|Gender=Neut|Number=Plur	9	conj	_	ref=
+14	воздержали	въздьржати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	3	ccomp	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и какъ то ꙋслышали свѣиские генералы и то им грꙋбо стало
+# sent_id = 207841
+1	и	и	CCONJ	C-	_	4	cc	_	ref=
+2	какъ	како	ADV	Dq	PronType=Rel	4	advmod	_	ref=
+3	то	тыи	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	4	obj:dir	_	ref=
+4	ꙋслышали	услышати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+5	свѣиские	свѣискыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	6	amod	_	ref=
+6	генералы	генералъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	ref=
+7	и	и	CCONJ	C-	_	4	cc	_	ref=
+8	то	тыи	ADJ	Pd	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	ref=
+9	им	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	iobj	_	ref=
+10	грꙋбо	грубо	ADV	Df	Degree=Pos	11	advmod	_	ref=
+11	стало	стати	VERB	V-	Aspect=Res|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	4	conj	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и тот договор имъ супротивен сталъ
+# sent_id = 207844
+1	и	и	CCONJ	C-	_	6	cc	_	ref=
+2	тот	тътъ	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	3	det	_	ref=
+3	договор	договоръ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=
+4	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	iobj	_	ref=
+5	супротивен	супротивьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	6	advmod	_	ref=
+6	сталъ	стати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и ꙋчели просит чтоб их опят в тот город и ѕамок пꙋстили і ворота бы ѕа ними ѕакрепили
+# sent_id = 207843
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	ꙋчели	учати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+3	просит	просити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+4	чтоб	чьтобы	SCONJ	G-	_	12	mark	_	ref=
+5	их	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	obj:dir	_	ref=
+6	опят	опять	ADV	Df	_	12	advmod	_	ref=
+7	в	въ	ADP	R-	_	9	case	_	ref=
+8	тот	тътъ	DET	Pd	Case=Acc|Gender=Masc|Number=Sing	9	det	_	ref=
+9	город	городъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	12	obl	_	ref=
+10	и	и	CCONJ	C-	_	9	cc	_	ref=
+11	ѕамок	замъкъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	9	conj	_	ref=
+12	пꙋстили	пустити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	3	ccomp	_	ref=
+13	і	и	CCONJ	C-	_	12	cc	_	ref=
+14	ворота	ворота	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	18	obj:dir	_	ref=
+15	бы	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	aux	_	ref=
+16	ѕа	за	ADP	R-	_	17	case	_	ref=
+17	ними	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	obl	_	ref=
+18	ѕакрепили	закрѣпити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	12	conj	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и из ново бы приступъ ꙋчинили
+# sent_id = 207846
+1	и	и	CCONJ	C-	_	6	cc	_	ref=
+2	из	из	ADP	R-	_	3	case	_	ref=
+3	ново	новыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	6	advmod	_	ref=
+4	бы	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	aux	_	ref=
+5	приступъ	приступъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obj:dir	_	ref=
+6	ꙋчинили	учинити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и бꙋде его величество тот договор не воздержитъ и имъ отпꙋску не ꙋчинит
+# sent_id = 207845
+1	и	и	CCONJ	C-	_	8	cc	_	ref=
+2	бꙋде	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	8	aux	_	ref=
+3	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	det	_	ref=
+4	величество	величьство	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	ref=
+5	тот	тътъ	DET	Pd	Case=Acc|Gender=Masc|Number=Sing	6	det	_	ref=
+6	договор	договоръ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obj:dir	_	ref=
+7	не	не	ADV	Df	_	8	advmod	_	ref=
+8	воздержитъ	въздьржати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+9	и	и	CCONJ	C-	_	8	cc	_	ref=
+10	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	iobj	_	ref=
+11	отпꙋску	отъпускъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	13	obj:dir	_	ref=
+12	не	не	ADV	Df	_	13	advmod	_	ref=
+13	ꙋчинит	учинити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = по тѣм шляхецким і всего воиска жестокому прошеню и его величество на то положил ся что тѣх свѣискихъ генералных началных людеи в добром крѣпком бережене ѕа приставом воздержаны бꙋдꙋт и сверхъ того тѣ которые к приступу з добрым срдцем обявили с и недрꙋгова имѣньѧ и животов что они в Варшаве наидꙋт и третю долю
+# sent_id = 207850
+1	по	по	ADP	R-	_	3	case	_	ref=
+2	тѣм	тыи	DET	Pd	Case=Dat|Gender=Masc|Number=Plur	3	det	_	ref=
+3	шляхецким	шляхецкыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	0	root	_	ref=
+4	і	и	CCONJ	C-	_	3	cc	_	ref=
+5	всего	вьсь	DET	Px	Case=Gen|Gender=Neut|Number=Sing	6	det	_	ref=
+6	воиска	воиско	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	ref=
+7	жестокому	жестъкыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	8	amod	_	ref=
+8	прошеню	прошение	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	3	conj	_	ref=
+9	и	и	CCONJ	C-	_	3	cc	_	ref=
+10	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	det	_	ref=
+11	величество	величьство	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	ref=
+12	на	на	ADP	R-	_	13	case	_	ref=
+13	то	тыи	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	14	obl	_	ref=
+14	положил	положити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	3	conj	_	ref=
+15	ся	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	14	aux	_	ref=
+16	что	чьто	SCONJ	G-	_	29	mark	_	ref=
+17	тѣх	тыи	DET	Pd	Case=Gen|Gender=Masc|Number=Plur	21	det	_	ref=
+18	свѣискихъ	свѣискыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	21	amod	_	ref=
+19	генералных	генеральныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	21	amod	_	ref=
+20	началных	начальныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	21	amod	_	ref=
+21	людеи	людие	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	29	nsubj	_	ref=
+22	в	въ	ADP	R-	_	25	case	_	ref=
+23	добром	добрыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	25	amod	_	ref=
+24	крѣпком	крѣпъкыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	25	amod	_	ref=
+25	бережене	бережение	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	28	obl	_	ref=
+26	ѕа	за	ADP	R-	_	27	case	_	ref=
+27	приставом	приставъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	28	obl	_	ref=
+28	воздержаны	въздьржати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	29	xcomp	_	ref=
+29	бꙋдꙋт	быти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	13	acl	_	ref=
+30	и	и	CCONJ	C-	_	29	cc	_	ref=
+31	сверхъ	съвьрхъ	ADP	R-	_	32	case	_	ref=
+32	того	тыи	ADJ	Pd	Case=Gen|Gender=Neut|Number=Sing	33	orphan	_	ref=
+33	тѣ	тыи	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	29	conj	_	ref=
+34	которые	которыи	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	40	nsubj	_	ref=
+35	к	къ	ADP	R-	_	36	case	_	ref=
+36	приступу	приступъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	40	obl	_	ref=
+37	з	съ	ADP	R-	_	39	case	_	ref=
+38	добрым	добрыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	39	amod	_	ref=
+39	срдцем	сьрдьце	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	40	obl	_	ref=
+40	обявили	объявити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	33	acl	_	ref=
+41	с	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	40	aux	_	ref=
+42	и	и	CCONJ	C-	_	44	cc	_	ref=
+43	недрꙋгова	недруговъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	44	amod	_	ref=
+44	имѣньѧ	имѣние	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	51	nmod	_	ref=
+45	и	и	CCONJ	C-	_	44	cc	_	ref=
+46	животов	животъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	44	conj	_	ref=
+47	что	чьто	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	51	obj:dir	_	ref=
+48	они	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	51	nsubj	_	ref=
+49	в	въ	ADP	R-	_	50	case	_	ref=
+50	Варшаве	варшава	PROPN	Ne	Case=Loc|Gender=Fem|Number=Sing	51	obl	_	ref=
+51	наидꙋт	наити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	33	orphan	_	ref=
+52	и	и	CCONJ	C-	_	51	cc	_	ref=
+53	третю	третии	ADJ	Mo	Case=Acc|Gender=Fem|Number=Sing	54	nmod	_	ref=
+54	долю	доля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	51	conj	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = а досталное приговорено в ꙋплатꙋ воинским людем розделит и тѣмъ ꙋдоволены бꙋдꙋт
+# sent_id = 207851
+1	а	а	CCONJ	C-	_	3	cc	_	ref=
+2	досталное	достальныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	8	obj:dir	_	ref=
+3	приговорено	приговорити	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=
+4	в	въ	ADP	R-	_	5	case	_	ref=
+5	ꙋплатꙋ	уплата	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	ref=
+6	воинским	воинскыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	7	amod	_	ref=
+7	людем	людие	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	5	nmod	_	ref=
+8	розделит	роздѣлити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	csubj:pass	_	ref=
+9	и	и	CCONJ	C-	_	3	cc	_	ref=
+10	тѣмъ	тыи	ADJ	Pd	Case=Ins|Gender=Neut|Number=Sing	11	obl	_	ref=
+11	ꙋдоволены	удоволити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	12	xcomp	_	ref=
+12	бꙋдꙋт	быти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	conj	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и свѣиские конницы ИІ члвкъ знаменщиков его королевскому величеству полскому поддали с
+# sent_id = 207266
+1	и	и	CCONJ	C-	_	11	cc	_	ref=
+2	свѣиские	свѣискыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	3	amod	_	ref=
+3	конницы	коньница	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	ref=
+4	ИІ	осмьнадесять	NUM	Ma	_	11	nsubj	_	ref=
+5	члвкъ	человѣкъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	ref=
+6	знаменщиков	знаменьщикъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	5	appos	_	ref=
+7	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	det	_	ref=
+8	королевскому	королевьскыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	9	amod	_	ref=
+9	величеству	величьство	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	11	iobj	_	ref=
+10	полскому	польскыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	9	amod	_	ref=
+11	поддали	подъдати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+12	с	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	11	aux	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = которых вскоре приказано х Каменцꙋ Подолскому послать
+# sent_id = 207852
+1	которых	которыи	PRON	Pr	Case=Gen|Gender=Masc|Number=Plur|PronType=Rel	7	obj:dir	_	ref=
+2	вскоре	въскорѣ	ADV	Df	_	3	advmod	_	ref=
+3	приказано	приказати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=
+4	х	къ	ADP	R-	_	5	case	_	ref=
+5	Каменцꙋ	каменьць	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	ref=
+6	Подолскому	подольскыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	5	amod	_	ref=
+7	послать	посълати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	csubj:pass	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = татаровъ и казаков всего в зборе ҂М члвкъ
+# sent_id = 207267
+1	татаровъ	татаринъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	8	appos	_	ref=
+2	и	и	CCONJ	C-	_	1	cc	_	ref=
+3	казаков	казакъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	1	conj	_	ref=
+4	всего	вьсь	DET	Px	Case=Gen|Gender=Neut|Number=Sing	7	det	_	ref=
+5	в	въ	ADP	R-	_	6	case	_	ref=
+6	зборе	съборъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	0	root	_	ref=
+7	҂М	четыредесяте.тысячь	NUM	Ma	_	6	nsubj	_	ref=
+8	члвкъ	человѣкъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и которые от волных ЕІ комисаров и тѣх приказано держат и от Варшавы отпꙋстит и итти прямою дорогою чрез Высокую Полшꙋ в Маркъ і в Померы
+# sent_id = 207268
+1	и	и	CCONJ	C-	_	0	root	_	ref=
+2	которые	которыи	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	1	nsubj	_	ref=
+3	от	отъ	ADP	R-	_	5	case	_	ref=
+4	волных	вольныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	6	amod	_	ref=
+5	ЕІ	пятьнадесять	NUM	Ma	_	1	obl:agent	_	ref=
+6	комисаров	комисаръ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	ref=
+7	и	и	CCONJ	C-	_	1	cc	_	ref=
+8	тѣх	тыи	ADJ	Pd	Case=Gen|Gender=Masc|Number=Plur	10	obj:dir	_	ref=
+9	приказано	приказати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	1	conj	_	ref=
+10	держат	дьржати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	csubj:pass	_	ref=
+11	и	и	CCONJ	C-	_	10	cc	_	ref=
+12	от	отъ	ADP	R-	_	13	case	_	ref=
+13	Варшавы	варшава	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	14	obl	_	ref=
+14	отпꙋстит	отъпустити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	conj	_	ref=
+15	и	и	CCONJ	C-	_	10	cc	_	ref=
+16	итти	ити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	conj	_	ref=
+17	прямою	прямыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	ref=
+18	дорогою	дорога	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	16	obl	_	ref=
+19	чрез	чрѣсъ	ADP	R-	_	21	case	_	ref=
+20	Высокую	высокыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	21	amod	_	ref=
+21	Полшꙋ	польша	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	16	obl	_	ref=
+22	в	въ	ADP	R-	_	23	case	_	ref=
+23	Маркъ	маркъ	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	16	obl	_	ref=
+24	і	и	CCONJ	C-	_	23	cc	_	ref=
+25	в	въ	ADP	R-	_	26	case	_	ref=
+26	Померы	померы	PROPN	Ne	Case=Acc|Gender=Masc|Number=Plur	23	conj	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и его королевское величество положил на томъ в ннешнюю середу ѕ болшою долею воинскими людми из Варшавы поднят ца и итти под Торну
+# sent_id = 207270
+1	и	и	CCONJ	C-	_	5	cc	_	ref=
+2	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	det	_	ref=
+3	королевское	королевьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	4	amod	_	ref=
+4	величество	величьство	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	ref=
+5	положил	положити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+6	на	на	ADP	R-	_	7	case	_	ref=
+7	томъ	тыи	ADJ	Pd	Case=Loc|Gender=Neut|Number=Sing	5	obl	_	ref=
+8	в	въ	ADP	R-	_	10	case	_	ref=
+9	ннешнюю	нынѣшьнии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	10	amod	_	ref=
+10	середу	середа	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	18	obl	_	ref=
+11	ѕ	съ	ADP	R-	_	13	case	_	ref=
+12	болшою	большии	ADJ	A-	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	ref=
+13	долею	доля	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	18	obl	_	ref=
+14	воинскими	воинскыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	15	amod	_	ref=
+15	людми	людие	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	13	appos	_	ref=
+16	из	из	ADP	R-	_	17	case	_	ref=
+17	Варшавы	варшава	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	18	obl	_	ref=
+18	поднят	подъняти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	acl	_	ref=
+19	ца	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	18	aux	_	ref=
+20	и	и	CCONJ	C-	_	18	cc	_	ref=
+21	итти	ити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	18	conj	_	ref=
+22	под	подъ	ADP	R-	_	23	case	_	ref=
+23	Торну	торна	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	21	obl	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = а досталному воискꙋ приказано итти сквоз Мазꙋры
+# sent_id = 207853
+1	а	а	CCONJ	C-	_	4	cc	_	ref=
+2	досталному	достальныи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	3	amod	_	ref=
+3	воискꙋ	воиско	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	4	iobj	_	ref=
+4	приказано	приказати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=
+5	итти	ити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	xcomp	_	ref=
+6	сквоз	сквозѣ	ADP	R-	_	7	case	_	ref=
+7	Мазꙋры	мазуры	PROPN	Ne	Case=Acc|Gender=Masc|Number=Plur	5	obl	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = к прꙋскомꙋ рꙋбежꙋ против Солдавы поход имъ взять
+# sent_id = 207854
+1	к	къ	ADP	R-	_	3	case	_	ref=
+2	прꙋскомꙋ	прусьскыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	3	amod	_	ref=
+3	рꙋбежꙋ	рубежь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	nmod	_	ref=
+4	против	противъ	ADP	R-	_	5	case	_	ref=
+5	Солдавы	солдава	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	1	appos	_	ref=
+6	поход	походъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obj:dir	_	ref=
+7	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	ref=
+8	взять	възяти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = а сюды московскои посол приѣхалъ
+# sent_id = 207271
+1	а	а	CCONJ	C-	_	5	cc	_	ref=
+2	сюды	сюды	ADV	Df	_	5	advmod	_	ref=
+3	московскои	москъвьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=
+4	посол	посълъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=
+5	приѣхалъ	приѣхати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = которои во имя великого кнзя его величества чтоб с свѣискими никакои мирнои договор не воитит
+# sent_id = 207855
+1	которои	которыи	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	0	root	_	ref=
+2	во	въ	ADP	R-	_	3	case	_	ref=
+3	имя	имя	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	ref=
+4	великого	великыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	5	amod	_	ref=
+5	кнзя	кънязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	ref=
+6	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	det	_	ref=
+7	величества	величьство	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	1	obj:dir	_	ref=
+8	чтоб	чьтобы	SCONJ	G-	_	15	mark	_	ref=
+9	с	съ	ADP	R-	_	10	case	_	ref=
+10	свѣискими	свѣискыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	15	advmod	_	ref=
+11	никакои	никакыи	DET	Px	Case=Acc|Gender=Masc|Number=Sing	13	det	_	ref=
+12	мирнои	мирьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	13	amod	_	ref=
+13	договор	договоръ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	15	iobj	_	ref=
+14	не	не	ADV	Df	_	15	advmod	_	ref=
+15	воитит	вънити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	ccomp	_	ref=
+
+# source = Vesti-Kuranty, From Warsaw, July 1656
+# text = и себя ославил что он с подлинным писмом обявил что ему нихто инои что корол Карлъ Гꙋставъ его величество в Полше воиною достꙋпилъ
+# sent_id = 207856
+1	и	и	CCONJ	C-	_	3	cc	_	ref=
+2	себя	себе	PRON	Pk	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	3	obj:dir	_	ref=
+3	ославил	ославити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+4	что	чьто	SCONJ	G-	_	9	mark	_	ref=
+5	он	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	ref=
+6	с	съ	ADP	R-	_	8	case	_	ref=
+7	подлинным	подълиньныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	8	amod	_	ref=
+8	писмом	письмо	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	9	obl	_	ref=
+9	обявил	объявити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	3	ccomp	_	ref=
+10	что	чьто	SCONJ	G-	_	23	mark	_	ref=
+11	ему	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	iobj	_	ref=
+12	нихто	никъто	ADJ	Px	Case=Nom|Gender=Fem,Masc|Number=Sing	23	nsubj	_	ref=
+13	инои	иныи	DET	Px	Case=Nom|Gender=Masc|Number=Sing	12	det	_	ref=
+14	что	чьто	ADV	Df	_	12	acl	_	ref=
+15	корол	король	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	ref=
+16	Карлъ	карлъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	15	appos	_	ref=
+17	Гꙋставъ	густавъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	16	flat:name	_	ref=
+18	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	det	_	ref=
+19	величество	величьство	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	23	obj:dir	_	ref=
+20	в	въ	ADP	R-	_	21	case	_	ref=
+21	Полше	польша	PROPN	Ne	Case=Loc|Gender=Fem|Number=Sing	23	obl	_	ref=
+22	воиною	воина	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	23	obl	_	ref=
+23	достꙋпилъ	доступити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	9	ccomp	_	ref=
+

@@ -1,0 +1,176 @@
+# source = Varlaam’s donation charter to the Xutyn monastery, Varlaam’s donation charter to the Xutyn monastery
+# text = Се въдале варламе ст҃мѹ сп҃сѹ землю и огородъ и ловища рыбьнаѧ и гоголинаѧ и пожни
+# sent_id = 189716
+1	Се	се	INTJ	I-	_	2	vocative	_	ref=
+2	въдале	въдати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+3	варламе	варламъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=
+4	ст҃мѹ	святыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	5	amod	_	ref=
+5	сп҃сѹ	съпасъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	ref=
+6	землю	земля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj:dir	_	ref=
+7	и	и	CCONJ	C-	_	6	cc	_	ref=
+8	огородъ	огородъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	conj	_	ref=
+9	и	и	CCONJ	C-	_	6	cc	_	ref=
+10	ловища	ловище	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	6	conj	_	ref=
+11	рыбьнаѧ	рыбьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	10	amod	_	ref=
+12	и	и	CCONJ	C-	_	11	cc	_	ref=
+13	гоголинаѧ	гоголиныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	11	conj	_	ref=
+14	и	и	CCONJ	C-	_	6	cc	_	ref=
+15	пожни	пожьня	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	6	conj	_	ref=
+
+# source = Varlaam’s donation charter to the Xutyn monastery, Varlaam’s donation charter to the Xutyn monastery
+# text = а҃ рьль противѹ села за волховомъ в҃ на волхевьци коле г҃ корь д҃ лоза е҃ волмина ѕ҃ на островѣ и съ нивами
+# sent_id = 189745
+1	а҃	единъ	NUM	Ma	_	0	root	_	ref=
+2	рьль	рьль	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	appos	_	ref=
+3	противѹ	противу	ADP	R-	_	4	case	_	ref=
+4	села	село	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	ref=
+5	за	за	ADP	R-	_	6	case	_	ref=
+6	волховомъ	вълховъ	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	2	nmod	_	ref=
+7	в҃	дъва	NUM	Ma	_	1	conj	_	ref=
+8	на	на	ADP	R-	_	9	case	_	ref=
+9	волхевьци	вълховьць	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	7	appos	_	ref=
+10	коле	колъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	9	appos	_	ref=
+11	г҃	трие	NUM	Ma	_	1	conj	_	ref=
+12	корь	корь	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	11	appos	_	ref=
+13	д҃	четыре	NUM	Ma	_	1	conj	_	ref=
+14	лоза	лоза	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	13	appos	_	ref=
+15	е҃	пять	NUM	Ma	_	1	conj	_	ref=
+16	волмина	волмина	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	15	appos	_	ref=
+17	ѕ҃	шесть	NUM	Ma	_	1	conj	_	ref=
+18	на	на	ADP	R-	_	19	case	_	ref=
+19	островѣ	островъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	17	appos	_	ref=
+20	и	и	CCONJ	C-	_	19	cc	_	ref=
+21	съ	съ	ADP	R-	_	22	case	_	ref=
+22	нивами	нива	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	19	conj	_	ref=
+
+# source = Varlaam’s donation charter to the Xutyn monastery, Varlaam’s donation charter to the Xutyn monastery
+# text = вхѹ же тѹ землю хѹтиньскѹю въдале ст҃мѹ сп҃сѹ и съ челѧдию и съ скотиною
+# sent_id = 189725
+1	вхѹ	вьсь	DET	Px	Case=Acc|Gender=Fem|Number=Sing	4	det	_	ref=
+2	же	же	ADV	Df	_	6	advmod	_	ref=
+3	тѹ	тыи	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	4	det	_	ref=
+4	землю	земля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obj:dir	_	ref=
+5	хѹтиньскѹю	хутиньскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	4	amod	_	ref=
+6	въдале	въдати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+7	ст҃мѹ	святыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	8	amod	_	ref=
+8	сп҃сѹ	съпасъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	iobj	_	ref=
+9	и	и	CCONJ	C-	_	11	cc	_	ref=
+10	съ	съ	ADP	R-	_	11	case	_	ref=
+11	челѧдию	челядь	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	4	nmod	_	ref=
+12	и	и	CCONJ	C-	_	11	cc	_	ref=
+13	съ	съ	ADP	R-	_	14	case	_	ref=
+14	скотиною	скотина	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	11	conj	_	ref=
+
+# source = Varlaam’s donation charter to the Xutyn monastery, Varlaam’s donation charter to the Xutyn monastery
+# text = а се брат
+# sent_id = 189727
+1	а	а	CCONJ	C-	_	0	root	_	ref=
+2	се	сии	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	1	obj:dir	_	ref=
+3	брат	братия	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	1	iobj	_	ref=
+
+# source = Varlaam’s donation charter to the Xutyn monastery, Varlaam’s donation charter to the Xutyn monastery
+# text = а҃ отрокъ съ женою в҃ вълосъ г҃ дѣвъка феврониѧ съ двѣма сын[ъ]м д҃ недачь
+# sent_id = 189746
+1	а҃	единъ	NUM	Ma	_	0	root	_	ref=
+2	отрокъ	отрокъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	ref=
+3	съ	съ	ADP	R-	_	4	case	_	ref=
+4	женою	жена	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	2	nmod	_	ref=
+5	в҃	дъва	NUM	Ma	_	1	conj	_	ref=
+6	вълосъ	вълосъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	appos	_	ref=
+7	г҃	трие	NUM	Ma	_	1	conj	_	ref=
+8	дѣвъка	дѣвъка	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	appos	_	ref=
+9	феврониѧ	феврония	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	8	appos	_	ref=
+10	съ	съ	ADP	R-	_	12	case	_	ref=
+11	двѣма	дъва	NUM	Ma	Case=Ins|Gender=Masc|Number=Dual	12	nummod	_	ref=
+12	сын[ъ]м	сынъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Dual	8	nmod	_	ref=
+13	д҃	четыре	NUM	Ma	_	1	conj	_	ref=
+14	недачь	недачь	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	13	appos	_	ref=
+
+# source = Varlaam’s donation charter to the Xutyn monastery, Varlaam’s donation charter to the Xutyn monastery
+# text = а конь шестеро и корова
+# sent_id = 189731
+1	а	а	CCONJ	C-	_	0	root	_	ref=
+2	конь	конь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	ref=
+3	шестеро	шестеро	NUM	Ma	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	ref=
+4	и	и	CCONJ	C-	_	3	cc	_	ref=
+5	корова	корова	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	conj	_	ref=
+
+# source = Varlaam’s donation charter to the Xutyn monastery, Varlaam’s donation charter to the Xutyn monastery
+# text = се дрѹгое село на слѹдици за робиею въдале ст҃мѹ сп҃сѹ и божницѧ въ немь ст҃го георгиѧ и ниви и пожни и ловищѧ и еже в немь
+# sent_id = 189747
+1	се	се	INTJ	I-	_	8	vocative	_	ref=
+2	дрѹгое	другыи	ADJ	Mo	Case=Acc|Gender=Neut|Number=Sing	3	nmod	_	ref=
+3	село	село	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	8	obj:dir	_	ref=
+4	на	на	ADP	R-	_	5	case	_	ref=
+5	слѹдици	слудица	PROPN	Ne	Case=Loc|Gender=Fem|Number=Sing	3	nmod	_	ref=
+6	за	за	ADP	R-	_	7	case	_	ref=
+7	робиею	робия	PROPN	Ne	Case=Ins|Gender=Fem|Number=Sing	3	nmod	_	ref=
+8	въдале	въдати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+9	ст҃мѹ	святыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	10	amod	_	ref=
+10	сп҃сѹ	съпасъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	8	iobj	_	ref=
+11	и	и	CCONJ	C-	_	3	cc	_	ref=
+12	божницѧ	божьница	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	conj	_	ref=
+13	въ	въ	ADP	R-	_	14	case	_	ref=
+14	немь	и	PRON	Pp	Case=Loc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	det	_	ref=
+15	ст҃го	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	16	amod	_	ref=
+16	георгиѧ	георгии	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	ref=
+17	и	и	CCONJ	C-	_	18	cc	_	ref=
+18	ниви	нива	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	3	conj	_	ref=
+19	и	и	CCONJ	C-	_	18	cc	_	ref=
+20	пожни	пожьня	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	18	conj	_	ref=
+21	и	и	CCONJ	C-	_	18	cc	_	ref=
+22	ловищѧ	ловище	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	18	conj	_	ref=
+23	и	и	CCONJ	C-	_	18	cc	_	ref=
+24	еже	иже	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	26	nsubj	_	ref=
+25	в	въ	ADP	R-	_	26	case	_	ref=
+26	немь	и	PRON	Pp	Case=Loc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	conj	_	ref=
+
+# source = Varlaam’s donation charter to the Xutyn monastery, Varlaam’s donation charter to the Xutyn monastery
+# text = се же все далъ варламъ михалевъ сн҃ъ ст҃мѹ сп҃сѹ
+# sent_id = 189736
+1	се	сии	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	4	obj:dir	_	ref=
+2	же	же	ADV	Df	_	4	advmod	_	ref=
+3	все	вьсь	DET	Px	Case=Acc|Gender=Neut|Number=Sing	1	det	_	ref=
+4	далъ	дати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+5	варламъ	варламъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=
+6	михалевъ	михалевъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	7	amod	_	ref=
+7	сн҃ъ	сынъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	appos	_	ref=
+8	ст҃мѹ	святыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	9	amod	_	ref=
+9	сп҃сѹ	съпасъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	iobj	_	ref=
+
+# source = Varlaam’s donation charter to the Xutyn monastery, Varlaam’s donation charter to the Xutyn monastery
+# text = аще кто диѧвол[ъ]мъ п[о.ъ]ченъ и злыми члв҃кы заваж[енъ хочеть ѿѧти ѿ нивъ ли ѿ пожьнь ли или ѿ ловищь а бѹди емѹ противьн ст҃ыи сп҃съ и въ сь вѣкъ и въ бѹдѹщии
+# sent_id = 189738
+1	аще	аще	SCONJ	G-	_	9	mark	_	ref=
+2	кто	къто	ADJ	Px	Case=Nom|Number=Sing	9	nsubj	_	ref=
+3	диѧвол[ъ]мъ	дияволъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	4	obl:agent	_	ref=
+4	п[о.ъ]ченъ	потъкнути	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	9	advcl	_	ref=
+5	и	и	CCONJ	C-	_	4	cc	_	ref=
+6	злыми	зълыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	7	amod	_	ref=
+7	члв҃кы	человѣкъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	8	obl:agent	_	ref=
+8	заваж[енъ	завадити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	4	conj	_	ref=
+9	хочеть	хотѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+10	ѿѧти	отъяти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	xcomp	_	ref=
+11	ѿ	отъ	ADP	R-	_	12	case	_	ref=
+12	нивъ	нива	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	10	obj:dir	_	ref=
+13	ли	ли	CCONJ	C-	_	12	cc	_	ref=
+14	ѿ	отъ	ADP	R-	_	15	case	_	ref=
+15	пожьнь	пожьня	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	12	conj	_	ref=
+16	ли	ли	CCONJ	C-	_	12	cc	_	ref=
+17	или	или	CCONJ	C-	_	12	cc	_	ref=
+18	ѿ	отъ	ADP	R-	_	19	case	_	ref=
+19	ловищь	ловище	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	12	conj	_	ref=
+20	а	а	CCONJ	C-	_	1	cc	_	ref=
+21	бѹди	быти	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=
+22	емѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	iobj	_	ref=
+23	противьн	противьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	21	xcomp	_	ref=
+24	ст҃ыи	святыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	25	amod	_	ref=
+25	сп҃съ	съпасъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	21	nsubj	_	ref=
+26	и	и	CCONJ	C-	_	29	cc	_	ref=
+27	въ	въ	ADP	R-	_	29	case	_	ref=
+28	сь	сии	DET	Pd	Case=Acc|Gender=Masc|Number=Sing	29	det	_	ref=
+29	вѣкъ	вѣкъ#1	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	21	obl	_	ref=
+30	и	и	CCONJ	C-	_	29	cc	_	ref=
+31	въ	въ	ADP	R-	_	32	case	_	ref=
+32	бѹдѹщии	быти	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Strength=Weak|Tense=Fut|VerbForm=Part|Voice=Act	29	conj	_	ref=
+

@@ -1,0 +1,334 @@
+
+# source = Vita Methodii, 5
+# text = тѣ нa ти дaри мнози
+# sent_id = 218235
+1	тѣ	тѣ	ADV	Df	_	0	root	_	ref=5.7
+2	нa	на	ADP	R-	_	3	case	_	ref=5.7
+3	ти	тꙑ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	ref=5.7
+4	дaри	даръ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	ref=5.7
+5	мнози	мъногъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	4	amod	_	ref=5.7
+
+# source = Vita Methodii, 5
+# text = и поимъ брaтъ свои игѹменъ Мефедии иди же
+# sent_id = 218594
+1	и	и	CCONJ	C-	_	7	cc	_	ref=5.7
+2	поимъ	поѩти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	7	advcl	_	ref=5.7
+3	брaтъ	братръ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	obj:dir	_	ref=5.7
+4	свои	свои	ADJ	Pt	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	3	nmod	_	ref=5.7
+5	игѹменъ	игоуменъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	appos	_	ref=5.7
+6	Мефедии	меѳодии	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	5	appos	_	ref=5.7
+7	иди	ити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=5.7
+8	же	же	ADV	Df	_	7	discourse	_	ref=5.7
+
+# source = Vita Methodii, 5
+# text = вꙑ бо ѥстa Селѹнѧнинa
+# sent_id = 218236
+1	вꙑ	вꙑ	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	ref=5.8
+2	бо	бо	ADV	Df	_	3	discourse	_	ref=5.8
+3	ѥстa	бꙑти	VERB	V-	Mood=Ind|Number=Dual|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=5.8
+4	Селѹнѧнинa	селоунꙗнинъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Dual	3	xcomp	_	ref=5.8
+
+# source = Vita Methodii, 5
+# text = дa Селѹнѧне вьси чьсто словѣньскꙑ бесѣдѹють
+# sent_id = 218237
+1	дa	да	CCONJ	C-	_	6	cc	_	ref=5.8
+2	Селѹнѧне	селоунꙗнинъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	ref=5.8
+3	вьси	вьсь	DET	Px	Case=Nom|Gender=Masc|Number=Plur	2	det	_	ref=5.8
+4	чьсто	чисто	ADV	Df	_	6	advmod	_	ref=5.8
+5	словѣньскꙑ	словѣньскꙑ	ADV	Df	_	6	advmod	_	ref=5.8
+6	бесѣдѹють	бесѣдовати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=5.8
+
+# source = Vita Methodii, 5
+# text = тъгдa не съмѧстa сѧ отърещи ни богa ни цѣсaрѧ по словеси свѧтaaго aпостолa Петрa ꙗкоже рече
+# sent_id = 218238
+1	тъгдa	тъгда	ADV	Df	_	3	advmod	_	ref=5.9
+2	не	не	ADV	Df	Polarity=Neg	3	advmod	_	ref=5.9
+3	съмѧстa	съмѧсти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=5.9
+4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=5.9
+5	отърещи	отърещи	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=5.9
+6	ни	ни	CCONJ	C-	_	7	cc	_	ref=5.9
+7	богa	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	obj:dir	_	ref=5.9
+8	ни	ни	CCONJ	C-	_	7	cc	_	ref=5.9
+9	цѣсaрѧ	цѣсарь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	conj	_	ref=5.9
+10	по	по	ADP	R-	_	11	case	_	ref=5.9
+11	словеси	слово	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	3	obl	_	ref=5.9
+12	свѧтaaго	свѧтъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	13	amod	_	ref=5.9
+13	aпостолa	апостолъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	ref=5.9
+14	Петрa	петръ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	13	appos	_	ref=5.9
+15	ꙗкоже	ꙗкоже	ADV	Dq	PronType=Rel	16	advmod	_	ref=5.9
+16	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	ref=5.9
+
+# source = Vita Methodii, 5
+# text = богa боите сѧ
+# sent_id = 218241
+1	богa	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	iobj	_	ref=5.9
+2	боите	боꙗти	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=5.9
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=5.9
+
+# source = Vita Methodii, 5
+# text = цѣсaрѧ чьтѣте
+# sent_id = 218242
+1	цѣсaрѧ	цѣсарь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	obj:dir	_	ref=5.9
+2	чьтѣте	чьтити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=5.9
+
+# source = Vita Methodii, 5
+# text = нъ вели слꙑшaвъшa рѣчь нa молитвѹ сѧ нaложистa и съ инѣми иже бѧaхѹ тогоже дѹхa ѥгоже и си
+# sent_id = 218243
+1	нъ	нъ	CCONJ	C-	_	8	cc	_	ref=5.10
+2	вели	велии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	3	advmod	_	ref=5.10
+3	слꙑшaвъшa	слꙑшати	VERB	V-	Case=Nom|Gender=Masc|Number=Dual|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	_	ref=5.10
+4	рѣчь	рѣчь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obj:dir	_	ref=5.10
+5	нa	на	ADP	R-	_	6	case	_	ref=5.10
+6	молитвѹ	молитва	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	ref=5.10
+7	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	8	aux	_	ref=5.10
+8	нaложистa	наложити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=5.10
+9	и	и	ADV	Df	_	10	advmod	_	ref=5.10
+10	съ	съ	ADP	R-	_	11	case	_	ref=5.10
+11	инѣми	инъ	ADJ	Px	Case=Ins|Gender=Masc|Number=Plur	8	obl	_	ref=5.10
+12	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	13	nsubj	_	ref=5.10
+13	бѧaхѹ	бꙑти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	acl	_	ref=5.10
+14	тогоже	тъжде	DET	Px	Case=Gen|Gender=Masc|Number=Sing	15	det	_	ref=5.10
+15	дѹхa	доухъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	13	xcomp	_	ref=5.10
+16	ѥгоже	иже	PRON	Pr	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	14	appos	_	ref=5.10
+17	и	и	ADV	Df	_	18	advmod	_	ref=5.10
+18	си	сь	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	ref=5.10
+
+# source = Vita Methodii, 5
+# text = дa тѹ ꙗви богъ философѹ словѣньскꙑ книгꙑ
+# sent_id = 218246
+1	дa	да	CCONJ	C-	_	3	cc	_	ref=5.11
+2	тѹ	тоу	ADV	Df	_	3	advmod	_	ref=5.11
+3	ꙗви	авити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=5.11
+4	богъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=5.11
+5	философѹ	философъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	ref=5.11
+6	словѣньскꙑ	словѣньскъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Strong	7	amod	_	ref=5.11
+7	книгꙑ	кънигꙑ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	3	obj:dir	_	ref=5.11
+
+# source = Vita Methodii, 5
+# text = и aбие ѹстроивъ писменa и бесѣдѹ състaвль пѹти сѧ ꙗтъ морaвьскaaго поимъ Меѳеодиꙗ
+# sent_id = 218247
+1	и	и	CCONJ	C-	_	10	cc	_	ref=5.11
+2	aбие	абиѥ	ADV	Df	_	10	advmod	_	ref=5.11
+3	ѹстроивъ	оустроити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	10	advcl	_	ref=5.11
+4	писменa	писмѧ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	3	obj:dir	_	ref=5.11
+5	и	и	CCONJ	C-	_	3	cc	_	ref=5.11
+6	бесѣдѹ	бесѣда	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj:dir	_	ref=5.11
+7	състaвль	съставити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	3	conj	_	ref=5.11
+8	пѹти	пѫть	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	10	iobj	_	ref=5.11
+9	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	10	aux	_	ref=5.11
+10	ꙗтъ	ѩти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=5.11
+11	морaвьскaaго	моравьскъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	8	amod	_	ref=5.11
+12	поимъ	поѩти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	10	advcl	_	ref=5.11
+13	Меѳеодиꙗ	меѳодии	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	12	obj:dir	_	ref=5.11
+
+# source = Vita Methodii, 5
+# text = нaчaтъ же пaкꙑ съ покоръмь повинѹѧ сѧ слѹжити философѹ и ѹчити съ нимь
+# sent_id = 218249
+1	нaчaтъ	начѧти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=5.12
+2	же	же	ADV	Df	_	1	discourse	_	ref=5.12
+3	пaкꙑ	пакꙑ	ADV	Df	_	1	advmod	_	ref=5.12
+4	съ	съ	ADP	R-	_	5	case	_	ref=5.12
+5	покоръмь	покоръ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	6	obl	_	ref=5.12
+6	повинѹѧ	повиновати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	ref=5.12
+7	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	6	aux	_	ref=5.12
+8	слѹжити	слоужити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	ref=5.12
+9	философѹ	философъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	8	iobj	_	ref=5.12
+10	и	и	CCONJ	C-	_	8	cc	_	ref=5.12
+11	ѹчити	оучити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	conj	_	ref=5.12
+12	съ	съ	ADP	R-	_	13	case	_	ref=5.12
+13	нимь	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	ref=5.12
+
+# source = Vita Methodii, 5
+# text = и трьмъ лѣтомъ ишьдъшемъ възврaтистa сѧ из Морaвꙑ ѹченикꙑ нaѹчьшa
+# sent_id = 218250
+1	и	и	CCONJ	C-	_	5	cc	_	ref=5.13
+2	трьмъ	триѥ	NUM	Ma	Case=Dat|Gender=Neut|Number=Plur	3	nummod	_	ref=5.13
+3	лѣтомъ	лѣто	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	4	nsubj	_	ref=5.13
+4	ишьдъшемъ	изити	VERB	V-	Case=Dat|Gender=Neut|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	5	advcl	_	ref=5.13
+5	възврaтистa	възвратити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=5.13
+6	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	5	aux	_	ref=5.13
+7	из	из	ADP	R-	_	8	case	_	ref=5.13
+8	Морaвꙑ	морава	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	5	obl	_	ref=5.13
+9	ѹченикꙑ	оученикъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	10	obj:dir	_	ref=5.13
+10	нaѹчьшa	наоучити	VERB	V-	Case=Nom|Gender=Masc|Number=Dual|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	5	advcl	_	ref=5.13
+
+# source = Vita Methodii, 6
+# text = ѹвѣдѣвъ же тaковa мѹжa aпостоликъ Николa посълa по нѧ желaꙗ видѣти ꙗ ꙗко aнъгелa божиꙗ
+# sent_id = 218252
+1	ѹвѣдѣвъ	оувѣдѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	7	advcl	_	ref=6.1
+2	же	же	ADV	Df	_	7	discourse	_	ref=6.1
+3	тaковa	таковъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Dual|Strength=Strong	4	amod	_	ref=6.1
+4	мѹжa	мѫжь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Dual	1	obj:dir	_	ref=6.1
+5	aпостоликъ	апостоликъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=6.1
+6	Николa	никола	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	appos	_	ref=6.1
+7	посълa	посълати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=6.1
+8	по	по	ADP	R-	_	9	case	_	ref=6.1
+9	нѧ	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Dual|Person=3|PronType=Prs	7	obl	_	ref=6.1
+10	желaꙗ	желати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	7	advcl	_	ref=6.1
+11	видѣти	видѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	xcomp	_	ref=6.1
+12	ꙗ	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Dual|Person=3|PronType=Prs	11	obj:dir	_	ref=6.1
+13	ꙗко	ꙗко	ADV	Df	_	11	advmod	_	ref=6.1
+14	aнъгелa	ангелъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Dual	13	obj:dir	_	ref=6.1
+15	божиꙗ	божии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Dual|Strength=Strong	14	amod	_	ref=6.1
+
+# source = Vita Methodii, 6
+# text = свѧти ѹчениѥ ѥго положь словѣньскоѥ евaнгелиѥ нa олтaри свѧтaaго Петрa aпостолa
+# sent_id = 218254
+1	свѧти	свѧтити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=6.1
+2	ѹчениѥ	оучениѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	obj:dir	_	ref=6.1
+3	ѥго	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	det	_	ref=6.1
+4	положь	положити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	1	advcl	_	ref=6.1
+5	словѣньскоѥ	словѣньскъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	6	amod	_	ref=6.1
+6	евaнгелиѥ	евангелиѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obj:dir	_	ref=6.1
+7	нa	на	ADP	R-	_	8	case	_	ref=6.1
+8	олтaри	олътарь	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	4	obl	_	ref=6.1
+9	свѧтaaго	свѧтъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	10	amod	_	ref=6.1
+10	Петрa	петръ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	ref=6.1
+11	aпостолa	апостолъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	10	appos	_	ref=6.1
+
+# source = Vita Methodii, 6
+# text = свѧти же нa поповьство блaженaaго Меѳедиꙗ
+# sent_id = 218256
+1	свѧти	свѧтити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=6.2
+2	же	же	ADV	Df	_	1	discourse	_	ref=6.2
+3	нa	на	ADP	R-	_	4	case	_	ref=6.2
+4	поповьство	поповьство	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	ref=6.2
+5	блaженaaго	блаженъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	6	amod	_	ref=6.2
+6	Меѳедиꙗ	меѳодии	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	1	obj:dir	_	ref=6.2
+
+# source = Vita Methodii, 6
+# text = бѧaхѹ же етерa многa чaдь ꙗже ѹчaхѹ словѣньскꙑꙗ книгꙑ глaголюще ꙗко
+# sent_id = 218257
+1	бѧaхѹ	бꙑти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=6.3
+2	же	же	ADV	Df	_	1	discourse	_	ref=6.3
+3	етерa	етеръ	DET	Px	Case=Nom|Gender=Fem|Number=Sing	5	det	_	ref=6.3
+4	многa	мъногъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	5	amod	_	ref=6.3
+5	чaдь	чѧдь	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	ref=6.3
+6	ꙗже	иже	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	7	nsubj	_	ref=6.3
+7	ѹчaхѹ	оучити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	acl	_	ref=6.3
+8	словѣньскꙑꙗ	словѣньскъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	9	amod	_	ref=6.3
+9	книгꙑ	кънигꙑ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	7	obj:dir	_	ref=6.3
+10	глaголюще	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	7	advcl	_	ref=6.3
+11	ꙗко	ꙗко	SCONJ	G-	_	10	ccomp	_	ref=6.3
+
+# source = Vita Methodii, 6
+# text = не достоить никоторомѹже ꙗзꙑкѹ имѣти бѹковъ своихъ рaзвѣ Евреи и Грькъ и Лaтинъ по Пилaтовѹ писaнию ѥже нa крьстѣ господьни нaписa
+# sent_id = 218595
+1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	ref=6.3
+2	достоить	достоꙗти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=6.3
+3	никоторомѹже	никоторꙑиже	DET	Px	Case=Dat|Gender=Masc|Number=Sing	4	det	_	ref=6.3
+4	ꙗзꙑкѹ	ѩзꙑкъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	ref=6.3
+5	имѣти	имѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=6.3
+6	бѹковъ	боукꙑ	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	5	obj:dir	_	ref=6.3
+7	своихъ	свои	PRON	Pk	Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	6	det	_	ref=6.3
+8	рaзвѣ	развѣ	ADP	R-	_	9	case	_	ref=6.3
+9	Евреи	евреи	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	ref=6.3
+10	и	и	CCONJ	C-	_	9	cc	_	ref=6.3
+11	Грькъ	грьци	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	9	conj	_	ref=6.3
+12	и	и	CCONJ	C-	_	9	cc	_	ref=6.3
+13	Лaтинъ	латине	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	9	conj	_	ref=6.3
+14	по	по	ADP	R-	_	16	case	_	ref=6.3
+15	Пилaтовѹ	пилатовъ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	16	amod	_	ref=6.3
+16	писaнию	пьсаниѥ	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	2	obl	_	ref=6.3
+17	ѥже	иже	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	21	obj:dir	_	ref=6.3
+18	нa	на	ADP	R-	_	19	case	_	ref=6.3
+19	крьстѣ	крьстъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	21	obl	_	ref=6.3
+20	господьни	господьнь	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	19	amod	_	ref=6.3
+21	нaписa	напьсати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	acl	_	ref=6.3
+
+# source = Vita Methodii, 6
+# text = ѥже aпостоликъ пилaтънꙑ и трьꙗзꙑчьникꙑ нaреклъ проклѧтъ
+# sent_id = 218261
+1	ѥже	иже	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	6	obj:dir	_	ref=6.4
+2	aпостоликъ	апостоликъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=6.4
+3	пилaтънꙑ	пилатьнъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	6	xcomp	_	ref=6.4
+4	и	и	CCONJ	C-	_	3	cc	_	ref=6.4
+5	трьꙗзꙑчьникꙑ	триѩзꙑчьникъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	3	conj	_	ref=6.4
+6	нaреклъ	нарещи	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	7	obj:dir	_	ref=6.4
+7	проклѧтъ	проклѧти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=6.4
+
+# source = Vita Methodii, 6
+# text = и повелѣ ѥдиномѹ епискѹпѹ іже бѣ тоюже ꙗзею больнъ и свѧти отъ ѹченикъ словѣньскъ три попꙑ a в҃ aногностa
+# sent_id = 218596
+1	и	и	CCONJ	C-	_	2	cc	_	ref=6.4
+2	повелѣ	повелѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=6.4
+3	ѥдиномѹ	ѥдинъ	NUM	Ma	Case=Dat|Gender=Masc|Number=Sing	4	nummod	_	ref=6.4
+4	епискѹпѹ	епискоупъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	ref=6.4
+5	іже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	ref=6.4
+6	бѣ	бꙑти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl	_	ref=6.4
+7	тоюже	тъжде	DET	Pd	Case=Ins|Gender=Fem|Number=Sing	8	det	_	ref=6.4
+8	ꙗзею	ꙗѕа	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	9	iobj	_	ref=6.4
+9	больнъ	больнъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	6	xcomp	_	ref=6.4
+10	и	и	CCONJ	C-	_	2	cc	_	ref=6.4
+11	свѧти	свѧтити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=6.4
+12	отъ	отъ	ADP	R-	_	13	case	_	ref=6.4
+13	ѹченикъ	оученикъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	11	obl	_	ref=6.4
+14	словѣньскъ	словѣньскъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	13	amod	_	ref=6.4
+15	три	триѥ	NUM	Ma	Case=Acc|Gender=Masc|Number=Plur	16	nummod	_	ref=6.4
+16	попꙑ	попъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	11	obj:dir	_	ref=6.4
+17	a	а	CCONJ	C-	_	16	cc	_	ref=6.4
+18	в҃	дъва	NUM	Ma	_	19	nummod	_	ref=6.4
+19	aногностa	аногностъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Dual	16	conj	_	ref=6.4
+
+# source = Vita Methodii, 7
+# text = по дьньхъ же мнозѣхъ философъ нa сѹдъ грѧдꙑи рече къ Меѳодию брaтѹ своѥмѹ
+# sent_id = 218263
+1	по	по	ADP	R-	_	2	case	_	ref=7.1
+2	дьньхъ	дьнь	NOUN	Nb	Case=Loc|Gender=Masc|Number=Plur	9	obl	_	ref=7.1
+3	же	же	ADV	Df	_	9	discourse	_	ref=7.1
+4	мнозѣхъ	мъногъ	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	2	amod	_	ref=7.1
+5	философъ	философъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	ref=7.1
+6	нa	на	ADP	R-	_	7	case	_	ref=7.1
+7	сѹдъ	сѫдъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	ref=7.1
+8	грѧдꙑи	грѧсти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	9	advcl	_	ref=7.1
+9	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=7.1
+10	къ	къ	ADP	R-	_	11	case	_	ref=7.1
+11	Меѳодию	меѳодии	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	9	obl	_	ref=7.1
+12	брaтѹ	братръ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	11	appos	_	ref=7.1
+13	своѥмѹ	свои	ADJ	Pt	Case=Dat|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	12	nmod	_	ref=7.1
+
+# source = Vita Methodii, 7
+# text = се брaте вѣ сѹпрѹгa бѧховѣ ѥдинѹ брaздѹ тѧжaщa
+# sent_id = 218264
+1	се	се	INTJ	I-	_	5	vocative	_	ref=7.2
+2	брaте	братръ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	ref=7.2
+3	вѣ	вѣ	PRON	Pp	Case=Nom|Gender=Masc|Number=Dual|Person=1|PronType=Prs	5	nsubj	_	ref=7.2
+4	сѹпрѹгa	сѫпрѫгъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Dual	5	xcomp	_	ref=7.2
+5	бѧховѣ	бꙑти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Dual|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=7.2
+6	ѥдинѹ	ѥдинъ	NUM	Ma	Case=Acc|Gender=Fem|Number=Sing	7	nummod	_	ref=7.2
+7	брaздѹ	бразда	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obj:dir	_	ref=7.2
+8	тѧжaщa	тѧжити	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	5	advcl	_	ref=7.2
+
+# source = Vita Methodii, 7
+# text = и aзъ нa лѣсѣ пaдaю своі дьнь съконьчaвъ
+# sent_id = 218597
+1	и	и	CCONJ	C-	_	5	cc	_	ref=7.2
+2	aзъ	азъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	ref=7.2
+3	нa	на	ADP	R-	_	4	case	_	ref=7.2
+4	лѣсѣ	лѣсъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	ref=7.2
+5	пaдaю	падати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7.2
+6	своі	свои	ADJ	Pt	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	7	nmod	_	ref=7.2
+7	дьнь	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obj:dir	_	ref=7.2
+8	съконьчaвъ	съконьчати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	5	advcl	_	ref=7.2
+
+# source = Vita Methodii, 7
+# text = a тꙑ любиши горѹ вельми
+# sent_id = 218269
+1	a	а	CCONJ	C-	_	3	cc	_	ref=7.3
+2	тꙑ	тꙑ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	ref=7.3
+3	любиши	любити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7.3
+4	горѹ	гора	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obj:dir	_	ref=7.3
+5	вельми	вельми	ADV	Df	_	3	advmod	_	ref=7.3
+
+# source = Vita Methodii, 7
+# text = то не мози горꙑ рaди остaвити ѹчениꙗ своѥго
+# sent_id = 218270
+1	то	то	ADV	Df	_	3	advmod	_	ref=7.3
+2	не	не	ADV	Df	Polarity=Neg	3	advmod	_	ref=7.3
+3	мози	мощи	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=7.3
+4	горꙑ	гора	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	obl	_	ref=7.3
+5	рaди	ради	ADP	R-	_	4	case	_	ref=7.3
+6	остaвити	оставити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=7.3
+7	ѹчениꙗ	оучениѥ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	6	obj:dir	_	ref=7.3
+8	своѥго	свои	ADJ	Pt	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	7	nmod	_	ref=7.3
+

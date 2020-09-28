@@ -1,0 +1,261 @@
+# source = Colophon to the Ostromir Codex, Colophon to the Ostromir Codex
+# text = Слава тебѣ г҃и цр҃ю нб҃сьныи ꙗко съподоби мѧ написати Еуглие се
+# sent_id = 213299
+1	Слава	слава	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=
+2	тебѣ	ты	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	iobj	_	ref=
+3	г҃и	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	ref=
+4	цр҃ю	цѣсарь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	3	appos	_	ref=
+5	нб҃сьныи	небесьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=
+6	ꙗко	яко	SCONJ	G-	_	7	mark	_	ref=
+7	съподоби	съподобити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	ref=
+8	мѧ	азъ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	obj:dir	_	ref=
+9	написати	написати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	xcomp	_	ref=
+10	Еуглие	евангелие	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	9	obj:dir	_	ref=
+11	се	сии	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	10	det	_	ref=
+
+# source = Colophon to the Ostromir Codex, Colophon to the Ostromir Codex
+# text = почахъ же е писати въ лѣт ҂ѕ҃ ф҃ ѯ҃ д
+# sent_id = 213301
+1	почахъ	почати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	же	же	ADV	Df	_	1	advmod	_	ref=
+3	е	и	PRON	Pp	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj:dir	_	ref=
+4	писати	пьсати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	ref=
+5	въ	въ	ADP	R-	_	6	case	_	ref=
+6	лѣт	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	ref=
+7	҂ѕ҃	шесть.тысячь	NUM	Ma	_	6	nummod	_	ref=
+8	ф҃	пятьсътъ	NUM	Ma	_	7	conj	_	ref=
+9	ѯ҃	шестьдесятъ	NUM	Ma	_	7	conj	_	ref=
+10	д	четыре	NUM	Ma	_	7	conj	_	ref=
+
+# source = Colophon to the Ostromir Codex, Colophon to the Ostromir Codex
+# text = А оконьчахъ е въ лѣт ф҃ ѯ҃ е
+# sent_id = 213303
+1	А	а	CCONJ	C-	_	2	cc	_	ref=
+2	оконьчахъ	оконьчати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	е	и	PRON	Pp	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj:dir	_	ref=
+4	въ	въ	ADP	R-	_	5	case	_	ref=
+5	лѣт	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	ref=
+6	ф҃	пятьсътъ	NUM	Ma	_	5	nummod	_	ref=
+7	ѯ҃	шестьдесятъ	NUM	Ma	_	6	conj	_	ref=
+8	е	пять	NUM	Ma	_	6	conj	_	ref=
+
+# source = Colophon to the Ostromir Codex, Colophon to the Ostromir Codex
+# text = Написахъ же еуглие се рабоу бж҃ию нареченоу сѫщоу въ кр҃щении иосифъ а мирьскы остромиръ близокоу сѫщоу изѧславоу кънѧзоу
+# sent_id = 213304
+1	Написахъ	написати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	же	же	ADV	Df	_	1	advmod	_	ref=
+3	еуглие	евангелие	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	obj:dir	_	ref=
+4	се	сии	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	3	det	_	ref=
+5	рабоу	рабъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	obl	_	ref=
+6	бж҃ию	божии	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	5	amod	_	ref=
+7	нареченоу	нарещи	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	8	xcomp	_	ref=
+8	сѫщоу	быти	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	5	acl	_	ref=
+9	въ	въ	ADP	R-	_	10	case	_	ref=
+10	кр҃щении	крьщение	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	7	obl	_	ref=
+11	иосифъ	иосифъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	xcomp	_	ref=
+12	а	а	CCONJ	C-	_	7	cc	_	ref=
+13	мирьскы	мирьскы	ADV	Df	_	7	conj	_	ref=
+14	остромиръ	остромиръ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	13	orphan	_	ref=
+15	близокоу	близокъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	16	xcomp	_	ref=
+16	сѫщоу	быти	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	5	acl	_	ref=
+17	изѧславоу	изъяславъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	15	nmod	_	ref=
+18	кънѧзоу	кънязь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	17	appos	_	ref=
+
+# source = Colophon to the Ostromir Codex, Colophon to the Ostromir Codex
+# text = изѧславоу же кънѧзоу тогда прѣдрьжѧщоу обѣ власти и оц҃а своего ꙗрослава и брата своего володимира самъ же изѧславъ кънѧзь правлꙗаше столъ о҃ца своего ꙗрослава кыевѣ А брата своего столъ порѫчи правити близокоу своему остромироу новѣгородѣ
+# sent_id = 213308
+1	изѧславоу	изъяславъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	5	nsubj	_	ref=
+2	же	же	ADV	Df	_	20	advmod	_	ref=
+3	кънѧзоу	кънязь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	appos	_	ref=
+4	тогда	тъгда	ADV	Df	_	5	advmod	_	ref=
+5	прѣдрьжѧщоу	прѣдьржати	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	20	advcl	_	ref=
+6	обѣ	оба	NUM	Ma	Case=Acc|Gender=Fem|Number=Dual	7	nummod	_	ref=
+7	власти	власть	NOUN	Nb	Case=Acc|Gender=Fem|Number=Dual	5	obj:dir	_	ref=
+8	и	и	CCONJ	C-	_	9	cc	_	ref=
+9	оц҃а	отьць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	appos	_	ref=
+10	своего	свои	ADJ	Pt	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	9	nmod	_	ref=
+11	ꙗрослава	ярославъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	9	appos	_	ref=
+12	и	и	CCONJ	C-	_	9	cc	_	ref=
+13	брата	братъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	conj	_	ref=
+14	своего	свои	ADJ	Pt	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	13	nmod	_	ref=
+15	володимира	володимиръ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	13	appos	_	ref=
+16	самъ	самъ	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	18	det	_	ref=
+17	же	же	ADV	Df	_	16	advmod	_	ref=
+18	изѧславъ	изъяславъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	ref=
+19	кънѧзь	кънязь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	18	appos	_	ref=
+20	правлꙗаше	правити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+21	столъ	столъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	20	obj:dir	_	ref=
+22	о҃ца	отьць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	ref=
+23	своего	свои	ADJ	Pt	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	22	nmod	_	ref=
+24	ꙗрослава	ярославъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	22	appos	_	ref=
+25	кыевѣ	кыевъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	20	obl	_	ref=
+26	А	а	CCONJ	C-	_	20	cc	_	ref=
+27	брата	братъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	29	nmod	_	ref=
+28	своего	свои	ADJ	Pt	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	27	nmod	_	ref=
+29	столъ	столъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	31	obj:dir	_	ref=
+30	порѫчи	поручити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	conj	_	ref=
+31	правити	правити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	30	xcomp	_	ref=
+32	близокоу	близокъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	30	iobj	_	ref=
+33	своему	свои	ADJ	Pt	Case=Dat|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	32	nmod	_	ref=
+34	остромироу	остромиръ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	32	appos	_	ref=
+35	новѣгородѣ	новъгородъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	31	obl	_	ref=
+
+# source = Colophon to the Ostromir Codex, Colophon to the Ostromir Codex
+# text = Мънога же лѣт дароуи б҃ъ сътѧжавъшоумоу Еуглие се на оутѣшение мъногамъ д҃шамъ кр҃стиꙗньскамъ
+# sent_id = 213315
+1	Мънога	мъногыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Strong	3	amod	_	ref=
+2	же	же	ADV	Df	_	4	advmod	_	ref=
+3	лѣт	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	4	obj:dir	_	ref=
+4	дароуи	даровати	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	б҃ъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=
+6	сътѧжавъшоумоу	сътяжати	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	4	advcl	_	ref=
+7	Еуглие	евангелие	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	obj:dir	_	ref=
+8	се	сии	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	7	det	_	ref=
+9	на	на	ADP	R-	_	10	case	_	ref=
+10	оутѣшение	утѣшение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	ref=
+11	мъногамъ	мъногыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Strength=Strong	12	amod	_	ref=
+12	д҃шамъ	душа	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	10	nmod	_	ref=
+13	кр҃стиꙗньскамъ	хрьстияньскыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Strength=Strong	12	amod	_	ref=
+
+# source = Colophon to the Ostromir Codex, Colophon to the Ostromir Codex
+# text = даи емоу г҃ь б҃ъ бл҃ние с҃тыхъ еванг҃листъ иіоана матфеа лоукы марк и с҃тыхъ прао҃ць Авраама и ісака и іꙗкова самомоу емоу и подружию его феоѳанѣ и чѧдомъ ею и подружиіемь чѧдъ ею
+# sent_id = 213318
+1	даи	даяти	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	ref=
+3	г҃ь	господь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=
+4	б҃ъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	ref=
+5	бл҃ние	благословение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	obj:dir	_	ref=
+6	с҃тыхъ	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	7	amod	_	ref=
+7	еванг҃листъ	евангелистъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	ref=
+8	иіоана	иоанъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	7	appos	_	ref=
+9	матфеа	матфѣи	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	8	conj	_	ref=
+10	лоукы	лука	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	8	conj	_	ref=
+11	марк	маркъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	8	conj	_	ref=
+12	и	и	CCONJ	C-	_	7	cc	_	ref=
+13	с҃тыхъ	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	14	amod	_	ref=
+14	прао҃ць	праотьць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	7	conj	_	ref=
+15	Авраама	авраамъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	14	appos	_	ref=
+16	и	и	CCONJ	C-	_	15	cc	_	ref=
+17	ісака	исакъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	15	conj	_	ref=
+18	и	и	CCONJ	C-	_	15	cc	_	ref=
+19	іꙗкова	ияковъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	15	conj	_	ref=
+20	самомоу	самъ	DET	Pd	Case=Dat|Gender=Masc|Number=Sing	21	det	_	ref=
+21	емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	appos	_	ref=
+22	и	и	CCONJ	C-	_	21	cc	_	ref=
+23	подружию	подружие	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	21	conj	_	ref=
+24	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	det	_	ref=
+25	феоѳанѣ	феофана	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	23	appos	_	ref=
+26	и	и	CCONJ	C-	_	21	cc	_	ref=
+27	чѧдомъ	чадо	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	21	conj	_	ref=
+28	ею	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Dual|Person=3|PronType=Prs	27	det	_	ref=
+29	и	и	CCONJ	C-	_	21	cc	_	ref=
+30	подружиіемь	подружие	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	21	conj	_	ref=
+31	чѧдъ	чадо	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	30	nmod	_	ref=
+32	ею	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Dual|Person=3|PronType=Prs	31	det	_	ref=
+
+# source = Colophon to the Ostromir Codex, Colophon to the Ostromir Codex
+# text = съдравьствоуите же мънога лѣт съдьржѧще пороучение свое
+# sent_id = 213326
+1	съдравьствоуите	съдравьствовати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	же	же	ADV	Df	_	1	advmod	_	ref=
+3	мънога	мъногыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Strong	4	amod	_	ref=
+4	лѣт	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	1	obl	_	ref=
+5	съдьржѧще	съдьржати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	ref=
+6	пороучение	поручение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obj:dir	_	ref=
+7	свое	свои	ADJ	Pt	Case=Acc|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	6	nmod	_	ref=
+
+# source = Colophon to the Ostromir Codex, Colophon to the Ostromir Codex
+# text = Аминъ
+# sent_id = 213385
+1	Аминъ	аминъ	INTJ	I-	_	0	root	_	ref=
+
+# source = Colophon to the Ostromir Codex, Colophon to the Ostromir Codex
+# text = Азъ григории диꙗкон написахъ еуглие е
+# sent_id = 213328
+1	Азъ	азъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	ref=
+2	григории	григории	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	ref=
+3	диꙗкон	дияконъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	ref=
+4	написахъ	написати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	еуглие	евангелие	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obj:dir	_	ref=
+6	е	и	PRON	Pp	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	det	_	ref=
+
+# source = Colophon to the Ostromir Codex, Colophon to the Ostromir Codex
+# text = да иже горазнѣе сего напише то не мози зазьрѣти мьнѣ грѣшьникоу
+# sent_id = 213330
+1	да	да	CCONJ	C-	_	8	cc	_	ref=
+2	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	ref=
+3	горазнѣе	горазьныи	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing|Strength=Strong	5	advmod	_	ref=
+4	сего	сии	ADJ	Pd	Case=Gen|Gender=Neut|Number=Sing	3	iobj	_	ref=
+5	напише	написати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	nsubj	_	ref=
+6	то	то	ADV	Df	_	8	advmod	_	ref=
+7	не	не	ADV	Df	_	8	advmod	_	ref=
+8	мози	мощи	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+9	зазьрѣти	зазьрѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	xcomp	_	ref=
+10	мьнѣ	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	9	iobj	_	ref=
+11	грѣшьникоу	грѣшьникъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	10	appos	_	ref=
+
+# source = Colophon to the Ostromir Codex, Colophon to the Ostromir Codex
+# text = почахъ же писати мсца октѧб к҃ а на памѧт илариона А оконьчах мсца маиꙗ въ в҃і на пат епифана
+# sent_id = 213332
+1	почахъ	почати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	же	же	ADV	Df	_	1	advmod	_	ref=
+3	писати	пьсати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	ref=
+4	мсца	мѣсяць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	ref=
+5	октѧб	октябрь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	appos	_	ref=
+6	к҃	дъвадесяти	NUM	Ma	_	1	obl	_	ref=
+7	а	единъ	NUM	Ma	_	6	conj	_	ref=
+8	на	на	ADP	R-	_	9	case	_	ref=
+9	памѧт	память	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	appos	_	ref=
+10	илариона	иларионъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	ref=
+11	А	а	CCONJ	C-	_	1	cc	_	ref=
+12	оконьчах	оконьчати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=
+13	мсца	мѣсяць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	ref=
+14	маиꙗ	маи	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	13	appos	_	ref=
+15	въ	въ	ADP	R-	_	16	case	_	ref=
+16	в҃і	дъванадесять	NUM	Ma	_	12	obl	_	ref=
+17	на	на	ADP	R-	_	18	case	_	ref=
+18	пат	память	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	15	appos	_	ref=
+19	епифана	епифанъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	ref=
+
+# source = Colophon to the Ostromir Codex, Colophon to the Ostromir Codex
+# text = молю же вьсѣхъ почитаіѫщихъ
+# sent_id = 213337
+1	молю	молити	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	же	же	ADV	Df	_	1	advmod	_	ref=
+3	вьсѣхъ	вьсь	DET	Px	Case=Gen|Gender=Masc|Number=Plur	4	det	_	ref=
+4	почитаіѫщихъ	почитати	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	1	obj:dir	_	ref=
+
+# source = Colophon to the Ostromir Codex, Colophon to the Ostromir Codex
+# text = не мозѣте клѧти нъ исправльше почитаите
+# sent_id = 213338
+1	не	не	ADV	Df	_	2	advmod	_	ref=
+2	мозѣте	мощи	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	клѧти	кляти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+4	нъ	нъ	CCONJ	C-	_	2	cc	_	ref=
+5	исправльше	исправити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	6	advcl	_	ref=
+6	почитаите	почитати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=
+
+# source = Colophon to the Ostromir Codex, Colophon to the Ostromir Codex
+# text = Тако бо и ст҃ы ап҃лъ паулъ г҃леть
+# sent_id = 213340
+1	Тако	тако	ADV	Df	_	7	advmod	_	ref=
+2	бо	бо	ADV	Df	_	7	advmod	_	ref=
+3	и	и	ADV	Df	_	5	advmod	_	ref=
+4	ст҃ы	святыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	5	amod	_	ref=
+5	ап҃лъ	апостолъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=
+6	паулъ	павьлъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	appos	_	ref=
+7	г҃леть	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = Colophon to the Ostromir Codex, Colophon to the Ostromir Codex
+# text = Бл҃те А не кльнѣте
+# sent_id = 213386
+1	Бл҃те	благословити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	А	а	CCONJ	C-	_	1	cc	_	ref=
+3	не	не	ADV	Df	_	4	advmod	_	ref=
+4	кльнѣте	кляти	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=
+
+# source = Colophon to the Ostromir Codex, Colophon to the Ostromir Codex
+# text = Аминъ
+# sent_id = 213387
+1	Аминъ	аминъ	INTJ	I-	_	0	root	_	ref=
+

@@ -1,0 +1,267 @@
+# source = The list of the Novgorodians' losses, 1
+# text = ﻿поѣхалѣ есме из города ругодива с товаромъ
+# sent_id = 219117
+1	﻿поѣхалѣ	поѣхати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+2	есме	быти	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	ref=
+3	из	из	ADP	R-	_	4	case	_	ref=
+4	города	городъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	ref=
+5	ругодива	ругодивъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	appos	_	ref=
+6	с	съ	ADP	R-	_	7	case	_	ref=
+7	товаромъ	товаръ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	1	obl	_	ref=
+
+# source = The list of the Novgorodians' losses, 1
+# text = и ваша чудь насъ розбилѣ и ограбил подъ городомъ
+# sent_id = 219120
+1	и	и	CCONJ	C-	_	5	cc	_	ref=
+2	ваша	вашь	ADJ	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes	3	nmod	_	ref=
+3	чудь	чудь	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	ref=
+4	насъ	мы	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	5	obj:dir	_	ref=
+5	розбилѣ	розбити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+6	и	и	CCONJ	C-	_	5	cc	_	ref=
+7	ограбил	ограбити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	5	conj	_	ref=
+8	подъ	подъ	ADP	R-	_	9	case	_	ref=
+9	городомъ	городъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	5	obl	_	ref=
+
+# source = The list of the Novgorodians' losses, 1
+# text = и взѧли оу нашего друга съ санѣи котелъ да чомоданець
+# sent_id = 219123
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	взѧли	възяти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+3	оу	у	ADP	R-	_	5	case	_	ref=
+4	нашего	нашь	ADJ	Ps	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes	5	nmod	_	ref=
+5	друга	другъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	obl	_	ref=
+6	съ	съ	ADP	R-	_	7	case	_	ref=
+7	санѣи	сани	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	2	obl	_	ref=
+8	котелъ	котьлъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	obj:dir	_	ref=
+9	да	да	CCONJ	C-	_	8	cc	_	ref=
+10	чомоданець	чемоданьць	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	conj	_	ref=
+
+# source = The list of the Novgorodians' losses, 1
+# text = и на тꙑмъ друга нашего покололи суличе[ю
+# sent_id = 219126
+1	и	и	CCONJ	C-	_	6	cc	_	ref=
+2	на	на	ADP	R-	_	3	case	_	ref=
+3	тꙑмъ	тыи	ADJ	Pd	Case=Loc|Gender=Neut|Number=Sing	6	obl	_	ref=
+4	друга	другъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	obj:dir	_	ref=
+5	нашего	нашь	ADJ	Ps	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes	4	nmod	_	ref=
+6	покололи	поколоти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+7	суличе[ю	сулица	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	6	obl	_	ref=
+
+# source = The list of the Novgorodians' losses, 1
+# text = и мꙑ розбоиника изъимали и повеглѣ есме в городъ къ судьи хотѧци исправѣ по хрѣстному чолованью
+# sent_id = 219193
+1	и	и	CCONJ	C-	_	4	cc	_	ref=
+2	мꙑ	мы	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	ref=
+3	розбоиника	розбоиникъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	obj:dir	_	ref=
+4	изъимали	изимати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+5	и	и	CCONJ	C-	_	4	cc	_	ref=
+6	повеглѣ	повести	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	4	conj	_	ref=
+7	есме	быти	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	ref=
+8	в	въ	ADP	R-	_	9	case	_	ref=
+9	городъ	городъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	ref=
+10	къ	къ	ADP	R-	_	11	case	_	ref=
+11	судьи	судия	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	ref=
+12	хотѧци	хотѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	ref=
+13	исправѣ	исправа	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	12	obj:dir	_	ref=
+14	по	по	ADP	R-	_	16	case	_	ref=
+15	хрѣстному	хрьстьныи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	16	nmod	_	ref=
+16	чолованью	цѣлование	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	12	obl	_	ref=
+
+# source = The list of the Novgorodians' losses, 1
+# text = и левонтѣике своею дружиною на торгу оу насъ розбоиника ѿнелѣ а насъ побиле и подрале а къ судьи насъ не пустил
+# sent_id = 219194
+1	и	и	CCONJ	C-	_	10	cc	_	ref=
+2	левонтѣике	левонтѣико	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	ref=
+3	своею	свои	ADJ	Pt	Case=Ins|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	4	nmod	_	ref=
+4	дружиною	дружина	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	10	obl	_	ref=
+5	на	на	ADP	R-	_	6	case	_	ref=
+6	торгу	търгъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	10	obl	_	ref=
+7	оу	у	ADP	R-	_	8	case	_	ref=
+8	насъ	мы	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	10	obl	_	ref=
+9	розбоиника	розбоиникъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	10	obj:dir	_	ref=
+10	ѿнелѣ	отъяти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+11	а	а	CCONJ	C-	_	10	cc	_	ref=
+12	насъ	мы	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	13	obj:dir	_	ref=
+13	побиле	побити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	10	conj	_	ref=
+14	и	и	CCONJ	C-	_	13	cc	_	ref=
+15	подрале	подьрати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	13	conj	_	ref=
+16	а	а	CCONJ	C-	_	10	cc	_	ref=
+17	къ	къ	ADP	R-	_	18	case	_	ref=
+18	судьи	судия	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	21	obl	_	ref=
+19	насъ	мы	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	21	obj:dir	_	ref=
+20	не	не	ADV	Df	_	21	advmod	_	ref=
+21	пустил	пустити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	10	conj	_	ref=
+
+# source = The list of the Novgorodians' losses, 1
+# text = и ту оу наше дружин оборвалѣ с ворота съ шесть рубл[е]въ
+# sent_id = 219140
+1	и	и	CCONJ	C-	_	6	cc	_	ref=
+2	ту	ту	ADV	Df	_	6	advmod	_	ref=
+3	оу	у	ADP	R-	_	5	case	_	ref=
+4	наше	нашь	ADJ	Ps	Case=Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes	5	nmod	_	ref=
+5	дружин	дружина	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	ref=
+6	оборвалѣ	объръвати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+7	с	съ	ADP	R-	_	8	case	_	ref=
+8	ворота	воротъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	obl	_	ref=
+9	съ	съ	ADV	Df	_	10	advmod	_	ref=
+10	шесть	шесть	NUM	Ma	Case=Acc|Gender=Fem|Number=Sing	6	obj:dir	_	ref=
+11	рубл[е]въ	рубль	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	ref=
+
+# source = The list of the Novgorodians' losses, 1
+# text = да взѧли три киверѣ да три ножи да рукичѣ
+# sent_id = 219195
+1	да	да	CCONJ	C-	_	2	cc	_	ref=
+2	взѧли	възяти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+3	три	трие	NUM	Ma	Case=Acc|Gender=Masc|Number=Plur	4	nummod	_	ref=
+4	киверѣ	киверъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	2	obj:dir	_	ref=
+5	да	да	CCONJ	C-	_	4	cc	_	ref=
+6	три	трие	NUM	Ma	Case=Acc|Gender=Masc|Number=Plur	7	nummod	_	ref=
+7	ножи	ножь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	4	conj	_	ref=
+8	да	да	CCONJ	C-	_	4	cc	_	ref=
+9	рукичѣ	рукавица	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	4	conj	_	ref=
+
+# source = The list of the Novgorodians' losses, 1
+# text = да насъ въ клѣтъку всадѣлѣ
+# sent_id = 219145
+1	да	да	CCONJ	C-	_	5	cc	_	ref=
+2	насъ	мы	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	5	obj:dir	_	ref=
+3	въ	въ	ADP	R-	_	4	case	_	ref=
+4	клѣтъку	клѣтъка	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	ref=
+5	всадѣлѣ	въсадити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = The list of the Novgorodians' losses, 1
+# text = и по томъ насъ изъ клѣткѣ купець вꙑруцилѣ новгородьскѣи
+# sent_id = 219196
+1	и	и	CCONJ	C-	_	8	cc	_	ref=
+2	по	по	ADP	R-	_	3	case	_	ref=
+3	томъ	тыи	ADJ	Pd	Case=Loc|Gender=Neut|Number=Sing	8	obl	_	ref=
+4	насъ	мы	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	8	obj:dir	_	ref=
+5	изъ	из	ADP	R-	_	6	case	_	ref=
+6	клѣткѣ	клѣтъка	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	obl	_	ref=
+7	купець	купьць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	4	appos	_	ref=
+8	вꙑруцилѣ	выручити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+9	новгородьскѣи	новъгородьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	8	nsubj	_	ref=
+
+# source = The list of the Novgorodians' losses, 1
+# text = и веглѣ насъ на городок къ зумберю хотѧчи исправѣ по хрѣстном челованью
+# sent_id = 219147
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	веглѣ	вести	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+3	насъ	мы	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	obj:dir	_	ref=
+4	на	на	ADP	R-	_	5	case	_	ref=
+5	городок	городъкъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	ref=
+6	къ	къ	ADP	R-	_	7	case	_	ref=
+7	зумберю	зуберь	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	ref=
+8	хотѧчи	хотѣти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	2	advcl	_	ref=
+9	исправѣ	исправа	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	obj:dir	_	ref=
+10	по	по	ADP	R-	_	12	case	_	ref=
+11	хрѣстном	хрьстьныи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	12	nmod	_	ref=
+12	челованью	цѣлование	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	8	obl	_	ref=
+
+# source = The list of the Novgorodians' losses, 1
+# text = и зуберь нашог розбоиника одного поставил а инꙑхъ не поставил
+# sent_id = 219152
+1	и	и	CCONJ	C-	_	6	cc	_	ref=
+2	зуберь	зуберь	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=
+3	нашог	нашь	ADJ	Ps	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes	4	nmod	_	ref=
+4	розбоиника	розбоиникъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	obj:dir	_	ref=
+5	одного	одинъ	NUM	Ma	Case=Gen|Gender=Masc|Number=Sing	4	appos	_	ref=
+6	поставил	поставити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+7	а	а	CCONJ	C-	_	6	cc	_	ref=
+8	инꙑхъ	иныи	ADJ	Px	Case=Gen|Gender=Masc|Number=Plur	10	obj:dir	_	ref=
+9	не	не	ADV	Df	_	10	advmod	_	ref=
+10	поставил	поставити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	6	conj	_	ref=
+
+# source = The list of the Novgorodians' losses, 1
+# text = да и с тꙑм розбоиником намъ не дасть говорит
+# sent_id = 219155
+1	да	да	CCONJ	C-	_	8	cc	_	ref=
+2	и	и	ADV	Df	_	8	advmod	_	ref=
+3	с	съ	ADP	R-	_	5	case	_	ref=
+4	тꙑм	тыи	DET	Pd	Case=Ins|Gender=Masc|Number=Sing	5	det	_	ref=
+5	розбоиником	розбоиникъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	9	obl	_	ref=
+6	намъ	мы	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	8	iobj	_	ref=
+7	не	не	ADV	Df	_	8	advmod	_	ref=
+8	дасть	дати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+9	говорит	говорити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	xcomp	_	ref=
+
+# source = The list of the Novgorodians' losses, 1
+# text = а насъ не судиле с нимъ по хрѣстному целованью
+# sent_id = 219157
+1	а	а	CCONJ	C-	_	4	cc	_	ref=
+2	насъ	мы	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	4	obj:dir	_	ref=
+3	не	не	ADV	Df	_	4	advmod	_	ref=
+4	судиле	судити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+5	с	съ	ADP	R-	_	6	case	_	ref=
+6	нимъ	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	ref=
+7	по	по	ADP	R-	_	9	case	_	ref=
+8	хрѣстному	хрьстьныи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	9	nmod	_	ref=
+9	целованью	цѣлование	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	4	obl	_	ref=
+
+# source = The list of the Novgorodians' losses, 1
+# text = да велѣ насъ съвѧзати да вести на пол сѣчи
+# sent_id = 219159
+1	да	да	CCONJ	C-	_	2	cc	_	ref=
+2	велѣ	велѣти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+3	насъ	мы	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	4	obj:dir	_	ref=
+4	съвѧзати	съвязати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+5	да	да	CCONJ	C-	_	4	cc	_	ref=
+6	вести	вести	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	conj	_	ref=
+7	на	на	ADP	R-	_	8	case	_	ref=
+8	пол	поле	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	ref=
+9	сѣчи	сѣчи	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	6	advcl	_	ref=
+
+# source = The list of the Novgorodians' losses, 1
+# text = да вꙑвеглѣ насъ свѧзавъ на поле
+# sent_id = 219162
+1	да	да	CCONJ	C-	_	2	cc	_	ref=
+2	вꙑвеглѣ	вывести	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+3	насъ	мы	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	4	obj:dir	_	ref=
+4	свѧзавъ	съвязати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	2	advcl	_	ref=
+5	на	на	ADP	R-	_	6	case	_	ref=
+6	поле	поле	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	ref=
+
+# source = The list of the Novgorodians' losses, 1
+# text = и посажалѣ сѣчи
+# sent_id = 219164
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	посажалѣ	посажати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+3	сѣчи	сѣчи	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	advcl	_	ref=
+
+# source = The list of the Novgorodians' losses, 1
+# text = да оу нашего друга оу мосѣѧ и бороду побрѣл
+# sent_id = 219197
+1	да	да	CCONJ	C-	_	9	cc	_	ref=
+2	оу	у	ADP	R-	_	4	case	_	ref=
+3	нашего	нашь	ADJ	Ps	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes	4	nmod	_	ref=
+4	друга	другъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	ref=
+5	оу	у	ADP	R-	_	2	mark	_	ref=
+6	мосѣѧ	мосѣи	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	appos	_	ref=
+7	и	и	ADV	Df	_	9	advmod	_	ref=
+8	бороду	борода	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	obj:dir	_	ref=
+9	побрѣл	побрити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = The list of the Novgorodians' losses, 1
+# text = и с полѧ нас сведши всадилѣ насъ в костеръ
+# sent_id = 219167
+1	и	и	CCONJ	C-	_	6	cc	_	ref=
+2	с	съ	ADP	R-	_	3	case	_	ref=
+3	полѧ	поле	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	5	obl	_	ref=
+4	нас	мы	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	5	obj:dir	_	ref=
+5	сведши	съвести	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	6	advcl	_	ref=
+6	всадилѣ	въсадити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+7	насъ	мы	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	6	obj:dir	_	ref=
+8	в	въ	ADP	R-	_	9	case	_	ref=
+9	костеръ	костеръ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	ref=
+
+# source = The list of the Novgorodians' losses, 1
+# text = и сѣдѣл есмѧ в тои мукѣ недѣл
+# sent_id = 219170
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	сѣдѣл	сѣдѣти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+3	есмѧ	быти	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	_	ref=
+4	в	въ	ADP	R-	_	6	case	_	ref=
+5	тои	тыи	DET	Pd	Case=Loc|Gender=Fem|Number=Sing	6	det	_	ref=
+6	мукѣ	мука#1	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	2	obl	_	ref=
+7	недѣл	недѣля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	ref=
+

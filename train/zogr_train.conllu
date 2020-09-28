@@ -1,0 +1,876 @@
+# source = Codex Zographensis, Matthew 3
+# text = тъ васъ крьститъ дх҃омь ст҃ъꙇмь ꙇ огн҄емь
+# sent_id = 75108
+1	тъ	тъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=MATT_3.11
+2	васъ	вꙑ	PRON	Pp	Case=Gen|Number=Plur|Person=2|PronType=Prs	3	obj:dir	_	ref=MATT_3.11
+3	крьститъ	крьстити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_3.11
+4	дх҃омь	доухъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	3	obl	_	ref=MATT_3.11
+5	ст҃ъꙇмь	свѧтъ	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc,Neut|Number=Sing|Strength=Weak	4	amod	_	ref=MATT_3.11
+6	ꙇ	и	CCONJ	C-	_	4	cc	_	ref=MATT_3.11
+7	огн҄емь	огнь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	4	conj	_	ref=MATT_3.11
+
+# source = Codex Zographensis, Matthew 3
+# text = Емоуже лопата въ рѫкоу его
+# sent_id = 75109
+1	Емоуже	иже	PRON	Pr	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	4	iobj	_	ref=MATT_3.12
+2	лопата	лопата	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	ref=MATT_3.12
+3	въ	въ	ADP	R-	_	4	case	_	ref=MATT_3.12
+4	рѫкоу	рѫка	NOUN	Nb	Case=Loc|Gender=Fem|Number=Dual	0	root	_	ref=MATT_3.12
+5	его	и	PRON	Pp	Case=Gen|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	4	det	_	ref=MATT_3.12
+
+# source = Codex Zographensis, Matthew 3
+# text = ꙇ потрѣбитъ гоумъно свое
+# sent_id = 75110
+1	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=MATT_3.12
+2	потрѣбитъ	потрѣбити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_3.12
+3	гоумъно	гоумьно	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obj:dir	_	ref=MATT_3.12
+4	свое	свои	ADJ	Pt	Case=Acc|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	3	nmod	_	ref=MATT_3.12
+
+# source = Codex Zographensis, Matthew 3
+# text = ꙇ съберетъ пьшеницѫ въ житьницѫ
+# sent_id = 75111
+1	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=MATT_3.12
+2	съберетъ	събьрати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_3.12
+3	пьшеницѫ	пьшеница	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj:dir	_	ref=MATT_3.12
+4	въ	въ	ADP	R-	_	5	case	_	ref=MATT_3.12
+5	житьницѫ	житьница	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	ref=MATT_3.12
+
+# source = Codex Zographensis, Matthew 3
+# text = а плѣвꙑ съжежетъ огн҄емь негасимъꙇмь
+# sent_id = 75521
+1	а	а	CCONJ	C-	_	3	cc	_	ref=MATT_3.12
+2	плѣвꙑ	плѣва	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	3	obj:dir	_	ref=MATT_3.12
+3	съжежетъ	съжещи	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_3.12
+4	огн҄емь	огнь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	3	obl	_	ref=MATT_3.12
+5	негасимъꙇмь	гасити	VERB	V-	Case=Ins|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Pass	4	acl	_	ref=MATT_3.12
+
+# source = Codex Zographensis, Matthew 3
+# text = тогда приде ис҃ отъ галилеѩ на ꙇор'данъ къ ꙇоӑноу крьстити сѧ отъ н҄его
+# sent_id = 75113
+1	тогда	тъгда	ADV	Df	_	2	advmod	_	ref=MATT_3.13
+2	приде	прити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_3.13
+3	ис҃	исоусъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=MATT_3.13
+4	отъ	отъ	ADP	R-	_	5	case	_	ref=MATT_3.13
+5	галилеѩ	галилеꙗ	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	2	obl	_	ref=MATT_3.13
+6	на	на	ADP	R-	_	7	case	_	ref=MATT_3.13
+7	ꙇор'данъ	иоръданъ	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	ref=MATT_3.13
+8	къ	къ	ADP	R-	_	9	case	_	ref=MATT_3.13
+9	ꙇоӑноу	иоанъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	ref=MATT_3.13
+10	крьстити	крьстити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	advcl	_	ref=MATT_3.13
+11	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	10	aux	_	ref=MATT_3.13
+12	отъ	отъ	ADP	R-	_	13	case	_	ref=MATT_3.13
+13	н҄его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl:agent	_	ref=MATT_3.13
+
+# source = Codex Zographensis, Matthew 3
+# text = ꙇо̆анъ же възбран҄ѣше емоу гл҃ѧ
+# sent_id = 75115
+1	ꙇо̆анъ	иоанъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=MATT_3.14
+2	же	же	ADV	Df	_	3	discourse	_	ref=MATT_3.14
+3	възбран҄ѣше	възбранꙗти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_3.14
+4	емоу	и	PRON	Pp	Case=Dat|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	3	iobj	_	ref=MATT_3.14
+5	гл҃ѧ	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	3	advcl	_	ref=MATT_3.14
+
+# source = Codex Zographensis, Matthew 3
+# text = азъ трѣбоуѭ отъ тебе крьстити сѧ
+# sent_id = 75116
+1	азъ	азъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	ref=MATT_3.14
+2	трѣбоуѭ	трѣбовати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_3.14
+3	отъ	отъ	ADP	R-	_	4	case	_	ref=MATT_3.14
+4	тебе	тꙑ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obl:agent	_	ref=MATT_3.14
+5	крьстити	крьстити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	advcl	_	ref=MATT_3.14
+6	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	5	aux	_	ref=MATT_3.14
+
+# source = Codex Zographensis, Matthew 3
+# text = а тꙑ л҃и҃ къ мнѣ грѧдеши
+# sent_id = 75117
+1	а	а	CCONJ	C-	_	6	cc	_	ref=MATT_3.14
+2	тꙑ	тꙑ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	ref=MATT_3.14
+3	л҃и҃	ли	ADV	Df	_	6	discourse	_	ref=MATT_3.14
+4	къ	къ	ADP	R-	_	5	case	_	ref=MATT_3.14
+5	мнѣ	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	6	obl	_	ref=MATT_3.14
+6	грѧдеши	грѧсти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_3.14
+
+# source = Codex Zographensis, Matthew 3
+# text = отъвѣштавъ же ис҃ рече къ н҄емоу
+# sent_id = 75118
+1	отъвѣштавъ	отъвѣщати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	4	advcl	_	ref=MATT_3.15
+2	же	же	ADV	Df	_	4	discourse	_	ref=MATT_3.15
+3	ис҃	исоусъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=MATT_3.15
+4	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_3.15
+5	къ	къ	ADP	R-	_	6	case	_	ref=MATT_3.15
+6	н҄емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	ref=MATT_3.15
+
+# source = Codex Zographensis, Matthew 3
+# text = остани нꙑн҄ѣ
+# sent_id = 75119
+1	остани	остати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_3.15
+2	нꙑн҄ѣ	нꙑнѣ	ADV	Df	_	1	advmod	_	ref=MATT_3.15
+
+# source = Codex Zographensis, Matthew 3
+# text = тако бо подобьно намъ естъ съкончати всѣкѫ̆ правъдѫ
+# sent_id = 75120
+1	тако	тако	ADV	Df	_	5	advmod	_	ref=MATT_3.15
+2	бо	бо	ADV	Df	_	5	discourse	_	ref=MATT_3.15
+3	подобьно	подобьнъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	5	xcomp	_	ref=MATT_3.15
+4	намъ	мꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=1|PronType=Prs	5	obl	_	ref=MATT_3.15
+5	естъ	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_3.15
+6	съкончати	съконьчати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	ccomp	_	ref=MATT_3.15
+7	всѣкѫ̆	вьсꙗкъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	8	amod	_	ref=MATT_3.15
+8	правъдѫ	правьда	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obj:dir	_	ref=MATT_3.15
+
+# source = Codex Zographensis, Matthew 3
+# text = тогда остави его
+# sent_id = 75121
+1	тогда	тъгда	ADV	Df	_	2	advmod	_	ref=MATT_3.15
+2	остави	оставити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_3.15
+3	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj:dir	_	ref=MATT_3.15
+
+# source = Codex Zographensis, Matthew 3
+# text = крьшть сѧ ис҃ ꙇ възиде отъ водꙑ
+# sent_id = 75522
+1	крьшть	крьстити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=MATT_3.16
+2	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	1	aux	_	ref=MATT_3.16
+3	ис҃	исоусъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=MATT_3.16
+4	ꙇ	и	CCONJ	C-	_	1	cc	_	ref=MATT_3.16
+5	възиде	възити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=MATT_3.16
+6	отъ	отъ	ADP	R-	_	7	case	_	ref=MATT_3.16
+7	водꙑ	вода	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	obl	_	ref=MATT_3.16
+
+# source = Codex Zographensis, Matthew 3
+# text = ꙇ се отвръзошѧ сѧ емоу
+# sent_id = 75124
+1	ꙇ	и	CCONJ	C-	_	3	cc	_	ref=MATT_3.16
+2	се	се	INTJ	I-	_	3	vocative	_	ref=MATT_3.16
+3	отвръзошѧ	отврѣсти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_3.16
+4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=MATT_3.16
+5	емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	ref=MATT_3.16
+
+# source = Codex Zographensis, Matthew 3
+# text = ꙇ видѣ дх҃ъ бж҃іи съxодѧшть ѣко голѫбь ꙇ грѧдѫшть на н҄ь
+# sent_id = 75125
+1	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=MATT_3.16
+2	видѣ	видѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_3.16
+3	дх҃ъ	доухъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	obj:dir	_	ref=MATT_3.16
+4	бж҃іи	божии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	3	amod	_	ref=MATT_3.16
+5	съxодѧшть	съходити	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	2	xcomp	_	ref=MATT_3.16
+6	ѣко	ꙗко#1	ADV	Df	_	5	advcl	_	ref=MATT_3.16
+7	голѫбь	голѫбь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=MATT_3.16
+8	ꙇ	и	CCONJ	C-	_	5	cc	_	ref=MATT_3.16
+9	грѧдѫшть	грѧсти	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	5	conj	_	ref=MATT_3.16
+10	на	на	ADP	R-	_	11	case	_	ref=MATT_3.16
+11	н҄ь	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	ref=MATT_3.16
+
+# source = Codex Zographensis, Matthew 3
+# text = ꙇ се гласъ съ нб҃се гл҃ѧ
+# sent_id = 75128
+1	ꙇ	и	CCONJ	C-	_	0	root	_	ref=MATT_3.17
+2	се	се	INTJ	I-	_	1	vocative	_	ref=MATT_3.17
+3	гласъ	гласъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=MATT_3.17
+4	съ	съ	ADP	R-	_	5	case	_	ref=MATT_3.17
+5	нб҃се	небо	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	ref=MATT_3.17
+6	гл҃ѧ	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	ref=MATT_3.17
+
+# source = Codex Zographensis, Matthew 3
+# text = сь естъ сн҃ъ мои възл҄юбл҄енъꙇ
+# sent_id = 75129
+1	сь	сь	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=MATT_3.17
+2	естъ	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_3.17
+3	сн҃ъ	сꙑнъ#1	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	xcomp	_	ref=MATT_3.17
+4	мои	мои	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=1|Poss=Yes	3	nmod	_	ref=MATT_3.17
+5	възл҄юбл҄енъꙇ	възлюбити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	_	ref=MATT_3.17
+
+# source = Codex Zographensis, Matthew 3
+# text = о немь же благов[о]лиxъ
+# sent_id = 75131
+1	о	о	ADP	R-	_	2	case	_	ref=MATT_3.17
+2	немь	и	PRON	Pp	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	ref=MATT_3.17
+3	же	же	ADV	Df	_	4	discourse	_	ref=MATT_3.17
+4	благов[о]лиxъ	благоволити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_3.17
+
+# source = Codex Zographensis, Matthew 4
+# text = тогда ис҃ възведенъ бꙑстъ дх҃омь въ поустꙑн҄ѭ ꙇскоусити сѧ отъ неприѣзни
+# sent_id = 75525
+1	тогда	тъгда	ADV	Df	_	4	advmod	_	ref=MATT_4.1
+2	ис҃	исоусъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=MATT_4.1
+3	възведенъ	възвести	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	4	xcomp	_	ref=MATT_4.1
+4	бꙑстъ	бꙑти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.1
+5	дх҃омь	доухъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	3	obl:agent	_	ref=MATT_4.1
+6	въ	въ	ADP	R-	_	7	case	_	ref=MATT_4.1
+7	поустꙑн҄ѭ	поустꙑни	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	ref=MATT_4.1
+8	ꙇскоусити	искоусити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	advcl	_	ref=MATT_4.1
+9	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	8	aux	_	ref=MATT_4.1
+10	отъ	отъ	ADP	R-	_	11	case	_	ref=MATT_4.1
+11	неприѣзни	неприꙗзнь	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	obl:agent	_	ref=MATT_4.1
+
+# source = Codex Zographensis, Matthew 4
+# text = ꙇ пошть сѧ дьниі к҃ ꙇ ноштиі послѣдь възлака
+# sent_id = 75134
+1	ꙇ	и	CCONJ	C-	_	9	cc	_	ref=MATT_4.2
+2	пошть	постити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	9	advcl	_	ref=MATT_4.2
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=MATT_4.2
+4	дьниі	дьнь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	ref=MATT_4.2
+5	к҃	четꙑрe.десѧтe	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	9	obl	_	ref=MATT_4.2
+6	ꙇ	и	CCONJ	C-	_	4	cc	_	ref=MATT_4.2
+7	ноштиі	нощь	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	4	conj	_	ref=MATT_4.2
+8	послѣдь	послѣдь	ADV	Df	_	9	advmod	_	ref=MATT_4.2
+9	възлака	възалъкати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.2
+
+# source = Codex Zographensis, Matthew 4
+# text = Ꙇ пристѫпи къ н҄емоу диѣволъ ꙇскоушаѩ и ꙇ рече
+# sent_id = 75138
+1	Ꙇ	и	CCONJ	C-	_	2	cc	_	ref=MATT_4.3
+2	пристѫпи	пристѫпити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.3
+3	къ	къ	ADP	R-	_	4	case	_	ref=MATT_4.3
+4	н҄емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	ref=MATT_4.3
+5	диѣволъ	диꙗволъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=MATT_4.3
+6	ꙇскоушаѩ	искоушати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	ref=MATT_4.3
+7	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj:dir	_	ref=MATT_4.3
+8	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=MATT_4.3
+9	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=MATT_4.3
+
+# source = Codex Zographensis, Matthew 4
+# text = аште сн҃ъ еси бж҃іи рьци да камение се xлѣби бѫдѫтъ
+# sent_id = 75140
+1	аште	аще	SCONJ	G-	_	3	mark	_	ref=MATT_4.3
+2	сн҃ъ	сꙑнъ#1	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	xcomp	_	ref=MATT_4.3
+3	еси	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	ref=MATT_4.3
+4	бж҃іи	божии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	2	amod	_	ref=MATT_4.3
+5	рьци	рещи	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.3
+6	да	да	SCONJ	G-	_	10	mark	_	ref=MATT_4.3
+7	камение	камениѥ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	ref=MATT_4.3
+8	се	сь	DET	Pd	Case=Nom|Gender=Neut|Number=Sing	7	det	_	ref=MATT_4.3
+9	xлѣби	хлѣбъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	10	xcomp	_	ref=MATT_4.3
+10	бѫдѫтъ	бꙑти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	5	advcl	_	ref=MATT_4.3
+
+# source = Codex Zographensis, Matthew 4
+# text = о̆нъ же отъвѣштавъ рече
+# sent_id = 75142
+1	о̆нъ	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=MATT_4.4
+2	же	же	ADV	Df	_	4	discourse	_	ref=MATT_4.4
+3	отъвѣштавъ	отъвѣщати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	4	advcl	_	ref=MATT_4.4
+4	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.4
+
+# source = Codex Zographensis, Matthew 4
+# text = пишетъ
+# sent_id = 75143
+1	пишетъ	пьсати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.4
+
+# source = Codex Zographensis, Matthew 4
+# text = не о xлѣбѣ единомь поживетъ чк҃ъ нъ о̆ всемь гл҃ѣ ꙇсxодѧштиімь ꙇз оустъ бж҃іи
+# sent_id = 75564
+1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	ref=MATT_4.4
+2	о	о	ADP	R-	_	3	case	_	ref=MATT_4.4
+3	xлѣбѣ	хлѣбъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	ref=MATT_4.4
+4	единомь	ѥдинъ	NUM	Ma	Case=Loc|Gender=Masc,Neut|Number=Sing	3	nummod	_	ref=MATT_4.4
+5	поживетъ	пожити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.4
+6	чк҃ъ	чловѣкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=MATT_4.4
+7	нъ	нъ	CCONJ	C-	_	3	cc	_	ref=MATT_4.4
+8	о̆	о	ADP	R-	_	10	case	_	ref=MATT_4.4
+9	всемь	вьсь	DET	Px	Case=Loc|Gender=Masc|Number=Sing	10	det	_	ref=MATT_4.4
+10	гл҃ѣ	глаголъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	3	conj	_	ref=MATT_4.4
+11	ꙇсxодѧштиімь	исходити	VERB	V-	Case=Loc|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	10	acl	_	ref=MATT_4.4
+12	ꙇз	из	ADP	R-	_	13	case	_	ref=MATT_4.4
+13	оустъ	оуста	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	11	obl	_	ref=MATT_4.4
+14	бж҃іи	божии	ADJ	A-	Case=Gen|Degree=Pos|Number=Plur|Strength=Strong	13	amod	_	ref=MATT_4.4
+
+# source = Codex Zographensis, Matthew 4
+# text = тогда поѩтъ і диѣволъ вь ст҃ъꙇ градъ
+# sent_id = 75146
+1	тогда	тъгда	ADV	Df	_	2	advmod	_	ref=MATT_4.5
+2	поѩтъ	поѩти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.5
+3	і	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj:dir	_	ref=MATT_4.5
+4	диѣволъ	диꙗволъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=MATT_4.5
+5	вь	въ	ADP	R-	_	7	case	_	ref=MATT_4.5
+6	ст҃ъꙇ	свѧтъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	7	amod	_	ref=MATT_4.5
+7	градъ	градъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	ref=MATT_4.5
+
+# source = Codex Zographensis, Matthew 4
+# text = ꙇ постави і на крилѣ црък'вьнѣемь
+# sent_id = 75528
+1	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=MATT_4.5
+2	постави	поставити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.5
+3	і	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj:dir	_	ref=MATT_4.5
+4	на	на	ADP	R-	_	5	case	_	ref=MATT_4.5
+5	крилѣ	крило	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	2	obl	_	ref=MATT_4.5
+6	црък'вьнѣемь	црькъвьнъ	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	5	amod	_	ref=MATT_4.5
+
+# source = Codex Zographensis, Matthew 4
+# text = ꙇ гл҃а емоу
+# sent_id = 75149
+1	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=MATT_4.5
+2	гл҃а	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.5
+3	емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	iobj	_	ref=MATT_4.5
+
+# source = Codex Zographensis, Matthew 4
+# text = аште сн҃ъ еси бж҃іи поусти себе долоу
+# sent_id = 75150
+1	аште	аще	SCONJ	G-	_	3	mark	_	ref=MATT_4.5
+2	сн҃ъ	сꙑнъ#1	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	xcomp	_	ref=MATT_4.5
+3	еси	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	ref=MATT_4.5
+4	бж҃іи	божии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	2	amod	_	ref=MATT_4.5
+5	поусти	поустити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.5
+6	себе	себе	PRON	Pk	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	obj:dir	_	ref=MATT_4.5
+7	долоу	долоу	ADV	Df	_	5	advmod	_	ref=MATT_4.6
+
+# source = Codex Zographensis, Matthew 4
+# text = пишетъ бо ѣко аћл҃омъ своимъ заповѣстъ о тебѣ ꙇ на рѫкаxъ възъмѫтъ тѧ да не когда прѣтъкнеши о камен?? ногѫ своѫ
+# sent_id = 75152
+1	пишетъ	пьсати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.6
+2	бо	бо	ADV	Df	_	1	discourse	_	ref=MATT_4.6
+3	ѣко	ꙗко	SCONJ	G-	_	6	mark	_	ref=MATT_4.6
+4	аћл҃омъ	ангелъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	6	iobj	_	ref=MATT_4.6
+5	своимъ	свои	ADJ	Pt	Case=Dat|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	4	nmod	_	ref=MATT_4.6
+6	заповѣстъ	заповѣдѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	ref=MATT_4.6
+7	о	о	ADP	R-	_	8	case	_	ref=MATT_4.6
+8	тебѣ	тꙑ	PRON	Pp	Case=Loc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	obl	_	ref=MATT_4.6
+9	ꙇ	и	CCONJ	C-	_	6	cc	_	ref=MATT_4.6
+10	на	на	ADP	R-	_	11	case	_	ref=MATT_4.6
+11	рѫкаxъ	рѫка	NOUN	Nb	Case=Loc|Gender=Fem|Number=Plur	12	obl	_	ref=MATT_4.6
+12	възъмѫтъ	възѧти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	ref=MATT_4.6
+13	тѧ	тꙑ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	obj:dir	_	ref=MATT_4.6
+14	да	да	SCONJ	G-	_	17	mark	_	ref=MATT_4.6
+15	не	не	ADV	Df	Polarity=Neg	17	advmod	_	ref=MATT_4.6
+16	когда	когда	ADV	Df	_	17	advmod	_	ref=MATT_4.6
+17	прѣтъкнеши	прѣтъкнѫти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	ref=MATT_4.6
+18	о	о	ADP	R-	_	19	case	_	ref=MATT_4.6
+19	камен??	камꙑ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	17	obl	_	ref=MATT_4.6
+20	ногѫ	нога	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	17	obj:dir	_	ref=MATT_4.6
+21	своѫ	свои	ADJ	Ps	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes	20	nmod	_	ref=MATT_4.6
+
+# source = Codex Zographensis, Matthew 4
+# text = Рече же емоу ис҃
+# sent_id = 75155
+1	Рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.7
+2	же	же	ADV	Df	_	1	discourse	_	ref=MATT_4.7
+3	емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	ref=MATT_4.7
+4	ис҃	исоусъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=MATT_4.7
+
+# source = Codex Zographensis, Matthew 4
+# text = пакꙑ пишетъ
+# sent_id = 75156
+1	пакꙑ	пакꙑ	ADV	Df	_	2	advmod	_	ref=MATT_4.7
+2	пишетъ	пьсати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.7
+
+# source = Codex Zographensis, Matthew 4
+# text = не ꙇскоусиши г҃а б҃а своего
+# sent_id = 75588
+1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	ref=MATT_4.7
+2	ꙇскоусиши	искоусити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.7
+3	г҃а	господь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	obj:dir	_	ref=MATT_4.7
+4	б҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	appos	_	ref=MATT_4.7
+5	своего	свои	ADJ	Pt	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	4	nmod	_	ref=MATT_4.7
+
+# source = Codex Zographensis, Matthew 4
+# text = пакꙑ поѩтъ его неприѣзнь на горѫ вꙑсокѫ ꙃѣло
+# sent_id = 75158
+1	пакꙑ	пакꙑ	ADV	Df	_	2	advmod	_	ref=MATT_4.8
+2	поѩтъ	поѩти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.8
+3	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj:dir	_	ref=MATT_4.8
+4	неприѣзнь	неприꙗзнь	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=MATT_4.8
+5	на	на	ADP	R-	_	6	case	_	ref=MATT_4.8
+6	горѫ	гора	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	ref=MATT_4.8
+7	вꙑсокѫ	вꙑсокъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	6	amod	_	ref=MATT_4.8
+8	ꙃѣло	ѕѣло	ADV	Df	_	7	advmod	_	ref=MATT_4.8
+
+# source = Codex Zographensis, Matthew 4
+# text = ꙇ показа емоу вьсѣ цр҃ствиѣ мира ꙇ славѫ его
+# sent_id = 75159
+1	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=MATT_4.8
+2	показа	показати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.8
+3	емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	iobj	_	ref=MATT_4.8
+4	вьсѣ	вьсь	DET	Px	Case=Acc|Gender=Neut|Number=Plur	5	det	_	ref=MATT_4.8
+5	цр҃ствиѣ	цѣсарьствиѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	2	obj:dir	_	ref=MATT_4.8
+6	мира	миръ#2	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	ref=MATT_4.8
+7	ꙇ	и	CCONJ	C-	_	5	cc	_	ref=MATT_4.8
+8	славѫ	слава	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	conj	_	ref=MATT_4.8
+9	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	det	_	ref=MATT_4.8
+
+# source = Codex Zographensis, Matthew 4
+# text = ꙇ гл҃а емоу
+# sent_id = 75160
+1	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=MATT_4.9
+2	гл҃а	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.9
+3	емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	iobj	_	ref=MATT_4.9
+
+# source = Codex Zographensis, Matthew 4
+# text = вьсѣ си дамь ти аште падъ поклониши ми сѧ
+# sent_id = 75529
+1	вьсѣ	вьсь	DET	Px	Case=Acc|Gender=Neut|Number=Plur	2	det	_	ref=MATT_4.9
+2	си	сь	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	3	obj:dir	_	ref=MATT_4.9
+3	дамь	дати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.9
+4	ти	тъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	3	iobj	_	ref=MATT_4.9
+5	аште	аще	SCONJ	G-	_	7	mark	_	ref=MATT_4.9
+6	падъ	пасти#1	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	7	advcl	_	ref=MATT_4.9
+7	поклониши	поклонити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	ref=MATT_4.9
+8	ми	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	iobj	_	ref=MATT_4.9
+9	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	7	aux	_	ref=MATT_4.9
+
+# source = Codex Zographensis, Matthew 4
+# text = тогда гл҃а емоу ис҃
+# sent_id = 75162
+1	тогда	тъгда	ADV	Df	_	2	advmod	_	ref=MATT_4.10
+2	гл҃а	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.10
+3	емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	iobj	_	ref=MATT_4.10
+4	ис҃	исоусъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=MATT_4.10
+
+# source = Codex Zographensis, Matthew 4
+# text = отиди диѣвол҄е
+# sent_id = 75163
+1	отиди	отити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.10
+2	диѣвол҄е	диꙗволъ	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	ref=MATT_4.10
+
+# source = Codex Zographensis, Matthew 4
+# text = пишетъ бо
+# sent_id = 75164
+1	пишетъ	пьсати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.10
+2	бо	бо	ADV	Df	_	1	discourse	_	ref=MATT_4.10
+
+# source = Codex Zographensis, Matthew 4
+# text = г҃ю б҃ѵ своемоу поклониши сѧ ꙇ томоу единомоу послоужиши
+# sent_id = 75589
+1	г҃ю	господь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	iobj	_	ref=MATT_4.10
+2	б҃ѵ	богъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	appos	_	ref=MATT_4.10
+3	своемоу	свои	ADJ	Pt	Case=Dat|Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	2	nmod	_	ref=MATT_4.10
+4	поклониши	поклонити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.10
+5	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	4	aux	_	ref=MATT_4.10
+6	ꙇ	и	CCONJ	C-	_	4	cc	_	ref=MATT_4.10
+7	томоу	тъ	ADJ	Pd	Case=Dat|Gender=Masc|Number=Sing	9	iobj	_	ref=MATT_4.10
+8	единомоу	ѥдинъ	NUM	Ma	Case=Dat|Gender=Masc|Number=Sing	7	appos	_	ref=MATT_4.10
+9	послоужиши	послоужити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	ref=MATT_4.10
+
+# source = Codex Zographensis, Matthew 4
+# text = тогда остави его диѣволъ
+# sent_id = 75165
+1	тогда	тъгда	ADV	Df	_	2	advmod	_	ref=MATT_4.11
+2	остави	оставити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.11
+3	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj:dir	_	ref=MATT_4.11
+4	диѣволъ	диꙗволъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=MATT_4.11
+
+# source = Codex Zographensis, Matthew 4
+# text = ꙇ се аћл҃и пристѫпишѧ ꙇ слоужааxѫ емоу
+# sent_id = 75166
+1	ꙇ	и	CCONJ	C-	_	4	cc	_	ref=MATT_4.11
+2	се	се	INTJ	I-	_	4	vocative	_	ref=MATT_4.11
+3	аћл҃и	ангелъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	ref=MATT_4.11
+4	пристѫпишѧ	пристѫпити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.11
+5	ꙇ	и	CCONJ	C-	_	4	cc	_	ref=MATT_4.11
+6	слоужааxѫ	слоужити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	ref=MATT_4.11
+7	емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	ref=MATT_4.11
+
+# source = Codex Zographensis, Matthew 4
+# text = Слꙑшавъ же ис҃ ѣко ꙇоӑнъ прѣданъ бꙑстъ отиде въ галилеѭ
+# sent_id = 75167
+1	Слꙑшавъ	слꙑшати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	_	ref=MATT_4.12
+2	же	же	ADV	Df	_	8	discourse	_	ref=MATT_4.12
+3	ис҃	исоусъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=MATT_4.12
+4	ѣко	ꙗко	SCONJ	G-	_	7	mark	_	ref=MATT_4.12
+5	ꙇоӑнъ	иоанъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=MATT_4.12
+6	прѣданъ	прѣдати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	7	xcomp	_	ref=MATT_4.12
+7	бꙑстъ	бꙑти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	ref=MATT_4.12
+8	отиде	отити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.12
+9	въ	въ	ADP	R-	_	10	case	_	ref=MATT_4.12
+10	галилеѭ	галилеꙗ	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	ref=MATT_4.12
+
+# source = Codex Zographensis, Matthew 4
+# text = ꙇ оставь назаретъ пришедъ вьсели сѧ въ каперьнаоумъ на поморие въ область завѵлон҄ѭ ꙇ невъф'талимл҄ѭ да съконьчаатъ сѧ реченое ꙇсаꙇемь пророкомь гл҃ѭштем??
+# sent_id = 75170
+1	ꙇ	и	CCONJ	C-	_	5	cc	_	ref=MATT_4.13
+2	оставь	оставити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	5	advcl	_	ref=MATT_4.13
+3	назаретъ	назаретъ	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	2	obj:dir	_	ref=MATT_4.13
+4	пришедъ	прити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	5	advcl	_	ref=MATT_4.13
+5	вьсели	въселити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.13
+6	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	5	aux	_	ref=MATT_4.13
+7	въ	въ	ADP	R-	_	8	case	_	ref=MATT_4.13
+8	каперьнаоумъ	каперънаоумъ	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	5	obl	_	ref=MATT_4.13
+9	на	на	ADP	R-	_	10	case	_	ref=MATT_4.13
+10	поморие	помориѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	appos	_	ref=MATT_4.13
+11	въ	въ	ADP	R-	_	12	case	_	ref=MATT_4.13
+12	область	область	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	appos	_	ref=MATT_4.13
+13	завѵлон҄ѭ	завоулонь	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	12	amod	_	ref=MATT_4.13
+14	ꙇ	и	CCONJ	C-	_	13	cc	_	ref=MATT_4.13
+15	невъф'талимл҄ѭ	невъфталимль	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	13	conj	_	ref=MATT_4.13
+16	да	да	SCONJ	G-	_	17	mark	_	ref=MATT_4.14
+17	съконьчаатъ	съконьчати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	ref=MATT_4.14
+18	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	17	aux	_	ref=MATT_4.14
+19	реченое	рещи	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	17	nsubj	_	ref=MATT_4.14
+20	ꙇсаꙇемь	исаиꙗ	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	19	obl:agent	_	ref=MATT_4.14
+21	пророкомь	пророкъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	20	appos	_	ref=MATT_4.14
+22	гл҃ѭштем??	глаголати	VERB	V-	Case=Ins|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	19	advcl	_	ref=MATT_4.14
+
+# source = Codex Zographensis, Matthew 4
+# text = земл҄ѣ завѵлон҄ѣ земл҄ѣ невъф'талимл҄ѣ пѫть морѣ на ономь полоу ꙇор'да?? галилеѣ ѩзꙑкомъ люди сѣдѧштиі въ тъмѣ видѣшѧ свѣтъ велиі ꙇ сѣдѧштиімъ въ тъмѣ ꙇ въ сѣни съмрътьнѣ свѣтъ въсиѣетъ на насъ
+# sent_id = 75598
+1	земл҄ѣ	землꙗ	NOUN	Nb	Case=Voc|Gender=Fem|Number=Sing	17	vocative	_	ref=MATT_4.14
+2	завѵлон҄ѣ	завоулонь	ADJ	A-	Case=Voc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	1	amod	_	ref=MATT_4.14
+3	земл҄ѣ	землꙗ	NOUN	Nb	Case=Voc|Gender=Fem|Number=Sing	1	conj	_	ref=MATT_4.15
+4	невъф'талимл҄ѣ	невъфталимль	ADJ	A-	Case=Voc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	3	amod	_	ref=MATT_4.15
+5	пѫть	пѫть	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	ref=MATT_4.15
+6	морѣ	морѥ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	ref=MATT_4.15
+7	на	на	ADP	R-	_	9	case	_	ref=MATT_4.15
+8	ономь	онъ	DET	Pd	Case=Loc|Gender=Masc,Neut|Number=Sing	9	det	_	ref=MATT_4.15
+9	полоу	полъ#1	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	5	nmod	_	ref=MATT_4.15
+10	ꙇор'да??	иорданъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	ref=MATT_4.15
+11	галилеѣ	галилеꙗ	PROPN	Ne	Case=Voc|Gender=Fem|Number=Sing	17	vocative	_	ref=MATT_4.15
+12	ѩзꙑкомъ	ѩзꙑкъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	11	nmod	_	ref=MATT_4.15
+13	люди	людиѥ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	17	nsubj	_	ref=MATT_4.16
+14	сѣдѧштиі	сѣдѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	13	acl	_	ref=MATT_4.16
+15	въ	въ	ADP	R-	_	16	case	_	ref=MATT_4.16
+16	тъмѣ	тьма#1	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	14	obl	_	ref=MATT_4.16
+17	видѣшѧ	видѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.16
+18	свѣтъ	свѣтъ#1	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	17	obj:dir	_	ref=MATT_4.16
+19	велиі	велии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	ref=MATT_4.16
+20	ꙇ	и	CCONJ	C-	_	17	cc	_	ref=MATT_4.16
+21	сѣдѧштиімъ	сѣдѣти	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	29	advcl	_	ref=MATT_4.16
+22	въ	въ	ADP	R-	_	23	case	_	ref=MATT_4.16
+23	тъмѣ	тьма#1	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	21	obl	_	ref=MATT_4.16
+24	ꙇ	и	CCONJ	C-	_	23	cc	_	ref=MATT_4.16
+25	въ	въ	ADP	R-	_	26	case	_	ref=MATT_4.16
+26	сѣни	сѣнь	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	23	conj	_	ref=MATT_4.16
+27	съмрътьнѣ	съмрьтьнъ	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	26	amod	_	ref=MATT_4.16
+28	свѣтъ	свѣтъ#1	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	29	nsubj	_	ref=MATT_4.16
+29	въсиѣетъ	въсиꙗти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	conj	_	ref=MATT_4.16
+30	на	на	ADP	R-	_	31	case	_	ref=MATT_4.16
+31	насъ	мꙑ	PRON	Pp	Case=Acc|Number=Plur|Person=1|PronType=Prs	29	obl	_	ref=MATT_4.16
+
+# source = Codex Zographensis, Matthew 4
+# text = Ѡтъ толи начѧтъ ис҃ проповѣдати ꙇ гл҃ати
+# sent_id = 75182
+1	Ѡтъ	отътоли	ADV	Df	_	3	advmod	_	ref=MATT_4.17
+2	толи	толи	ADV	Df	_	1	flat	_	ref=MATT_4.17
+3	начѧтъ	начѧти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.17
+4	ис҃	исоусъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=MATT_4.17
+5	проповѣдати	проповѣдати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=MATT_4.17
+6	ꙇ	и	CCONJ	C-	_	5	cc	_	ref=MATT_4.17
+7	гл҃ати	глаголати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	conj	_	ref=MATT_4.17
+
+# source = Codex Zographensis, Matthew 4
+# text = покаꙇте сѧ
+# sent_id = 75184
+1	покаꙇте	покаꙗти	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.17
+2	сѧ	себе	AUX	Pk	Case=Acc|Number=Plur|Person=3	1	aux	_	ref=MATT_4.17
+
+# source = Codex Zographensis, Matthew 4
+# text = приближи бо сѧ цр҃ствие нб҃ское
+# sent_id = 75816
+1	приближи	приближити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.17
+2	бо	бо	ADV	Df	_	1	discourse	_	ref=MATT_4.17
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	1	aux	_	ref=MATT_4.17
+4	цр҃ствие	цѣсарьствиѥ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	ref=MATT_4.17
+5	нб҃ское	небесьскъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	4	amod	_	ref=MATT_4.17
+
+# source = Codex Zographensis, Matthew 4
+# text = xодѧ же при мори галилѣꙇсцѣмь видѣ дъва братра симона нарицаѭштааго сѧ петра ꙇ ан'дрѣѭ братра его въмѣтаѭшта мрѣжѧ въ море
+# sent_id = 75186
+1	xодѧ	ходити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	ref=MATT_4.18
+2	же	же	ADV	Df	_	6	discourse	_	ref=MATT_4.18
+3	при	при	ADP	R-	_	4	case	_	ref=MATT_4.18
+4	мори	морѥ	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	1	obl	_	ref=MATT_4.18
+5	галилѣꙇсцѣмь	галилеискъ	ADJ	A-	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	4	amod	_	ref=MATT_4.18
+6	видѣ	видѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.18
+7	дъва	дъва	NUM	Ma	Case=Acc|Gender=Masc|Number=Dual	8	nummod	_	ref=MATT_4.18
+8	братра	братръ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Dual	6	obj:dir	_	ref=MATT_4.18
+9	симона	симонъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	8	appos	_	ref=MATT_4.18
+10	нарицаѭштааго	нарицати	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	9	acl	_	ref=MATT_4.18
+11	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	10	aux	_	ref=MATT_4.18
+12	петра	петръ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	10	xcomp	_	ref=MATT_4.18
+13	ꙇ	и	CCONJ	C-	_	9	cc	_	ref=MATT_4.18
+14	ан'дрѣѭ	аньдрѣꙗ	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	9	conj	_	ref=MATT_4.18
+15	братра	братръ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	14	appos	_	ref=MATT_4.18
+16	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	det	_	ref=MATT_4.18
+17	въмѣтаѭшта	въмѣтати	VERB	V-	Case=Acc|Gender=Masc|Number=Dual|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	6	xcomp	_	ref=MATT_4.18
+18	мрѣжѧ	мрѣжа	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	17	obj:dir	_	ref=MATT_4.18
+19	въ	въ	ADP	R-	_	20	case	_	ref=MATT_4.18
+20	море	морѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	17	obl	_	ref=MATT_4.18
+
+# source = Codex Zographensis, Matthew 4
+# text = бѣашете бо рꙑбарѣ
+# sent_id = 75817
+1	бѣашете	бꙑти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.18
+2	бо	бо	ADV	Df	_	1	discourse	_	ref=MATT_4.18
+3	рꙑбарѣ	рꙑбарь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Dual	1	xcomp	_	ref=MATT_4.18
+
+# source = Codex Zographensis, Matthew 4
+# text = ꙇ гл҃а ꙇма
+# sent_id = 75191
+1	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=MATT_4.19
+2	гл҃а	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.19
+3	ꙇма	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Dual|Person=3|PronType=Prs	2	iobj	_	ref=MATT_4.19
+
+# source = Codex Zographensis, Matthew 4
+# text = грѧдѣта въ слѣдъ мене
+# sent_id = 75192
+1	грѧдѣта	грѧсти	VERB	V-	Mood=Imp|Number=Dual|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.19
+2	въ	въ	ADP	R-	_	3	case	_	ref=MATT_4.19
+3	слѣдъ	слѣдъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	ref=MATT_4.19
+4	мене	азъ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	nmod	_	ref=MATT_4.19
+
+# source = Codex Zographensis, Matthew 4
+# text = ꙇ сътвор҄ѭ вꙑ чк҃омъ ловьца
+# sent_id = 75193
+1	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=MATT_4.19
+2	сътвор҄ѭ	сътворити	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.19
+3	вꙑ	вꙑ	PRON	Pp	Case=Acc|Number=Dual|Person=2|PronType=Prs	2	obj:dir	_	ref=MATT_4.19
+4	чк҃омъ	чловѣкъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	5	nmod	_	ref=MATT_4.19
+5	ловьца	ловьць	NOUN	Nb	Case=Acc|Gender=Masc|Number=Dual	2	xcomp	_	ref=MATT_4.19
+
+# source = Codex Zographensis, Matthew 4
+# text = она же абие оставьша мрѣжѧ по немь ꙇдосте
+# sent_id = 75194
+1	она	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Dual	8	nsubj	_	ref=MATT_4.20
+2	же	же	ADV	Df	_	8	discourse	_	ref=MATT_4.20
+3	абие	абиѥ	ADV	Df	_	8	advmod	_	ref=MATT_4.20
+4	оставьша	оставити	VERB	V-	Case=Nom|Gender=Masc|Number=Dual|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	_	ref=MATT_4.20
+5	мрѣжѧ	мрѣжа	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	4	obj:dir	_	ref=MATT_4.20
+6	по	по	ADP	R-	_	7	case	_	ref=MATT_4.20
+7	немь	и	PRON	Pp	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	ref=MATT_4.20
+8	ꙇдосте	ити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.20
+
+# source = Codex Zographensis, Matthew 4
+# text = ꙇ прѣшьдъ тѫдѣ видѣ ꙇна дъва братра ꙇѣкова зеведео̆ва ꙇо̆ана брата емоу въ кораби съ зеведеомь оц҃емь ею завѧзаѭшта мрѣжѧ своѩ
+# sent_id = 75196
+1	ꙇ	и	CCONJ	C-	_	4	cc	_	ref=MATT_4.21
+2	прѣшьдъ	прѣити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	4	advcl	_	ref=MATT_4.21
+3	тѫдѣ	тѫдоу	ADV	Df	_	2	advmod	_	ref=MATT_4.21
+4	видѣ	видѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.21
+5	ꙇна	инъ	DET	Px	Case=Acc|Gender=Masc|Number=Dual	7	det	_	ref=MATT_4.21
+6	дъва	дъва	NUM	Ma	Case=Acc|Gender=Masc|Number=Dual	7	nummod	_	ref=MATT_4.21
+7	братра	братръ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Dual	4	obj:dir	_	ref=MATT_4.21
+8	ꙇѣкова	иꙗковъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	7	appos	_	ref=MATT_4.21
+9	зеведео̆ва	зеведеовъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	8	amod	_	ref=MATT_4.21
+10	ꙇо̆ана	иоанъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	8	conj	_	ref=MATT_4.21
+11	брата	братръ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	10	appos	_	ref=MATT_4.21
+12	емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nmod	_	ref=MATT_4.21
+13	въ	въ	ADP	R-	_	14	case	_	ref=MATT_4.21
+14	кораби	корабль	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	19	obl	_	ref=MATT_4.21
+15	съ	съ	ADP	R-	_	16	case	_	ref=MATT_4.21
+16	зеведеомь	зеведеи	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	19	obl	_	ref=MATT_4.21
+17	оц҃емь	отьць	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	16	appos	_	ref=MATT_4.21
+18	ею	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Dual|Person=3|PronType=Prs	17	det	_	ref=MATT_4.21
+19	завѧзаѭшта	завѧзати	VERB	V-	Case=Acc|Gender=Masc|Number=Dual|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	4	xcomp	_	ref=MATT_4.21
+20	мрѣжѧ	мрѣжа	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	19	obj:dir	_	ref=MATT_4.21
+21	своѩ	свои	ADJ	Pt	Case=Acc|Gender=Fem|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	20	nmod	_	ref=MATT_4.21
+
+# source = Codex Zographensis, Matthew 4
+# text = ꙇ възъва ѣ
+# sent_id = 75201
+1	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=MATT_4.21
+2	възъва	възъвати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.21
+3	ѣ	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Dual|Person=3|PronType=Prs	2	obj:dir	_	ref=MATT_4.21
+
+# source = Codex Zographensis, Matthew 4
+# text = о̆на же абие оставьша кораб҄ь ꙇ оц҃а своего по н҄емь ꙇдосте
+# sent_id = 75202
+1	о̆на	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Dual	11	nsubj	_	ref=MATT_4.22
+2	же	же	ADV	Df	_	11	discourse	_	ref=MATT_4.22
+3	абие	абиѥ	ADV	Df	_	4	advmod	_	ref=MATT_4.22
+4	оставьша	оставити	VERB	V-	Case=Nom|Gender=Masc|Number=Dual|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	11	advcl	_	ref=MATT_4.22
+5	кораб҄ь	корабль	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj:dir	_	ref=MATT_4.22
+6	ꙇ	и	CCONJ	C-	_	5	cc	_	ref=MATT_4.22
+7	оц҃а	отьць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	conj	_	ref=MATT_4.22
+8	своего	свои	ADJ	Pt	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	7	nmod	_	ref=MATT_4.22
+9	по	по	ADP	R-	_	10	case	_	ref=MATT_4.22
+10	н҄емь	и	PRON	Pp	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	ref=MATT_4.22
+11	ꙇдосте	ити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.22
+
+# source = Codex Zographensis, Matthew 4
+# text = ꙇ проxождааше в'сѭ галилеѭ ис҃ оучѧ на сънъмиштиxъ ꙇxъ ꙇ проповѣдаѩ ев҃аћлие цр҃ствиѣ ꙇ цѣлѧ вьсѣкъ недѫгъ ꙇ всѣкѫ ѩзѫ въ л҄юдеxъ
+# sent_id = 75204
+1	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=MATT_4.23
+2	проxождааше	проходити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.23
+3	в'сѭ	вьсь	DET	Px	Case=Acc|Gender=Fem|Number=Sing	4	det	_	ref=MATT_4.23
+4	галилеѭ	галилеꙗ	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	2	obj:dir	_	ref=MATT_4.23
+5	ис҃	исоусъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=MATT_4.23
+6	оучѧ	оучити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	ref=MATT_4.23
+7	на	на	ADP	R-	_	8	case	_	ref=MATT_4.23
+8	сънъмиштиxъ	съньмище	NOUN	Nb	Case=Loc|Gender=Neut|Number=Plur	6	obl	_	ref=MATT_4.23
+9	ꙇxъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	det	_	ref=MATT_4.23
+10	ꙇ	и	CCONJ	C-	_	6	cc	_	ref=MATT_4.23
+11	проповѣдаѩ	проповѣдати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	6	conj	_	ref=MATT_4.23
+12	ев҃аћлие	евангелиѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	11	obj:dir	_	ref=MATT_4.23
+13	цр҃ствиѣ	царствие	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	12	nmod	_	ref=MATT_4.23
+14	ꙇ	и	CCONJ	C-	_	6	cc	_	ref=MATT_4.23
+15	цѣлѧ	цѣлити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	6	conj	_	ref=MATT_4.23
+16	вьсѣкъ	вьсꙗкъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	17	amod	_	ref=MATT_4.23
+17	недѫгъ	недѫгъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	15	obj:dir	_	ref=MATT_4.23
+18	ꙇ	и	CCONJ	C-	_	17	cc	_	ref=MATT_4.23
+19	всѣкѫ	вьсꙗкъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	20	amod	_	ref=MATT_4.23
+20	ѩзѫ	ѩѕа	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	17	conj	_	ref=MATT_4.23
+21	въ	въ	ADP	R-	_	22	case	_	ref=MATT_4.23
+22	л҄юдеxъ	людиѥ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Plur	15	obl	_	ref=MATT_4.23
+
+# source = Codex Zographensis, Matthew 4
+# text = ꙇ изиде слоуxъ его въ вьсеи с'ѵриі
+# sent_id = 75209
+1	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=MATT_4.24
+2	изиде	изити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.24
+3	слоуxъ	слоухъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=MATT_4.24
+4	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	ref=MATT_4.24
+5	въ	въ	ADP	R-	_	7	case	_	ref=MATT_4.24
+6	вьсеи	вьсь	DET	Px	Case=Loc|Gender=Fem|Number=Sing	7	det	_	ref=MATT_4.24
+7	с'ѵриі	сѵриꙗ	PROPN	Ne	Case=Loc|Gender=Fem|Number=Sing	2	obl	_	ref=MATT_4.24
+
+# source = Codex Zographensis, Matthew 4
+# text = ꙇ ицѣли ѩ
+# sent_id = 75216
+1	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=MATT_4.24
+2	ицѣли	ицѣлити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_4.24
+3	ѩ	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj:dir	_	ref=MATT_4.24
+
+# source = Codex Zographensis, Mark 3
+# text = ꙇ въниде пaкꙑ въ сънъмиште
+# sent_id = 175520
+1	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=MARK_3.1
+2	въниде	вънити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_3.1
+3	пaкꙑ	пакꙑ	ADV	Df	_	2	advmod	_	ref=MARK_3.1
+4	въ	въ	ADP	R-	_	5	case	_	ref=MARK_3.1
+5	сънъмиште	съньмище	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	ref=MARK_3.1
+
+# source = Codex Zographensis, Mark 3
+# text = ꙇ г҃лa ч҃коу ꙇмѫштоуемоу соухѫ рѫкѫ
+# sent_id = 194509
+1	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=MARK_3.3
+2	г҃лa	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_3.3
+3	ч҃коу	чловѣкъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	ref=MARK_3.3
+4	ꙇмѫштоуемоу	имѣти	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	3	acl	_	ref=MARK_3.3
+5	соухѫ	соухъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	6	amod	_	ref=MARK_3.3
+6	рѫкѫ	рѫка	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj:dir	_	ref=MARK_3.3
+
+# source = Codex Zographensis, Mark 3
+# text = простьри рѫкѫ твоѭ
+# sent_id = 194513
+1	простьри	прострѣти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_3.5
+2	рѫкѫ	рѫка	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj:dir	_	ref=MARK_3.5
+3	твоѭ	твои	ADJ	Ps	Case=Acc|Gender=Fem|Number=Sing|Person=2|Poss=Yes	2	nmod	_	ref=MARK_3.5
+
+# source = Codex Zographensis, Mark 3
+# text = ꙇ простьрѣ
+# sent_id = 175534
+1	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=MARK_3.5
+2	простьрѣ	прострѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_3.5
+
+# source = Codex Zographensis, Mark 14
+# text = ꙇ посълa дъвa отъ оученикъ своꙇхъ
+# sent_id = 177367
+1	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=MARK_14.13
+2	посълa	посълати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_14.13
+3	дъвa	дъва	NUM	Ma	Case=Acc|Gender=Masc|Number=Dual	2	obj:dir	_	ref=MARK_14.13
+4	отъ	отъ	ADP	R-	_	5	case	_	ref=MARK_14.13
+5	оученикъ	оученикъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	ref=MARK_14.13
+6	своꙇхъ	свои	ADJ	Pt	Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	5	nmod	_	ref=MARK_14.13
+
+# source = Codex Zographensis, Mark 14
+# text = ꙇ г҃лa ꙇмa
+# sent_id = 192988
+1	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=MARK_14.13
+2	г҃лa	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_14.13
+3	ꙇмa	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Dual|Person=3|PronType=Prs	2	iobj	_	ref=MARK_14.13
+
+# source = Codex Zographensis, Mark 14
+# text = ꙇдѣтa въ грaдъ ꙇ сърѧштетъ вꙑ ч҃къ въ скѫдольницѣ водѫ несꙙ
+# sent_id = 192989
+1	ꙇдѣтa	ити	VERB	V-	Mood=Imp|Number=Dual|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_14.13
+2	въ	въ	ADP	R-	_	3	case	_	ref=MARK_14.13
+3	грaдъ	градъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	ref=MARK_14.13
+4	ꙇ	и	CCONJ	C-	_	1	cc	_	ref=MARK_14.13
+5	сърѧштетъ	сърѣсти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=MARK_14.13
+6	вꙑ	ва	PRON	Pp	Case=Acc|Gender=Masc|Number=Dual|Person=2|PronType=Prs	5	obj:dir	_	ref=MARK_14.13
+7	ч҃къ	чловѣкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=MARK_14.13
+8	въ	въ	ADP	R-	_	9	case	_	ref=MARK_14.13
+9	скѫдольницѣ	скѫдольникъ	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	11	obl	_	ref=MARK_14.13
+10	водѫ	вода	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	11	obj:dir	_	ref=MARK_14.13
+11	несꙙ	нести	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	7	acl	_	ref=MARK_14.13
+
+# source = Codex Zographensis, Mark 14
+# text = по н҄емь ꙇдѣтa
+# sent_id = 192991
+1	по	по	ADP	R-	_	2	case	_	ref=MARK_14.13
+2	н҄емь	и	PRON	Pp	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	ref=MARK_14.13
+3	ꙇдѣтa	ити	VERB	V-	Mood=Imp|Number=Dual|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_14.13
+
+# source = Codex Zographensis, Mark 14
+# text = ꙇ идеже aште вьнидетъ рьцѣтa г҃ноу домоу
+# sent_id = 177373
+1	ꙇ	и	CCONJ	C-	_	5	cc	_	ref=MARK_14.14
+2	идеже	идеже	ADV	Dq	PronType=Rel	4	advmod	_	ref=MARK_14.14
+3	aште	аще	ADV	Df	_	2	advmod	_	ref=MARK_14.14
+4	вьнидетъ	вънити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	ref=MARK_14.14
+5	рьцѣтa	рещи	VERB	V-	Mood=Imp|Number=Dual|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_14.14
+6	г҃ноу	господинъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	5	iobj	_	ref=MARK_14.14
+7	домоу	домъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	ref=MARK_14.14
+
+# source = Codex Zographensis, Mark 14
+# text = оучител҄ь г҃летъ
+# sent_id = 177375
+1	оучител҄ь	оучитель	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=MARK_14.14
+2	г҃летъ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_14.14
+
+# source = Codex Zographensis, Mark 14
+# text = къде естъ обитѣл҄ь ꙇдеже пaсхѫ съ оученикꙑ моꙇми сънѣмь
+# sent_id = 177376
+1	къде	къде	ADV	Du	PronType=Int	2	advmod	_	ref=MARK_14.14
+2	естъ	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_14.14
+3	обитѣл҄ь	обитѣль	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=MARK_14.14
+4	ꙇдеже	идеже	ADV	Dq	PronType=Rel	9	advmod	_	ref=MARK_14.14
+5	пaсхѫ	пасха	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	obj:dir	_	ref=MARK_14.14
+6	съ	съ	ADP	R-	_	7	case	_	ref=MARK_14.14
+7	оученикꙑ	оученикъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	9	obl	_	ref=MARK_14.14
+8	моꙇми	мои	ADJ	Ps	Case=Ins|Gender=Masc|Number=Plur|Person=1|Poss=Yes	7	nmod	_	ref=MARK_14.14
+9	сънѣмь	сънѣсти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	ref=MARK_14.14
+
+# source = Codex Zographensis, Mark 14
+# text = ꙇ тъ вaмa покaжетъ горьницѫ вꙑсокѫ постълaнѫ готовѫ
+# sent_id = 177378
+1	ꙇ	и	CCONJ	C-	_	4	cc	_	ref=MARK_14.15
+2	тъ	тъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=MARK_14.15
+3	вaмa	ва	PRON	Pp	Case=Dat|Gender=Masc|Number=Dual|Person=2|PronType=Prs	4	iobj	_	ref=MARK_14.15
+4	покaжетъ	показати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_14.15
+5	горьницѫ	горьница	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj:dir	_	ref=MARK_14.15
+6	вꙑсокѫ	вꙑсокъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	5	amod	_	ref=MARK_14.15
+7	постълaнѫ	постьлати	VERB	V-	Case=Acc|Gender=Fem|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	ref=MARK_14.15
+8	готовѫ	готовъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	5	amod	_	ref=MARK_14.15
+
+# source = Codex Zographensis, Mark 14
+# text = тоу оуготовaꙇтa нaмъ
+# sent_id = 177380
+1	тоу	тоу	ADV	Df	_	2	advmod	_	ref=MARK_14.15
+2	оуготовaꙇтa	оуготовати	VERB	V-	Mood=Imp|Number=Dual|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_14.15
+3	нaмъ	мꙑ	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	iobj	_	ref=MARK_14.15
+
+# source = Codex Zographensis, Mark 14
+# text = Ꙇ вечероу бꙑвъшю приде съ обѣмa нa десѧте
+# sent_id = 177385
+1	Ꙇ	и	CCONJ	C-	_	4	cc	_	ref=MARK_14.17
+2	вечероу	вечеръ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	3	xcomp	_	ref=MARK_14.17
+3	бꙑвъшю	бꙑти	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	4	advcl	_	ref=MARK_14.17
+4	приде	прити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_14.17
+5	съ	съ	ADP	R-	_	6	case	_	ref=MARK_14.17
+6	обѣмa	оба	NUM	Ma	Case=Ins|Gender=Masc|Number=Dual	4	obl	_	ref=MARK_14.17
+7	нa	на	ADP	R-	_	8	case	_	ref=MARK_14.17
+8	десѧте	десѧть	NUM	Ma	Case=Loc|Gender=Fem,Masc|Number=Sing	6	nummod	_	ref=MARK_14.17
+
+# source = Codex Zographensis, Mark 14
+# text = ꙇ вьзлежѧштемъ ꙇмъ ꙇ ѣдѫштемъ рече и҃с
+# sent_id = 177387
+1	ꙇ	и	CCONJ	C-	_	6	cc	_	ref=MARK_14.18
+2	вьзлежѧштемъ	възлежати	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	ref=MARK_14.18
+3	ꙇмъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	ref=MARK_14.18
+4	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=MARK_14.18
+5	ѣдѫштемъ	ꙗсти	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	2	conj	_	ref=MARK_14.18
+6	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_14.18
+7	и҃с	исоусъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=MARK_14.18
+
+# source = Codex Zographensis, Mark 14
+# text = aминⸯ г҃лѭ вaмъ ѣко единъ отъ вaсъ прѣдaстъ мѧ ѣдꙑ съ мноѭ
+# sent_id = 177389
+1	aминⸯ	аминъ	INTJ	I-	_	2	vocative	_	ref=MARK_14.18
+2	г҃лѭ	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_14.18
+3	вaмъ	вꙑ	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	2	iobj	_	ref=MARK_14.18
+4	ѣко	ꙗко	SCONJ	G-	_	8	mark	_	ref=MARK_14.18
+5	единъ	ѥдинъ	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=MARK_14.18
+6	отъ	отъ	ADP	R-	_	7	case	_	ref=MARK_14.18
+7	вaсъ	вꙑ	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	5	nmod	_	ref=MARK_14.18
+8	прѣдaстъ	прѣдати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	ref=MARK_14.18
+9	мѧ	азъ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	8	obj:dir	_	ref=MARK_14.18
+10	ѣдꙑ	ꙗсти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	5	acl	_	ref=MARK_14.18
+11	съ	съ	ADP	R-	_	12	case	_	ref=MARK_14.18
+12	мноѭ	азъ	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=1|PronType=Prs	10	obl	_	ref=MARK_14.18

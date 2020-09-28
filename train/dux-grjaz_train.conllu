@@ -1,0 +1,423 @@
+# source = Testament of Ivan Jurievich Grjaznoj, Testament of Ivan Jurievich Grjaznoj
+# text = и та моя вотчина село кꙋзмидемянское и з деревнями и з хлѣбомъ стоячим и ѕ земляным с҃нꙋ моемꙋ василю
+# sent_id = 213440
+1	и	и	CCONJ	C-	_	0	root	_	ref=
+2	та	тыи	DET	Pd	Case=Nom|Gender=Fem|Number=Sing	4	det	_	ref=
+3	моя	мои	ADJ	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=1|Poss=Yes	4	nmod	_	ref=
+4	вотчина	отьчина	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	ref=
+5	село	село	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	4	appos	_	ref=
+6	кꙋзмидемянское	кузмидемьяньскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	5	amod	_	ref=
+7	и	и	CCONJ	C-	_	9	cc	_	ref=
+8	з	съ	ADP	R-	_	9	case	_	ref=
+9	деревнями	деревьня	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	5	nmod	_	ref=
+10	и	и	CCONJ	C-	_	9	cc	_	ref=
+11	з	съ	ADP	R-	_	12	case	_	ref=
+12	хлѣбомъ	хлѣбъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	9	conj	_	ref=
+13	стоячим	стояти	VERB	V-	Case=Ins|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	12	acl	_	ref=
+14	и	и	CCONJ	C-	_	9	cc	_	ref=
+15	ѕ	съ	ADP	R-	_	16	case	_	ref=
+16	земляным	земляныи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	9	conj	_	ref=
+17	с҃нꙋ	сынъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	ref=
+18	моемꙋ	мои	ADJ	Ps	Case=Dat|Gender=Masc|Number=Sing|Person=1|Poss=Yes	17	nmod	_	ref=
+19	василю	василии	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	17	appos	_	ref=
+
+# source = Testament of Ivan Jurievich Grjaznoj, Testament of Ivan Jurievich Grjaznoj
+# text = и будет жена моя не поидет ѕа мꙋж и ѡна с сыном же живет
+# sent_id = 213406
+1	и	и	CCONJ	C-	_	6	cc	_	ref=
+2	будет	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	aux	_	ref=
+3	жена	жена	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	ref=
+4	моя	мои	ADJ	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=1|Poss=Yes	3	nmod	_	ref=
+5	не	не	ADV	Df	_	6	advmod	_	ref=
+6	поидет	поити#1	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+7	ѕа	за	ADP	R-	_	8	case	_	ref=
+8	мꙋж	мужь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	ref=
+9	и	и	CCONJ	C-	_	6	cc	_	ref=
+10	ѡна	онъ	ADJ	Pd	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	ref=
+11	с	съ	ADP	R-	_	12	case	_	ref=
+12	сыном	сынъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	14	obl	_	ref=
+13	же	же	ADV	Df	_	12	advmod	_	ref=
+14	живет	жити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	ref=
+
+# source = Testament of Ivan Jurievich Grjaznoj, Testament of Ivan Jurievich Grjaznoj
+# text = А б҃гъ по д҃шꙋ с҃на моего сошлет
+# sent_id = 213407
+1	А	а	CCONJ	C-	_	7	cc	_	ref=
+2	б҃гъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=
+3	по	по	ADP	R-	_	4	case	_	ref=
+4	д҃шꙋ	душа	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	ref=
+5	с҃на	сынъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	ref=
+6	моего	мои	ADJ	Ps	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes	5	nmod	_	ref=
+7	сошлет	съсълати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = Testament of Ivan Jurievich Grjaznoj, Testament of Ivan Jurievich Grjaznoj
+# text = и приказщиком моим та вотчина ѿдати по родителех наших к пречистои б҃це на симонов
+# sent_id = 213408
+1	и	и	CCONJ	C-	_	6	cc	_	ref=
+2	приказщиком	приказьщикъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	6	nsubj	_	ref=
+3	моим	мои	ADJ	Ps	Case=Dat|Gender=Masc|Number=Plur|Person=1|Poss=Yes	2	nmod	_	ref=
+4	та	тыи	DET	Pd	Case=Nom|Gender=Fem|Number=Sing	5	det	_	ref=
+5	вотчина	отьчина	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	obj:dir	_	ref=
+6	ѿдати	отъдати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+7	по	по	ADP	R-	_	8	case	_	ref=
+8	родителех	родитель	NOUN	Nb	Case=Loc|Gender=Masc|Number=Plur	6	obl	_	ref=
+9	наших	нашь	ADJ	Ps	Case=Loc|Gender=Masc|Number=Plur|Person=1|Poss=Yes	8	nmod	_	ref=
+10	к	къ	ADP	R-	_	12	case	_	ref=
+11	пречистои	прѣчистыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	12	amod	_	ref=
+12	б҃це	богородица	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	6	obl	_	ref=
+13	на	на	ADP	R-	_	14	case	_	ref=
+14	симонов	симоновъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	12	amod	_	ref=
+
+# source = Testament of Ivan Jurievich Grjaznoj, Testament of Ivan Jurievich Grjaznoj
+# text = да ис тое ж вотчины ѿдати прикащиком моим женѣ с҃на моег две деревни деревня слепандино да деревню бараново
+# sent_id = 213441
+1	да	да	CCONJ	C-	_	6	cc	_	ref=
+2	ис	из	ADP	R-	_	5	case	_	ref=
+3	тое	тыиже	DET	Pd	Case=Gen|Gender=Fem|Number=Sing	5	det	_	ref=
+4	ж	ж	ADJ	Pd	Case=Gen|Gender=Fem|Number=Sing	3	flat	_	ref=
+5	вотчины	отьчина	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	obl	_	ref=
+6	ѿдати	отъдати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+7	прикащиком	приказьщикъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	6	nsubj	_	ref=
+8	моим	мои	ADJ	Ps	Case=Dat|Gender=Masc|Number=Plur|Person=1|Poss=Yes	7	nmod	_	ref=
+9	женѣ	жена	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	6	iobj	_	ref=
+10	с҃на	сынъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	ref=
+11	моег	мои	ADJ	Ps	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes	10	nmod	_	ref=
+12	две	дъва	NUM	Ma	Case=Acc|Gender=Fem|Number=Dual	13	nummod	_	ref=
+13	деревни	деревьня	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	6	obj:dir	_	ref=
+14	деревня	деревьня	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	13	appos	_	ref=
+15	слепандино	слепандино	PROPN	Ne	Case=Nom|Gender=Neut|Number=Sing	14	appos	_	ref=
+16	да	да	CCONJ	C-	_	14	cc	_	ref=
+17	деревню	деревьня	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	14	conj	_	ref=
+18	бараново	бараново	PROPN	Ne	Case=Acc|Gender=Neut|Number=Sing	17	appos	_	ref=
+
+# source = Testament of Ivan Jurievich Grjaznoj, Testament of Ivan Jurievich Grjaznoj
+# text = А что ꙋ жены моеѣ саженя и платя то еи же дати
+# sent_id = 213409
+1	А	а	CCONJ	C-	_	12	cc	_	ref=
+2	что	чьто	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	6	nsubj	_	ref=
+3	ꙋ	у	ADP	R-	_	4	case	_	ref=
+4	жены	жена	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	ref=
+5	моеѣ	мои	ADJ	Ps	Case=Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes	4	nmod	_	ref=
+6	саженя	сажение	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	12	advcl	_	ref=
+7	и	и	CCONJ	C-	_	6	cc	_	ref=
+8	платя	платие	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	6	conj	_	ref=
+9	то	то	ADV	Df	_	12	advmod	_	ref=
+10	еи	и	PRON	Pp	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	iobj	_	ref=
+11	же	же	ADV	Df	_	10	advmod	_	ref=
+12	дати	дати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+
+# source = Testament of Ivan Jurievich Grjaznoj, Testament of Ivan Jurievich Grjaznoj
+# text = А при с҃не при моем жена моя поидет ѕа мꙋж
+# sent_id = 213410
+1	А	а	CCONJ	C-	_	8	cc	_	ref=
+2	при	при	ADP	R-	_	3	case	_	ref=
+3	с҃не	сынъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	8	obl	_	ref=
+4	при	при	ADP	R-	_	2	mark	_	ref=
+5	моем	мои	ADJ	Ps	Case=Loc|Gender=Masc|Number=Sing|Person=1|Poss=Yes	3	nmod	_	ref=
+6	жена	жена	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	ref=
+7	моя	мои	ADJ	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=1|Poss=Yes	6	nmod	_	ref=
+8	поидет	поити#1	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+9	ѕа	за	ADP	R-	_	10	case	_	ref=
+10	мꙋж	мужь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	ref=
+
+# source = Testament of Ivan Jurievich Grjaznoj, Testament of Ivan Jurievich Grjaznoj
+# text = и еи до тѣх дер҃внь дѣла нет
+# sent_id = 213411
+1	и	и	CCONJ	C-	_	7	cc	_	ref=
+2	еи	и	PRON	Pp	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	iobj	_	ref=
+3	до	до	ADP	R-	_	5	case	_	ref=
+4	тѣх	тыи	DET	Pd	Case=Gen|Gender=Fem|Number=Plur	5	det	_	ref=
+5	дер҃внь	деревьня	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	7	obl	_	ref=
+6	дѣла	дѣло	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	7	nsubj	_	ref=
+7	нет	нѣту	VERB	V-	_	0	root	_	ref=
+
+# source = Testament of Ivan Jurievich Grjaznoj, Testament of Ivan Jurievich Grjaznoj
+# text = А что платя моего ѡднорядка багрова на неи пугвицы кралковые ѕ жемчюги да однорядка бела да однорядка ѕелена да каѳтан лаѕорев таѳтян и сꙋды мѣдяные и ѡловяные и лошади и коровы и овцы и свини и то приказщиком продати да по моеи д҃ше роздати
+# sent_id = 213412
+1	А	а	CCONJ	C-	_	0	root	_	ref=
+2	что	чьто	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	3	nsubj	_	ref=
+3	платя	платие	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	1	advcl	_	ref=
+4	моего	мои	ADJ	Ps	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes	3	nmod	_	ref=
+5	ѡднорядка	одьнорядъка	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	ref=
+6	багрова	багровыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	5	amod	_	ref=
+7	на	на	ADP	R-	_	8	case	_	ref=
+8	неи	и	PRON	Pp	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	det	_	ref=
+9	пугвицы	пугъвица	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	8	nsubj	_	ref=
+10	кралковые	кральковыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	9	amod	_	ref=
+11	ѕ	съ	ADP	R-	_	12	case	_	ref=
+12	жемчюги	жемчугъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	9	nmod	_	ref=
+13	да	да	CCONJ	C-	_	5	cc	_	ref=
+14	однорядка	одьнорядъка	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	conj	_	ref=
+15	бела	бѣлыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	14	amod	_	ref=
+16	да	да	CCONJ	C-	_	5	cc	_	ref=
+17	однорядка	одьнорядъка	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	conj	_	ref=
+18	ѕелена	зеленыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	17	amod	_	ref=
+19	да	да	CCONJ	C-	_	5	cc	_	ref=
+20	каѳтан	кафтанъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	ref=
+21	лаѕорев	лазоревъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	20	amod	_	ref=
+22	таѳтян	тафтяныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	20	amod	_	ref=
+23	и	и	CCONJ	C-	_	5	cc	_	ref=
+24	сꙋды	судъ#2	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	5	conj	_	ref=
+25	мѣдяные	мѣдяныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	24	amod	_	ref=
+26	и	и	CCONJ	C-	_	25	cc	_	ref=
+27	ѡловяные	оловяныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	25	conj	_	ref=
+28	и	и	CCONJ	C-	_	5	cc	_	ref=
+29	лошади	лошадь	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	5	conj	_	ref=
+30	и	и	CCONJ	C-	_	5	cc	_	ref=
+31	коровы	корова	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	5	conj	_	ref=
+32	и	и	CCONJ	C-	_	5	cc	_	ref=
+33	овцы	овьца	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	5	conj	_	ref=
+34	и	и	CCONJ	C-	_	5	cc	_	ref=
+35	свини	свиния	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	5	conj	_	ref=
+36	и	и	CCONJ	C-	_	1	cc	_	ref=
+37	то	тыи	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	39	obj:dir	_	ref=
+38	приказщиком	приказьщикъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	39	nsubj	_	ref=
+39	продати	продати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	conj	_	ref=
+40	да	да	CCONJ	C-	_	39	cc	_	ref=
+41	по	по	ADP	R-	_	43	case	_	ref=
+42	моеи	мои	ADJ	Ps	Case=Dat|Gender=Fem|Number=Sing|Person=1|Poss=Yes	43	nmod	_	ref=
+43	д҃ше	душа	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	44	obl	_	ref=
+44	роздати	роздати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	39	conj	_	ref=
+
+# source = Testament of Ivan Jurievich Grjaznoj, Testament of Ivan Jurievich Grjaznoj
+# text = да по моеи же д҃шѣ дати к пречстои на симонов мерин болшои серои степановскои
+# sent_id = 213415
+1	да	да	CCONJ	C-	_	6	cc	_	ref=
+2	по	по	ADP	R-	_	5	case	_	ref=
+3	моеи	мои	ADJ	Ps	Case=Dat|Gender=Fem|Number=Sing|Person=1|Poss=Yes	5	nmod	_	ref=
+4	же	же	ADV	Df	_	3	advmod	_	ref=
+5	д҃шѣ	душа	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	6	obl	_	ref=
+6	дати	дати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+7	к	къ	ADP	R-	_	8	case	_	ref=
+8	пречстои	прѣчистыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	6	obl	_	ref=
+9	на	на	ADP	R-	_	10	case	_	ref=
+10	симонов	симоновъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	8	amod	_	ref=
+11	мерин	меринъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obj:dir	_	ref=
+12	болшои	большии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	11	amod	_	ref=
+13	серои	сѣрыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	11	amod	_	ref=
+14	степановскои	степановьскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	11	amod	_	ref=
+
+# source = Testament of Ivan Jurievich Grjaznoj, Testament of Ivan Jurievich Grjaznoj
+# text = Да что двор мои на москве на покровскои ꙋлице у петра иверис и тот двор женѣ моеи да с҃нꙋ моемꙋ василю
+# sent_id = 213416
+1	Да	да	CCONJ	C-	_	3	cc	_	ref=
+2	что	чьто	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	3	nsubj	_	ref=
+3	двор	дворъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=
+4	мои	мои	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=1|Poss=Yes	3	nmod	_	ref=
+5	на	на	ADP	R-	_	6	case	_	ref=
+6	москве	москъва	PROPN	Ne	Case=Loc|Gender=Fem|Number=Sing	3	nmod	_	ref=
+7	на	на	ADP	R-	_	9	case	_	ref=
+8	покровскои	покровьскыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	9	amod	_	ref=
+9	ꙋлице	улица	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	5	appos	_	ref=
+10	у	у	ADP	R-	_	11	case	_	ref=
+11	петра	петръ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	ref=
+12	иверис	иверисъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	ref=
+13	и	и	CCONJ	C-	_	3	cc	_	ref=
+14	тот	тътъ	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	15	det	_	ref=
+15	двор	дворъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	ref=
+16	женѣ	жена	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	15	orphan	_	ref=
+17	моеи	мои	ADJ	Ps	Case=Dat|Gender=Fem|Number=Sing|Person=1|Poss=Yes	16	nmod	_	ref=
+18	да	да	CCONJ	C-	_	16	cc	_	ref=
+19	с҃нꙋ	сынъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	16	conj	_	ref=
+20	моемꙋ	мои	ADJ	Ps	Case=Dat|Gender=Masc|Number=Sing|Person=1|Poss=Yes	19	nmod	_	ref=
+21	василю	василии	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	19	appos	_	ref=
+
+# source = Testament of Ivan Jurievich Grjaznoj, Testament of Ivan Jurievich Grjaznoj
+# text = А члвка моего томилка ѳедорова отпꙋстити на слободꙋ совсемъ после моего живота
+# sent_id = 213419
+1	А	а	CCONJ	C-	_	6	cc	_	ref=
+2	члвка	человѣкъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	obj:dir	_	ref=
+3	моего	мои	ADJ	Ps	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes	2	nmod	_	ref=
+4	томилка	томилкъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	appos	_	ref=
+5	ѳедорова	федоровъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	flat:name	_	ref=
+6	отпꙋстити	отъпустити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+7	на	на	ADP	R-	_	8	case	_	ref=
+8	слободꙋ	слобода	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	ref=
+9	совсемъ	съвьсѣмь	ADV	Df	_	6	advmod	_	ref=
+10	после	послѣ	ADP	R-	_	12	case	_	ref=
+11	моего	мои	ADJ	Ps	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes	12	nmod	_	ref=
+12	живота	животъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	obl	_	ref=
+
+# source = Testament of Ivan Jurievich Grjaznoj, Testament of Ivan Jurievich Grjaznoj
+# text = А что члвкъ мои истомка сꙋворовъ с҃нъ граборꙋков бѣгает
+# sent_id = 213421
+1	А	а	CCONJ	C-	_	9	cc	_	ref=
+2	что	чьто	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	3	nsubj	_	ref=
+3	члвкъ	человѣкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	advcl	_	ref=
+4	мои	мои	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=1|Poss=Yes	3	nmod	_	ref=
+5	истомка	истомъка	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	ref=
+6	сꙋворовъ	суворовъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	ref=
+7	с҃нъ	сынъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	appos	_	ref=
+8	граборꙋков	граборуковъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	7	amod	_	ref=
+9	бѣгает	бѣгати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = Testament of Ivan Jurievich Grjaznoj, Testament of Ivan Jurievich Grjaznoj
+# text = и тот чл҃вкъ женѣ моеи соломаниде
+# sent_id = 213423
+1	и	и	CCONJ	C-	_	0	root	_	ref=
+2	тот	тътъ	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	3	det	_	ref=
+3	чл҃вкъ	человѣкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=
+4	женѣ	жена	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	1	iobj	_	ref=
+5	моеи	мои	ADJ	Ps	Case=Dat|Gender=Fem|Number=Sing|Person=1|Poss=Yes	4	nmod	_	ref=
+6	соломаниде	соломанида	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	4	appos	_	ref=
+
+# source = Testament of Ivan Jurievich Grjaznoj, Testament of Ivan Jurievich Grjaznoj
+# text = А которые мои иные люди и тѣх всѣх людеи ѿпꙋстити на слободꙋ
+# sent_id = 213424
+1	А	а	CCONJ	C-	_	0	root	_	ref=
+2	которые	которыи	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	5	det	_	ref=
+3	мои	мои	ADJ	Ps	Case=Nom|Gender=Masc|Number=Plur|Person=1|Poss=Yes	5	nmod	_	ref=
+4	иные	иныи	DET	Px	Case=Nom|Gender=Masc|Number=Plur	5	det	_	ref=
+5	люди	людие	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	ref=
+6	и	и	CCONJ	C-	_	1	cc	_	ref=
+7	тѣх	тыи	DET	Pd	Case=Gen|Gender=Masc|Number=Plur	9	det	_	ref=
+8	всѣх	вьсь	DET	Px	Case=Gen|Gender=Masc|Number=Plur	9	det	_	ref=
+9	людеи	людие	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	10	obj:dir	_	ref=
+10	ѿпꙋстити	отъпустити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	conj	_	ref=
+11	на	на	ADP	R-	_	12	case	_	ref=
+12	слободꙋ	слобода	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	ref=
+
+# source = Testament of Ivan Jurievich Grjaznoj, Testament of Ivan Jurievich Grjaznoj
+# text = А жене моеи и с҃ну до них дѣла нѣт
+# sent_id = 213426
+1	А	а	CCONJ	C-	_	9	cc	_	ref=
+2	жене	жена	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	9	iobj	_	ref=
+3	моеи	мои	ADJ	Ps	Case=Dat|Gender=Fem|Number=Sing|Person=1|Poss=Yes	2	nmod	_	ref=
+4	и	и	CCONJ	C-	_	2	cc	_	ref=
+5	с҃ну	сынъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	conj	_	ref=
+6	до	до	ADP	R-	_	7	case	_	ref=
+7	них	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obl	_	ref=
+8	дѣла	дѣло	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	9	nsubj	_	ref=
+9	нѣт	нѣту	VERB	V-	_	0	root	_	ref=
+
+# source = Testament of Ivan Jurievich Grjaznoj, Testament of Ivan Jurievich Grjaznoj
+# text = А как б҃гъ сошлет по мою грѣшнꙋю д҃шꙋ и прикащиком моим пожаловати велѣти погрести ꙋ п҃рчстые на симонове
+# sent_id = 213427
+1	А	а	CCONJ	C-	_	4	cc	_	ref=
+2	как	како	ADV	Dq	PronType=Rel	4	advmod	_	ref=
+3	б҃гъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=
+4	сошлет	съсълати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	по	по	ADP	R-	_	8	case	_	ref=
+6	мою	мои	ADJ	Ps	Case=Acc|Gender=Fem|Number=Sing|Person=1|Poss=Yes	8	nmod	_	ref=
+7	грѣшнꙋю	грѣшьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	8	amod	_	ref=
+8	д҃шꙋ	душа	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	ref=
+9	и	и	CCONJ	C-	_	4	cc	_	ref=
+10	прикащиком	приказьщикъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	12	nsubj	_	ref=
+11	моим	мои	ADJ	Ps	Case=Dat|Gender=Masc|Number=Plur|Person=1|Poss=Yes	10	nmod	_	ref=
+12	пожаловати	пожаловати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	conj	_	ref=
+13	велѣти	велѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	12	xcomp	_	ref=
+14	погрести	погрети	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	13	xcomp	_	ref=
+15	ꙋ	у	ADP	R-	_	16	case	_	ref=
+16	п҃рчстые	прѣчистыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	14	obl	_	ref=
+17	на	на	ADP	R-	_	18	case	_	ref=
+18	симонове	симоновъ	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	16	amod	_	ref=
+
+# source = Testament of Ivan Jurievich Grjaznoj, Testament of Ivan Jurievich Grjaznoj
+# text = А прикаѕываю дꙋшꙋ свою гсдам своим семенꙋ ѳомичю третякову да григорю дмитреевичю шетневꙋ
+# sent_id = 213429
+1	А	а	CCONJ	C-	_	2	cc	_	ref=
+2	прикаѕываю	приказывати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	дꙋшꙋ	душа	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj:dir	_	ref=
+4	свою	свои	ADJ	Pt	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	3	nmod	_	ref=
+5	гсдам	государь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	2	iobj	_	ref=
+6	своим	свои	ADJ	Pt	Case=Dat|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	5	nmod	_	ref=
+7	семенꙋ	сьменъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	5	appos	_	ref=
+8	ѳомичю	фомичь	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	7	flat:name	_	ref=
+9	третякову	третьяковъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	7	flat:name	_	ref=
+10	да	да	CCONJ	C-	_	7	cc	_	ref=
+11	григорю	григории	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	7	conj	_	ref=
+12	дмитреевичю	дьмитрѣевичь	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	11	flat:name	_	ref=
+13	шетневꙋ	шетневъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	11	flat:name	_	ref=
+
+# source = Testament of Ivan Jurievich Grjaznoj, Testament of Ivan Jurievich Grjaznoj
+# text = А ꙋ д҃ховные грамоты сидѣл о҃цъ мои д҃ховнои встрѣтенскои игꙋмен иѡна
+# sent_id = 213431
+1	А	а	CCONJ	C-	_	5	cc	_	ref=
+2	ꙋ	у	ADP	R-	_	4	case	_	ref=
+3	д҃ховные	духовьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	4	amod	_	ref=
+4	грамоты	грамота	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	obl	_	ref=
+5	сидѣл	сѣдѣти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+6	о҃цъ	отьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=
+7	мои	мои	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=1|Poss=Yes	6	nmod	_	ref=
+8	д҃ховнои	духовьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	6	amod	_	ref=
+9	встрѣтенскои	въсърѣтьньскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	6	amod	_	ref=
+10	игꙋмен	игуменъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	appos	_	ref=
+11	иѡна	иона	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	ref=
+
+# source = Testament of Ivan Jurievich Grjaznoj, Testament of Ivan Jurievich Grjaznoj
+# text = А дꙋховнꙋю писал семенка іванов лѣта ҂з҃ п и
+# sent_id = 213432
+1	А	а	CCONJ	C-	_	3	cc	_	ref=
+2	дꙋховнꙋю	духовьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	3	obj:dir	_	ref=
+3	писал	пьсати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+4	семенка	семенъка	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+5	іванов	ивановъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	flat:name	_	ref=
+6	лѣта	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	3	obl	_	ref=
+7	҂з҃	седмь.тысячь	NUM	Ma	_	6	nummod	_	ref=
+8	п	осмьдесятъ	NUM	Ma	_	7	conj	_	ref=
+9	и	осмь	NUM	Ma	_	7	conj	_	ref=
+
+# source = Testament of Ivan Jurievich Grjaznoj, Testament of Ivan Jurievich Grjaznoj
+# text = К сеи д҃ховнѡи ѿцъ д҃ховнои игꙋмен иѡна в с҃на своег место ивана руку приложил
+# sent_id = 213442
+1	К	къ	ADP	R-	_	3	case	_	ref=
+2	сеи	сии	DET	Pd	Case=Dat|Gender=Fem|Number=Sing	3	det	_	ref=
+3	д҃ховнѡи	духовьныи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	14	obl	_	ref=
+4	ѿцъ	отьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	ref=
+5	д҃ховнои	духовьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=
+6	игꙋмен	игуменъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	ref=
+7	иѡна	иона	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	appos	_	ref=
+8	в	въ	ADP	R-	_	11	case	_	ref=
+9	с҃на	сынъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	ref=
+10	своег	свои	ADJ	Pt	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	9	nmod	_	ref=
+11	место	мѣсто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	14	obl	_	ref=
+12	ивана	иванъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	9	appos	_	ref=
+13	руку	рука	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	14	obj:dir	_	ref=
+14	приложил	приложити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Testament of Ivan Jurievich Grjaznoj, Testament of Ivan Jurievich Grjaznoj
+# text = К сеи дꙋховнои яз прикащик семен рꙋкꙋ приложил
+# sent_id = 213443
+1	К	къ	ADP	R-	_	3	case	_	ref=
+2	сеи	сии	DET	Pd	Case=Dat|Gender=Fem|Number=Sing	3	det	_	ref=
+3	дꙋховнои	духовьныи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	8	obl	_	ref=
+4	яз	язъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	ref=
+5	прикащик	приказьщикъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	ref=
+6	семен	сьменъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	ref=
+7	рꙋкꙋ	рука	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obj:dir	_	ref=
+8	приложил	приложити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Testament of Ivan Jurievich Grjaznoj, Testament of Ivan Jurievich Grjaznoj
+# text = К сеи дꙋховнои ꙗз приказщик григореи рꙋкꙋ приложил
+# sent_id = 213433
+1	К	къ	ADP	R-	_	3	case	_	ref=
+2	сеи	сии	DET	Pd	Case=Dat|Gender=Fem|Number=Sing	3	det	_	ref=
+3	дꙋховнои	духовьныи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	8	obl	_	ref=
+4	ꙗз	язъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	ref=
+5	приказщик	приказьщикъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	ref=
+6	григореи	григории	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	ref=
+7	рꙋкꙋ	рука	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obj:dir	_	ref=
+8	приложил	приложити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+
+# source = Testament of Ivan Jurievich Grjaznoj, Testament of Ivan Jurievich Grjaznoj
+# text = По сеи дховныи менꙗ соламаниды ивановаи жены юревича грꙗзного ѡто андрѣеваи кнеини петровича ѿ тꙗлꙗтевски аксини денги дали
+# sent_id = 213434
+1	По	по	ADP	R-	_	3	case	_	ref=
+2	сеи	сии	DET	Pd	Case=Dat|Gender=Fem|Number=Sing	3	det	_	ref=
+3	дховныи	духовьныи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	18	advmod	_	ref=
+4	менꙗ	азъ	PRON	Pp	Case=Gen|Gender=Fem|Number=Sing|Person=1|PronType=Prs	18	iobj	_	ref=
+5	соламаниды	соломанида	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	4	appos	_	ref=
+6	ивановаи	ивановъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	7	amod	_	ref=
+7	жены	жена	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	appos	_	ref=
+8	юревича	юриевичь	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	appos	_	ref=
+9	грꙗзного	грязьныи	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	appos	_	ref=
+10	ѡто	отъ	ADP	R-	_	12	case	_	ref=
+11	андрѣеваи	андрѣевъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	12	amod	_	ref=
+12	кнеини	кънягыни	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	18	obl	_	ref=
+13	петровича	петровичь	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	11	appos	_	ref=
+14	ѿ	отъ	ADP	R-	_	10	mark	_	ref=
+15	тꙗлꙗтевски	телятевьскыи	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	11	appos	_	ref=
+16	аксини	аксина	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	12	appos	_	ref=
+17	денги	деньга	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	18	obj:dir	_	ref=
+18	дали	дати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+

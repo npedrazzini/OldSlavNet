@@ -1,0 +1,396 @@
+# source = Psalterium Sinaiticum, 54
+# text = Въѹші бж҃е молітвѫ моѭ
+# sent_id = 219203
+1	Въѹші	въоушити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=54.1
+2	бж҃е	богъ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	ref=54.1
+3	молітвѫ	молитва	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj:dir	_	ref=54.1
+4	моѭ	мои	ADJ	Ps	Case=Acc|Gender=Fem|Number=Sing|Person=1|Poss=Yes	3	nmod	_	ref=54.1
+
+# source = Psalterium Sinaiticum, 54
+# text = Ї не прѣзърі моленъѣ моего
+# sent_id = 219204
+1	Ї	и	CCONJ	C-	_	3	cc	_	ref=54.1
+2	не	не	ADV	Df	Polarity=Neg	3	advmod	_	ref=54.1
+3	прѣзърі	прѣзьрѣти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=54.1
+4	моленъѣ	молѥниѥ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	3	obj:dir	_	ref=54.1
+5	моего	мои	ADJ	Ps	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes	4	nmod	_	ref=54.1
+
+# source = Psalterium Sinaiticum, 54
+# text = Вонъмі ї ѹслꙑші мѩ
+# sent_id = 219205
+1	Вонъмі	вънѧти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=54.2
+2	ї	и	CCONJ	C-	_	1	cc	_	ref=54.2
+3	ѹслꙑші	оуслꙑшати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=54.2
+4	мѩ	азъ	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	1	obj:dir	_	ref=54.2
+
+# source = Psalterium Sinaiticum, 54
+# text = Въскръбѣхъ печальѭ моеѭ ї съмѩ сѩ Ѡтъ гласа вражьѣ отъ сътѫжаньѣ грѣшьніча
+# sent_id = 219206
+1	Въскръбѣхъ	въскръбѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=54.2
+2	печальѭ	печаль	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	1	obl	_	ref=54.2
+3	моеѭ	мои	ADJ	Ps	Case=Ins|Gender=Fem|Number=Sing|Person=1|Poss=Yes	2	nmod	_	ref=54.2
+4	ї	и	CCONJ	C-	_	1	cc	_	ref=54.2
+5	съмѩ	съмѧсти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=54.2
+6	сѩ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	5	aux	_	ref=54.2
+7	Ѡтъ	отъ	ADP	R-	_	8	case	_	ref=54.3
+8	гласа	гласъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	ref=54.3
+9	вражьѣ	вражии	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	8	amod	_	ref=54.3
+10	отъ	отъ	ADP	R-	_	11	case	_	ref=54.3
+11	сътѫжаньѣ	сътѫжаниѥ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	8	conj	_	ref=54.3
+12	грѣшьніча	грѣшьничь	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	11	amod	_	ref=54.3
+
+# source = Psalterium Sinaiticum, 54
+# text = Ѣко ѹклонішѩ на мѩ безаконнъе Ї вь гнѣвѣ вражьдовахѫ мнѣ
+# sent_id = 219208
+1	Ѣко	ꙗко#2	ADV	Df	_	2	discourse	_	ref=54.3
+2	ѹклонішѩ	оуклонити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=54.3
+3	на	на	ADP	R-	_	4	case	_	ref=54.3
+4	мѩ	азъ	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	2	obl	_	ref=54.3
+5	безаконнъе	безаконениѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obj:dir	_	ref=54.3
+6	Ї	и	CCONJ	C-	_	2	cc	_	ref=54.3
+7	вь	въ	ADP	R-	_	8	case	_	ref=54.3
+8	гнѣвѣ	гнѣвъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	9	obl	_	ref=54.3
+9	вражьдовахѫ	вражьдовати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=54.3
+10	мнѣ	азъ	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	9	iobj	_	ref=54.3
+
+# source = Psalterium Sinaiticum, 54
+# text = Ср҃дце мое съмѩте сѩ во мнѣ
+# sent_id = 219210
+1	Ср҃дце	срьдьце	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	ref=54.4
+2	мое	мои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=1|Poss=Yes	1	nmod	_	ref=54.4
+3	съмѩте	съмѧсти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=54.4
+4	сѩ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=54.4
+5	во	въ	ADP	R-	_	6	case	_	ref=54.4
+6	мнѣ	азъ	PRON	Pp	Case=Loc|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	3	obl	_	ref=54.4
+
+# source = Psalterium Sinaiticum, 54
+# text = И страхъ съмрътьнꙑі нападе на мѩ
+# sent_id = 219211
+1	И	и	CCONJ	C-	_	4	cc	_	ref=54.4
+2	страхъ	страхъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=54.4
+3	съмрътьнꙑі	съмрьтьнъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	2	amod	_	ref=54.4
+4	нападе	напасти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=54.4
+5	на	на	ADP	R-	_	6	case	_	ref=54.4
+6	мѩ	азъ	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	4	obl	_	ref=54.4
+
+# source = Psalterium Sinaiticum, 54
+# text = Боѣзнъ і трепетъ пріде на мѩ
+# sent_id = 219212
+1	Боѣзнъ	боꙗзнь	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	ref=54.5
+2	і	и	CCONJ	C-	_	1	cc	_	ref=54.5
+3	трепетъ	трепетъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	ref=54.5
+4	пріде	прити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=54.5
+5	на	на	ADP	R-	_	6	case	_	ref=54.5
+6	мѩ	азъ	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	4	obl	_	ref=54.5
+
+# source = Psalterium Sinaiticum, 54
+# text = и покрꙑ мѩ тъма
+# sent_id = 219213
+1	и	и	CCONJ	C-	_	2	cc	_	ref=54.5
+2	покрꙑ	покрꙑти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=54.5
+3	мѩ	азъ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	2	obj:dir	_	ref=54.5
+4	тъма	тьма#1	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=54.5
+
+# source = Psalterium Sinaiticum, 54
+# text = И рѣхъ
+# sent_id = 219214
+1	И	и	CCONJ	C-	_	2	cc	_	ref=54.6
+2	рѣхъ	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=54.6
+
+# source = Psalterium Sinaiticum, 54
+# text = къто дастъ мнѣ крілѣ ѣко голѫби
+# sent_id = 219254
+1	къто	къто	PRON	Pi	Case=Nom|Number=Sing|PronType=Int	2	nsubj	_	ref=54.6
+2	дастъ	дати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=54.6
+3	мнѣ	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	2	iobj	_	ref=54.6
+4	крілѣ	крило	NOUN	Nb	Case=Acc|Gender=Neut|Number=Dual	2	obj:dir	_	ref=54.6
+5	ѣко	ꙗко	ADV	Df	_	2	advmod	_	ref=54.6
+6	голѫби	голѫбь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	5	obj:dir	_	ref=54.6
+
+# source = Psalterium Sinaiticum, 54
+# text = Се ѹдалихъ сѩ бѣгаѩ
+# sent_id = 219216
+1	Се	се	INTJ	I-	_	2	vocative	_	ref=54.7
+2	ѹдалихъ	оудалити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=54.7
+3	сѩ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=54.7
+4	бѣгаѩ	бѣгати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	ref=54.7
+
+# source = Psalterium Sinaiticum, 54
+# text = ї въдворихъ сѩ въ пѹстꙑні
+# sent_id = 219217
+1	ї	и	CCONJ	C-	_	2	cc	_	ref=54.7
+2	въдворихъ	въдворити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=54.7
+3	сѩ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=54.7
+4	въ	въ	ADP	R-	_	5	case	_	ref=54.7
+5	пѹстꙑні	поустꙑни	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	2	obl	_	ref=54.7
+
+# source = Psalterium Sinaiticum, 54
+# text = Чаахъ б҃а сп҃аѭщаго мѩ Ѡтъ прѣнемаганьѣ дх҃а и бѹрѩ
+# sent_id = 219255
+1	Чаахъ	чаꙗти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=54.8
+2	б҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	obj:dir	_	ref=54.8
+3	сп҃аѭщаго	съпасати	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	2	acl	_	ref=54.8
+4	мѩ	азъ	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	3	obj:dir	_	ref=54.8
+5	Ѡтъ	отъ	ADP	R-	_	6	case	_	ref=54.8
+6	прѣнемаганьѣ	прѣнемаганиѥ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	3	obl	_	ref=54.8
+7	дх҃а	доухъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	ref=54.8
+8	и	и	CCONJ	C-	_	6	cc	_	ref=54.8
+9	бѹрѩ	боурꙗ	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	conj	_	ref=54.8
+
+# source = Psalterium Sinaiticum, 54
+# text = Потопи г҃і і раздѣлі ѩзꙑ ихъ
+# sent_id = 219220
+1	Потопи	потопити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=54.9
+2	г҃і	господь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	ref=54.9
+3	і	и	CCONJ	C-	_	1	cc	_	ref=54.9
+4	раздѣлі	раздѣлити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=54.9
+5	ѩзꙑ	ѩзꙑкъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	obj:dir	_	ref=54.9
+6	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	det	_	ref=54.9
+
+# source = Psalterium Sinaiticum, 54
+# text = Ѣко видѣхъ безаконенье і прѣрѣканъе въ градѣ
+# sent_id = 219221
+1	Ѣко	ꙗко#2	ADV	Df	_	2	discourse	_	ref=54.9
+2	видѣхъ	видѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=54.9
+3	безаконенье	безаконениѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obj:dir	_	ref=54.9
+4	і	и	CCONJ	C-	_	3	cc	_	ref=54.9
+5	прѣрѣканъе	прѣрѣканиѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	3	conj	_	ref=54.9
+6	въ	въ	ADP	R-	_	7	case	_	ref=54.9
+7	градѣ	градъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	2	obl	_	ref=54.9
+
+# source = Psalterium Sinaiticum, 54
+# text = Денъ і нощъ обідетъ тѩ по стѣнамъ его
+# sent_id = 219222
+1	Денъ	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	ref=54.10
+2	і	и	CCONJ	C-	_	1	cc	_	ref=54.10
+3	нощъ	нощь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	conj	_	ref=54.10
+4	обідетъ	обити#1	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=54.10
+5	тѩ	тꙑ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obj:dir	_	ref=54.10
+6	по	по	ADP	R-	_	7	case	_	ref=54.10
+7	стѣнамъ	стѣна	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	4	obl	_	ref=54.10
+8	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	det	_	ref=54.10
+
+# source = Psalterium Sinaiticum, 54
+# text = Безаконнъе і трѹдъ посрѣдѣ его неправъда
+# sent_id = 219223
+1	Безаконнъе	безаконениѥ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	ref=54.10
+2	і	и	CCONJ	C-	_	1	cc	_	ref=54.10
+3	трѹдъ	троудъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	ref=54.10
+4	посрѣдѣ	посрѣдѣ	ADP	R-	_	5	case	_	ref=54.10
+5	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	ref=54.10
+6	неправъда	неправьда	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	ref=54.10
+
+# source = Psalterium Sinaiticum, 54
+# text = И не оскѫдѣ отъ пѫті его ліхва и льстъ
+# sent_id = 219224
+1	И	и	CCONJ	C-	_	3	cc	_	ref=54.11
+2	не	не	ADV	Df	Polarity=Neg	3	advmod	_	ref=54.11
+3	оскѫдѣ	оскѫдѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=54.11
+4	отъ	отъ	ADP	R-	_	5	case	_	ref=54.11
+5	пѫті	пѫть	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	obl	_	ref=54.11
+6	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	det	_	ref=54.11
+7	ліхва	лихва	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	ref=54.11
+8	и	и	CCONJ	C-	_	7	cc	_	ref=54.11
+9	льстъ	льсть	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	conj	_	ref=54.11
+
+# source = Psalterium Sinaiticum, 54
+# text = Ѣко аще мі би врагъ поносілъ прѣтръпѣлъ ѹбо бимъ
+# sent_id = 219225
+1	Ѣко	ꙗко#2	ADV	Df	_	7	discourse	_	ref=54.12
+2	аще	аще	SCONJ	G-	_	6	mark	_	ref=54.12
+3	мі	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	6	iobj	_	ref=54.12
+4	би	бꙑти	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	ref=54.12
+5	врагъ	врагъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=54.12
+6	поносілъ	поносити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	7	advcl	_	ref=54.12
+7	прѣтръпѣлъ	прѣтрьпѣти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=54.12
+8	ѹбо	оубо	ADV	Df	_	7	discourse	_	ref=54.12
+9	бимъ	бꙑти	VERB	V-	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	ref=54.12
+
+# source = Psalterium Sinaiticum, 54
+# text = И аще бі ненавідѩі мне на мѩ велърѣчевалъ Оукрꙑлъ сѩ бимъ ѹбо отъ него
+# sent_id = 219226
+1	И	и	CCONJ	C-	_	9	cc	_	ref=54.12
+2	аще	аще	SCONJ	G-	_	8	mark	_	ref=54.12
+3	бі	бꙑти	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	ref=54.12
+4	ненавідѩі	ненавидѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	8	nsubj	_	ref=54.12
+5	мне	азъ	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	4	obj:dir	_	ref=54.12
+6	на	на	ADP	R-	_	7	case	_	ref=54.12
+7	мѩ	азъ	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	8	obl	_	ref=54.12
+8	велърѣчевалъ	вельрѣчевати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	9	advcl	_	ref=54.12
+9	Оукрꙑлъ	оукрꙑти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=54.12
+10	сѩ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	9	aux	_	ref=54.12
+11	бимъ	бꙑти	VERB	V-	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	ref=54.12
+12	ѹбо	оубо	ADV	Df	_	9	discourse	_	ref=54.12
+13	отъ	отъ	ADP	R-	_	14	case	_	ref=54.12
+14	него	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	ref=54.12
+
+# source = Psalterium Sinaiticum, 54
+# text = Тꙑ же чв҃че равьнодш҃ьне Вл҃ко моі знанъе мое Їже кѹпьно насаділъ мнѣ брашьна
+# sent_id = 219228
+1	Тꙑ	тꙑ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	0	root	_	ref=54.13
+2	же	же	ADV	Df	_	1	discourse	_	ref=54.13
+3	чв҃че	чловѣкъ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	1	appos	_	ref=54.13
+4	равьнодш҃ьне	равьнодоушьнъ	ADJ	A-	Case=Voc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	3	amod	_	ref=54.13
+5	Вл҃ко	владꙑка	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	1	appos	_	ref=54.13
+6	моі	мои	ADJ	Ps	Case=Voc|Gender=Masc|Number=Sing|Person=1|Poss=Yes	5	nmod	_	ref=54.13
+7	знанъе	знаниѥ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	1	appos	_	ref=54.13
+8	мое	мои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=1|Poss=Yes	7	nmod	_	ref=54.13
+9	Їже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	11	nsubj	_	ref=54.14
+10	кѹпьно	коупьно	ADV	Df	_	11	advmod	_	ref=54.14
+11	насаділъ	насадити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	1	acl	_	ref=54.14
+12	мнѣ	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	11	obl	_	ref=54.14
+13	брашьна	брашьно	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	11	obj:dir	_	ref=54.14
+
+# source = Psalterium Sinaiticum, 54
+# text = Въ храмѣ бж҃ы ходіховѣ іномъшленьемъ
+# sent_id = 219256
+1	Въ	въ	ADP	R-	_	2	case	_	ref=54.14
+2	храмѣ	храмъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	4	obl	_	ref=54.14
+3	бж҃ы	божии	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	2	amod	_	ref=54.14
+4	ходіховѣ	ходити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Dual|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=54.14
+5	іномъшленьемъ	иномꙑшлѥниѥ	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	4	obl	_	ref=54.14
+
+# source = Psalterium Sinaiticum, 54
+# text = Да прідетъ съмръть на нѩ
+# sent_id = 219231
+1	Да	да	ADV	Df	_	2	advmod	_	ref=54.15
+2	прідетъ	прити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=54.15
+3	съмръть	съмрьть	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=54.15
+4	на	на	ADP	R-	_	5	case	_	ref=54.15
+5	нѩ	и	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs	2	obl	_	ref=54.15
+
+# source = Psalterium Sinaiticum, 54
+# text = сънідѫтъ въ адъ живи
+# sent_id = 219257
+1	сънідѫтъ	сънити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=54.15
+2	въ	въ	ADP	R-	_	3	case	_	ref=54.15
+3	адъ	адъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	ref=54.15
+4	живи	живъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	1	advmod	_	ref=54.15
+
+# source = Psalterium Sinaiticum, 54
+# text = Ѣко зълоба въ жиліщіхъ іхъ посрѣдѣ їхъ
+# sent_id = 219232
+1	Ѣко	ꙗко#2	ADV	Df	_	4	discourse	_	ref=54.15
+2	зълоба	зълоба	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	ref=54.15
+3	въ	въ	ADP	R-	_	4	case	_	ref=54.15
+4	жиліщіхъ	жилище	NOUN	Nb	Case=Loc|Gender=Neut|Number=Plur	0	root	_	ref=54.15
+5	іхъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	det	_	ref=54.15
+6	посрѣдѣ	посрѣдѣ	ADP	R-	_	7	case	_	ref=54.15
+7	їхъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	conj	_	ref=54.15
+
+# source = Psalterium Sinaiticum, 54
+# text = Азъ къ б҃ѹ возьвахъ і г҃ъ ѹслъша мѩ
+# sent_id = 219233
+1	Азъ	азъ	PRON	Pp	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	ref=54.16
+2	къ	къ	ADP	R-	_	3	case	_	ref=54.16
+3	б҃ѹ	богъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	ref=54.16
+4	возьвахъ	възъвати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=54.16
+5	і	и	CCONJ	C-	_	4	cc	_	ref=54.16
+6	г҃ъ	господь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=54.16
+7	ѹслъша	оуслꙑшати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	ref=54.16
+8	мѩ	азъ	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	7	obj:dir	_	ref=54.16
+
+# source = Psalterium Sinaiticum, 54
+# text = Вечеръ ї ютро и полѹ дъне повѣмъ
+# sent_id = 219234
+1	Вечеръ	вечеръ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	ref=54.17
+2	ї	и	CCONJ	C-	_	1	cc	_	ref=54.17
+3	ютро	оутро	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	conj	_	ref=54.17
+4	и	и	CCONJ	C-	_	1	cc	_	ref=54.17
+5	полѹ	полъ#1	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	conj	_	ref=54.17
+6	дъне	дьнь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	ref=54.17
+7	повѣмъ	повѣдѣти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=54.17
+
+# source = Psalterium Sinaiticum, 54
+# text = Възвѣщѫ ѣко ѹслꙑша гласъ моі
+# sent_id = 219235
+1	Възвѣщѫ	възвѣстити	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=54.17
+2	ѣко	ꙗко	SCONJ	G-	_	3	mark	_	ref=54.17
+3	ѹслꙑша	оуслꙑшати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	ref=54.17
+4	гласъ	гласъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obj:dir	_	ref=54.17
+5	моі	мои	ADJ	Ps	Case=Acc|Gender=Masc|Number=Sing|Person=1|Poss=Yes	4	nmod	_	ref=54.17
+
+# source = Psalterium Sinaiticum, 54
+# text = Нѣстъ бо імъ измѣненьѣ
+# sent_id = 219241
+1	Нѣстъ	не.бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=54.19
+2	бо	бо	ADV	Df	_	1	discourse	_	ref=54.19
+3	імъ	и	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs	1	iobj	_	ref=54.19
+4	измѣненьѣ	измѣнѥниѥ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	1	nsubj	_	ref=54.19
+
+# source = Psalterium Sinaiticum, 54
+# text = Ѣко и не ѹбоѣшѩ сѩ б҃а
+# sent_id = 219242
+1	Ѣко	ꙗко#2	ADV	Df	_	4	discourse	_	ref=54.19
+2	и	и	ADV	Df	_	4	advmod	_	ref=54.19
+3	не	не	ADV	Df	Polarity=Neg	4	advmod	_	ref=54.19
+4	ѹбоѣшѩ	оубоꙗти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=54.19
+5	сѩ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	4	aux	_	ref=54.19
+6	б҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	iobj	_	ref=54.19
+
+# source = Psalterium Sinaiticum, 54
+# text = Прострѣтъ рѫкѫ своѭ на въздание
+# sent_id = 219258
+1	Прострѣтъ	прострѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=54.20
+2	рѫкѫ	рѫка	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj:dir	_	ref=54.20
+3	своѭ	свои	ADJ	Pt	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	2	nmod	_	ref=54.20
+4	на	на	ADP	R-	_	5	case	_	ref=54.20
+5	въздание	възданиѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	ref=54.20
+
+# source = Psalterium Sinaiticum, 54
+# text = Оскврънішѩ на земи завѣтъ его
+# sent_id = 219244
+1	Оскврънішѩ	оскврьнити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=54.20
+2	на	на	ADP	R-	_	3	case	_	ref=54.20
+3	земи	землꙗ	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	1	obl	_	ref=54.20
+4	завѣтъ	завѣтъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	obj:dir	_	ref=54.20
+5	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	det	_	ref=54.20
+
+# source = Psalterium Sinaiticum, 54
+# text = Раздѣлішѩ сѩ отъ гнѣва ліца его
+# sent_id = 219245
+1	Раздѣлішѩ	раздѣлити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=54.21
+2	сѩ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	1	aux	_	ref=54.21
+3	отъ	отъ	ADP	R-	_	4	case	_	ref=54.21
+4	гнѣва	гнѣвъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	ref=54.21
+5	ліца	лице	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	ref=54.21
+6	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	det	_	ref=54.21
+
+# source = Psalterium Sinaiticum, 54
+# text = Ї прібліжішѩ сѩ ср҃дца іхъ
+# sent_id = 219246
+1	Ї	и	CCONJ	C-	_	2	cc	_	ref=54.21
+2	прібліжішѩ	приближити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=54.21
+3	сѩ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=54.21
+4	ср҃дца	срьдьце	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	ref=54.21
+5	іхъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	det	_	ref=54.21
+
+# source = Psalterium Sinaiticum, 54
+# text = Оумѩкнѫшѩ словеса іхъ паче олѣа
+# sent_id = 219247
+1	Оумѩкнѫшѩ	оумѧкнѫти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=54.21
+2	словеса	слово	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	1	nsubj	_	ref=54.21
+3	іхъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	det	_	ref=54.21
+4	паче	паче	ADV	Df	Degree=Cmp	1	advmod	_	ref=54.21
+5	олѣа	олѣи	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	iobj	_	ref=54.21
+
+# source = Psalterium Sinaiticum, 54
+# text = И та сѫтъ стрѣлꙑ
+# sent_id = 219248
+1	И	и	CCONJ	C-	_	3	cc	_	ref=54.21
+2	та	тъ	ADJ	Pd	Case=Nom|Gender=Neut|Number=Plur	3	nsubj	_	ref=54.21
+3	сѫтъ	бꙑти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=54.21
+4	стрѣлꙑ	стрѣла	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	3	xcomp	_	ref=54.21
+
+# source = Psalterium Sinaiticum, 54
+# text = тꙑ же бж҃е нізъведеши ѩ въ стѹденецъ истълѣньѣ
+# sent_id = 219251
+1	тꙑ	тꙑ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	ref=54.23
+2	же	же	ADV	Df	_	4	discourse	_	ref=54.23
+3	бж҃е	богъ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	ref=54.23
+4	нізъведеши	низъвести	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=54.23
+5	ѩ	и	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=3|PronType=Prs	4	obj:dir	_	ref=54.23
+6	въ	въ	ADP	R-	_	7	case	_	ref=54.23
+7	стѹденецъ	стоуденьць	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	ref=54.23
+8	истълѣньѣ	истьлѣниѥ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	ref=54.23
+

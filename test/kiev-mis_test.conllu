@@ -1,0 +1,63 @@
+
+# source = Kiev Missal, On the day of St. Clement
+# text = ꙇ ходaтaѧцю блaженѹмѹ климентѹ мѫченикѹ твоемѹ симь нъи отъ грѣхъ скврьностиꙇ нaшꙇхъ очісті г҃мь
+# sent_id = 219480
+1	ꙇ	и	CCONJ	C-	_	13	cc	_	ref=
+2	ходaтaѧцю	ходатаити	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	13	advcl	_	ref=
+3	блaженѹмѹ	блаженъ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=
+4	климентѹ	климентъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	nsubj	_	ref=
+5	мѫченикѹ	мѫченикъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	ref=
+6	твоемѹ	твои	ADJ	Ps	Case=Dat|Gender=Masc|Number=Sing|Person=2|Poss=Yes	5	nmod	_	ref=
+7	симь	сь	ADJ	Pd	Case=Ins|Gender=Neut|Number=Sing	13	obl	_	ref=
+8	нъи	мꙑ	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	13	obj:dir	_	ref=
+9	отъ	отъ	ADP	R-	_	11	case	_	ref=
+10	грѣхъ	грѣхъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	ref=
+11	скврьностиꙇ	скврьность	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	13	obl	_	ref=
+12	нaшꙇхъ	нашь	ADJ	Ps	Case=Gen|Gender=Masc|Number=Plur|Person=1|Poss=Yes	10	nmod	_	ref=
+13	очісті	очистити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+14	г҃мь	господь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	13	obl	_	ref=
+
+# source = Kiev Missal, On the day of St. Clement
+# text = ПРѢФАЦИѢ
+# sent_id = 219483
+1	ПРѢФАЦИѢ	прѣфациꙗ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=
+
+# source = Kiev Missal, On the day of St. Clement
+# text = ДО
+# sent_id = 219484
+1	ДО	достоинъ	ADJ	A-	_	0	root	_	ref=
+
+# source = Kiev Missal, On the day of St. Clement
+# text = вѣчьнъі б҃же Ч]ьстьнaго климентa зaконьнікa ꙇ мѫченікa чьсті чьстѧце ꙇже ѹтѧже бъиті блaженѹмѹ aпостолѹ твоемѹ петрѹ въ інокості подрѹгъ въ исповѣді ѹченікъ въ чьсті нaмѣстьнікъ въ мѫчениі нaслѣдьнкъ х҃мь г҃мь нaшмь
+# sent_id = 219715
+1	вѣчьнъі	вѣчьнъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	2	amod	_	ref=
+2	б҃же	богъ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	9	vocative	_	ref=
+3	Ч]ьстьнaго	чьстьнъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=
+4	климентa	климентъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	ref=
+5	зaконьнікa	законьникъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	appos	_	ref=
+6	ꙇ	и	CCONJ	C-	_	5	cc	_	ref=
+7	мѫченікa	мѫченикъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	conj	_	ref=
+8	чьсті	чьсть	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	9	obj:dir	_	ref=
+9	чьстѧце	чьстити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	ref=
+10	ꙇже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	11	nsubj	_	ref=
+11	ѹтѧже	оутѧгнѫти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl	_	ref=
+12	бъиті	бꙑти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	11	xcomp	_	ref=
+13	блaженѹмѹ	блаженъ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	14	amod	_	ref=
+14	aпостолѹ	апостолъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	12	iobj	_	ref=
+15	твоемѹ	твои	ADJ	Ps	Case=Dat|Gender=Masc|Number=Sing|Person=2|Poss=Yes	14	nmod	_	ref=
+16	петрѹ	петръ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	14	appos	_	ref=
+17	въ	въ	ADP	R-	_	18	case	_	ref=
+18	інокості	инокость	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	19	nmod	_	ref=
+19	подрѹгъ	подроугъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	xcomp	_	ref=
+20	въ	въ	ADP	R-	_	21	case	_	ref=
+21	исповѣді	исповѣдь	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	22	nmod	_	ref=
+22	ѹченікъ	оученикъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	19	conj	_	ref=
+23	въ	въ	ADP	R-	_	24	case	_	ref=
+24	чьсті	чьсть	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	25	nmod	_	ref=
+25	нaмѣстьнікъ	намѣстьникъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	19	conj	_	ref=
+26	въ	въ	ADP	R-	_	27	case	_	ref=
+27	мѫчениі	мѫчениѥ	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	28	nmod	_	ref=
+28	нaслѣдьнкъ	наслѣдьникъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	19	conj	_	ref=
+29	х҃мь	христ(ос)ъ	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	11	obl	_	ref=
+30	г҃мь	господь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	29	appos	_	ref=
+31	нaшмь	нашь	ADJ	Ps	Case=Ins|Gender=Masc|Number=Sing|Person=1|Poss=Yes	30	nmod	_	ref=

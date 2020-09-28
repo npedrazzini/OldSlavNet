@@ -1,0 +1,81 @@
+# source = The Kiev Chronicle, Codex Hypatianus, 6640
+# text = в се же лѣто роди сѧ оу мистислава сн҃ъ
+# sent_id = 200581
+1	в	въ	ADP	R-	_	4	case	_	ref=
+2	се	сии	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	4	det	_	ref=
+3	же	же	ADV	Df	_	2	advmod	_	ref=
+4	лѣто	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	ref=
+5	роди	родити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	5	aux	_	ref=
+7	оу	у	ADP	R-	_	8	case	_	ref=
+8	мистислава	мьстиславъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	ref=
+9	сн҃ъ	сынъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=
+
+# source = The Kiev Chronicle, Codex Hypatianus, 6640
+# text = и нарекоша имѧ ему володимеръ
+# sent_id = 200757
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	нарекоша	нарещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	имѧ	имя	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obj:dir	_	ref=
+4	ему	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	det	_	ref=
+5	володимеръ	володимѣръ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	xcomp	_	ref=
+
+# source = The Kiev Chronicle, Codex Hypatianus, 6641
+# text = В лѣто ҂ѕ҃ х҃ м а престави сѧ бл҃говѣрныи кн҃зь мьстиславъ володимерь сн҃ъ оставив кн҃жениє брату своєму ярополку єму же и дѣти свои съ бм҃ъ на руцѣ предасть
+# sent_id = 200582
+1	В	въ	ADP	R-	_	2	case	_	ref=
+2	лѣто	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	ref=
+3	҂ѕ҃	шесть.тысячь	NUM	Ma	_	2	nummod	_	ref=
+4	х҃	шестьсътъ	NUM	Ma	_	3	conj	_	ref=
+5	м	четыредесяте	NUM	Ma	_	3	conj	_	ref=
+6	а	единъ	NUM	Ma	_	3	conj	_	ref=
+7	престави	прѣставити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	7	aux	_	ref=
+9	бл҃говѣрныи	благовѣрьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	10	amod	_	ref=
+10	кн҃зь	кънязь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=
+11	мьстиславъ	мьстиславъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	ref=
+12	володимерь	володимѣрь	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	13	amod	_	ref=
+13	сн҃ъ	сынъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	ref=
+14	оставив	оставити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	7	advcl	_	ref=
+15	кн҃жениє	къняжение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	14	obj:dir	_	ref=
+16	брату	братъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	14	iobj	_	ref=
+17	своєму	свои	ADJ	Pt	Case=Dat|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	16	nmod	_	ref=
+18	ярополку	яропълкъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	16	appos	_	ref=
+19	єму	иже	PRON	Pr	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	27	det	_	ref=
+20	же	же	PRON	Pr	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	19	flat	_	ref=
+21	и	и	ADV	Df	_	22	advmod	_	ref=
+22	дѣти	дѣтя	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	28	obj:dir	_	ref=
+23	свои	свои	ADJ	Pt	Case=Acc|Gender=Neut|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	22	nmod	_	ref=
+24	съ	съ	ADP	R-	_	25	case	_	ref=
+25	бм҃ъ	богъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	28	obl	_	ref=
+26	на	на	ADP	R-	_	27	case	_	ref=
+27	руцѣ	рука	NOUN	Nb	Case=Acc|Gender=Fem|Number=Dual	28	obl	_	ref=
+28	предасть	прѣдати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	acl	_	ref=
+
+# source = The Kiev Chronicle, Codex Hypatianus, 6641
+# text = престави сѧ мьстиславъ априлѧ въ еі҃ празнои недѣлѣ
+# sent_id = 200583
+1	престави	прѣставити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	1	aux	_	ref=
+3	мьстиславъ	мьстиславъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=
+4	априлѧ	априль	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	ref=
+5	въ	въ	ADP	R-	_	6	case	_	ref=
+6	еі҃	пятьнадесять	NUM	Ma	_	1	obl	_	ref=
+7	празнои	праздьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	8	amod	_	ref=
+8	недѣлѣ	недѣля	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	appos	_	ref=
+
+# source = The Kiev Chronicle, Codex Hypatianus, 6641
+# text = в пѧтокъ положенъ быс҃ оу цр҃кви ст҃го федора юже бѣ самъ създалъ
+# sent_id = 200585
+1	в	въ	ADP	R-	_	2	case	_	ref=
+2	пѧтокъ	пятъкъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	ref=
+3	положенъ	положити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	4	xcomp	_	ref=
+4	быс҃	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	оу	въ	ADP	R-	_	6	case	_	ref=
+6	цр҃кви	цьркы	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	3	obl	_	ref=
+7	ст҃го	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	8	amod	_	ref=
+8	федора	федоръ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	ref=
+9	юже	иже	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	12	obj:dir	_	ref=
+10	бѣ	быти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	aux	_	ref=
+11	самъ	самъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	ref=
+12	създалъ	съзьдати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	6	acl	_	ref=

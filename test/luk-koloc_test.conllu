@@ -1,0 +1,127 @@
+
+# source = The Tale of Luka Koločskij,
+# text = И приде инъ нѣкий человѣкъ
+# sent_id = 141151
+1	И	и	CCONJ	C-	_	2	cc	_	ref=
+2	приде	приити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	инъ	иныи	DET	Px	Case=Nom|Gender=Masc|Number=Sing	5	det	_	ref=
+4	нѣкий	нѣкыи	DET	Px	Case=Nom|Gender=Masc|Number=Sing	5	det	_	ref=
+5	человѣкъ	человѣкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=
+
+# source = The Tale of Luka Koločskij,
+# text = и взять ю у него
+# sent_id = 141204
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	взять	възяти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	ю	и	PRON	Pp	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj:dir	_	ref=
+4	у	у	ADP	R-	_	5	case	_	ref=
+5	него	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	ref=
+
+# source = The Tale of Luka Koločskij,
+# text = Лука же моливъ его дав ему хлѣб овсанъ и взят к себе паки икону
+# sent_id = 141152
+1	Лука	лука	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	ref=
+2	же	же	ADV	Df	_	10	advmod	_	ref=
+3	моливъ	молити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	10	conj	_	ref=
+4	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj:dir	_	ref=
+5	дав	дати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	10	conj	_	ref=
+6	ему	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	ref=
+7	хлѣб	хлѣбъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	obj:dir	_	ref=
+8	овсанъ	овьсяныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	7	amod	_	ref=
+9	и	и	CCONJ	C-	_	10	cc	_	ref=
+10	взят	възяти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+11	к	къ	ADP	R-	_	12	case	_	ref=
+12	себе	себе	PRON	Pk	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	10	obl	_	ref=
+13	паки	пакы	ADV	Df	_	10	advmod	_	ref=
+14	икону	икона	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	obj:dir	_	ref=
+
+# source = The Tale of Luka Koločskij,
+# text = и поиде с нѣю в дом свой
+# sent_id = 141205
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	поиде	поити#1	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	с	съ	ADP	R-	_	4	case	_	ref=
+4	нѣю	и	PRON	Pp	Case=Ins|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obl	_	ref=
+5	в	въ	ADP	R-	_	6	case	_	ref=
+6	дом	домъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	ref=
+7	свой	свои	ADJ	Pt	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	6	nmod	_	ref=
+
+# source = The Tale of Luka Koločskij,
+# text = И бысть в дому его разслаблен человѣкъ лѣжаша многа леть
+# sent_id = 141153
+1	И	и	CCONJ	C-	_	2	cc	_	ref=
+2	бысть	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	в	въ	ADP	R-	_	4	case	_	ref=
+4	дому	домъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	8	obl	_	ref=
+5	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	det	_	ref=
+6	разслаблен	раслабѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	_	ref=
+7	человѣкъ	человѣкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=
+8	лѣжаша	лежати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	ref=
+9	многа	мъногыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Strong	8	advmod	_	ref=
+10	леть	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	ref=
+
+# source = The Tale of Luka Koločskij,
+# text = Лука же показа ему икону и како наидѣ ея
+# sent_id = 141154
+1	Лука	лука	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	показа	показати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	ему	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	ref=
+5	икону	икона	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obj:dir	_	ref=
+6	и	и	CCONJ	C-	_	5	cc	_	ref=
+7	како	како	ADV	Du	PronType=Int	8	advmod	_	ref=
+8	наидѣ	наити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	ccomp	_	ref=
+9	ея	и	PRON	Pp	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj:dir	_	ref=
+
+# source = The Tale of Luka Koločskij,
+# text = и повѣда ему вса
+# sent_id = 141279
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	повѣда	повѣдати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	ему	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	iobj	_	ref=
+4	вса	вьсь	ADJ	Px	Case=Acc|Gender=Neut|Number=Plur	2	obj:dir	_	ref=
+
+# source = The Tale of Luka Koločskij,
+# text = Человѣкъ же инъ разслабленый удиви ся и моляшѣ Луку да принѣсеть к нѣму икону тую
+# sent_id = 141155
+1	Человѣкъ	человѣкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=
+2	же	же	ADV	Df	_	5	advmod	_	ref=
+3	инъ	иныи	DET	Px	Case=Nom|Gender=Masc|Number=Sing	1	det	_	ref=
+4	разслабленый	раслабѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	1	acl	_	ref=
+5	удиви	удивити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	ся	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	5	aux	_	ref=
+7	и	и	CCONJ	C-	_	5	cc	_	ref=
+8	моляшѣ	молити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	ref=
+9	Луку	лука	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	8	obj:dir	_	ref=
+10	да	да	SCONJ	G-	_	11	mark	_	ref=
+11	принѣсеть	принести	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	_	ref=
+12	к	къ	ADP	R-	_	13	case	_	ref=
+13	нѣму	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	ref=
+14	икону	икона	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	11	obj:dir	_	ref=
+15	тую	тыи	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	14	det	_	ref=
+
+# source = The Tale of Luka Koločskij,
+# text = Лука же принѣсе к нѣму
+# sent_id = 141156
+1	Лука	лука	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	принѣсе	принести	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	к	къ	ADP	R-	_	5	case	_	ref=
+5	нѣму	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	ref=
+
+# source = The Tale of Luka Koločskij,
+# text = Разслаблѣный же приложи чело и очи и уснѣ ко святей иконѣ Божия Матери
+# sent_id = 141157
+1	Разслаблѣный	раслабѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	приложи	приложити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	чело	чело	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	3	obj:dir	_	ref=
+5	и	и	CCONJ	C-	_	4	cc	_	ref=
+6	очи	око	NOUN	Nb	Case=Acc|Gender=Neut|Number=Dual	4	conj	_	ref=
+7	и	и	CCONJ	C-	_	4	cc	_	ref=
+8	уснѣ	усние	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	conj	_	ref=
+9	ко	къ	ADP	R-	_	11	case	_	ref=
+10	святей	святыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	11	amod	_	ref=
+11	иконѣ	икона	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	3	obl	_	ref=
+12	Божия	божии	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	ref=
+13	Матери	мати	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	ref=

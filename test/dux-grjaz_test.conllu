@@ -1,0 +1,47 @@
+# source = Testament of Ivan Jurievich Grjaznoj, Testament of Ivan Jurievich Grjaznoj
+# text = да на ѳедоре каѳтыреве вѕѧти мнѣ бескабалных же денег рубль
+# sent_id = 213404
+1	да	да	CCONJ	C-	_	5	cc	_	ref=
+2	на	на	ADP	R-	_	3	case	_	ref=
+3	ѳедоре	федоръ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	ref=
+4	каѳтыреве	кафтыревъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	3	flat:name	_	ref=
+5	вѕѧти	възяти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+6	мнѣ	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	ref=
+7	бескабалных	бескабальныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	9	amod	_	ref=
+8	же	же	ADV	Df	_	7	advmod	_	ref=
+9	денег	деньга	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	10	nmod	_	ref=
+10	рубль	рубль	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	obj:dir	_	ref=
+
+# source = Testament of Ivan Jurievich Grjaznoj, Testament of Ivan Jurievich Grjaznoj
+# text = а что моѧ вотчина в бѣжецком верхꙋ в городецком стану село кузмодемян з деревнями
+# sent_id = 213438
+1	а	а	CCONJ	C-	_	0	root	_	ref=
+2	что	чьто	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	4	nsubj	_	ref=
+3	моѧ	мои	ADJ	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=1|Poss=Yes	4	nmod	_	ref=
+4	вотчина	отьчина	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	ref=
+5	в	въ	ADP	R-	_	7	case	_	ref=
+6	бѣжецком	бѣжьчьскыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	7	amod	_	ref=
+7	верхꙋ	вьрхъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	4	nmod	_	ref=
+8	в	въ	ADP	R-	_	10	case	_	ref=
+9	городецком	городьчьскыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	10	amod	_	ref=
+10	стану	станъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	4	nmod	_	ref=
+11	село	село	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	4	appos	_	ref=
+12	кузмодемян	кузмодемьянъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	11	appos	_	ref=
+13	з	съ	ADP	R-	_	14	case	_	ref=
+14	деревнями	деревьня	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	11	nmod	_	ref=
+
+# source = Testament of Ivan Jurievich Grjaznoj, Testament of Ivan Jurievich Grjaznoj
+# text = А пожаловал меня гсдрь тою вотчиною против моеи переславские вотчины села шубина
+# sent_id = 213439
+1	А	а	CCONJ	C-	_	2	cc	_	ref=
+2	пожаловал	пожаловати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+3	меня	азъ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	2	obj:dir	_	ref=
+4	гсдрь	государь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=
+5	тою	тыи	DET	Pd	Case=Ins|Gender=Fem|Number=Sing	6	det	_	ref=
+6	вотчиною	отьчина	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	2	iobj	_	ref=
+7	против	противъ	ADP	R-	_	10	case	_	ref=
+8	моеи	мои	ADJ	Ps	Case=Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes	10	nmod	_	ref=
+9	переславские	переяславьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	10	amod	_	ref=
+10	вотчины	отьчина	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	2	obl	_	ref=
+11	села	село	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	10	appos	_	ref=
+12	шубина	шубинъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	11	appos	_	ref=

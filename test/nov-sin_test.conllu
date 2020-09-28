@@ -1,0 +1,2534 @@
+# source = The First Novgorod Chronicle, Synodal manuscript, 6636
+# text = въ тож҃ лѣт҃ въдаша посадницьство новѣгородѣ завидѹ дмитровицю
+# sent_id = 204959
+1	въ	въ	ADP	R-	_	3	case	_	ref=
+2	тож҃	тыиже	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	3	det	_	ref=
+3	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	ref=
+4	въдаша	въдати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	посадницьство	посадьничьство	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obj:dir	_	ref=
+6	новѣгородѣ	новъгородъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	5	nmod	_	ref=
+7	завидѹ	завидъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	4	iobj	_	ref=
+8	дмитровицю	дьмитровичь	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	7	flat:name	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6636
+# text = въ се же лѣт҃ лютѣ бѧше
+# sent_id = 204962
+1	въ	въ	ADP	R-	_	4	case	_	ref=
+2	се	сииже	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	4	det	_	ref=
+3	же	же	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	2	flat	_	ref=
+4	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	ref=
+5	лютѣ	лютѣ	ADV	Df	Degree=Pos	6	xcomp	_	ref=
+6	бѧше	быти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6636
+# text = осминъка ръжи по грв҃нѣ бѧше
+# sent_id = 204964
+1	осминъка	осминъка	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	ref=
+2	ръжи	ръжь	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	ref=
+3	по	по	ADP	R-	_	4	case	_	ref=
+4	грв҃нѣ	гривьна	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	5	xcomp	_	ref=
+5	бѧше	быти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6636
+# text = и ꙗдѧху люди листъ липовъ корѹ березовѹ
+# sent_id = 204965
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	ꙗдѧху	ясти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	люди	людие	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	ref=
+4	листъ	листъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	obj:dir	_	ref=
+5	липовъ	липовъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	4	amod	_	ref=
+6	корѹ	кора	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	conj	_	ref=
+7	березовѹ	березовыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	6	amod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6636
+# text = инии молиць истълъкше мѧтѹце съ пелъми и съ соломою
+# sent_id = 204967
+1	инии	иныи	ADJ	Px	Case=Nom|Gender=Masc|Number=Plur	0	root	_	ref=
+2	молиць	молица	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	1	obj:dir	_	ref=
+3	истълъкше	истълчи	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	1	advcl	_	ref=
+4	мѧтѹце	мясти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	ref=
+5	съ	съ	ADP	R-	_	6	case	_	ref=
+6	пелъми	пелы	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	4	obl	_	ref=
+7	и	и	CCONJ	C-	_	6	cc	_	ref=
+8	съ	съ	ADP	R-	_	9	case	_	ref=
+9	соломою	солома	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	6	conj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6636
+# text = инии ѹшь мъхъ конинѹ
+# sent_id = 205179
+1	инии	иныи	ADJ	Px	Case=Nom|Gender=Masc|Number=Plur	0	root	_	ref=
+2	ѹшь	ушь	NOUN	Nb	Case=Acc|Gender=Fem,Masc|Number=Sing	1	obj:dir	_	ref=
+3	мъхъ	мъхъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	conj	_	ref=
+4	конинѹ	конина	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	conj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6636
+# text = и тако дрѹгꙑмъ падъшимъ ѿ глада трѹпиѥ по ѹлицѧмъ и по търгѹ и по путьмъ и всюдѹ
+# sent_id = 204971
+1	и	и	CCONJ	C-	_	9	cc	_	ref=
+2	тако	тако	ADV	Df	_	9	advmod	_	ref=
+3	дрѹгꙑмъ	другыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	4	nsubj	_	ref=
+4	падъшимъ	пасти#1	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	9	advcl	_	ref=
+5	ѿ	отъ	ADP	R-	_	6	case	_	ref=
+6	глада	гладъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	obl	_	ref=
+7	трѹпиѥ	трупие	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	ref=
+8	по	по	ADP	R-	_	9	case	_	ref=
+9	ѹлицѧмъ	улица	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	0	root	_	ref=
+10	и	и	CCONJ	C-	_	9	cc	_	ref=
+11	по	по	ADP	R-	_	12	case	_	ref=
+12	търгѹ	търгъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	9	conj	_	ref=
+13	и	и	CCONJ	C-	_	9	cc	_	ref=
+14	по	по	ADP	R-	_	15	case	_	ref=
+15	путьмъ	путь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	9	conj	_	ref=
+16	и	и	CCONJ	C-	_	9	cc	_	ref=
+17	всюдѹ	вьсюду	ADV	Df	_	9	conj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6636
+# text = наꙗша наимитꙑ возити мьртвьцѧ из города
+# sent_id = 204976
+1	наꙗша	наяти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	наимитꙑ	наимитъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	obj:dir	_	ref=
+3	возити	возити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	advcl	_	ref=
+4	мьртвьцѧ	мьртвьць	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	3	obj:dir	_	ref=
+5	из	из	ADP	R-	_	6	case	_	ref=
+6	города	городъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6636
+# text = а смородъмь нелга вꙑлести
+# sent_id = 204977
+1	а	а	CCONJ	C-	_	3	cc	_	ref=
+2	смородъмь	смьрдъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	3	iobj	_	ref=
+3	нелга	нельга	ADV	Df	_	0	root	_	ref=
+4	вꙑлести	вылѣзти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	ccomp	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6636
+# text = тѹга бѣда на всѣхъ
+# sent_id = 204978
+1	тѹга	туга	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	ref=
+2	бѣда	бѣда	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	ref=
+3	на	на	ADP	R-	_	4	case	_	ref=
+4	всѣхъ	вьсь	ADJ	Px	Case=Loc|Gender=Masc|Number=Plur	0	root	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6636
+# text = оц҃ь и мт҃и чадо своѥ въсажаше въ лодью даромь гостьмъ
+# sent_id = 205180
+1	оц҃ь	отьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=
+2	и	и	CCONJ	C-	_	1	cc	_	ref=
+3	мт҃и	мати	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	ref=
+4	чадо	чадо	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	obj:dir	_	ref=
+5	своѥ	свои	ADJ	Pt	Case=Acc|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	4	nmod	_	ref=
+6	въсажаше	въсажати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+7	въ	въ	ADP	R-	_	8	case	_	ref=
+8	лодью	лодья	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	ref=
+9	даромь	даръ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	6	advmod	_	ref=
+10	гостьмъ	гость	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	9	nmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6636
+# text = и тако по грѣхомъ нашимъ погꙑбе землѧ наша
+# sent_id = 204982
+1	и	и	CCONJ	C-	_	6	cc	_	ref=
+2	тако	тако	ADV	Df	_	6	advmod	_	ref=
+3	по	по	ADP	R-	_	4	case	_	ref=
+4	грѣхомъ	грѣхъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	6	obl	_	ref=
+5	нашимъ	нашь	ADJ	Ps	Case=Dat|Gender=Masc|Number=Plur|Person=1|Poss=Yes	4	nmod	_	ref=
+6	погꙑбе	погыбнути	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+7	землѧ	земля	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	ref=
+8	наша	нашь	ADJ	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=1|Poss=Yes	7	nmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6636
+# text = въ сеж҃ лѣт҃ вода бѧше велика въ волхове и хоромъ много сноси
+# sent_id = 204983
+1	въ	въ	ADP	R-	_	3	case	_	ref=
+2	сеж҃	сииже	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	3	det	_	ref=
+3	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	ref=
+4	вода	вода	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	ref=
+5	бѧше	быти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	велика	великыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	5	xcomp	_	ref=
+7	въ	въ	ADP	R-	_	8	case	_	ref=
+8	волхове	вълховъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	ref=
+9	и	и	CCONJ	C-	_	5	cc	_	ref=
+10	хоромъ	хоромъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	ref=
+11	много	мъногыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	12	obj:dir	_	ref=
+12	сноси	съносити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6636
+# text = и кнз҃ь полотьскꙑи ѹмре борисъ всеславиць
+# sent_id = 204986
+1	и	и	CCONJ	C-	_	4	cc	_	ref=
+2	кнз҃ь	кънязь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=
+3	полотьскꙑи	полотьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	2	amod	_	ref=
+4	ѹмре	умрѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	борисъ	борисъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	ref=
+6	всеславиць	вьсеславичь	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6636
+# text = и завидъ посадникъ новгородьскꙑи ѹмре дъмитровиць
+# sent_id = 204988
+1	и	и	CCONJ	C-	_	5	cc	_	ref=
+2	завидъ	завидъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=
+3	посадникъ	посадьникъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	ref=
+4	новгородьскꙑи	новъгородьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	3	amod	_	ref=
+5	ѹмре	умрѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	дъмитровиць	дьмитровичь	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6637
+# text = въ лѣт҃ ҂ѕ҃ х҃ л҃ з въниде ис кꙑѥва данилъ посадницитъ новѹгороду
+# sent_id = 204989
+1	въ	въ	ADP	R-	_	2	case	_	ref=
+2	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	ref=
+3	҂ѕ҃	шесть.тысячь	NUM	Ma	_	2	nummod	_	ref=
+4	х҃	шестьсътъ	NUM	Ma	_	3	conj	_	ref=
+5	л҃	тридесяте	NUM	Ma	_	3	conj	_	ref=
+6	з	седмь	NUM	Ma	_	3	conj	_	ref=
+7	въниде	вънити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	ис	из	ADP	R-	_	9	case	_	ref=
+9	кꙑѥва	кыевъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	7	obl	_	ref=
+10	данилъ	данилъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=
+11	посадницитъ	посадьничити	VERB	V-	Case=Acc|VerbForm=Sup	7	advcl	_	ref=
+12	новѹгороду	новъгородъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	11	iobj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6638
+# text = въ лѣт҃ ҂ѕ҃ х҃ л҃ и иде всѣволодъ съ новгородьци на чюдь зимѣ въ говениѥ
+# sent_id = 204992
+1	въ	въ	ADP	R-	_	2	case	_	ref=
+2	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	ref=
+3	҂ѕ҃	шесть.тысячь	NUM	Ma	_	2	nummod	_	ref=
+4	х҃	шестьсътъ	NUM	Ma	_	3	conj	_	ref=
+5	л҃	тридесяте	NUM	Ma	_	3	conj	_	ref=
+6	и	осмь	NUM	Ma	_	3	conj	_	ref=
+7	иде	ити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	всѣволодъ	вьсеволодъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=
+9	съ	съ	ADP	R-	_	10	case	_	ref=
+10	новгородьци	новъгородьць	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	7	obl	_	ref=
+11	на	на	ADP	R-	_	12	case	_	ref=
+12	чюдь	чудь	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	ref=
+13	зимѣ	зима	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	7	obl	_	ref=
+14	въ	въ	ADP	R-	_	15	case	_	ref=
+15	говениѥ	говение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6638
+# text = и самꙑ исеце а хоромꙑ пожьже а женꙑ и дети приведе домовь
+# sent_id = 204995
+1	и	и	CCONJ	C-	_	3	cc	_	ref=
+2	самꙑ	самъ	ADJ	Pd	Case=Acc|Gender=Masc|Number=Plur	3	obj:dir	_	ref=
+3	исеце	исѣщи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	а	а	CCONJ	C-	_	3	cc	_	ref=
+5	хоромꙑ	хоромъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	6	obj:dir	_	ref=
+6	пожьже	пожещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=
+7	а	а	CCONJ	C-	_	3	cc	_	ref=
+8	женꙑ	жена	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	11	obj:dir	_	ref=
+9	и	и	CCONJ	C-	_	8	cc	_	ref=
+10	дети	дѣтя	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	8	conj	_	ref=
+11	приведе	привести	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=
+12	домовь	домовь	ADV	Df	_	11	advmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6638
+# text = въ тож҃ лѣт҃ ходи кꙑѥвѹ къ оц҃ю
+# sent_id = 204998
+1	въ	въ	ADP	R-	_	3	case	_	ref=
+2	тож҃	тыиже	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	3	det	_	ref=
+3	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	ref=
+4	ходи	ходити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	кꙑѥвѹ	кыевъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	4	iobj	_	ref=
+6	къ	къ	ADP	R-	_	7	case	_	ref=
+7	оц҃ю	отьць	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6638
+# text = въ тож҃ лѣт҃ коньцѧ црк҃вь ст҃го і҃ѡ
+# sent_id = 205000
+1	въ	въ	ADP	R-	_	3	case	_	ref=
+2	тож҃	тыиже	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	3	det	_	ref=
+3	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	ref=
+4	коньцѧ	коньчати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	црк҃вь	цьркы	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj:dir	_	ref=
+6	ст҃го	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	7	amod	_	ref=
+7	і҃ѡ	иоанъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6638
+# text = и сами истопоша и товаръ
+# sent_id = 205005
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	сами	самъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	ref=
+3	истопоша	истонути	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	и	и	CCONJ	C-	_	2	cc	_	ref=
+5	товаръ	товаръ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6638
+# text = а дрѹзии вꙑлезоша нъ нази
+# sent_id = 205007
+1	а	а	CCONJ	C-	_	3	cc	_	ref=
+2	дрѹзии	другыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	3	nsubj	_	ref=
+3	вꙑлезоша	вылѣзти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	нъ	нъ	CCONJ	C-	_	3	cc	_	ref=
+5	нази	нагыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	3	conj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6638
+# text = а из дони придоша сторови
+# sent_id = 205008
+1	а	а	CCONJ	C-	_	4	cc	_	ref=
+2	из	из	ADP	R-	_	3	case	_	ref=
+3	дони	донь	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	4	obl	_	ref=
+4	придоша	приити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	сторови	съдоровыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	4	advmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6638
+# text = въ се ж҃ лѣт҃ ѿвьрже сѧ архепс҃пъ і҃ѡ новагорода
+# sent_id = 205009
+1	въ	въ	ADP	R-	_	4	case	_	ref=
+2	се	сииже	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	4	det	_	ref=
+3	ж҃	ж҃	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	2	flat	_	ref=
+4	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	ref=
+5	ѿвьрже	отъврѣщи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	5	aux	_	ref=
+7	архепс҃пъ	архиепископъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=
+8	і҃ѡ	иоанъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	appos	_	ref=
+9	новагорода	новъгородъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	iobj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6638
+# text = и поставиша архепс҃па нифонта мѹжа ст҃а и зѣло боꙗщѧ сѧ ба҃
+# sent_id = 205011
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	поставиша	поставити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	архепс҃па	архиепископъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	xcomp	_	ref=
+4	нифонта	нифонтъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	obj:dir	_	ref=
+5	мѹжа	мужь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	appos	_	ref=
+6	ст҃а	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	5	amod	_	ref=
+7	и	и	CCONJ	C-	_	6	cc	_	ref=
+8	зѣло	зѣло	ADV	Df	_	9	advmod	_	ref=
+9	боꙗщѧ	бояти	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	6	conj	_	ref=
+10	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	9	aux	_	ref=
+11	ба҃	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	iobj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6638
+# text = и приде новѹгородѹ мс҃цѧ генъ҃врѧ в а҃ дн҃ь на ст҃го васильꙗ на обедьнюю
+# sent_id = 205014
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	приде	приити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	новѹгородѹ	новъгородъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	ref=
+4	мс҃цѧ	мѣсяць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	ref=
+5	генъ҃врѧ	генварь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	appos	_	ref=
+6	в	въ	ADP	R-	_	8	case	_	ref=
+7	а҃	единъ	NUM	Ma	_	8	nummod	_	ref=
+8	дн҃ь	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	ref=
+9	на	на	ADP	R-	_	11	case	_	ref=
+10	ст҃го	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	11	amod	_	ref=
+11	васильꙗ	василии	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	appos	_	ref=
+12	на	на	ADP	R-	_	13	case	_	ref=
+13	обедьнюю	обѣдьнии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	2	advmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6638
+# text = а петрилѹ даша посаднїцатъ новѹгородѹ
+# sent_id = 205018
+1	а	а	CCONJ	C-	_	3	cc	_	ref=
+2	петрилѹ	петрила	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	3	obj:dir	_	ref=
+3	даша	дати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	посаднїцатъ	посадьничати	VERB	V-	Case=Acc|VerbForm=Sup	3	xcomp	_	ref=
+5	новѹгородѹ	новъгородъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	4	iobj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6639
+# text = въ лѣт҃ ҂ѕ҃ х҃ л҃ ѳ бꙑс҃ знамениѥ въ слнц҃и въ вечернюю марта въ л҃
+# sent_id = 205019
+1	въ	въ	ADP	R-	_	2	case	_	ref=
+2	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	ref=
+3	҂ѕ҃	шесть.тысячь	NUM	Ma	_	2	nummod	_	ref=
+4	х҃	шестьсътъ	NUM	Ma	_	3	conj	_	ref=
+5	л҃	тридесяте	NUM	Ma	_	3	conj	_	ref=
+6	ѳ	девять	NUM	Ma	_	3	conj	_	ref=
+7	бꙑс҃	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	знамениѥ	знамение	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	ref=
+9	въ	въ	ADP	R-	_	10	case	_	ref=
+10	слнц҃и	сълньце	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	7	obl	_	ref=
+11	въ	въ	ADP	R-	_	12	case	_	ref=
+12	вечернюю	вечерьнии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	7	advmod	_	ref=
+13	марта	мартъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	ref=
+14	въ	въ	ADP	R-	_	15	case	_	ref=
+15	л҃	тридесяте	NUM	Ma	_	7	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6639
+# text = томьже лѣт҃ на зимѹ иде всѣволодъ на зимѹ на чюдь
+# sent_id = 205023
+1	томьже	тыиже	DET	Pd	Case=Loc|Gender=Neut|Number=Sing	2	det	_	ref=
+2	лѣт҃	лѣто	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	5	obl	_	ref=
+3	на	на	ADP	R-	_	4	case	_	ref=
+4	зимѹ	зима	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	ref=
+5	иде	ити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	всѣволодъ	вьсеволодъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=
+7	на	на	ADP	R-	_	8	case	_	ref=
+8	зимѹ	зима	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	appos	_	ref=
+9	на	на	ADP	R-	_	10	case	_	ref=
+10	чюдь	чудь	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6639
+# text = и створи сѧ пакость велика
+# sent_id = 205026
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	створи	сътворити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=
+4	пакость	пакость	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=
+5	велика	великыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	4	amod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6639
+# text = много добрꙑхъ мужь избиша въ клинѣ новъгородьць мс҃цѧ генъварѧ въ к҃ г въ сѹботѹ
+# sent_id = 205027
+1	много	мъногыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	4	obj:dir	_	ref=
+2	добрꙑхъ	добрыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	3	amod	_	ref=
+3	мужь	мужь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	ref=
+4	избиша	избити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	въ	въ	ADP	R-	_	6	case	_	ref=
+6	клинѣ	клинъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	4	obl	_	ref=
+7	новъгородьць	новъгородьць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	3	appos	_	ref=
+8	мс҃цѧ	мѣсяць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	ref=
+9	генъварѧ	генварь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	appos	_	ref=
+10	въ	въ	ADP	R-	_	11	case	_	ref=
+11	к҃	дъвадесяти	NUM	Ma	_	4	obl	_	ref=
+12	г	трие	NUM	Ma	_	11	conj	_	ref=
+13	въ	въ	ADP	R-	_	14	case	_	ref=
+14	сѹботѹ	субота	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6639
+# text = тъгда же антона игѹменомь нифонтъ архепс҃пъ постави
+# sent_id = 205032
+1	тъгда	тъгда	ADV	Df	_	7	advmod	_	ref=
+2	же	же	ADV	Df	_	7	advmod	_	ref=
+3	антона	антонъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	7	obj:dir	_	ref=
+4	игѹменомь	игуменъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	7	xcomp	_	ref=
+5	нифонтъ	нифонтъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=
+6	архепс҃пъ	архиепископъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	appos	_	ref=
+7	постави	поставити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6640
+# text = въ лѣт҃ ҂ѕ҃ х҃ м҃ прѣстави сѧ мьстиславъ кꙑѥвѣ володимириць апрл҃ꙗ въ д҃і
+# sent_id = 205033
+1	въ	въ	ADP	R-	_	2	case	_	ref=
+2	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	ref=
+3	҂ѕ҃	шесть.тысячь	NUM	Ma	_	2	nummod	_	ref=
+4	х҃	шестьсътъ	NUM	Ma	_	3	conj	_	ref=
+5	м҃	четыредесяте	NUM	Ma	_	3	conj	_	ref=
+6	прѣстави	прѣставити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+7	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	6	aux	_	ref=
+8	мьстиславъ	мьстиславъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=
+9	кꙑѥвѣ	кыевъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	ref=
+10	володимириць	володимиричь	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	8	flat:name	_	ref=
+11	апрл҃ꙗ	априль	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	ref=
+12	въ	въ	ADP	R-	_	13	case	_	ref=
+13	д҃і	четырьнадесять	ADJ	Mo	_	6	advmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6640
+# text = а ꙗропълкъ седе на столѣ брат҃ мьстиславль
+# sent_id = 205036
+1	а	а	CCONJ	C-	_	3	cc	_	ref=
+2	ꙗропълкъ	яропълкъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+3	седе	сѣсти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	на	на	ADP	R-	_	5	case	_	ref=
+5	столѣ	столъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	3	obl	_	ref=
+6	брат҃	братъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	ref=
+7	мьстиславль	мьстиславль	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	6	amod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6640
+# text = въ се ж҃ лѣт҃ ходи всѣволодъ въ рѹсь переꙗславлю повелениѥмь ꙗропълцемъ а целовавъ крс҃тъ къ новгородцемъ ꙗко
+# sent_id = 205037
+1	въ	въ	ADP	R-	_	4	case	_	ref=
+2	се	сииже	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	4	det	_	ref=
+3	ж҃	ж҃	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	2	flat	_	ref=
+4	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	ref=
+5	ходи	ходити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	всѣволодъ	вьсеволодъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=
+7	въ	въ	ADP	R-	_	8	case	_	ref=
+8	рѹсь	русь	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	ref=
+9	переꙗславлю	переяславль	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	7	appos	_	ref=
+10	повелениѥмь	повелѣние	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	5	obl	_	ref=
+11	ꙗропълцемъ	яропълчь	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	10	amod	_	ref=
+12	а	а	CCONJ	C-	_	5	cc	_	ref=
+13	целовавъ	цѣловати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	5	conj	_	ref=
+14	крс҃тъ	крьстъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	13	obj:dir	_	ref=
+15	къ	къ	ADP	R-	_	16	case	_	ref=
+16	новгородцемъ	новъгородьць	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	13	obl	_	ref=
+17	ꙗко	яко	SCONJ	G-	_	13	ccomp	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6640
+# text = хоцю ѹ васъ ѹмерети
+# sent_id = 205115
+1	хоцю	хотѣти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	ѹ	у	ADP	R-	_	3	case	_	ref=
+3	васъ	вы	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	4	obl	_	ref=
+4	ѹмерети	умерети	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6640
+# text = и рч҃е гюрги и андрѣи
+# sent_id = 205042
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	рч҃е	речи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	гюрги	гюрги	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=
+4	и	и	CCONJ	C-	_	3	cc	_	ref=
+5	андрѣи	андрѣи	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6640
+# text = се ꙗропълкъ брат҃ наю по смр҃ти своѥи хощеть дати кꙑѥвъ всеволодѹ братанѹ своѥму
+# sent_id = 205043
+1	се	се	INTJ	I-	_	8	vocative	_	ref=
+2	ꙗропълкъ	яропълкъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=
+3	брат҃	братъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	ref=
+4	наю	вѣ	PRON	Pp	Case=Gen|Gender=Masc|Number=Dual|Person=1|PronType=Prs	3	det	_	ref=
+5	по	по	ADP	R-	_	6	case	_	ref=
+6	смр҃ти	съмьрть	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	9	obl	_	ref=
+7	своѥи	свои	ADJ	Pt	Case=Loc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	6	nmod	_	ref=
+8	хощеть	хотѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+9	дати	дати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	xcomp	_	ref=
+10	кꙑѥвъ	кыевъ	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	9	obj:dir	_	ref=
+11	всеволодѹ	вьсеволодъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	9	iobj	_	ref=
+12	братанѹ	братанъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	11	appos	_	ref=
+13	своѥму	свои	ADJ	Pt	Case=Dat|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	12	nmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6640
+# text = и вꙑгониста и ис переꙗславлѧ
+# sent_id = 205046
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	вꙑгониста	выгонити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj:dir	_	ref=
+4	ис	из	ADP	R-	_	5	case	_	ref=
+5	переꙗславлѧ	переяславль	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6640
+# text = и приде опѧть новѹгородѹ
+# sent_id = 205047
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	приде	приити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	опѧть	опять	ADV	Df	_	2	advmod	_	ref=
+4	новѹгородѹ	новъгородъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6640
+# text = и бꙑс҃ въстань велика въ людьхъ
+# sent_id = 205048
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	бꙑс҃	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	въстань	въстань	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=
+4	велика	великыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	3	amod	_	ref=
+5	въ	въ	ADP	R-	_	6	case	_	ref=
+6	людьхъ	людие	NOUN	Nb	Case=Loc|Gender=Masc|Number=Plur	2	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6640
+# text = и придоша пльсковици и ладожане новѹгородѹ
+# sent_id = 205049
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	придоша	приити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	пльсковици	пльсковитинъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	ref=
+4	и	и	CCONJ	C-	_	3	cc	_	ref=
+5	ладожане	ладожанинъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	conj	_	ref=
+6	новѹгородѹ	новъгородъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6640
+# text = и вꙑгониша кн҃зѧ всѣволода из города
+# sent_id = 205050
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	вꙑгониша	выгонити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	кн҃зѧ	кънязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	obj:dir	_	ref=
+4	всѣволода	вьсеволодъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	appos	_	ref=
+5	из	из	ADP	R-	_	6	case	_	ref=
+6	города	городъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6640
+# text = и пакꙑ съдѹмавъше въспѧтиша и ѹстьꙗхъ
+# sent_id = 205051
+1	и	и	CCONJ	C-	_	4	cc	_	ref=
+2	пакꙑ	пакы	ADV	Df	_	4	advmod	_	ref=
+3	съдѹмавъше	съдумати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	4	advcl	_	ref=
+4	въспѧтиша	въспятити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj:dir	_	ref=
+6	ѹстьꙗхъ	устия	PROPN	Ne	Case=Loc|Gender=Neut|Number=Plur	4	iobj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6640
+# text = а мирославѹ даша посадьницѧти въ пльскове а рагѹилови въ городѣ
+# sent_id = 205053
+1	а	а	CCONJ	C-	_	3	cc	_	ref=
+2	мирославѹ	мирославъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	ref=
+3	даша	дати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	посадьницѧти	посадьничати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=
+5	въ	въ	ADP	R-	_	6	case	_	ref=
+6	пльскове	пльсковъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	4	obl	_	ref=
+7	а	а	CCONJ	C-	_	3	cc	_	ref=
+8	рагѹилови	рагуилъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	3	conj	_	ref=
+9	въ	въ	ADP	R-	_	10	case	_	ref=
+10	городѣ	городъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	8	orphan	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6641
+# text = въ лѣт҃ ҂ѕ҃ х҃ м҃ а бꙑс҃ знаменїѥ въ слн҃ци прѣдъ вечернею
+# sent_id = 205116
+1	въ	въ	ADP	R-	_	2	case	_	ref=
+2	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	ref=
+3	҂ѕ҃	шесть.тысячь	NUM	Ma	_	2	nummod	_	ref=
+4	х҃	шестьсътъ	NUM	Ma	_	3	conj	_	ref=
+5	м҃	четыредесяте	NUM	Ma	_	3	conj	_	ref=
+6	а	одинъ	NUM	Ma	_	3	conj	_	ref=
+7	бꙑс҃	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	знаменїѥ	знамение	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	ref=
+9	въ	въ	ADP	R-	_	10	case	_	ref=
+10	слн҃ци	сълньце	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	7	obl	_	ref=
+11	прѣдъ	прѣдъ	ADP	R-	_	12	case	_	ref=
+12	вечернею	вечерьня	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	7	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6641
+# text = и томьже лѣт҃ обновиша мостъ цересъ волхово рѹшивъше
+# sent_id = 205119
+1	и	и	CCONJ	C-	_	4	cc	_	ref=
+2	томьже	тыиже	DET	Pd	Case=Loc|Gender=Neut|Number=Sing	3	det	_	ref=
+3	лѣт҃	лѣто	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	4	obl	_	ref=
+4	обновиша	объновити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	мостъ	мостъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj:dir	_	ref=
+6	цересъ	чересъ	ADP	R-	_	7	case	_	ref=
+7	волхово	вълховъ	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	5	nmod	_	ref=
+8	рѹшивъше	рушити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	4	advcl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6641
+# text = и црк҃ви сърѹбиша в҃ деревѧнѣ на търговищи стѹ҃ю бц҃ю и ст҃ого георгиꙗ при кнз҃и всеволодѣ
+# sent_id = 205120
+1	и	и	CCONJ	C-	_	3	cc	_	ref=
+2	црк҃ви	цьркы	NOUN	Nb	Case=Acc|Gender=Fem|Number=Dual	3	obj:dir	_	ref=
+3	сърѹбиша	сърубити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	в҃	дъва	NUM	Ma	_	2	nummod	_	ref=
+5	деревѧнѣ	деревяныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Dual|Strength=Strong	2	amod	_	ref=
+6	на	на	ADP	R-	_	7	case	_	ref=
+7	търговищи	търговище	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	3	obl	_	ref=
+8	стѹ҃ю	святыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	9	amod	_	ref=
+9	бц҃ю	богородица	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	appos	_	ref=
+10	и	и	CCONJ	C-	_	9	cc	_	ref=
+11	ст҃ого	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	12	amod	_	ref=
+12	георгиꙗ	георгии	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	9	conj	_	ref=
+13	при	при	ADP	R-	_	14	case	_	ref=
+14	кнз҃и	кънязь	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	3	obl	_	ref=
+15	всеволодѣ	вьсеволодъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	14	appos	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6641
+# text = томьж҃ лѣт҃ на зимѹ иде вьсеволодъ съ новгородьци на чюдь
+# sent_id = 205182
+1	томьж҃	тыиже	DET	Pd	Case=Loc|Gender=Neut|Number=Sing	2	det	_	ref=
+2	лѣт҃	лѣто	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	5	obl	_	ref=
+3	на	на	ADP	R-	_	4	case	_	ref=
+4	зимѹ	зима	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	ref=
+5	иде	ити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	вьсеволодъ	вьсеволодъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=
+7	съ	съ	ADP	R-	_	8	case	_	ref=
+8	новгородьци	новъгородьць	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	5	obl	_	ref=
+9	на	на	ADP	R-	_	10	case	_	ref=
+10	чюдь	чудь	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6641
+# text = и възѧ городъ гюргевъ на памѧт҃ ст҃го никифора феврар҃ въ ѳ҃ дн҃ь
+# sent_id = 205125
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	възѧ	възяти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	городъ	городъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	obj:dir	_	ref=
+4	гюргевъ	гюргевъ	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	3	appos	_	ref=
+5	на	на	ADP	R-	_	6	case	_	ref=
+6	памѧт҃	память	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	ref=
+7	ст҃го	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	8	amod	_	ref=
+8	никифора	никифоръ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	ref=
+9	феврар҃	февраль	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	ref=
+10	въ	въ	ADP	R-	_	12	case	_	ref=
+11	ѳ҃	девять	NUM	Ma	_	12	nummod	_	ref=
+12	дн҃ь	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	appos	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6642
+# text = въ лѣт҃ ҂ѕ҃ х҃ м҃ в почаша мълъвити о сѹжьдальстѣи воинѣ новъгородци
+# sent_id = 205129
+1	въ	въ	ADP	R-	_	2	case	_	ref=
+2	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	ref=
+3	҂ѕ҃	шесть.тысячь	NUM	Ma	_	2	nummod	_	ref=
+4	х҃	шестьсътъ	NUM	Ma	_	3	conj	_	ref=
+5	м҃	четыредесяте	NUM	Ma	_	3	conj	_	ref=
+6	в	дъва	NUM	Ma	_	3	conj	_	ref=
+7	почаша	почати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	мълъвити	мълвити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	xcomp	_	ref=
+9	о	о	ADP	R-	_	11	case	_	ref=
+10	сѹжьдальстѣи	суждальскыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	11	amod	_	ref=
+11	воинѣ	воина	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	8	obl	_	ref=
+12	новъгородци	новъгородьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6642
+# text = и ꙋбиша мѹжь свои и съвьргоша и съ моста въ сѹботѹ пѧнтикостьнѹю
+# sent_id = 205132
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	ꙋбиша	убити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	мѹжь	мужь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	obj:dir	_	ref=
+4	свои	свои	ADJ	Pt	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	3	nmod	_	ref=
+5	и	и	CCONJ	C-	_	2	cc	_	ref=
+6	съвьргоша	съврѣщи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=
+7	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj:dir	_	ref=
+8	съ	съ	ADP	R-	_	9	case	_	ref=
+9	моста	мостъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	obl	_	ref=
+10	въ	въ	ADP	R-	_	11	case	_	ref=
+11	сѹботѹ	субота	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	ref=
+12	пѧнтикостьнѹю	пянтикостьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	11	amod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6642
+# text = томьж҃ лѣт҃ погорѣ търговꙑи полъ ѿ рѹчьꙗ плътьницьнаго до концѧ хълма ꙗкоже и преже бѧше погорѣлъ
+# sent_id = 205398
+1	томьж҃	тыиже	DET	Pd	Case=Loc|Gender=Neut|Number=Sing	2	det	_	ref=
+2	лѣт҃	лѣто	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	3	obl	_	ref=
+3	погорѣ	погорѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	търговꙑи	търговыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	5	amod	_	ref=
+5	полъ	полъ#1	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+6	ѿ	отъ	ADP	R-	_	7	case	_	ref=
+7	рѹчьꙗ	ручии	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	ref=
+8	плътьницьнаго	плътьничьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	7	amod	_	ref=
+9	до	до	ADP	R-	_	10	case	_	ref=
+10	концѧ	коньць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	conj	_	ref=
+11	хълма	хълмъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	ref=
+12	ꙗкоже	якоже	ADV	Dq	PronType=Rel	16	advmod	_	ref=
+13	и	и	ADV	Df	_	14	advmod	_	ref=
+14	преже	прѣже	ADV	Df	_	16	advmod	_	ref=
+15	бѧше	быти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	aux	_	ref=
+16	погорѣлъ	погорѣти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	3	advcl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6642
+# text = а црк҃вии цс҃тьнꙑхъ і҃ съгорѣ авгѹс҃ въ д҃
+# sent_id = 205139
+1	а	а	CCONJ	C-	_	5	cc	_	ref=
+2	црк҃вии	цьркы	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	ref=
+3	цс҃тьнꙑхъ	чьстьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	2	amod	_	ref=
+4	і҃	десять	NUM	Ma	_	5	nsubj	_	ref=
+5	съгорѣ	съгорѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	авгѹс҃	авъгустъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	ref=
+7	въ	въ	ADP	R-	_	8	case	_	ref=
+8	д҃	четыре	NUM	Ma	_	5	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6642
+# text = томьже лѣт҃ ходи всѣволодъ съ новгородьци хотѧ брат҃ своего посадити сѹждали
+# sent_id = 205141
+1	томьже	тыиже	DET	Pd	Case=Loc|Gender=Neut|Number=Sing	2	det	_	ref=
+2	лѣт҃	лѣто	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	3	obl	_	ref=
+3	ходи	ходити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	всѣволодъ	вьсеволодъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+5	съ	съ	ADP	R-	_	6	case	_	ref=
+6	новгородьци	новъгородьць	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	3	obl	_	ref=
+7	хотѧ	хотѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	3	advcl	_	ref=
+8	брат҃	братъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	10	obj:dir	_	ref=
+9	своего	свои	ADJ	Pt	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	8	nmod	_	ref=
+10	посадити	посадити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	xcomp	_	ref=
+11	сѹждали	суждаль	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	10	iobj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6642
+# text = и воротиша сѧ на дѹбнѣ опѧть
+# sent_id = 205144
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	воротиша	воротити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=
+4	на	на	ADP	R-	_	5	case	_	ref=
+5	дѹбнѣ	дубьна	PROPN	Ne	Case=Loc|Gender=Fem|Number=Sing	2	obl	_	ref=
+6	опѧть	опять	ADV	Df	_	2	advmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6642
+# text = и на томьже пѹти отѧша посадницьство ѹ петрила и даша иванкѹ павловицю
+# sent_id = 205145
+1	и	и	CCONJ	C-	_	5	cc	_	ref=
+2	на	на	ADP	R-	_	4	case	_	ref=
+3	томьже	тыиже	DET	Pd	Case=Loc|Gender=Masc|Number=Sing	4	det	_	ref=
+4	пѹти	путь	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	ref=
+5	отѧша	отъяти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	посадницьство	посадьничьство	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obj:dir	_	ref=
+7	ѹ	у	ADP	R-	_	8	case	_	ref=
+8	петрила	петрилъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	ref=
+9	и	и	CCONJ	C-	_	5	cc	_	ref=
+10	даша	дати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	ref=
+11	иванкѹ	иванъко	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	10	iobj	_	ref=
+12	павловицю	павьловичь	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	11	flat:name	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6642
+# text = а изѧславъ иде кꙑѥвѹ
+# sent_id = 205148
+1	а	а	CCONJ	C-	_	3	cc	_	ref=
+2	изѧславъ	изъяславъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+3	иде	ити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	кꙑѥвѹ	кыевъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6642
+# text = и раздьра сѧ всѧ землѧ рѹсьскаꙗ
+# sent_id = 205149
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	раздьра	раздьрати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=
+4	всѧ	вьсь	DET	Px	Case=Nom|Gender=Fem|Number=Sing	5	det	_	ref=
+5	землѧ	земля	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=
+6	рѹсьскаꙗ	русьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	5	amod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6642
+# text = томьж҃ лѣт҃ рѹбоша новгородць за моремь въ дони
+# sent_id = 205399
+1	томьж҃	тыиже	DET	Pd	Case=Loc|Gender=Neut|Number=Sing	2	det	_	ref=
+2	лѣт҃	лѣто	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	3	obl	_	ref=
+3	рѹбоша	рубсти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	новгородць	новъгородьць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	3	obj:dir	_	ref=
+5	за	за	ADP	R-	_	6	case	_	ref=
+6	моремь	море	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	3	obl	_	ref=
+7	въ	въ	ADP	R-	_	8	case	_	ref=
+8	дони	донь	PROPN	Ne	Case=Loc|Gender=Fem|Number=Sing	3	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6642
+# text = и иде исаиꙗ игѹменъ съломь кꙑѥвѹ
+# sent_id = 205151
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	иде	ити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	исаиꙗ	исаия	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=
+4	игѹменъ	игуменъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	ref=
+5	съломь	сълъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	2	advmod	_	ref=
+6	кꙑѥвѹ	кыевъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6642
+# text = приде опѧть съ митрополитомь михаиломь новѹгородѹ декѧбрѧ въ ѳ҃
+# sent_id = 205153
+1	приде	приити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	опѧть	опять	ADV	Df	_	1	advmod	_	ref=
+3	съ	съ	ADP	R-	_	4	case	_	ref=
+4	митрополитомь	митрополитъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	1	obl	_	ref=
+5	михаиломь	михаилъ	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	4	appos	_	ref=
+6	новѹгородѹ	новъгородъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	ref=
+7	декѧбрѧ	декабрь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	ref=
+8	въ	въ	ADP	R-	_	9	case	_	ref=
+9	ѳ҃	девять	NUM	Ma	_	1	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6642
+# text = в тож҃ лѣт҃ на зимѹ иде всѣволодъ на сѹждаль ратью и вьсѧ новгородьскаꙗ область мс҃цѧ декаб҃ѧ въ л҃ а
+# sent_id = 205155
+1	в	въ	ADP	R-	_	3	case	_	ref=
+2	тож҃	тыиже	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	3	det	_	ref=
+3	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	ref=
+4	на	на	ADP	R-	_	5	case	_	ref=
+5	зимѹ	зима	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	ref=
+6	иде	ити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+7	всѣволодъ	вьсеволодъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=
+8	на	на	ADP	R-	_	9	case	_	ref=
+9	сѹждаль	суждаль	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	ref=
+10	ратью	рать	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	6	obl	_	ref=
+11	и	и	CCONJ	C-	_	7	cc	_	ref=
+12	вьсѧ	вьсь	DET	Px	Case=Nom|Gender=Fem|Number=Sing	14	det	_	ref=
+13	новгородьскаꙗ	новъгородьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	14	amod	_	ref=
+14	область	область	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	conj	_	ref=
+15	мс҃цѧ	мѣсяць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	ref=
+16	декаб҃ѧ	декабрь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	15	appos	_	ref=
+17	въ	въ	ADP	R-	_	18	case	_	ref=
+18	л҃	тридесяте	NUM	Ma	_	6	obl	_	ref=
+19	а	одинъ	NUM	Ma	_	18	conj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6642
+# text = и сташа дн҃ьѥ зли мразъ вьꙗлицѧ
+# sent_id = 205159
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	сташа	стати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	дн҃ьѥ	дьнь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	ref=
+4	зли	зълыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	3	amod	_	ref=
+5	мразъ	мразъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	ref=
+6	вьꙗлицѧ	виялица	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	conj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6642
+# text = страшно зѣло
+# sent_id = 205400
+1	страшно	страшьно	ADV	Df	Degree=Pos	0	root	_	ref=
+2	зѣло	зѣло	ADV	Df	_	1	advmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6642
+# text = и биша сѧ на ждани горѣ
+# sent_id = 205161
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	биша	бити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=
+4	на	на	ADP	R-	_	6	case	_	ref=
+5	ждани	жьдань	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	6	amod	_	ref=
+6	горѣ	гора	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	2	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6642
+# text = и много сѧ зла створи
+# sent_id = 205162
+1	и	и	CCONJ	C-	_	5	cc	_	ref=
+2	много	мъногыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	5	nsubj	_	ref=
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	5	aux	_	ref=
+4	зла	зъло	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	ref=
+5	створи	сътворити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6642
+# text = и ѹбиша посадника новгородьскаго иванка мѹжа храбра зѣло мс҃цѧ генъварѧ въ в҃ ѕ и петрила микꙋлъцицѧ и много добрꙑхъ мѹж҃
+# sent_id = 205163
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	ѹбиша	убити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	посадника	посадьникъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	obj:dir	_	ref=
+4	новгородьскаго	новъгородьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	3	amod	_	ref=
+5	иванка	иванъко	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	appos	_	ref=
+6	мѹжа	мужь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	appos	_	ref=
+7	храбра	храбрыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	6	amod	_	ref=
+8	зѣло	зѣло	ADV	Df	_	7	advmod	_	ref=
+9	мс҃цѧ	мѣсяць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	ref=
+10	генъварѧ	генварь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	appos	_	ref=
+11	въ	въ	ADP	R-	_	12	case	_	ref=
+12	в҃	дъва	NUM	Ma	_	2	obl	_	ref=
+13	ѕ	шесть	NUM	Ma	_	12	conj	_	ref=
+14	и	и	CCONJ	C-	_	3	cc	_	ref=
+15	петрила	петрилъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	conj	_	ref=
+16	микꙋлъцицѧ	микульчичь	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	15	flat:name	_	ref=
+17	и	и	CCONJ	C-	_	3	cc	_	ref=
+18	много	мъногыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	3	conj	_	ref=
+19	добрꙑхъ	добрыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	20	amod	_	ref=
+20	мѹж҃	мужь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6642
+# text = а сѹждальць боле
+# sent_id = 205169
+1	а	а	CCONJ	C-	_	0	root	_	ref=
+2	сѹждальць	суждальць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	ref=
+3	боле	болии	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing|Strength=Strong	1	obj:dir	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6642
+# text = и створше миръ придоша опѧть
+# sent_id = 205170
+1	и	и	CCONJ	C-	_	4	cc	_	ref=
+2	створше	сътворити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	4	advcl	_	ref=
+3	миръ	миръ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	obj:dir	_	ref=
+4	придоша	приити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	опѧть	опять	ADV	Df	_	4	advmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6642
+# text = и пѹстиша митрополита кꙑѥвѹ мс҃цѧ феꙋррѧ въ і҃ въ мѧс҃пѹс҃ю нед҃
+# sent_id = 205171
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	пѹстиша	пустити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	митрополита	митрополитъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	obj:dir	_	ref=
+4	кꙑѥвѹ	кыевъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	ref=
+5	мс҃цѧ	мѣсяць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	ref=
+6	феꙋррѧ	февраль	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	appos	_	ref=
+7	въ	въ	ADP	R-	_	8	case	_	ref=
+8	і҃	десять	NUM	Ma	_	2	obl	_	ref=
+9	въ	въ	ADP	R-	_	11	case	_	ref=
+10	мѧс҃пѹс҃ю	мясопустьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	11	amod	_	ref=
+11	нед҃	недѣля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6642
+# text = а на сѹждаль идуце не пѹстиша ѥго
+# sent_id = 205174
+1	а	а	CCONJ	C-	_	6	cc	_	ref=
+2	на	на	ADP	R-	_	3	case	_	ref=
+3	сѹждаль	суждаль	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	ref=
+4	идуце	ити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	6	nsubj	_	ref=
+5	не	не	ADV	Df	_	6	advmod	_	ref=
+6	пѹстиша	пустити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+7	ѥго	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj:dir	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6642
+# text = а онъ мълвлѧше имъ
+# sent_id = 205175
+1	а	а	CCONJ	C-	_	3	cc	_	ref=
+2	онъ	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+3	мълвлѧше	мълвити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	iobj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6642
+# text = не ходите
+# sent_id = 205176
+1	не	не	ADV	Df	_	2	advmod	_	ref=
+2	ходите	ходити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6642
+# text = мене б҃ъ послушаѥть
+# sent_id = 205403
+1	мене	азъ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	iobj	_	ref=
+2	б҃ъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+3	послушаѥть	послушати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6642
+# text = и пришьдъше даша посадницьство мирославѹ гюрѧтиницю
+# sent_id = 205177
+1	и	и	CCONJ	C-	_	3	cc	_	ref=
+2	пришьдъше	приити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	3	advcl	_	ref=
+3	даша	дати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	посадницьство	посадьничьство	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	3	obj:dir	_	ref=
+5	мирославѹ	мирославъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	ref=
+6	гюрѧтиницю	гюрятиничь	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	5	flat:name	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6643
+# text = въ лѣт҃ ҂ѕ҃ х҃ м҃ г ходи мирославъ посадникъ из новагорода мїритъ кꙑꙗнъ съ церниговьци
+# sent_id = 205183
+1	въ	въ	ADP	R-	_	2	case	_	ref=
+2	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	ref=
+3	҂ѕ҃	шесть.тысячь	NUM	Ma	_	2	nummod	_	ref=
+4	х҃	шестьсътъ	NUM	Ma	_	3	conj	_	ref=
+5	м҃	четыредесяте	NUM	Ma	_	3	conj	_	ref=
+6	г	трие	NUM	Ma	_	3	conj	_	ref=
+7	ходи	ходити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	мирославъ	мирославъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=
+9	посадникъ	посадьникъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	appos	_	ref=
+10	из	из	ADP	R-	_	11	case	_	ref=
+11	новагорода	новъгородъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	7	obl	_	ref=
+12	мїритъ	мирити	VERB	V-	Case=Acc|VerbForm=Sup	7	advcl	_	ref=
+13	кꙑꙗнъ	кыянинъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	12	obj:dir	_	ref=
+14	съ	съ	ADP	R-	_	15	case	_	ref=
+15	церниговьци	чьрниговьць	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	12	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6643
+# text = и приде не ѹспевъ ництоже
+# sent_id = 205188
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	приде	приити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	не	не	ADV	Df	_	4	advmod	_	ref=
+4	ѹспевъ	успѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	2	advcl	_	ref=
+5	ництоже	ничьтоже	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	4	obj:dir	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6643
+# text = сильно бо възмѧла сѧ всѧ землѧ рѹс҃скаꙗ
+# sent_id = 205189
+1	сильно	сильно	ADV	Df	_	3	advmod	_	ref=
+2	бо	бо	ADV	Df	_	3	advmod	_	ref=
+3	възмѧла	възмясти	VERB	V-	Aspect=Res|Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=
+5	всѧ	вьсь	DET	Px	Case=Nom|Gender=Fem|Number=Sing	6	det	_	ref=
+6	землѧ	земля	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	ref=
+7	рѹс҃скаꙗ	русьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	6	amod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6643
+# text = ꙗропълкъ к собе зваше новъгородьце а церниговьскꙑи кн҃зь к собе
+# sent_id = 205190
+1	ꙗропълкъ	яропълкъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=
+2	к	къ	ADP	R-	_	3	case	_	ref=
+3	собе	себе	PRON	Pk	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	obl	_	ref=
+4	зваше	зъвати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	новъгородьце	новъгородьць	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	4	obj:dir	_	ref=
+6	а	а	CCONJ	C-	_	4	cc	_	ref=
+7	церниговьскꙑи	чьрниговьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	8	amod	_	ref=
+8	кн҃зь	кънязь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	ref=
+9	к	къ	ADP	R-	_	10	case	_	ref=
+10	собе	себе	PRON	Pk	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	orphan	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6643
+# text = и биша сѧ
+# sent_id = 205192
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	биша	бити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6643
+# text = и поможе б҃ъ олговицю съ церниговчи
+# sent_id = 205193
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	поможе	помощи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	б҃ъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=
+4	олговицю	ольговичь	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	ref=
+5	съ	съ	ADP	R-	_	6	case	_	ref=
+6	церниговчи	чьрниговьць	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	4	nmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6643
+# text = и многꙑ кꙑꙗнꙑ исеце а дрѹгꙑꙗ изма рѹками
+# sent_id = 205194
+1	и	и	CCONJ	C-	_	4	cc	_	ref=
+2	многꙑ	мъногыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	3	amod	_	ref=
+3	кꙑꙗнꙑ	кыянинъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	4	obj:dir	_	ref=
+4	исеце	исѣщи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	а	а	CCONJ	C-	_	4	cc	_	ref=
+6	дрѹгꙑꙗ	другыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	7	obj:dir	_	ref=
+7	изма	изимати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	ref=
+8	рѹками	рука	NOUN	Nb	Case=Ins|Gender=Fem|Number=Plur	7	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6643
+# text = и не то бѧше зло нъ боле почѧста копити вои и половче и всѣ
+# sent_id = 205196
+1	и	и	CCONJ	C-	_	4	cc	_	ref=
+2	не	не	ADV	Df	_	3	advmod	_	ref=
+3	то	тыи	ADJ	Pd	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	ref=
+4	бѧше	быти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	зло	зъло	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	4	xcomp	_	ref=
+6	нъ	нъ	CCONJ	C-	_	4	cc	_	ref=
+7	боле	болии	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing|Strength=Strong	4	conj	_	ref=
+8	почѧста	почати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	ccomp	_	ref=
+9	копити	копити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	xcomp	_	ref=
+10	вои	вои	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	9	obj:dir	_	ref=
+11	и	и	CCONJ	C-	_	12	cc	_	ref=
+12	половче	половьчинъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	10	appos	_	ref=
+13	и	и	CCONJ	C-	_	12	cc	_	ref=
+14	всѣ	вьсь	ADJ	Px	Case=Acc|Gender=Masc|Number=Plur	12	conj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6643
+# text = въ то же лѣт҃ заложи црк҃вь камѧнѹ ст҃ꙑꙗ бц҃ѧ на търговищи всѣволодъ новегородѣ съ архепс҃пъмь нифонтомь
+# sent_id = 205198
+1	въ	въ	ADP	R-	_	4	case	_	ref=
+2	то	тыиже	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	4	det	_	ref=
+3	же	же	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	2	flat	_	ref=
+4	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	ref=
+5	заложи	заложити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	црк҃вь	цьркы	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	ref=
+7	камѧнѹ	каменьныи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	6	amod	_	ref=
+8	ст҃ꙑꙗ	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	9	amod	_	ref=
+9	бц҃ѧ	богородица	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	ref=
+10	на	на	ADP	R-	_	11	case	_	ref=
+11	търговищи	търговище	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	5	obl	_	ref=
+12	всѣволодъ	вьсеволодъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=
+13	новегородѣ	новъгородъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	ref=
+14	съ	съ	ADP	R-	_	15	case	_	ref=
+15	архепс҃пъмь	архиепископъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	5	obl	_	ref=
+16	нифонтомь	нифонтъ	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	15	appos	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6643
+# text = томьж҃ лѣт҃ ирожнетъ заложи црк҃вь ст҃го николꙑ на ꙗколи ѹлици
+# sent_id = 205404
+1	томьж҃	тыиже	DET	Pd	Case=Loc|Gender=Neut|Number=Sing	2	det	_	ref=
+2	лѣт҃	лѣто	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	4	obl	_	ref=
+3	ирожнетъ	ирожнетъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=
+4	заложи	заложити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	црк҃вь	цьркы	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj:dir	_	ref=
+6	ст҃го	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	7	amod	_	ref=
+7	николꙑ	никола	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	ref=
+8	на	на	ADP	R-	_	10	case	_	ref=
+9	ꙗколи	яковль	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	10	amod	_	ref=
+10	ѹлици	улица	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	4	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6643
+# text = въ тож҃ лѣт҃ на зимѹ иде въ рѹсь архепс҃пъ нифонтъ съ лѹчьшими мѹжи
+# sent_id = 205203
+1	въ	въ	ADP	R-	_	3	case	_	ref=
+2	тож҃	тыиже	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	3	det	_	ref=
+3	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	ref=
+4	на	на	ADP	R-	_	5	case	_	ref=
+5	зимѹ	зима	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	ref=
+6	иде	ити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+7	въ	въ	ADP	R-	_	8	case	_	ref=
+8	рѹсь	русь	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	ref=
+9	архепс҃пъ	архиепископъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=
+10	нифонтъ	нифонтъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	9	appos	_	ref=
+11	съ	съ	ADP	R-	_	13	case	_	ref=
+12	лѹчьшими	лучии	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	13	amod	_	ref=
+13	мѹжи	мужь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	6	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6643
+# text = и заста кꙑѧнꙑ съ церниговьци стоꙗце противѹ собе и множьство вои
+# sent_id = 205207
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	заста	застати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	кꙑѧнꙑ	кыянинъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	2	obj:dir	_	ref=
+4	съ	съ	ADP	R-	_	5	case	_	ref=
+5	церниговьци	чьрниговьць	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	3	nmod	_	ref=
+6	стоꙗце	стояти	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	2	xcomp	_	ref=
+7	противѹ	противу	ADP	R-	_	8	case	_	ref=
+8	собе	себе	PRON	Pk	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	obl	_	ref=
+9	и	и	CCONJ	C-	_	3	cc	_	ref=
+10	множьство	мъножьство	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	3	conj	_	ref=
+11	вои	вои	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6643
+# text = и бж҃иѥю волею съмириша сѧ
+# sent_id = 205210
+1	и	и	CCONJ	C-	_	4	cc	_	ref=
+2	бж҃иѥю	божии	ADJ	A-	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	ref=
+3	волею	воля	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	4	obl	_	ref=
+4	съмириша	съмирити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	4	aux	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6643
+# text = а мирославъ прѣстави сѧ до влд҃кꙑ генуарѧ въ к҃ и
+# sent_id = 205211
+1	а	а	CCONJ	C-	_	3	cc	_	ref=
+2	мирославъ	мирославъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+3	прѣстави	прѣставити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=
+5	до	до	ADP	R-	_	6	case	_	ref=
+6	влд҃кꙑ	владыка	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	obl	_	ref=
+7	генуарѧ	генварь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	ref=
+8	въ	въ	ADP	R-	_	9	case	_	ref=
+9	к҃	дъвадесяти	NUM	Ma	_	3	obl	_	ref=
+10	и	осмь	NUM	Ma	_	9	conj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6643
+# text = а епс҃пъ приде феуррѧ въ д҃
+# sent_id = 205214
+1	а	а	CCONJ	C-	_	3	cc	_	ref=
+2	епс҃пъ	епископъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+3	приде	приити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	феуррѧ	февраль	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	ref=
+5	въ	въ	ADP	R-	_	6	case	_	ref=
+6	д҃	четыре	NUM	Ma	_	3	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6643
+# text = а посадницьство даша костѧнтинѹ микѹлъцицю новегородѣ
+# sent_id = 205216
+1	а	а	CCONJ	C-	_	3	cc	_	ref=
+2	посадницьство	посадьничьство	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	3	obj:dir	_	ref=
+3	даша	дати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	костѧнтинѹ	костянтинъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	ref=
+5	микѹлъцицю	микульчичь	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	4	flat:name	_	ref=
+6	новегородѣ	новъгородъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	2	nmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6644
+# text = въ лѣт҃ ҂ѕ҃ х҃ м҃ д индикта лѣт҃ д҃і новгородьци призваша пльсковиче и ладожанꙑ и сдѹмаша ꙗко изгонити кнз҃ѧ своѥго всѣволода и въсадиша въ епс҃пль дворъ съ женою и съ дѣтьми и съ тꙑцею мс҃цѧ маиꙗ въ к҃ и
+# sent_id = 205218
+1	въ	въ	ADP	R-	_	2	case	_	ref=
+2	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	11	obl	_	ref=
+3	҂ѕ҃	шесть.тысячь	NUM	Ma	_	2	nummod	_	ref=
+4	х҃	шестьсътъ	NUM	Ma	_	3	conj	_	ref=
+5	м҃	четыредесяте	NUM	Ma	_	3	conj	_	ref=
+6	д	четыре	NUM	Ma	_	3	conj	_	ref=
+7	индикта	индиктъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	ref=
+8	лѣт҃	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	9	nmod	_	ref=
+9	д҃і	четырьнадесять	NUM	Ma	_	11	obl	_	ref=
+10	новгородьци	новъгородьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	ref=
+11	призваша	призъвати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+12	пльсковиче	пльсковитинъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	11	obj:dir	_	ref=
+13	и	и	CCONJ	C-	_	12	cc	_	ref=
+14	ладожанꙑ	ладожанинъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	12	conj	_	ref=
+15	и	и	CCONJ	C-	_	11	cc	_	ref=
+16	сдѹмаша	съдумати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	ref=
+17	ꙗко	яко	SCONJ	G-	_	18	mark	_	ref=
+18	изгонити	изгонити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	16	ccomp	_	ref=
+19	кнз҃ѧ	кънязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	18	obj:dir	_	ref=
+20	своѥго	свои	ADJ	Pt	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	19	nmod	_	ref=
+21	всѣволода	вьсеволодъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	19	appos	_	ref=
+22	и	и	CCONJ	C-	_	11	cc	_	ref=
+23	въсадиша	въсадити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	ref=
+24	въ	въ	ADP	R-	_	26	case	_	ref=
+25	епс҃пль	епископьль	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	26	amod	_	ref=
+26	дворъ	дворъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	23	obl	_	ref=
+27	съ	съ	ADP	R-	_	28	case	_	ref=
+28	женою	жена	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	23	obl	_	ref=
+29	и	и	CCONJ	C-	_	28	cc	_	ref=
+30	съ	съ	ADP	R-	_	31	case	_	ref=
+31	дѣтьми	дѣтя	NOUN	Nb	Case=Ins|Gender=Neut|Number=Plur	28	conj	_	ref=
+32	и	и	CCONJ	C-	_	28	cc	_	ref=
+33	съ	съ	ADP	R-	_	34	case	_	ref=
+34	тꙑцею	тьща	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	28	conj	_	ref=
+35	мс҃цѧ	мѣсяць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	38	nmod	_	ref=
+36	маиꙗ	маи	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	35	appos	_	ref=
+37	въ	въ	ADP	R-	_	38	case	_	ref=
+38	к҃	дъвадесяти	NUM	Ma	_	23	obl	_	ref=
+39	и	осмь	NUM	Ma	_	38	conj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6644
+# text = и стражьѥ стрежахѹ дн҃ь и нощь съ орѹжиѥмь
+# sent_id = 205225
+1	и	и	CCONJ	C-	_	3	cc	_	ref=
+2	стражьѥ	стражь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	ref=
+3	стрежахѹ	стрѣщи	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	дн҃ь	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	ref=
+5	и	и	CCONJ	C-	_	4	cc	_	ref=
+6	нощь	нощь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	conj	_	ref=
+7	съ	съ	ADP	R-	_	8	case	_	ref=
+8	орѹжиѥмь	оружие	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	3	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6644
+# text = л҃ мѹжь на дн҃ь
+# sent_id = 205406
+1	л҃	тридесяте	NUM	Ma	_	0	root	_	ref=
+2	мѹжь	мужь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	ref=
+3	на	на	ADP	R-	_	4	case	_	ref=
+4	дн҃ь	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6644
+# text = и сѣде в҃ мс҃цѧ
+# sent_id = 205228
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	сѣде	сѣсти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	в҃	дъва	NUM	Ma	_	4	nummod	_	ref=
+4	мс҃цѧ	мѣсяць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Dual	2	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6644
+# text = и пѹстиша из города июлѧ въ е҃і
+# sent_id = 205229
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	пѹстиша	пустити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	из	из	ADP	R-	_	4	case	_	ref=
+4	города	городъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	obl	_	ref=
+5	июлѧ	иулии	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	ref=
+6	въ	въ	ADP	R-	_	7	case	_	ref=
+7	е҃і	пятьнадесять	ADJ	Mo	_	2	advmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6644
+# text = а володимира сн҃а ѥго приꙗша
+# sent_id = 205231
+1	а	а	CCONJ	C-	_	5	cc	_	ref=
+2	володимира	володимиръ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	obj:dir	_	ref=
+3	сн҃а	сынъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	appos	_	ref=
+4	ѥго	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	det	_	ref=
+5	приꙗша	прияти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6644
+# text = а се винꙑ ѥго творѧхѹ
+# sent_id = 205232
+1	а	а	CCONJ	C-	_	5	cc	_	ref=
+2	се	сии	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	5	obj:dir	_	ref=
+3	винꙑ	вина	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	5	xcomp	_	ref=
+4	ѥго	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	det	_	ref=
+5	творѧхѹ	творити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6644
+# text = а҃ не блюдеть смердъ
+# sent_id = 205407
+1	а҃	единъ	NUM	Ma	_	3	obl	_	ref=
+2	не	не	ADV	Df	_	3	advmod	_	ref=
+3	блюдеть	блюсти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	смердъ	смьрдъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	3	iobj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6644
+# text = в҃ чемѹ хотелъ ѥси сести переѧславли
+# sent_id = 205408
+1	в҃	дъва	NUM	Ma	_	3	obl	_	ref=
+2	чемѹ	чьто	PRON	Pi	Case=Dat|Gender=Neut|Number=Sing|PronType=Int	3	obl	_	ref=
+3	хотелъ	хотѣти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+4	ѥси	быти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	ref=
+5	сести	сѣсти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=
+6	переѧславли	переяславль	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	5	iobj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6644
+# text = г.҃е ехалъ ѥси съ пълку переди всѣхъ
+# sent_id = 205409
+1	г.҃е	третии	ADJ	Mo	_	2	advmod	_	ref=
+2	ехалъ	ѣхати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+3	ѥси	быти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	_	ref=
+4	съ	съ	ADP	R-	_	5	case	_	ref=
+5	пълку	пълкъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	obl	_	ref=
+6	переди	переди	ADP	R-	_	7	case	_	ref=
+7	всѣхъ	вьсь	ADJ	Px	Case=Gen|Gender=Masc|Number=Plur	2	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6644
+# text = а на то много
+# sent_id = 205235
+1	а	а	CCONJ	C-	_	0	root	_	ref=
+2	на	на	ADP	R-	_	3	case	_	ref=
+3	то	тыи	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	ref=
+4	много	мъногыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	1	nsubj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6644
+# text = на початꙑи велевъ нꙑ рч҃е къ всѣволодѹ пристѹпити а пакꙑ ѿстꙋпити велить
+# sent_id = 205413
+1	на	на	ADP	R-	_	2	case	_	ref=
+2	початꙑи	початие	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	3	obl	_	ref=
+3	велевъ	велѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=
+4	нꙑ	мы	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	3	iobj	_	ref=
+5	рч҃е	речи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	vocative	_	ref=
+6	къ	къ	ADP	R-	_	7	case	_	ref=
+7	всѣволодѹ	вьсеволодъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	ref=
+8	пристѹпити	приступити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=
+9	а	а	CCONJ	C-	_	3	cc	_	ref=
+10	пакꙑ	пакы	ADV	Df	_	12	advmod	_	ref=
+11	ѿстꙋпити	отъступити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	12	xcomp	_	ref=
+12	велить	велѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6644
+# text = не пѹстиша ѥго донелѣже инъ кн҃зь приде
+# sent_id = 205238
+1	не	не	ADV	Df	_	2	advmod	_	ref=
+2	пѹстиша	пустити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	ѥго	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj:dir	_	ref=
+4	донелѣже	донелѣже	SCONJ	G-	_	7	mark	_	ref=
+5	инъ	иныи	DET	Px	Case=Nom|Gender=Masc|Number=Sing	6	det	_	ref=
+6	кн҃зь	кънязь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=
+7	приде	приити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6644
+# text = тъгда же съгорѣ црк҃ꙑ стг҃о въскр҃сениѧ манастꙑрь
+# sent_id = 205239
+1	тъгда	тъгда	ADV	Df	_	3	advmod	_	ref=
+2	же	же	ADV	Df	_	1	advmod	_	ref=
+3	съгорѣ	съгорѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	црк҃ꙑ	цьркы	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	ref=
+5	стг҃о	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	6	amod	_	ref=
+6	въскр҃сениѧ	въскрьсение	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	ref=
+7	манастꙑрь	манастырь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6644
+# text = въ тож҃ лѣт҃ приде новѹгородѹ кнз҃ь ст҃ославъ олговиць ис цернигова ѿ брат҃ всеволодка мс҃цѧ июлѧ въ ѳ҃і преж҃ д҃і каланда авгѹс҃ въ нед҃ на сборъ ст҃ꙑꙗ еѹфимие въ г҃ час҃ дн҃е а лѹн҃ нбс҃нѣи въ ѳ҃і дн҃ь
+# sent_id = 205240
+1	въ	въ	ADP	R-	_	3	case	_	ref=
+2	тож҃	тыиже	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	3	det	_	ref=
+3	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	ref=
+4	приде	приити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	новѹгородѹ	новъгородъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	4	iobj	_	ref=
+6	кнз҃ь	кънязь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=
+7	ст҃ославъ	святославъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	appos	_	ref=
+8	олговиць	ольговичь	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	flat:name	_	ref=
+9	ис	из	ADP	R-	_	10	case	_	ref=
+10	цернигова	чьрниговъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	obl	_	ref=
+11	ѿ	отъ	ADP	R-	_	12	case	_	ref=
+12	брат҃	братъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	appos	_	ref=
+13	всеволодка	вьсеволодъко	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	12	appos	_	ref=
+14	мс҃цѧ	мѣсяць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	ref=
+15	июлѧ	иулии	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	14	appos	_	ref=
+16	въ	въ	ADP	R-	_	17	case	_	ref=
+17	ѳ҃і	девятьнадесять	NUM	Ma	_	4	obl	_	ref=
+18	преж҃	прѣже	ADV	Df	_	16	appos	_	ref=
+19	д҃і	четырьнадесять	NUM	Ma	_	20	nummod	_	ref=
+20	каланда	каланды	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	18	iobj	_	ref=
+21	авгѹс҃	авъгустъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	ref=
+22	въ	въ	ADP	R-	_	23	case	_	ref=
+23	нед҃	недѣля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	16	appos	_	ref=
+24	на	на	ADP	R-	_	25	case	_	ref=
+25	сборъ	съборъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	16	appos	_	ref=
+26	ст҃ꙑꙗ	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	27	amod	_	ref=
+27	еѹфимие	евфимия	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	ref=
+28	въ	въ	ADP	R-	_	30	case	_	ref=
+29	г҃	трие	NUM	Ma	_	30	nummod	_	ref=
+30	час҃	часъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	ref=
+31	дн҃е	дьнь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	30	nmod	_	ref=
+32	а	а	CCONJ	C-	_	17	cc	_	ref=
+33	лѹн҃	луна	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	37	nmod	_	ref=
+34	нбс҃нѣи	небесьныи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	33	amod	_	ref=
+35	въ	въ	ADP	R-	_	37	case	_	ref=
+36	ѳ҃і	девятьнадесять	NUM	Ma	_	37	nummod	_	ref=
+37	дн҃ь	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	17	conj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6644
+# text = томъже лѣт҃ наставъшю индикта е҃і ѹбиша гюргѧ жирославицѧ и съ моста съвѣргоша мс҃цѧ септѧбрѧ
+# sent_id = 205251
+1	томъже	тыиже	DET	Pd	Case=Loc|Gender=Neut|Number=Sing	2	det	_	ref=
+2	лѣт҃	лѣто	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	6	obl	_	ref=
+3	наставъшю	настати	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	6	advcl	_	ref=
+4	индикта	индиктъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	ref=
+5	е҃і	пятьнадесять	NUM	Ma	_	3	nsubj	_	ref=
+6	ѹбиша	убити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+7	гюргѧ	гюрги	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	obj:dir	_	ref=
+8	жирославицѧ	жирославичь	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	7	flat:name	_	ref=
+9	и	и	CCONJ	C-	_	6	cc	_	ref=
+10	съ	съ	ADP	R-	_	11	case	_	ref=
+11	моста	мостъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	12	obl	_	ref=
+12	съвѣргоша	съврѣщи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	ref=
+13	мс҃цѧ	мѣсяць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	obl	_	ref=
+14	септѧбрѧ	сентябрь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	13	appos	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6644
+# text = въ тож҃ лѣт҃ ст҃ша црк҃вь ст҃го николꙑ великꙑмь сщ҃ниѥмь въ е҃ декѧбрѧ
+# sent_id = 205256
+1	въ	въ	ADP	R-	_	3	case	_	ref=
+2	тож҃	тыиже	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	3	det	_	ref=
+3	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	ref=
+4	ст҃ша	святити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	црк҃вь	цьркы	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj:dir	_	ref=
+6	ст҃го	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	7	amod	_	ref=
+7	николꙑ	никола	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	ref=
+8	великꙑмь	великыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	9	amod	_	ref=
+9	сщ҃ниѥмь	священие	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	4	obl	_	ref=
+10	въ	въ	ADP	R-	_	11	case	_	ref=
+11	е҃	пять	NUM	Ma	_	4	obl	_	ref=
+12	декѧбрѧ	декабрь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6644
+# text = въ тож҃ лѣт҃ ожени сѧ ст҃ославъ олговиць новегородѣ
+# sent_id = 205260
+1	въ	въ	ADP	R-	_	3	case	_	ref=
+2	тож҃	тыиже	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	3	det	_	ref=
+3	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	ref=
+4	ожени	оженити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	4	aux	_	ref=
+6	ст҃ославъ	святославъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=
+7	олговиць	ольговичь	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	flat:name	_	ref=
+8	новегородѣ	новъгородъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	4	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6644
+# text = и вѣньцѧ сѧ своими попꙑ ѹ ст҃го николꙑ
+# sent_id = 205263
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	вѣньцѧ	вѣньчати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=
+4	своими	свои	ADJ	Pt	Case=Ins|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	5	nmod	_	ref=
+5	попꙑ	попъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	2	obl	_	ref=
+6	ѹ	у	ADP	R-	_	8	case	_	ref=
+7	ст҃го	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	8	amod	_	ref=
+8	николꙑ	никола	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6644
+# text = а нифон[тъ ѥ]го не вѣньцѧ
+# sent_id = 205265
+1	а	а	CCONJ	C-	_	5	cc	_	ref=
+2	нифон[тъ	нифонтъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=
+3	ѥ]го	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj:dir	_	ref=
+4	не	не	ADV	Df	_	5	advmod	_	ref=
+5	вѣньцѧ	вѣньчати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6644
+# text = ни попомъ на сватбѹ ни церенцемъ дас҃ гл҃ѧ
+# sent_id = 206426
+1	ни	ни	CCONJ	C-	_	2	cc	_	ref=
+2	попомъ	попъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	7	iobj	_	ref=
+3	на	на	ADP	R-	_	4	case	_	ref=
+4	сватбѹ	сватьба	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	ref=
+5	ни	ни	CCONJ	C-	_	2	cc	_	ref=
+6	церенцемъ	чьрньць	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	2	conj	_	ref=
+7	дас҃	дати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	гл҃ѧ	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	7	advcl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6644
+# text = не достоить ѥꙗ поꙗти
+# sent_id = 205414
+1	не	не	ADV	Df	_	2	advmod	_	ref=
+2	достоить	достояти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	ѥꙗ	и	PRON	Pp	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj:dir	_	ref=
+4	поꙗти	пояти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6644
+# text = въ тож҃ лѣт҃ стрѣлиша кнз҃ѧ млс҃тьници всѣволожи
+# sent_id = 205268
+1	въ	въ	ADP	R-	_	3	case	_	ref=
+2	тож҃	тыиже	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	3	det	_	ref=
+3	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	ref=
+4	стрѣлиша	стрѣлити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	кнз҃ѧ	кънязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	obj:dir	_	ref=
+6	млс҃тьници	милостьникъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	ref=
+7	всѣволожи	вьсеволожь	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	6	amod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6644
+# text = нъ живъ бꙑс҃
+# sent_id = 205270
+1	нъ	нъ	CCONJ	C-	_	3	cc	_	ref=
+2	живъ	живыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	3	xcomp	_	ref=
+3	бꙑс҃	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6645
+# text = въ лѣт҃ ҂ѕ҃ х҃ м҃ е настанѹщю въ з҃ марта индикта лѣт҃ е҃і бѣжѧ костѧнтинъ посадникъ къ всѣволодѹ и инѣхъ добрꙑхъ мѹжь нѣколико
+# sent_id = 205271
+1	въ	въ	ADP	R-	_	2	case	_	ref=
+2	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	14	obl	_	ref=
+3	҂ѕ҃	шесть.тысячь	NUM	Ma	_	2	nummod	_	ref=
+4	х҃	шестьсътъ	NUM	Ma	_	3	conj	_	ref=
+5	м҃	четыредесяте	NUM	Ma	_	3	conj	_	ref=
+6	е	пять	NUM	Ma	_	3	conj	_	ref=
+7	настанѹщю	настати	VERB	V-	Case=Dat|Gender=Neut|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	14	advcl	_	ref=
+8	въ	въ	ADP	R-	_	9	case	_	ref=
+9	з҃	седмь	NUM	Ma	_	14	obl	_	ref=
+10	марта	мартъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	ref=
+11	индикта	индиктъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	ref=
+12	лѣт҃	лѣто	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	7	nsubj	_	ref=
+13	е҃і	пятьнадесять	NUM	Ma	_	12	nummod	_	ref=
+14	бѣжѧ	бѣжати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+15	костѧнтинъ	костянтинъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	ref=
+16	посадникъ	посадьникъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	15	appos	_	ref=
+17	къ	къ	ADP	R-	_	18	case	_	ref=
+18	всѣволодѹ	вьсеволодъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	14	obl	_	ref=
+19	и	и	CCONJ	C-	_	15	cc	_	ref=
+20	инѣхъ	иныи	DET	Px	Case=Gen|Gender=Masc|Number=Plur	22	det	_	ref=
+21	добрꙑхъ	добрыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	22	amod	_	ref=
+22	мѹжь	мужь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	23	nmod	_	ref=
+23	нѣколико	нѣколико	ADV	Df	_	15	conj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6645
+# text = и въдаша посадницити ꙗкѹнѹ мїрославицю новѣгородѣ
+# sent_id = 205277
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	въдаша	въдати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	посадницити	посадьничити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+4	ꙗкѹнѹ	якунъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	ref=
+5	мїрославицю	мирославичь	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	4	flat:name	_	ref=
+6	новѣгородѣ	новъгородъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	3	iobj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6645
+# text = въ тож҃ лѣт҃ приде кн҃зь мьстиславиць всѣволодъ пльсковѹ хотѧ сѣсти опѧть на столе своѥмь новѣгородѣ позванъ отаи новгородьскꙑми и пльсковьскꙑмї мѹж҃ приѧтели ѥго
+# sent_id = 205278
+1	въ	въ	ADP	R-	_	3	case	_	ref=
+2	тож҃	тыиже	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	3	det	_	ref=
+3	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	ref=
+4	приде	приити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	кн҃зь	кънязь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=
+6	мьстиславиць	мьстиславичь	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	flat:name	_	ref=
+7	всѣволодъ	вьсеволодъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	appos	_	ref=
+8	пльсковѹ	пльсковъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	4	iobj	_	ref=
+9	хотѧ	хотѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	4	advcl	_	ref=
+10	сѣсти	сѣсти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	xcomp	_	ref=
+11	опѧть	опять	ADV	Df	_	10	advmod	_	ref=
+12	на	на	ADP	R-	_	13	case	_	ref=
+13	столе	столъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	10	obl	_	ref=
+14	своѥмь	свои	ADJ	Pt	Case=Loc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	13	nmod	_	ref=
+15	новѣгородѣ	новъгородъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	10	obl	_	ref=
+16	позванъ	позъвати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	4	advcl	_	ref=
+17	отаи	отаи	ADV	Df	_	16	advmod	_	ref=
+18	новгородьскꙑми	новъгородьскыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	21	amod	_	ref=
+19	и	и	CCONJ	C-	_	18	cc	_	ref=
+20	пльсковьскꙑмї	пльсковьскыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	18	conj	_	ref=
+21	мѹж҃	мужь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	16	obl:agent	_	ref=
+22	приѧтели	приятель	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	21	appos	_	ref=
+23	ѥго	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	det	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6645
+# text = поиди кнѧж҃
+# sent_id = 205284
+1	поиди	поити#1	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	кнѧж҃	кънязь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6645
+# text = хотѧть тебе опѧть
+# sent_id = 205285
+1	хотѧть	хотѣти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	тебе	ты	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	dep	_	ref=
+3	опѧть	опять	ADV	Df	_	1	advmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6645
+# text = и ꙗко ѹслꙑшано бꙑс҃ се ꙗко всѣволодъ пльсковѣ съ брат҃мь ст҃опълкомь и мѧтежь бꙑс҃ великъ новегородѣ
+# sent_id = 205286
+1	и	и	CCONJ	C-	_	0	root	_	ref=
+2	ꙗко	яко	ADV	Dq	PronType=Rel	4	advmod	_	ref=
+3	ѹслꙑшано	услышати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	4	xcomp	_	ref=
+4	бꙑс҃	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	ref=
+5	се	сии	ADJ	Pd	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	ref=
+6	ꙗко	яко	SCONJ	G-	_	8	mark	_	ref=
+7	всѣволодъ	вьсеволодъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=
+8	пльсковѣ	пльсковъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	5	appos	_	ref=
+9	съ	съ	ADP	R-	_	10	case	_	ref=
+10	брат҃мь	братръ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	7	nmod	_	ref=
+11	ст҃опълкомь	святопълкъ	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	10	appos	_	ref=
+12	и	и	CCONJ	C-	_	1	cc	_	ref=
+13	мѧтежь	мятежь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	ref=
+14	бꙑс҃	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=
+15	великъ	великыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	13	amod	_	ref=
+16	новегородѣ	новъгородъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	14	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6645
+# text = не въсхотѣша людьѥ всѣволода
+# sent_id = 205290
+1	не	не	ADV	Df	_	2	advmod	_	ref=
+2	въсхотѣша	въсхотѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	людьѥ	людие	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	ref=
+4	всѣволода	вьсеволодъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	dep	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6645
+# text = и побѣгоша дрѹзии къ всѣволодѹ пльсковѹ
+# sent_id = 205291
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	побѣгоша	побѣгнути	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	дрѹзии	другыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	2	nsubj	_	ref=
+4	къ	къ	ADP	R-	_	5	case	_	ref=
+5	всѣволодѹ	вьсеволодъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	ref=
+6	пльсковѹ	пльсковъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6645
+# text = и възѧша на разграблениѥ домꙑ ихъ къснѧтинъ нѣжѧтїнъ и инѣхъ много
+# sent_id = 205292
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	възѧша	възяти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	на	на	ADP	R-	_	4	case	_	ref=
+4	разграблениѥ	разграбление	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	ref=
+5	домꙑ	домъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	2	obj:dir	_	ref=
+6	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	det	_	ref=
+7	къснѧтинъ	костянтинъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=
+8	нѣжѧтїнъ	нѣжатинъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	flat:name	_	ref=
+9	и	и	CCONJ	C-	_	7	cc	_	ref=
+10	инѣхъ	иныи	ADJ	Px	Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	ref=
+11	много	мъногыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	7	conj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6645
+# text = и ѥще же ищюще то кто всеволодо приꙗтель боꙗръ тъ имаша на нихъ нѣ съ полѹторꙑ тꙑсѧце грив҃нъ
+# sent_id = 205295
+1	и	и	CCONJ	C-	_	11	cc	_	ref=
+2	ѥще	еще	ADV	Df	_	11	advmod	_	ref=
+3	же	же	ADV	Df	_	11	advmod	_	ref=
+4	ищюще	искати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	11	advcl	_	ref=
+5	то	тыи	ADJ	Pd	Case=Acc|Gender=Masc|Number=Sing	4	obj:dir	_	ref=
+6	кто	къто	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	_	ref=
+7	всеволодо	вьсеволодъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	8	nmod	_	ref=
+8	приꙗтель	приятель	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	appos	_	ref=
+9	боꙗръ	бояринъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	ref=
+10	тъ	то	ADV	Df	_	11	advmod	_	ref=
+11	имаша	имати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+12	на	на	ADP	R-	_	13	case	_	ref=
+13	нихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	obl	_	ref=
+14	нѣ	не	ADV	Df	_	15	advmod	_	ref=
+15	съ	съ	ADP	R-	_	17	case	_	ref=
+16	полѹторꙑ	полътора	NUM	Ma	Case=Gen|Gender=Fem|Number=Sing	17	nummod	_	ref=
+17	тꙑсѧце	тысяча	NUM	Ma	Case=Gen|Gender=Fem|Number=Sing	11	obj:dir	_	ref=
+18	грив҃нъ	гривьна	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	17	nmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6645
+# text = и даша кѹпцемъ крѹтити сѧ на воинѹ
+# sent_id = 205297
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	даша	дати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	кѹпцемъ	купьць	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	2	iobj	_	ref=
+4	крѹтити	крутити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+5	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	4	aux	_	ref=
+6	на	на	ADP	R-	_	7	case	_	ref=
+7	воинѹ	воина	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6645
+# text = нъ сѧгоша и невиноватꙑхъ
+# sent_id = 205299
+1	нъ	нъ	CCONJ	C-	_	2	cc	_	ref=
+2	сѧгоша	сящи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	и	и	ADV	Df	_	2	advmod	_	ref=
+4	невиноватꙑхъ	невиноватыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	2	iobj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6645
+# text = потомь ж҃ ст҃ославъ олговиць съвъкѹпи всю землю новгородьскѹю и брата своѥго приведе глѣбъка
+# sent_id = 205300
+1	потомь	потомь	ADV	Df	_	5	advmod	_	ref=
+2	ж҃	же	ADV	Df	_	5	advmod	_	ref=
+3	ст҃ославъ	святославъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=
+4	олговиць	ольговичь	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	flat:name	_	ref=
+5	съвъкѹпи	съвъкупити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	всю	вьсь	DET	Px	Case=Acc|Gender=Fem|Number=Sing	7	det	_	ref=
+7	землю	земля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	ref=
+8	новгородьскѹю	новъгородьскыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	7	amod	_	ref=
+9	и	и	CCONJ	C-	_	5	cc	_	ref=
+10	брата	братъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	12	obj:dir	_	ref=
+11	своѥго	свои	ADJ	Pt	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	10	nmod	_	ref=
+12	приведе	привести	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	ref=
+13	глѣбъка	гълѣбъко	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	10	appos	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6645
+# text = кѹрѧнꙑ съ половьци идоша на пльсковъ прогонитъ всѣволода
+# sent_id = 205304
+1	кѹрѧнꙑ	курянинъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	ref=
+2	съ	съ	ADP	R-	_	3	case	_	ref=
+3	половьци	половьчинъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	4	obl	_	ref=
+4	идоша	ити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	на	на	ADP	R-	_	6	case	_	ref=
+6	пльсковъ	пльсковъ	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	ref=
+7	прогонитъ	прогонити	VERB	V-	Case=Acc|VerbForm=Sup	4	advcl	_	ref=
+8	всѣволода	вьсеволодъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	7	obj:dir	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6645
+# text = и не покориша сѧ пльсковици имъ ни вꙑгнаша кн҃зѧ ѿ себе нъ бѧхѹть сѧ ѹстерегли
+# sent_id = 205307
+1	и	и	CCONJ	C-	_	3	cc	_	ref=
+2	не	не	ADV	Df	_	3	advmod	_	ref=
+3	покориша	покорити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=
+5	пльсковици	пльсковитинъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	ref=
+6	имъ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	iobj	_	ref=
+7	ни	ни	CCONJ	C-	_	3	cc	_	ref=
+8	вꙑгнаша	выгънати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=
+9	кн҃зѧ	кънязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	obj:dir	_	ref=
+10	ѿ	отъ	ADP	R-	_	11	case	_	ref=
+11	себе	себе	PRON	Pk	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	obl	_	ref=
+12	нъ	нъ	CCONJ	C-	_	3	cc	_	ref=
+13	бѧхѹть	быти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	aux	_	ref=
+14	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	15	aux	_	ref=
+15	ѹстерегли	устеречи	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	3	conj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6645
+# text = засекли засекли осекꙑ всѣ
+# sent_id = 206427
+1	засекли	засѣщи	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+2	засекли	засѣщи	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	1	advcl	_	ref=
+3	осекꙑ	осѣкъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	obj:dir	_	ref=
+4	всѣ	вьсь	DET	Px	Case=Acc|Gender=Masc|Number=Plur	3	det	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6645
+# text = и съдѹмавъше кн҃зь и люд҃е на пѹти въспѧтиша сѧ на дѹбровьнѣ и ѥще рекъше
+# sent_id = 205310
+1	и	и	CCONJ	C-	_	8	cc	_	ref=
+2	съдѹмавъше	съдумати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	_	ref=
+3	кн҃зь	кънязь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=
+4	и	и	CCONJ	C-	_	3	cc	_	ref=
+5	люд҃е	людие	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	conj	_	ref=
+6	на	на	ADP	R-	_	7	case	_	ref=
+7	пѹти	путь	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	2	obl	_	ref=
+8	въспѧтиша	въспятити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+9	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	8	aux	_	ref=
+10	на	на	ADP	R-	_	11	case	_	ref=
+11	дѹбровьнѣ	дубровьна	PROPN	Ne	Case=Loc|Gender=Fem|Number=Sing	8	obl	_	ref=
+12	и	и	CCONJ	C-	_	8	cc	_	ref=
+13	ѥще	еще	ADV	Df	_	14	advmod	_	ref=
+14	рекъше	рещи	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	8	conj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6645
+# text = не проливаиме кръви съ своею братьѥю
+# sent_id = 206424
+1	не	не	ADV	Df	_	2	advmod	_	ref=
+2	проливаиме	проливати	VERB	V-	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	кръви	кръвь	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	2	obj:dir	_	ref=
+4	съ	съ	ADP	R-	_	6	case	_	ref=
+5	своею	свои	ADJ	Pt	Case=Ins|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	6	nmod	_	ref=
+6	братьѥю	братия	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	2	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6645
+# text = нѣгли б҃ъ ѹправить своимь промꙑсломь
+# sent_id = 206425
+1	нѣгли	негли	ADV	Df	_	3	advmod	_	ref=
+2	б҃ъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+3	ѹправить	управити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	своимь	свои	ADJ	Pt	Case=Ins|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	5	nmod	_	ref=
+5	промꙑсломь	промыслъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	3	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6645
+# text = тъгда же прѣстави сѧ кнз҃ь всѣволодъ мьстиславиць пльсковѣ
+# sent_id = 205314
+1	тъгда	тъгда	ADV	Df	_	3	advmod	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	прѣстави	прѣставити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=
+5	кнз҃ь	кънязь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+6	всѣволодъ	вьсеволодъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	appos	_	ref=
+7	мьстиславиць	мьстиславичь	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	flat:name	_	ref=
+8	пльсковѣ	пльсковъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	3	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6645
+# text = и ꙗша сѧ пльсковици по брат҃ ѥго ст҃опълка
+# sent_id = 205315
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	ꙗша	яти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=
+4	пльсковици	пльсковитинъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	ref=
+5	по	по	ADP	R-	_	6	case	_	ref=
+6	брат҃	братъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	obl	_	ref=
+7	ѥго	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	det	_	ref=
+8	ст҃опълка	святопълкъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	appos	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6645
+# text = и не бе мира съ ними ни съ сѹжьдальци ни съ смольнѧнꙑ ни съ полоцѧнꙑ ни съ кꙑꙗнꙑ
+# sent_id = 205316
+1	и	и	CCONJ	C-	_	3	cc	_	ref=
+2	не	не	ADV	Df	_	3	advmod	_	ref=
+3	бе	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	мира	миръ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+5	съ	съ	ADP	R-	_	6	case	_	ref=
+6	ними	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	obl	_	ref=
+7	ни	ни	CCONJ	C-	_	6	cc	_	ref=
+8	съ	съ	ADP	R-	_	9	case	_	ref=
+9	сѹжьдальци	суждальць	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	6	conj	_	ref=
+10	ни	ни	CCONJ	C-	_	6	cc	_	ref=
+11	съ	съ	ADP	R-	_	12	case	_	ref=
+12	смольнѧнꙑ	смольнянинъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	6	conj	_	ref=
+13	ни	ни	CCONJ	C-	_	6	cc	_	ref=
+14	съ	съ	ADP	R-	_	15	case	_	ref=
+15	полоцѧнꙑ	полочанинъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	6	conj	_	ref=
+16	ни	ни	CCONJ	C-	_	6	cc	_	ref=
+17	съ	съ	ADP	R-	_	18	case	_	ref=
+18	кꙑꙗнꙑ	кыянинъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	6	conj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6645
+# text = и стоꙗ всѣ лѣт҃ осмьнъка великаꙗ по з҃ резан҃
+# sent_id = 205321
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	стоꙗ	стояти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	всѣ	вьсь	DET	Px	Case=Acc|Gender=Neut|Number=Sing	4	det	_	ref=
+4	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	ref=
+5	осмьнъка	осминъка	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=
+6	великаꙗ	великыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	5	amod	_	ref=
+7	по	по	ADV	Df	_	8	advmod	_	ref=
+8	з҃	седмь	NUM	Ma	_	2	iobj	_	ref=
+9	резан҃	рѣзана	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	8	nmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6646
+# text = въ лѣт҃ ҂ѕ҃ х҃ м҃ ѕ мс҃цѧ марта въ ѳ҃ дн҃ь на м҃ ст҃хъ бꙑс҃ громъ велии ꙗко слꙑшахомъ чс҃то въ истьбѣ сѣдѧще
+# sent_id = 205323
+1	въ	въ	ADP	R-	_	2	case	_	ref=
+2	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	15	obl	_	ref=
+3	҂ѕ҃	шесть.тысячь	NUM	Ma	_	2	nummod	_	ref=
+4	х҃	шестьсътъ	NUM	Ma	_	3	conj	_	ref=
+5	м҃	четыредесяте	NUM	Ma	_	3	conj	_	ref=
+6	ѕ	шесть	NUM	Ma	_	3	conj	_	ref=
+7	мс҃цѧ	мѣсяць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	ref=
+8	марта	мартъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	appos	_	ref=
+9	въ	въ	ADP	R-	_	11	case	_	ref=
+10	ѳ҃	девять	NUM	Ma	_	11	nummod	_	ref=
+11	дн҃ь	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	15	obl	_	ref=
+12	на	на	ADP	R-	_	13	case	_	ref=
+13	м҃	четыредесяте	NUM	Ma	_	9	appos	_	ref=
+14	ст҃хъ	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	13	nmod	_	ref=
+15	бꙑс҃	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+16	громъ	громъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	ref=
+17	велии	велии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	16	amod	_	ref=
+18	ꙗко	яко	SCONJ	G-	_	19	mark	_	ref=
+19	слꙑшахомъ	слышати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	15	advcl	_	ref=
+20	чс҃то	чисто	ADV	Df	Degree=Pos	19	advmod	_	ref=
+21	въ	въ	ADP	R-	_	22	case	_	ref=
+22	истьбѣ	истьба	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	23	obl	_	ref=
+23	сѣдѧще	сѣдѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	19	advcl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6646
+# text = въ тож҃ лѣт҃ вꙑгнаша кнз҃ѧ ст҃ослава сн҃а ольгова из новагорода мс҃цѧ априлѧ з҃і въ нед҃ г҃ п пас҃ сѣдевъша в҃ лѣт҃ бес трии мс҃ць
+# sent_id = 205330
+1	въ	въ	ADP	R-	_	3	case	_	ref=
+2	тож҃	тыиже	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	3	det	_	ref=
+3	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	ref=
+4	вꙑгнаша	выгънати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	кнз҃ѧ	кънязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	obj:dir	_	ref=
+6	ст҃ослава	святославъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	appos	_	ref=
+7	сн҃а	сынъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	appos	_	ref=
+8	ольгова	ольговъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	7	amod	_	ref=
+9	из	из	ADP	R-	_	10	case	_	ref=
+10	новагорода	новъгородъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	obl	_	ref=
+11	мс҃цѧ	мѣсяць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	ref=
+12	априлѧ	априль	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	11	appos	_	ref=
+13	з҃і	седмьнадесять	NUM	Ma	_	4	obl	_	ref=
+14	въ	въ	ADP	R-	_	15	case	_	ref=
+15	нед҃	недѣля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	ref=
+16	г҃	трие	NUM	Ma	_	15	nummod	_	ref=
+17	п	по	ADP	R-	_	18	case	_	ref=
+18	пас҃	пасха	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	15	nmod	_	ref=
+19	сѣдевъша	сѣдѣти	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	4	advcl	_	ref=
+20	в҃	дъва	NUM	Ma	_	21	nummod	_	ref=
+21	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Dual	19	obl	_	ref=
+22	бес	без	ADP	R-	_	24	case	_	ref=
+23	трии	трие	NUM	Ma	Case=Gen|Gender=Masc|Number=Plur	24	nummod	_	ref=
+24	мс҃ць	мѣсяць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6646
+# text = томьж҃ лѣт҃ слаша сѧ по гюргѧ володимирицѧ сѹждалю
+# sent_id = 205415
+1	томьж҃	тыиже	DET	Pd	Case=Loc|Gender=Neut|Number=Sing	2	det	_	ref=
+2	лѣт҃	лѣто	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	3	obl	_	ref=
+3	слаша	сълати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=
+5	по	по	ADP	R-	_	6	case	_	ref=
+6	гюргѧ	гюрги	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	obl	_	ref=
+7	володимирицѧ	володимиричь	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	flat:name	_	ref=
+8	сѹждалю	суждаль	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6646
+# text = а въ к҃ г тг҃о мс҃цѧ пополошиша сѧ людьѥ
+# sent_id = 205339
+1	а	а	CCONJ	C-	_	7	cc	_	ref=
+2	въ	въ	ADP	R-	_	3	case	_	ref=
+3	к҃	дъвадесяти	NUM	Ma	_	7	obl	_	ref=
+4	г	трие	NUM	Ma	_	3	conj	_	ref=
+5	тг҃о	тыи	ADJ	Pd	Case=Gen|Gender=Masc|Number=Sing	6	appos	_	ref=
+6	мс҃цѧ	мѣсяць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	ref=
+7	пополошиша	пополошити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	7	aux	_	ref=
+9	людьѥ	людие	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6646
+# text = сългаша бо ꙗко ст҃опълкъ ѹ города съ пльсковици
+# sent_id = 205341
+1	сългаша	сълъгати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	бо	бо	ADV	Df	_	1	advmod	_	ref=
+3	ꙗко	яко	SCONJ	G-	_	6	mark	_	ref=
+4	ст҃опълкъ	святопълкъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=
+5	ѹ	у	ADP	R-	_	6	case	_	ref=
+6	города	городъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	ccomp	_	ref=
+7	съ	съ	ADP	R-	_	8	case	_	ref=
+8	пльсковици	пльсковитинъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	4	nmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6646
+# text = и вꙑсѹша сѧ всь городъ къ сильнищю
+# sent_id = 205342
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	вꙑсѹша	высути	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=
+4	всь	вьсь	DET	Px	Case=Nom|Gender=Masc|Number=Sing	5	det	_	ref=
+5	городъ	городъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=
+6	къ	къ	ADP	R-	_	7	case	_	ref=
+7	сильнищю	сильнище	PROPN	Ne	Case=Dat|Gender=Neut|Number=Sing	2	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6646
+# text = и не бꙑ ничтоже
+# sent_id = 205343
+1	и	и	CCONJ	C-	_	3	cc	_	ref=
+2	не	не	ADV	Df	_	3	advmod	_	ref=
+3	бꙑ	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	ничтоже	ничьтоже	ADJ	Px	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6646
+# text = а ст҃ославлюю приꙗша новѣгородѣ съ лѹчьшими мѹжи
+# sent_id = 205344
+1	а	а	CCONJ	C-	_	3	cc	_	ref=
+2	ст҃ославлюю	святославль	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	3	obj:dir	_	ref=
+3	приꙗша	прияти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	новѣгородѣ	новъгородъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	3	obl	_	ref=
+5	съ	съ	ADP	R-	_	7	case	_	ref=
+6	лѹчьшими	лучии	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	7	amod	_	ref=
+7	мѹжи	мужь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	2	nmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6646
+# text = а самого ст҃ослава ꙗша на пѹти смолнѧне
+# sent_id = 205345
+1	а	а	CCONJ	C-	_	4	cc	_	ref=
+2	самого	самъ	DET	Pd	Case=Gen|Gender=Masc|Number=Sing	3	det	_	ref=
+3	ст҃ослава	святославъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	obj:dir	_	ref=
+4	ꙗша	яти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	на	на	ADP	R-	_	6	case	_	ref=
+6	пѹти	путь	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	4	obl	_	ref=
+7	смолнѧне	смольнянинъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6646
+# text = и стрѣжахѹть ѥго на смѧдинѣ въ манастꙑри ꙗкоже и женѹ ѥго новегородѣ ѹ ст҃оѥ варварꙑ въ манастꙑри жидѹще оправꙑ ꙗропълкѹ съ всѣволодкомь
+# sent_id = 205346
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	стрѣжахѹть	стрѣщи	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	ѥго	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	iobj	_	ref=
+4	на	на	ADP	R-	_	5	case	_	ref=
+5	смѧдинѣ	смядина	PROPN	Ne	Case=Loc|Gender=Fem|Number=Sing	2	obl	_	ref=
+6	въ	въ	ADP	R-	_	7	case	_	ref=
+7	манастꙑри	манастырь	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	4	appos	_	ref=
+8	ꙗкоже	якоже	ADV	Dq	PronType=Rel	10	orphan	_	ref=
+9	и	и	ADV	Df	_	10	advmod	_	ref=
+10	женѹ	жена	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	ref=
+11	ѥго	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	det	_	ref=
+12	новегородѣ	новъгородъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	10	orphan	_	ref=
+13	ѹ	у	ADP	R-	_	15	case	_	ref=
+14	ст҃оѥ	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	15	amod	_	ref=
+15	варварꙑ	варвара	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	12	flat:name	_	ref=
+16	въ	въ	ADP	R-	_	17	case	_	ref=
+17	манастꙑри	манастырь	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	13	appos	_	ref=
+18	жидѹще	жьдати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	ref=
+19	оправꙑ	оправа	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	18	iobj	_	ref=
+20	ꙗропълкѹ	яропълкъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	19	nmod	_	ref=
+21	съ	съ	ADP	R-	_	22	case	_	ref=
+22	всѣволодкомь	вьсеволодъко	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	19	nmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6646
+# text = въ тож҃ лѣт҃ въниде кнѧзь ꙗрославъ сн҃ъ гюргевъ вънѹкъ володимирь и сѹждѧлѧ новꙋгородѹ на столъ маиꙗ въ і҃
+# sent_id = 205351
+1	въ	въ	ADP	R-	_	3	case	_	ref=
+2	тож҃	тыиже	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	3	det	_	ref=
+3	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	ref=
+4	въниде	вънити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	кнѧзь	кънязь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=
+6	ꙗрославъ	ярославъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	appos	_	ref=
+7	сн҃ъ	сынъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	appos	_	ref=
+8	гюргевъ	гюргевъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	7	amod	_	ref=
+9	вънѹкъ	вънукъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	appos	_	ref=
+10	володимирь	володимирь	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	9	amod	_	ref=
+11	и	из	ADP	R-	_	12	case	_	ref=
+12	сѹждѧлѧ	суждаль	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	obl	_	ref=
+13	новꙋгородѹ	новъгородъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	4	iobj	_	ref=
+14	на	на	ADP	R-	_	15	case	_	ref=
+15	столъ	столъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	ref=
+16	маиꙗ	маи	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	ref=
+17	въ	въ	ADP	R-	_	18	case	_	ref=
+18	і҃	десять	NUM	Ma	_	4	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6646
+# text = и съ пльсковици съмириша сѧ
+# sent_id = 205357
+1	и	и	CCONJ	C-	_	4	cc	_	ref=
+2	съ	съ	ADP	R-	_	3	case	_	ref=
+3	пльсковици	пльсковитинъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	4	obl	_	ref=
+4	съмириша	съмирити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	4	aux	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6646
+# text = въ тоже лѣт҃ кнз҃ь кꙑѥвьскꙑи ꙗропълкъ
+# sent_id = 205358
+1	въ	въ	ADP	R-	_	3	case	_	ref=
+2	тоже	тыиже	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	3	det	_	ref=
+3	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	0	root	_	ref=
+4	кнз҃ь	кънязь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+5	кꙑѥвьскꙑи	кыевьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=
+6	ꙗропълкъ	яропълкъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6646
+# text = и седѣ на столѣ брат҃ ѥго вѧчеславъ
+# sent_id = 205360
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	седѣ	сѣдѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	на	на	ADP	R-	_	4	case	_	ref=
+4	столѣ	столъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	2	obl	_	ref=
+5	брат҃	братъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=
+6	ѥго	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	det	_	ref=
+7	вѧчеславъ	вячеславъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	appos	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6647
+# text = въ лѣт҃ ҂ѕ҃ х҃ м҃ з приде гюрги кн҃зь и сѹждалѧ смольньску и зваше новгородьце на кꙑевъ на всѣволодка
+# sent_id = 205361
+1	въ	въ	ADP	R-	_	2	case	_	ref=
+2	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	ref=
+3	҂ѕ҃	шесть.тысячь	NUM	Ma	_	2	nummod	_	ref=
+4	х҃	шестьсътъ	NUM	Ma	_	3	conj	_	ref=
+5	м҃	четыредесяте	NUM	Ma	_	3	conj	_	ref=
+6	з	седмь	NUM	Ma	_	3	conj	_	ref=
+7	приде	приити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	гюрги	гюрги	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=
+9	кн҃зь	кънязь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	appos	_	ref=
+10	и	из	ADP	R-	_	11	case	_	ref=
+11	сѹждалѧ	суждаль	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	7	obl	_	ref=
+12	смольньску	смольньскъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	7	iobj	_	ref=
+13	и	и	CCONJ	C-	_	7	cc	_	ref=
+14	зваше	зъвати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	ref=
+15	новгородьце	новъгородьць	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	14	obj:dir	_	ref=
+16	на	на	ADP	R-	_	17	case	_	ref=
+17	кꙑевъ	кыевъ	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	14	obl	_	ref=
+18	на	на	ADP	R-	_	19	case	_	ref=
+19	всѣволодка	вьсеволодъко	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	16	appos	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6647
+# text = и не послѹшаша ѥго
+# sent_id = 205366
+1	и	и	CCONJ	C-	_	3	cc	_	ref=
+2	не	не	ADV	Df	_	3	advmod	_	ref=
+3	послѹшаша	послушати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	ѥго	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	dep	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6647
+# text = и тъгда бѣжа ростиславъ смольньскѹ къ оц҃ю из новагорода септ҃брѧ а҃ сѣдѣвъ въ новѣгородѣ и҃ лѣт и д҃ мс҃цѣ
+# sent_id = 205367
+1	и	и	CCONJ	C-	_	3	cc	_	ref=
+2	тъгда	тъгда	ADV	Df	_	3	advmod	_	ref=
+3	бѣжа	бѣжати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	ростиславъ	ростиславъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+5	смольньскѹ	смольньскъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	ref=
+6	къ	къ	ADP	R-	_	7	case	_	ref=
+7	оц҃ю	отьць	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	5	appos	_	ref=
+8	из	из	ADP	R-	_	9	case	_	ref=
+9	новагорода	новъгородъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	obl	_	ref=
+10	септ҃брѧ	сентябрь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	ref=
+11	а҃	единъ	NUM	Ma	_	3	obl	_	ref=
+12	сѣдѣвъ	сѣдѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	3	advcl	_	ref=
+13	въ	въ	ADP	R-	_	14	case	_	ref=
+14	новѣгородѣ	новъгородъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	12	obl	_	ref=
+15	и҃	осмь	NUM	Ma	_	12	obl	_	ref=
+16	лѣт	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	15	nmod	_	ref=
+17	и	и	CCONJ	C-	_	15	cc	_	ref=
+18	д҃	четыре	NUM	Ma	_	19	nummod	_	ref=
+19	мс҃цѣ	мѣсяць	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	15	conj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6647
+# text = и разгнѣва сѧ гюрги
+# sent_id = 205372
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	разгнѣва	разгнѣвати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=
+4	гюрги	гюрги	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6647
+# text = идѧ опѧт҃ сѹждалю възѧ новꙑи търгъ
+# sent_id = 205373
+1	идѧ	ити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	4	advcl	_	ref=
+2	опѧт҃	опять	ADV	Df	_	1	advmod	_	ref=
+3	сѹждалю	суждаль	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	ref=
+4	възѧ	възяти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	новꙑи	новыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	6	amod	_	ref=
+6	търгъ	търгъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj:dir	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6647
+# text = и послаша сѧ новгородци кꙑевѹ по ст҃ослв҃а по олговицѧ заходивъше ротѣ
+# sent_id = 205375
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	послаша	посълати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=
+4	новгородци	новъгородьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	ref=
+5	кꙑевѹ	кыевъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	ref=
+6	по	по	ADP	R-	_	7	case	_	ref=
+7	ст҃ослв҃а	святославъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	flat:name	_	ref=
+8	по	по	ADP	R-	_	6	mark	_	ref=
+9	олговицѧ	ольговичь	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	7	flat:name	_	ref=
+10	заходивъше	заходити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	2	xcomp	_	ref=
+11	ротѣ	рота	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	10	iobj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6647
+# text = и бѣ мѧтежь новѣгородѣ
+# sent_id = 205378
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	бѣ	быти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	мѧтежь	мятежь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=
+4	новѣгородѣ	новъгородъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	2	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6647
+# text = а ст҃ослав҃ дълго не бѧше
+# sent_id = 205379
+1	а	а	CCONJ	C-	_	5	cc	_	ref=
+2	ст҃ослав҃	святославъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	nsubj	_	ref=
+3	дълго	дълго	ADV	Df	Degree=Pos	5	advmod	_	ref=
+4	не	не	ADV	Df	_	5	advmod	_	ref=
+5	бѧше	быти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6647
+# text = въ тож҃ лѣт҃ въниде кнз҃ь ст҃ослав҃ олговиць новѹгородѹ
+# sent_id = 205380
+1	въ	въ	ADP	R-	_	3	case	_	ref=
+2	тож҃	тыиже	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	3	det	_	ref=
+3	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	ref=
+4	въниде	вънити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	кнз҃ь	кънязь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=
+6	ст҃ослав҃	святославъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	appos	_	ref=
+7	олговиць	ольговичь	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	flat:name	_	ref=
+8	новѹгородѹ	новъгородъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	4	iobj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6647
+# text = и сѣдѣ на столѣ мс҃цѧ декб҃ѧ въ к҃ е
+# sent_id = 205382
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	сѣдѣ	сѣдѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	на	на	ADP	R-	_	4	case	_	ref=
+4	столѣ	столъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	2	obl	_	ref=
+5	мс҃цѧ	мѣсяць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	ref=
+6	декб҃ѧ	декабрь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	appos	_	ref=
+7	въ	въ	ADP	R-	_	8	case	_	ref=
+8	к҃	дъвадесяти	NUM	Ma	_	2	obl	_	ref=
+9	е	пять	NUM	Ma	_	8	conj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6648
+# text = въ лѣт҃ ҂ѕ҃ х҃ м҃ и въ к҃ марта бꙑс҃ знамениѥ въ слн҃чи
+# sent_id = 205385
+1	въ	въ	ADP	R-	_	2	case	_	ref=
+2	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	10	obl	_	ref=
+3	҂ѕ҃	шесть.тысячь	NUM	Ma	_	2	nummod	_	ref=
+4	х҃	шестьсътъ	NUM	Ma	_	3	conj	_	ref=
+5	м҃	четыредесяте	NUM	Ma	_	3	conj	_	ref=
+6	и	осмь	NUM	Ma	_	3	conj	_	ref=
+7	въ	въ	ADP	R-	_	8	case	_	ref=
+8	к҃	дъвадесяти	NUM	Ma	_	10	obl	_	ref=
+9	марта	мартъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	ref=
+10	бꙑс҃	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+11	знамениѥ	знамение	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	ref=
+12	въ	въ	ADP	R-	_	13	case	_	ref=
+13	слн҃чи	сълньце	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	10	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6648
+# text = и толико оста ѥго ꙗкоже бꙑваѥть мс҃ць д҃ дн҃ии
+# sent_id = 205388
+1	и	и	CCONJ	C-	_	3	cc	_	ref=
+2	толико	толикыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	3	nsubj	_	ref=
+3	оста	остати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	ѥго	и	PRON	Pp	Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nmod	_	ref=
+5	ꙗкоже	якоже	ADV	Dq	PronType=Rel	6	xcomp	_	ref=
+6	бꙑваѥть	бывати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	ref=
+7	мс҃ць	мѣсяць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=
+8	д҃	четыре	NUM	Ma	_	9	nummod	_	ref=
+9	дн҃ии	дьнь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6648
+# text = и пакꙑ до захода напълни сѧ
+# sent_id = 205390
+1	и	и	CCONJ	C-	_	5	cc	_	ref=
+2	пакꙑ	пакы	ADV	Df	_	5	advmod	_	ref=
+3	до	до	ADP	R-	_	4	case	_	ref=
+4	захода	заходъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	ref=
+5	напълни	напълнити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	5	aux	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6648
+# text = въ тож҃ лѣт҃ потоциша кꙑѥвѹ къ всѣволодѹ къснѧтина микѹлъцицѧ и пакꙑ по немь инѣхъ мѹж҃ ѕ҃ оковавъше полюда къснѧтиницѧ дьмьꙗна инѣхъ колико
+# sent_id = 205391
+1	въ	въ	ADP	R-	_	3	case	_	ref=
+2	тож҃	тыиже	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	3	det	_	ref=
+3	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	ref=
+4	потоциша	поточити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	кꙑѥвѹ	кыевъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	4	iobj	_	ref=
+6	къ	къ	ADP	R-	_	7	case	_	ref=
+7	всѣволодѹ	вьсеволодъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	5	flat:name	_	ref=
+8	къснѧтина	коснятинъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	obj:dir	_	ref=
+9	микѹлъцицѧ	микульчичь	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	8	flat:name	_	ref=
+10	и	и	CCONJ	C-	_	4	cc	_	ref=
+11	пакꙑ	пакы	ADV	Df	_	13	orphan	_	ref=
+12	по	по	ADP	R-	_	13	case	_	ref=
+13	немь	и	PRON	Pp	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	conj	_	ref=
+14	инѣхъ	иныи	DET	Px	Case=Gen|Gender=Masc|Number=Plur	15	det	_	ref=
+15	мѹж҃	мужь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	ref=
+16	ѕ҃	шесть	NUM	Ma	_	17	obj:dir	_	ref=
+17	оковавъше	оковати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	13	orphan	_	ref=
+18	полюда	полюдъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	16	appos	_	ref=
+19	къснѧтиницѧ	къснятиничь	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	18	flat:name	_	ref=
+20	дьмьꙗна	демиянъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	18	conj	_	ref=
+21	инѣхъ	иныи	ADJ	Px	Case=Gen|Gender=Masc|Number=Plur	22	nmod	_	ref=
+22	колико	колико	ADJ	Px	_	18	conj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6649
+# text = въ лѣт҃ ҂ѕ҃ х҃ м҃ ѳ април҃ въ а҃ бꙑс҃ знамениѥ на нб҃си дивьно велми ѕ҃ крѹговъ г҃ около слн҃цѧ а кроме слнц҃ѧ дрѹгꙑꙗ г҃ великꙑ и стоꙗ близъ не весь дн҃ь
+# sent_id = 205741
+1	въ	въ	ADP	R-	_	2	case	_	ref=
+2	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	10	obl	_	ref=
+3	҂ѕ҃	шесть.тысячь	NUM	Ma	_	2	nummod	_	ref=
+4	х҃	шестьсътъ	NUM	Ma	_	3	conj	_	ref=
+5	м҃	четыредесяте	NUM	Ma	_	3	conj	_	ref=
+6	ѳ	девять	NUM	Ma	_	3	conj	_	ref=
+7	април҃	априль	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	ref=
+8	въ	въ	ADP	R-	_	9	case	_	ref=
+9	а҃	единъ	NUM	Ma	_	10	obl	_	ref=
+10	бꙑс҃	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+11	знамениѥ	знамение	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	ref=
+12	на	на	ADP	R-	_	13	case	_	ref=
+13	нб҃си	небо	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	10	obl	_	ref=
+14	дивьно	дивьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	11	amod	_	ref=
+15	велми	вельми	ADV	Df	_	14	advmod	_	ref=
+16	ѕ҃	шесть	NUM	Ma	_	11	appos	_	ref=
+17	крѹговъ	кругъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	ref=
+18	г҃	трие	NUM	Ma	_	16	appos	_	ref=
+19	около	около	ADP	R-	_	20	case	_	ref=
+20	слн҃цѧ	сълньце	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	18	nmod	_	ref=
+21	а	а	CCONJ	C-	_	18	cc	_	ref=
+22	кроме	кромѣ	ADP	R-	_	23	case	_	ref=
+23	слнц҃ѧ	сълньце	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	25	nmod	_	ref=
+24	дрѹгꙑꙗ	другыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	25	amod	_	ref=
+25	г҃	трие	NUM	Ma	_	18	conj	_	ref=
+26	великꙑ	великыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	25	amod	_	ref=
+27	и	и	CCONJ	C-	_	10	cc	_	ref=
+28	стоꙗ	стояти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	conj	_	ref=
+29	близъ	близъ	ADV	Df	_	28	advmod	_	ref=
+30	не	не	ADV	Df	_	31	advmod	_	ref=
+31	весь	вьсь	DET	Px	Case=Acc|Gender=Masc|Number=Sing	32	det	_	ref=
+32	дн҃ь	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	28	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6649
+# text = въ тож҃ лѣт҃ придоша ис кꙑѥва ѿ всѣволода по брат҃ ст҃ослав҃ вести кꙑѥ
+# sent_id = 205748
+1	въ	въ	ADP	R-	_	3	case	_	ref=
+2	тож҃	тыиже	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	3	det	_	ref=
+3	лѣт҃	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	ref=
+4	придоша	приити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	ис	из	ADP	R-	_	6	case	_	ref=
+6	кꙑѥва	кыевъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	obl	_	ref=
+7	ѿ	отъ	ADP	R-	_	8	case	_	ref=
+8	всѣволода	вьсеволодъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	appos	_	ref=
+9	по	по	ADP	R-	_	10	case	_	ref=
+10	брат҃	братъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	obl	_	ref=
+11	ст҃ослав҃	святославъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	10	appos	_	ref=
+12	вести	вести	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	advcl	_	ref=
+13	кꙑѥ	кыевъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	12	iobj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6649
+# text = а сн҃а моѥго рч҃е приимите собе кнз҃ѧ
+# sent_id = 205752
+1	а	а	CCONJ	C-	_	5	cc	_	ref=
+2	сн҃а	сынъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	obj:dir	_	ref=
+3	моѥго	мои	ADJ	Ps	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes	2	nmod	_	ref=
+4	рч҃е	речи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	ref=
+5	приимите	приимати	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	собе	себе	PRON	Pk	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	obl	_	ref=
+7	кнз҃ѧ	кънязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	advmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6649
+# text = и ꙗко послаша епс҃па по сн҃а ѥго и много лепьшихъ людии а ст҃ослав҃ реша
+# sent_id = 205753
+1	и	и	CCONJ	C-	_	3	cc	_	ref=
+2	ꙗко	яко	ADV	Dq	PronType=Rel	3	advmod	_	ref=
+3	послаша	посълати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	епс҃па	епископъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	obj:dir	_	ref=
+5	по	по	ADP	R-	_	6	case	_	ref=
+6	сн҃а	сынъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	obl	_	ref=
+7	ѥго	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	det	_	ref=
+8	и	и	CCONJ	C-	_	4	cc	_	ref=
+9	много	мъногыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	4	conj	_	ref=
+10	лепьшихъ	лѣпыи	ADJ	A-	Case=Gen|Degree=Cmp|Gender=Masc|Number=Plur|Strength=Weak	11	amod	_	ref=
+11	людии	людие	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	ref=
+12	а	а	CCONJ	C-	_	3	cc	_	ref=
+13	ст҃ослав҃	святославъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	14	iobj	_	ref=
+14	реша	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6649
+# text = а тꙑ пожиди брат҃
+# sent_id = 205756
+1	а	а	CCONJ	C-	_	3	cc	_	ref=
+2	тꙑ	ты	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	ref=
+3	пожиди	пожьдати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	брат҃	братъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	iobj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6649
+# text = то ж҃ поидеши
+# sent_id = 205757
+1	то	то	ADV	Df	_	3	advmod	_	ref=
+2	ж҃	же	ADV	Df	_	3	advmod	_	ref=
+3	поидеши	поити#1	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6649
+# text = онъ же ѹбоꙗвъ сѧ новгородьць чи прѣльстивъше мѧ имѹть и бежа отаи въ ноць
+# sent_id = 205758
+1	онъ	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+2	же	же	ADV	Df	_	3	advmod	_	ref=
+3	ѹбоꙗвъ	убояти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=
+4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=
+5	новгородьць	новъгородьць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	3	iobj	_	ref=
+6	чи	чи	ADV	Du	PronType=Int	9	advmod	_	ref=
+7	прѣльстивъше	прѣльстити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	9	advcl	_	ref=
+8	мѧ	азъ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	obj:dir	_	ref=
+9	имѹть	яти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	ref=
+10	и	и	CCONJ	C-	_	3	cc	_	ref=
+11	бежа	бѣжати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=
+12	отаи	отаи	ADV	Df	_	11	advmod	_	ref=
+13	въ	въ	ADP	R-	_	14	case	_	ref=
+14	ноць	ночь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	11	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6649
+# text = ꙗкѹнъ съ нимь бежа
+# sent_id = 205761
+1	ꙗкѹнъ	якунъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=
+2	съ	съ	ADP	R-	_	3	case	_	ref=
+3	нимь	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	ref=
+4	бежа	бѣжати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6649
+# text = и ꙗкѹна ꙗша на плисѣ
+# sent_id = 205762
+1	и	и	CCONJ	C-	_	3	cc	_	ref=
+2	ꙗкѹна	якунъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	obj:dir	_	ref=
+3	ꙗша	яти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	на	на	ADP	R-	_	5	case	_	ref=
+5	плисѣ	плиса	PROPN	Ne	Case=Loc|Gender=Fem|Number=Sing	3	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6649
+# text = и приведъше и семо съ брат҃мь его прокопьѥю малꙑ не до смерти обнаживъше ꙗко мт҃и роділа и съверша и съ моста
+# sent_id = 205763
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	приведъше	привести	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=
+3	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj:dir	_	ref=
+4	семо	сѣмо	ADV	Df	_	2	advmod	_	ref=
+5	съ	съ	ADP	R-	_	6	case	_	ref=
+6	брат҃мь	братъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	3	nmod	_	ref=
+7	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	det	_	ref=
+8	прокопьѥю	прокопии	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	6	appos	_	ref=
+9	малꙑ	малы	ADV	Df	_	11	advmod	_	ref=
+10	не	не	ADV	Df	_	11	advmod	_	ref=
+11	до	до	ADP	R-	_	12	case	_	ref=
+12	смерти	съмьрть	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	13	obl	_	ref=
+13	обнаживъше	обънажити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	18	advcl	_	ref=
+14	ꙗко	яко	ADV	Dq	PronType=Rel	16	advmod	_	ref=
+15	мт҃и	мати	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	ref=
+16	роділа	родити	VERB	V-	Aspect=Res|Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	13	advcl	_	ref=
+17	и	и	CCONJ	C-	_	2	cc	_	ref=
+18	съверша	съвьргнути	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=
+19	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obj:dir	_	ref=
+20	съ	съ	ADP	R-	_	21	case	_	ref=
+21	моста	мостъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	18	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6649
+# text = нъ б҃ъ избави
+# sent_id = 205766
+1	нъ	нъ	CCONJ	C-	_	3	cc	_	ref=
+2	б҃ъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+3	избави	избавити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6649
+# text = прибрьде къ бѣрегѹ
+# sent_id = 206101
+1	прибрьде	прибрести	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	къ	къ	ADP	R-	_	3	case	_	ref=
+3	бѣрегѹ	берегъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6649
+# text = и боле ѥго не биша
+# sent_id = 205767
+1	и	и	CCONJ	C-	_	5	cc	_	ref=
+2	боле	болии	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing|Strength=Strong	5	advmod	_	ref=
+3	ѥго	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj:dir	_	ref=
+4	не	не	ADV	Df	_	5	advmod	_	ref=
+5	биша	бити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6649
+# text = нъ възѧша ѹ него ҂а҃ грв҃нъ а ѹ брт҃а ѥго р҃ грвн҃ъ
+# sent_id = 205768
+1	нъ	нъ	CCONJ	C-	_	2	cc	_	ref=
+2	възѧша	възяти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	ѹ	у	ADP	R-	_	4	case	_	ref=
+4	него	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	ref=
+5	҂а҃	тысяча	NUM	Ma	_	2	obj:dir	_	ref=
+6	грв҃нъ	гривьна	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	ref=
+7	а	а	CCONJ	C-	_	2	cc	_	ref=
+8	ѹ	у	ADP	R-	_	9	case	_	ref=
+9	брт҃а	братъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	11	orphan	_	ref=
+10	ѥго	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	det	_	ref=
+11	р҃	съто	NUM	Ma	_	2	conj	_	ref=
+12	грвн҃ъ	гривьна	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6649
+# text = такоже и ѹ инѣхъ имаша
+# sent_id = 206102
+1	такоже	такоже	ADV	Df	_	5	advmod	_	ref=
+2	и	и	ADV	Df	_	3	advmod	_	ref=
+3	ѹ	у	ADP	R-	_	4	case	_	ref=
+4	инѣхъ	иныи	ADJ	Px	Case=Gen|Gender=Masc|Number=Plur	5	obl	_	ref=
+5	имаша	имати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6649
+# text = и затоциша ꙗкѹна въ чюдь съ братомь оковавъше и рѹцѣ къ шьи
+# sent_id = 205771
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	затоциша	заточити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	ꙗкѹна	якунъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	obj:dir	_	ref=
+4	въ	въ	ADP	R-	_	5	case	_	ref=
+5	чюдь	чудь	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	ref=
+6	съ	съ	ADP	R-	_	7	case	_	ref=
+7	братомь	братъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	3	nmod	_	ref=
+8	оковавъше	оковати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	2	advcl	_	ref=
+9	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	obj:dir	_	ref=
+10	рѹцѣ	рука	NOUN	Nb	Case=Acc|Gender=Fem|Number=Dual	8	advmod	_	ref=
+11	къ	къ	ADP	R-	_	12	case	_	ref=
+12	шьи	шия	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	10	orphan	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6649
+# text = и последь приведе ꙗ къ собе гюрги и женꙑ ѥꙗ из новагорода
+# sent_id = 205773
+1	и	и	CCONJ	C-	_	3	cc	_	ref=
+2	последь	послѣдь	ADV	Df	_	3	advmod	_	ref=
+3	приведе	привести	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	ꙗ	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Dual|Person=3|PronType=Prs	3	obj:dir	_	ref=
+5	къ	къ	ADP	R-	_	6	case	_	ref=
+6	собе	себе	PRON	Pk	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	3	obl	_	ref=
+7	гюрги	гюрги	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=
+8	и	и	CCONJ	C-	_	4	cc	_	ref=
+9	женꙑ	жена	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	4	conj	_	ref=
+10	ѥꙗ	и	PRON	Pp	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	det	_	ref=
+11	из	из	ADP	R-	_	12	case	_	ref=
+12	новагорода	новъгородъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6649
+# text = и ѹ себе ꙗ дьржаше въ млс҃ти
+# sent_id = 205775
+1	и	и	CCONJ	C-	_	5	cc	_	ref=
+2	ѹ	у	ADP	R-	_	3	case	_	ref=
+3	себе	себе	PRON	Pk	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	obl	_	ref=
+4	ꙗ	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	obj:dir	_	ref=
+5	дьржаше	дьржати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	въ	въ	ADP	R-	_	7	case	_	ref=
+7	млс҃ти	милость	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	5	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6649
+# text = и разгнѣва сѧ всеволодъ и приꙗ слꙑ всѧ и епс҃па и гость
+# sent_id = 205776
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	разгнѣва	разгнѣвати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=
+4	всеволодъ	вьсеволодъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=
+5	и	и	CCONJ	C-	_	2	cc	_	ref=
+6	приꙗ	прияти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=
+7	слꙑ	сълъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	6	obj:dir	_	ref=
+8	всѧ	вьсь	DET	Px	Case=Acc|Gender=Masc|Number=Plur	7	det	_	ref=
+9	и	и	CCONJ	C-	_	7	cc	_	ref=
+10	епс҃па	епископъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	conj	_	ref=
+11	и	и	CCONJ	C-	_	7	cc	_	ref=
+12	гость	гость	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	7	conj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6649
+# text = и сѣдѣша новгородци бес кнѧзѧ ѳ҃ мс҃ць
+# sent_id = 205778
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	сѣдѣша	сѣдѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	новгородци	новъгородьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	ref=
+4	бес	без	ADP	R-	_	5	case	_	ref=
+5	кнѧзѧ	кънязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	obl	_	ref=
+6	ѳ҃	девять	NUM	Ma	_	2	obl	_	ref=
+7	мс҃ць	мѣсяць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6649
+# text = и призваша и сѹждалѧ сѹдилѹ нежату страшка оже бѣхѹ бѣжали из новагорода ст҃ослав҃ дѣлѧ и ꙗкѹна
+# sent_id = 205780
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	призваша	призъвати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	и	из	ADP	R-	_	4	case	_	ref=
+4	сѹждалѧ	суждаль	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	obl	_	ref=
+5	сѹдилѹ	судила	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	2	obj:dir	_	ref=
+6	нежату	нҍжата	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	5	conj	_	ref=
+7	страшка	страшько	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	conj	_	ref=
+8	оже	оже	SCONJ	G-	_	10	mark	_	ref=
+9	бѣхѹ	быти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	aux	_	ref=
+10	бѣжали	бѣжати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	2	advcl	_	ref=
+11	из	из	ADP	R-	_	12	case	_	ref=
+12	новагорода	новъгородъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	10	obl	_	ref=
+13	ст҃ослав҃	святославъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	10	obl	_	ref=
+14	дѣлѧ	дѣля	ADP	R-	_	13	case	_	ref=
+15	и	и	CCONJ	C-	_	13	cc	_	ref=
+16	ꙗкѹна	якунъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	13	conj	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6649
+# text = и даша посадницьство сѹдилѹ новѣгородѣ
+# sent_id = 205783
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	даша	дати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	посадницьство	посадьничьство	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obj:dir	_	ref=
+4	сѹдилѹ	судило	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	ref=
+5	новѣгородѣ	новъгородъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	2	obl	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6649
+# text = и послаша по гюргѧ по кнз҃ѧ сѹждалю
+# sent_id = 205784
+1	и	и	CCONJ	C-	_	2	cc	_	ref=
+2	послаша	посълати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	по	по	ADP	R-	_	4	case	_	ref=
+4	гюргѧ	гюрги	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	obl	_	ref=
+5	по	по	ADP	R-	_	3	mark	_	ref=
+6	кнз҃ѧ	кънязь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	appos	_	ref=
+7	сѹждалю	суждаль	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	3	appos	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6649
+# text = и не иде
+# sent_id = 205786
+1	и	и	CCONJ	C-	_	3	cc	_	ref=
+2	не	не	ADV	Df	_	3	advmod	_	ref=
+3	иде	ити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+
+# source = The First Novgorod Chronicle, Synodal manuscript, 6649
+# text = нъ посла сн҃ъ свои ростислав҃ оже тои преж҃ бꙑлъ
+# sent_id = 205787
+1	нъ	нъ	CCONJ	C-	_	2	cc	_	ref=
+2	посла	посълати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	сн҃ъ	сынъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	obj:dir	_	ref=
+4	свои	свои	ADJ	Pt	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	3	nmod	_	ref=
+5	ростислав҃	ростиславъ	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	3	appos	_	ref=
+6	оже	оже	SCONJ	G-	_	9	mark	_	ref=
+7	тои	тыи	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	ref=
+8	преж҃	прѣже	ADV	Df	_	9	advmod	_	ref=
+9	бꙑлъ	быти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	2	advcl	_	ref=

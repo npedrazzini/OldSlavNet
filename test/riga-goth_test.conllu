@@ -1,0 +1,184 @@
+# source = The 1229 Treaty between Smolensk, Riga and Gotland (version A), The 1229 Treaty between Smolensk, Riga and Gotland
+# text = Аж быхъмъ что тако оучинили того б҃ъ не даи аж бы промьжю нами бои былъ а любо чл҃вка оубиють до см҃рти како чл҃вка то ѿплатити аж бы миръ не ръздроушенъ былъ
+# sent_id = 200830
+1	Аж	аже	SCONJ	G-	_	5	mark	_	ref=
+2	быхъмъ	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	5	aux	_	ref=
+3	что	чьто	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	5	obj:dir	_	ref=
+4	тако	тако	ADV	Df	_	5	advmod	_	ref=
+5	оучинили	учинити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	25	advcl	_	ref=
+6	того	тыи	ADJ	Pd	Case=Gen|Gender=Neut|Number=Sing	9	obj:dir	_	ref=
+7	б҃ъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	ref=
+8	не	не	ADV	Df	_	9	advmod	_	ref=
+9	даи	даяти	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	parataxis	_	ref=
+10	аж	аже	SCONJ	G-	_	15	mark	_	ref=
+11	бы	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	aux	_	ref=
+12	промьжю	промежу	ADP	R-	_	13	case	_	ref=
+13	нами	мы	PRON	Pp	Case=Ins|Gender=Masc|Number=Plur|Person=1|PronType=Prs	14	det	_	ref=
+14	бои	бои	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	ref=
+15	былъ	быти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	1	advcl	_	ref=
+16	а	а	CCONJ	C-	_	15	cc	_	ref=
+17	любо	любо	CCONJ	C-	_	15	cc	_	ref=
+18	чл҃вка	человѣкъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	19	obj:dir	_	ref=
+19	оубиють	убити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	conj	_	ref=
+20	до	до	ADP	R-	_	21	case	_	ref=
+21	см҃рти	съмьрть	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	19	obl	_	ref=
+22	како	како	ADV	Df	_	25	advmod	_	ref=
+23	чл҃вка	человѣкъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	25	obj:dir	_	ref=
+24	то	то	ADV	Df	_	23	advmod	_	ref=
+25	ѿплатити	отъплатити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+26	аж	аже	SCONJ	G-	_	31	mark	_	ref=
+27	бы	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	31	aux	_	ref=
+28	миръ	миръ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	31	nsubj	_	ref=
+29	не	не	ADV	Df	_	31	advmod	_	ref=
+30	ръздроушенъ	роздрушити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	31	xcomp	_	ref=
+31	былъ	быти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	25	advcl	_	ref=
+
+# source = The 1229 Treaty between Smolensk, Riga and Gotland (version A), The 1229 Treaty between Smolensk, Riga and Gotland
+# text = такъ платити како то бы ѡбоимъ любо былы
+# sent_id = 201171
+1	такъ	тако	ADV	Df	_	2	advmod	_	ref=
+2	платити	платити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+3	како	како	ADV	Dq	PronType=Rel	8	advmod	_	ref=
+4	то	то	ADV	Df	_	3	advmod	_	ref=
+5	бы	быти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	aux	_	ref=
+6	ѡбоимъ	обои	NUM	Ma	Case=Dat|Gender=Masc|Number=Plur	7	iobj	_	ref=
+7	любо	любыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	8	xcomp	_	ref=
+8	былы	быти	VERB	V-	Aspect=Res|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	1	advcl	_	ref=
+
+# source = The 1229 Treaty between Smolensk, Riga and Gotland (version A), The 1229 Treaty between Smolensk, Riga and Gotland
+# text = Зде починаѥть сѧ правда
+# sent_id = 200837
+1	Зде	сьдѣ	ADV	Df	_	2	advmod	_	ref=
+2	починаѥть	починати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=
+4	правда	правьда	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=
+
+# source = The 1229 Treaty between Smolensk, Riga and Gotland (version A), The 1229 Treaty between Smolensk, Riga and Gotland
+# text = Аже боудѣть свободѣныи чл҃вкъ оубитъ ꙇ҃ гривенъ серебра за голъвоу
+# sent_id = 200838
+1	Аже	аже	SCONJ	G-	_	2	mark	_	ref=
+2	боудѣть	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	свободѣныи	свободьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=
+4	чл҃вкъ	человѣкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=
+5	оубитъ	убити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	2	xcomp	_	ref=
+6	ꙇ҃	десять	NUM	Ma	_	1	obj:dir	_	ref=
+7	гривенъ	гривьна	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	ref=
+8	серебра	серебро	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	ref=
+9	за	за	ADP	R-	_	10	case	_	ref=
+10	голъвоу	голова	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obl	_	ref=
+
+# source = The 1229 Treaty between Smolensk, Riga and Gotland (version A), The 1229 Treaty between Smolensk, Riga and Gotland
+# text = Аже боудѣте холъпъ оубитъ а҃ гривна серьбра заплатити
+# sent_id = 200841
+1	Аже	аже	SCONJ	G-	_	2	mark	_	ref=
+2	боудѣте	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	8	advcl	_	ref=
+3	холъпъ	холопъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=
+4	оубитъ	убити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	2	xcomp	_	ref=
+5	а҃	единъ	NUM	Ma	_	6	nummod	_	ref=
+6	гривна	гривьна	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	8	obj:dir	_	ref=
+7	серьбра	серебро	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	ref=
+8	заплатити	заплатити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+
+# source = The 1229 Treaty between Smolensk, Riga and Gotland (version A), The 1229 Treaty between Smolensk, Riga and Gotland
+# text = оу смольнѣскь тако платити и оу ризе и на готскомь берьзѣ
+# sent_id = 200842
+1	оу	въ	ADP	R-	_	2	case	_	ref=
+2	смольнѣскь	смольньскъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	4	obl	_	ref=
+3	тако	тако	ADV	Df	_	4	advmod	_	ref=
+4	платити	платити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+5	и	и	CCONJ	C-	_	2	cc	_	ref=
+6	оу	въ	ADP	R-	_	7	case	_	ref=
+7	ризе	риза	PROPN	Ne	Case=Loc|Gender=Fem|Number=Sing	2	conj	_	ref=
+8	и	и	CCONJ	C-	_	2	cc	_	ref=
+9	на	на	ADP	R-	_	11	case	_	ref=
+10	готскомь	готьскыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	11	amod	_	ref=
+11	берьзѣ	берегъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	2	conj	_	ref=
+
+# source = The 1229 Treaty between Smolensk, Riga and Gotland (version A), The 1229 Treaty between Smolensk, Riga and Gotland
+# text = ѻко роука нъга или инъ что любо по пѧти гривьнъ серьбра ѿ всѧкого платити
+# sent_id = 200845
+1	ѻко	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	14	obl	_	ref=
+2	роука	рука	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	ref=
+3	нъга	нога	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	ref=
+4	или	или	CCONJ	C-	_	1	cc	_	ref=
+5	инъ	иныи	DET	Px	Case=Nom|Gender=Masc|Number=Sing	6	det	_	ref=
+6	что	чьто	ADJ	Px	Case=Nom|Gender=Neut|Number=Sing	1	conj	_	ref=
+7	любо	любо	ADV	Df	_	6	advmod	_	ref=
+8	по	по	ADP	R-	_	9	case	_	ref=
+9	пѧти	пять	NUM	Ma	Case=Dat|Gender=Fem|Number=Sing	14	obj:dir	_	ref=
+10	гривьнъ	гривьна	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	ref=
+11	серьбра	серебро	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	ref=
+12	ѿ	отъ	ADP	R-	_	13	case	_	ref=
+13	всѧкого	вьсякыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	14	advmod	_	ref=
+14	платити	платити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+
+# source = The 1229 Treaty between Smolensk, Riga and Gotland (version A), The 1229 Treaty between Smolensk, Riga and Gotland
+# text = за ѡкъ е҃ серьбра
+# sent_id = 201185
+1	за	за	ADP	R-	_	2	case	_	ref=
+2	ѡкъ	око	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	0	root	_	ref=
+3	е҃	пять	NUM	Ma	_	2	obj:dir	_	ref=
+4	серьбра	серебро	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	ref=
+
+# source = The 1229 Treaty between Smolensk, Riga and Gotland (version A), The 1229 Treaty between Smolensk, Riga and Gotland
+# text = за роукоу е҃ серьбра
+# sent_id = 200850
+1	за	за	ADP	R-	_	2	case	_	ref=
+2	роукоу	рука	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	0	root	_	ref=
+3	е҃	пять	NUM	Ma	_	2	obj:dir	_	ref=
+4	серьбра	серебро	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	ref=
+
+# source = The 1229 Treaty between Smolensk, Riga and Gotland (version A), The 1229 Treaty between Smolensk, Riga and Gotland
+# text = за нъгоу е҃ серьбра
+# sent_id = 200851
+1	за	за	ADP	R-	_	2	case	_	ref=
+2	нъгоу	нога	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	0	root	_	ref=
+3	е҃	пять	NUM	Ma	_	2	obj:dir	_	ref=
+4	серьбра	серебро	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	ref=
+
+# source = The 1229 Treaty between Smolensk, Riga and Gotland (version A), The 1229 Treaty between Smolensk, Riga and Gotland
+# text = и за всѧкыи соуставъ пѧть гривьнъ серебра
+# sent_id = 200852
+1	и	и	CCONJ	C-	_	0	root	_	ref=
+2	за	за	ADP	R-	_	4	case	_	ref=
+3	всѧкыи	вьсякыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=
+4	соуставъ	суставъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	ref=
+5	пѧть	пять	NUM	Ma	Case=Acc|Gender=Fem|Number=Sing	1	obj:dir	_	ref=
+6	гривьнъ	гривьна	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	ref=
+7	серебра	серебро	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	ref=
+
+# source = The 1229 Treaty between Smolensk, Riga and Gotland (version A), The 1229 Treaty between Smolensk, Riga and Gotland
+# text = За зоубъ г҃ гривнъ серебра и смольньскь и оу ризѣ и на гочкомь березѣ
+# sent_id = 200854
+1	За	за	ADP	R-	_	2	case	_	ref=
+2	зоубъ	зубъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	0	root	_	ref=
+3	г҃	трие	NUM	Ma	_	2	obj:dir	_	ref=
+4	гривнъ	гривьна	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	ref=
+5	серебра	серебро	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	ref=
+6	и	и	CCONJ	C-	_	7	cc	_	ref=
+7	смольньскь	смольньскъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	2	obl	_	ref=
+8	и	и	CCONJ	C-	_	7	cc	_	ref=
+9	оу	въ	ADP	R-	_	10	case	_	ref=
+10	ризѣ	рига	PROPN	Ne	Case=Loc|Gender=Fem|Number=Sing	7	conj	_	ref=
+11	и	и	CCONJ	C-	_	7	cc	_	ref=
+12	на	на	ADP	R-	_	14	case	_	ref=
+13	гочкомь	готьскыи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	14	amod	_	ref=
+14	березѣ	берегъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	7	conj	_	ref=
+
+# source = The 1229 Treaty between Smolensk, Riga and Gotland (version A), The 1229 Treaty between Smolensk, Riga and Gotland
+# text = Кто биѥть дроуга дѣревъмь а боудѣте синь любо кровавъ полоуторы гривны серебра платити ѥмоу
+# sent_id = 200858
+1	Кто	къто	PRON	Pr	Case=Nom|Number=Sing|PronType=Rel	2	nsubj	_	ref=
+2	биѥть	бити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl	_	ref=
+3	дроуга	другыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	2	obj:dir	_	ref=
+4	дѣревъмь	дерево	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	2	obl	_	ref=
+5	а	а	CCONJ	C-	_	2	cc	_	ref=
+6	боудѣте	быти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	2	conj	_	ref=
+7	синь	синии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	6	xcomp	_	ref=
+8	любо	любо	CCONJ	C-	_	7	cc	_	ref=
+9	кровавъ	кръвавыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	7	conj	_	ref=
+10	полоуторы	полътора	NUM	Ma	Case=Gen|Gender=Fem|Number=Sing	13	obj:dir	_	ref=
+11	гривны	гривьна	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	ref=
+12	серебра	серебро	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	11	nmod	_	ref=
+13	платити	платити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+14	ѥмоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	ref=

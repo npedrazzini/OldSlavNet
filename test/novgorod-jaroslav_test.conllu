@@ -1,0 +1,52 @@
+
+# source = Novgorod’s treaty with Grand Prince Jaroslav Jaroslavich, 1266, Novgorod’s treaty with Grand Prince Jaroslav Jaroslavich, 1266
+# text = новъгородъ ти дѣржати въ старинѣ по пошлинѣ
+# sent_id = 199725
+1	новъгородъ	новъгородъ	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	3	obj:dir	_	ref=
+2	ти	ты	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	ref=
+3	дѣржати	дьржати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+4	въ	въ	ADP	R-	_	5	case	_	ref=
+5	старинѣ	старина	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	3	obl	_	ref=
+6	по	по	ADP	R-	_	7	case	_	ref=
+7	пошлинѣ	пошьлина	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	3	obl	_	ref=
+
+# source = Novgorod’s treaty with Grand Prince Jaroslav Jaroslavich, 1266, Novgorod’s treaty with Grand Prince Jaroslav Jaroslavich, 1266
+# text = что волостии всѣхъ новгородьскыхъ того ти кн҃же не держати своими моужи нъ дьржати моужи новгородьскыми
+# sent_id = 199886
+1	что	чьто	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	5	appos	_	ref=
+2	волостии	волость	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	1	nmod	_	ref=
+3	всѣхъ	вьсь	DET	Px	Case=Gen|Gender=Fem|Number=Plur	2	det	_	ref=
+4	новгородьскыхъ	новъгородьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	2	amod	_	ref=
+5	того	тыи	ADJ	Pd	Case=Gen|Gender=Neut|Number=Sing	9	obj:dir	_	ref=
+6	ти	ты	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	ref=
+7	кн҃же	кънязь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	9	vocative	_	ref=
+8	не	не	ADV	Df	_	9	advmod	_	ref=
+9	держати	дьржати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+10	своими	свои	ADJ	Pt	Case=Ins|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	11	nmod	_	ref=
+11	моужи	мужь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	9	obl	_	ref=
+12	нъ	нъ	CCONJ	C-	_	9	cc	_	ref=
+13	дьржати	дьржати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	conj	_	ref=
+14	моужи	мужь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	13	obl:agent	_	ref=
+15	новгородьскыми	новъгородьскыи	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	14	amod	_	ref=
+
+# source = Novgorod’s treaty with Grand Prince Jaroslav Jaroslavich, 1266, Novgorod’s treaty with Grand Prince Jaroslav Jaroslavich, 1266
+# text = а даръ имати тобе ѿ техъ волостии
+# sent_id = 199733
+1	а	а	CCONJ	C-	_	3	cc	_	ref=
+2	даръ	даръ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obj:dir	_	ref=
+3	имати	имати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=
+4	тобе	ты	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	ref=
+5	ѿ	отъ	ADP	R-	_	7	case	_	ref=
+6	техъ	тыи	DET	Pd	Case=Gen|Gender=Fem|Number=Plur	7	det	_	ref=
+7	волостии	волость	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	ref=
+
+# source = Novgorod’s treaty with Grand Prince Jaroslav Jaroslavich, 1266, Novgorod’s treaty with Grand Prince Jaroslav Jaroslavich, 1266
+# text = а бес посадника тобе волостии не раздавати
+# sent_id = 199734
+1	а	а	CCONJ	C-	_	7	cc	_	ref=
+2	бес	без	ADP	R-	_	3	case	_	ref=
+3	посадника	посадьникъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	obl	_	ref=
+4	тобе	ты	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	ref=
+5	волостии	волость	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	7	obj:dir	_	ref=
+6	не	не	ADV	Df	_	7	advmod	_	ref=
+7	раздавати	раздавати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=

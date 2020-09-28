@@ -1,0 +1,179 @@
+
+# source = Codex Zographensis, John 18
+# text = бѣ бо тьсть кaꙇaфѣ ꙇже бѣ aрхиереи лѣтоу томоу
+# sent_id = 184697
+1	бѣ	бꙑти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_18.13
+2	бо	бо	ADV	Df	_	1	discourse	_	ref=JOHN_18.13
+3	тьсть	тьсть	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	xcomp	_	ref=JOHN_18.13
+4	кaꙇaфѣ	каиꙗфа	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	3	nmod	_	ref=JOHN_18.13
+5	ꙇже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	ref=JOHN_18.13
+6	бѣ	бꙑти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl	_	ref=JOHN_18.13
+7	aрхиереи	архиереи	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	xcomp	_	ref=JOHN_18.13
+8	лѣтоу	лѣто	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	7	obl	_	ref=JOHN_18.13
+9	томоу	тъ	DET	Pd	Case=Dat|Gender=Neut|Number=Sing	8	det	_	ref=JOHN_18.13
+
+# source = Codex Zographensis, John 18
+# text = По ꙇ҃сѣ же ꙇдѣaше симонъ петръ ꙇ дроугꙑ оученикъ
+# sent_id = 184702
+1	По	по	ADP	R-	_	2	case	_	ref=JOHN_18.15
+2	ꙇ҃сѣ	исоусъ	PROPN	Ne	Case=Loc|Gender=Masc|Number=Sing	4	obl	_	ref=JOHN_18.15
+3	же	же	ADV	Df	_	4	discourse	_	ref=JOHN_18.15
+4	ꙇдѣaше	ити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_18.15
+5	симонъ	симонъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=JOHN_18.15
+6	петръ	петръ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	flat:name	_	ref=JOHN_18.15
+7	ꙇ	и	CCONJ	C-	_	5	cc	_	ref=JOHN_18.15
+8	дроугꙑ	дроугъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	9	amod	_	ref=JOHN_18.15
+9	оученикъ	оученикъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	ref=JOHN_18.15
+
+# source = Codex Zographensis, John 18
+# text = оученикъ же тъ бѣ знaемъ aрхиереови ꙇ вьниде съ ꙇ҃сомь въ дворъ aрхиереовъ
+# sent_id = 184704
+1	оученикъ	оученикъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=JOHN_18.15
+2	же	же	ADV	Df	_	4	discourse	_	ref=JOHN_18.15
+3	тъ	тъ	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	1	det	_	ref=JOHN_18.15
+4	бѣ	бꙑти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_18.15
+5	знaемъ	знати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Pass	4	xcomp	_	ref=JOHN_18.15
+6	aрхиереови	архиереи	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	5	iobj	_	ref=JOHN_18.15
+7	ꙇ	и	CCONJ	C-	_	4	cc	_	ref=JOHN_18.15
+8	вьниде	вънити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	ref=JOHN_18.15
+9	съ	съ	ADP	R-	_	10	case	_	ref=JOHN_18.15
+10	ꙇ҃сомь	исоусъ	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	8	obl	_	ref=JOHN_18.15
+11	въ	въ	ADP	R-	_	12	case	_	ref=JOHN_18.15
+12	дворъ	дворъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	ref=JOHN_18.15
+13	aрхиереовъ	архиереовъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	12	amod	_	ref=JOHN_18.15
+
+# source = Codex Zographensis, John 18
+# text = Ꙇзиде же оученикъ тъ ꙇже бѣ знaемъ aрхиереови ꙇ рече двьрьници
+# sent_id = 184709
+1	Ꙇзиде	изити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_18.16
+2	же	же	ADV	Df	_	1	discourse	_	ref=JOHN_18.16
+3	оученикъ	оученикъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=JOHN_18.16
+4	тъ	тъ	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	3	det	_	ref=JOHN_18.16
+5	ꙇже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	ref=JOHN_18.16
+6	бѣ	бꙑти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	acl	_	ref=JOHN_18.16
+7	знaемъ	знати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Pass	6	xcomp	_	ref=JOHN_18.16
+8	aрхиереови	архиереи	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	7	iobj	_	ref=JOHN_18.16
+9	ꙇ	и	CCONJ	C-	_	1	cc	_	ref=JOHN_18.16
+10	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=JOHN_18.16
+11	двьрьници	двьрьница	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	10	iobj	_	ref=JOHN_18.16
+
+# source = Codex Zographensis, John 18
+# text = ꙇ въведе петрa
+# sent_id = 184712
+1	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=JOHN_18.16
+2	въведе	въвести	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_18.16
+3	петрa	петръ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	obj:dir	_	ref=JOHN_18.16
+
+# source = Codex Zographensis, John 18
+# text = Г҃лa же рaбa двьрьницa петрови
+# sent_id = 184713
+1	Г҃лa	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_18.17
+2	же	же	ADV	Df	_	1	discourse	_	ref=JOHN_18.17
+3	рaбa	раба	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	ref=JOHN_18.17
+4	двьрьницa	двьрьница	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	appos	_	ref=JOHN_18.17
+5	петрови	петръ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	ref=JOHN_18.17
+
+# source = Codex Zographensis, John 18
+# text = едa ꙇ тꙑ отъ оученикъ еси ч҃кa того
+# sent_id = 184714
+1	едa	еда	ADV	Du	PronType=Int	6	advmod	_	ref=JOHN_18.17
+2	ꙇ	и	ADV	Df	_	3	advmod	_	ref=JOHN_18.17
+3	тꙑ	тꙑ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	ref=JOHN_18.17
+4	отъ	отъ	ADP	R-	_	5	case	_	ref=JOHN_18.17
+5	оученикъ	оученикъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	6	xcomp	_	ref=JOHN_18.17
+6	еси	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_18.17
+7	ч҃кa	чловѣкъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	ref=JOHN_18.17
+8	того	тъ	DET	Pd	Case=Gen|Gender=Masc|Number=Sing	7	det	_	ref=JOHN_18.17
+
+# source = Codex Zographensis, John 18
+# text = г҃лa онъ
+# sent_id = 184715
+1	г҃лa	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_18.17
+2	онъ	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=JOHN_18.17
+
+# source = Codex Zographensis, John 18
+# text = нѣсмь
+# sent_id = 185700
+1	нѣсмь	не.бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_18.17
+
+# source = Codex Zographensis, John 18
+# text = стоѣхѫ же рaби ꙇ слоугꙑ огн҄ь сътворьше ѣко зимa бѣ ꙇ грѣaхѫ
+# sent_id = 184716
+1	стоѣхѫ	стоꙗти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_18.18
+2	же	же	ADV	Df	_	1	discourse	_	ref=JOHN_18.18
+3	рaби	рабъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	ref=JOHN_18.18
+4	ꙇ	и	CCONJ	C-	_	3	cc	_	ref=JOHN_18.18
+5	слоугꙑ	слоуга	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	conj	_	ref=JOHN_18.18
+6	огн҄ь	огнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	7	obj:dir	_	ref=JOHN_18.18
+7	сътворьше	сътворити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	1	advcl	_	ref=JOHN_18.18
+8	ѣко	ꙗко	SCONJ	G-	_	10	mark	_	ref=JOHN_18.18
+9	зимa	зима	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	10	xcomp	_	ref=JOHN_18.18
+10	бѣ	бꙑти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	ref=JOHN_18.18
+11	ꙇ	и	CCONJ	C-	_	1	cc	_	ref=JOHN_18.18
+12	грѣaхѫ	грѣꙗти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=JOHN_18.18
+
+# source = Codex Zographensis, John 18
+# text = Архиереі же въпроси ꙇ҃сa о оученицѣхъ его ꙇ о оучени его
+# sent_id = 185702
+1	Архиереі	архиереи	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=JOHN_18.19
+2	же	же	ADV	Df	_	3	discourse	_	ref=JOHN_18.19
+3	въпроси	въпросити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_18.19
+4	ꙇ҃сa	исоусъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	obj:dir	_	ref=JOHN_18.19
+5	о	о	ADP	R-	_	6	case	_	ref=JOHN_18.19
+6	оученицѣхъ	оученикъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Plur	3	obl	_	ref=JOHN_18.19
+7	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	det	_	ref=JOHN_18.19
+8	ꙇ	и	CCONJ	C-	_	6	cc	_	ref=JOHN_18.19
+9	о	о	ADP	R-	_	10	case	_	ref=JOHN_18.19
+10	оучени	оучениѥ	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	6	conj	_	ref=JOHN_18.19
+11	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	det	_	ref=JOHN_18.19
+
+# source = Codex Zographensis, John 18
+# text = Ѡтъвѣштa емоу и҃с
+# sent_id = 184721
+1	Ѡтъвѣштa	отъвѣщати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_18.20
+2	емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	ref=JOHN_18.20
+3	и҃с	исоусъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=JOHN_18.20
+
+# source = Codex Zographensis, John 18
+# text = aзъ не обиноуѩ сѧ г҃лaхъ вьсемоу мироу
+# sent_id = 184722
+1	aзъ	азъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	ref=JOHN_18.20
+2	не	не	ADV	Df	Polarity=Neg	3	advmod	_	ref=JOHN_18.20
+3	обиноуѩ	обиновати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	5	advcl	_	ref=JOHN_18.20
+4	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	3	aux	_	ref=JOHN_18.20
+5	г҃лaхъ	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_18.20
+6	вьсемоу	вьсь	DET	Px	Case=Dat|Gender=Masc,Neut|Number=Sing	7	det	_	ref=JOHN_18.20
+7	мироу	миръ#2	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	5	iobj	_	ref=JOHN_18.20
+
+# source = Codex Zographensis, John 18
+# text = aзъ вьсегдa оучихъ нa сънъмишти ꙇ въ цръкъв[е ꙇдеже вьси ꙇюдѣі сънемлѫтъ сѧ ꙇ тaꙇ не г҃лaхъ ничесоже
+# sent_id = 184723
+1	aзъ	азъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	ref=JOHN_18.20
+2	вьсегдa	вьсегда	ADV	Df	_	3	advmod	_	ref=JOHN_18.20
+3	оучихъ	оучити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_18.20
+4	нa	на	ADP	R-	_	5	case	_	ref=JOHN_18.20
+5	сънъмишти	съньмище	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	3	obl	_	ref=JOHN_18.20
+6	ꙇ	и	CCONJ	C-	_	5	cc	_	ref=JOHN_18.20
+7	въ	въ	ADP	R-	_	8	case	_	ref=JOHN_18.20
+8	цръкъв[е	црькꙑ	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	5	conj	_	ref=JOHN_18.20
+9	ꙇдеже	идеже	ADV	Dq	PronType=Rel	12	advmod	_	ref=JOHN_18.20
+10	вьси	вьсь	DET	Px	Case=Nom|Gender=Masc|Number=Plur	11	det	_	ref=JOHN_18.20
+11	ꙇюдѣі	июдеи	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	ref=JOHN_18.20
+12	сънемлѫтъ	сънимати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl	_	ref=JOHN_18.20
+13	сѧ	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	12	aux	_	ref=JOHN_18.20
+14	ꙇ	и	CCONJ	C-	_	3	cc	_	ref=JOHN_18.20
+15	тaꙇ	таи	ADV	Df	_	17	advmod	_	ref=JOHN_18.20
+16	не	не	ADV	Df	Polarity=Neg	17	advmod	_	ref=JOHN_18.20
+17	г҃лaхъ	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=JOHN_18.20
+18	ничесоже	ничьтоже	ADJ	Px	Case=Gen|Gender=Neut|Number=Sing	17	obj:dir	_	ref=JOHN_18.20
+
+
+# source = Codex Zographensis, Mark 15
+# text = ꙇ изведошѧ і дa і пропьнѫтъ
+# sent_id = 177654
+1	ꙇ	и	CCONJ	C-	_	2	cc	_	ref=MARK_15.20
+2	изведошѧ	извести	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_15.20
+3	і	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj:dir	_	ref=MARK_15.20
+4	дa	да	SCONJ	G-	_	6	mark	_	ref=MARK_15.20
+5	і	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj:dir	_	ref=MARK_15.20
+6	пропьнѫтъ	пропѧти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	ref=MARK_15.20

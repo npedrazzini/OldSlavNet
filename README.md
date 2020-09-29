@@ -1,6 +1,6 @@
 # Neural-network parsers for Early Slavic
 
-Early Slavic dependency parsers trained on the Bi-LSTM model by [2], which can be found at https://github.com/datquocnguyen/jPTDP.
+Early Slavic dependency parsers trained on the Bi-LSTM model by [2] (https://github.com/datquocnguyen/jPTDP).
 
 If you use any of the pretrained models here presented to tag new Early Slavic texts, please cite both [1], where the training of the parsers and their performance are discussed, and [2], the latest publication by the original authors of jPTDP:
 

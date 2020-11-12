@@ -4,9 +4,9 @@ Early Slavic dependency parsers trained on the Bi-LSTM model by [2] (https://git
 
 If you use any of the pretrained models here presented to tag new Early Slavic texts, please cite both [1], where the training of the parsers and their performance are discussed, and [2], the latest publication by the original authors of jPTDP:
 
-   1) Nilo Pedrazzini. Forthcoming. Exploiting cross-dialectal gold syntax for low-resource historical languages: towards a generic parser for pre-modern Slavic. In *CHR 2020: Workshop on Computational Humanities Research*, November 18–20, 2020, Amsterdam, The Netherlands.
+   1) Pedrazzini, Nilo. 2020. Exploiting Cross-Dialectal Gold Syntax for Low-Resource Historical Languages: Towards a Generic Parser for Pre-Modern Slavic. In Folgert Karsdorp, Barbara McGillivray, Adina Nerghes & Melvin Wevers (eds.), *Proceedings of the Workshop on Computational Humanities Research*, November 18–20, 2020, Amsterdam, The Netherlands (CEUR Workshop Proceedings, Vol. 2723), 237-247. http://ceur-ws.org/Vol-2723/short48.pdfForthcoming.
    
-   2) Dat Quoc Nguyen and Karin Verspoor. 2018. An improved neural network model for joint POS tagging and dependency parsing. In *Proceedings of the CoNLL 2018 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies*, 81-91. (jPTDP v2.0)
+   2) Nguyen, Dat Quoc & Karin Verspoor. 2018. An improved neural network model for joint POS tagging and dependency parsing. In *Proceedings of the CoNLL 2018 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies*, 81-91. (jPTDP v2.0)
    
 ## Models
 

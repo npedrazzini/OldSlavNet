@@ -1,4 +1,4 @@
-# Neural-network parsers for Early Slavic
+# Neural parsers for Early Slavic
 
 Early Slavic dependency parsers trained on the Bi-LSTM model by [2] (https://github.com/datquocnguyen/jPTDP).
 

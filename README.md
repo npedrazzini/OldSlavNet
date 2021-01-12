@@ -1,8 +1,8 @@
 # OldSlavDep
-Pre-modern Slavic dependency parser trained on a Bi-LSTM model based on [JPTDP](https://github.com/datquocnguyen/jPTDP). The major differences from jPTDP in the underlying neural network model are the following:
+Pre-modern Slavic dependency parser trained on a Bi-LSTM model based on [JPTDP](https://github.com/datquocnguyen/jPTDP). The major differences from jPTDP in the underlying neural network are the following:
    - `ArgParse` substitutes the older `OptParse`
-   - `RMSProp` is used instead of `Adam` as an optimizer to avoid exploding gradients.
-   - Initial learning rate (`lr`) is set to `0.1` instead of `None`.
+   - [`RMSProp`](https://dynet.readthedocs.io/en/latest/optimizers.html#_CPPv4N5dynet14RMSPropTrainerE) is used instead of `Adam` as an optimizer to avoid exploding gradients.
+   - Initial learning rate (`lr`) is set to `0.1`.
    
 The parser supersedes the previous version described in [2], which can be found in the old [releases](https://github.com/npedrazzini/OldSlavDep/releases).
 If you use our pretrained model to parse new pre-modern Slavic texts, please cite [1].

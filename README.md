@@ -1,5 +1,4 @@
-# OldSlavDep: Pre-modern Slavic dependency parser
-
+# OldSlavDep
 Pre-modern Slavic dependency parser trained on a Bi-LSTM model based on [4]. The main changes to the underlying neural network model are the following:
    - ArgParse substitutes the older OptParse
    - RMSProp is used instead of Adam as an optimizer to avoid exploding gradients.

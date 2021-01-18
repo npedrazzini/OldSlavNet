@@ -10,7 +10,7 @@ If you use our pretrained model to parse new pre-modern Slavic texts, please cit
    1) TO BE ANNOUNCED.
    
    2) Pedrazzini, Nilo. 2020. Exploiting Cross-Dialectal Gold Syntax for Low-Resource Historical Languages: Towards a Generic Parser for Pre-Modern Slavic. In Folgert Karsdorp, Barbara McGillivray, Adina Nerghes & Melvin Wevers (eds.), *Proceedings of the Workshop on Computational Humanities Research*, November 18–20, 2020, Amsterdam, The Netherlands (CEUR Workshop Proceedings, Vol. 2723), 237-247. http://ceur-ws.org/Vol-2723/short48.pdf. 
-   
+
 ## Training Data and parsing performance
 The parser was trained on data from the Tromsø Old Russian and Old Church Slavonic Treebank (TOROT) (https://torottreebank.github.io), 20200116 release. Modern Russian data was harmonized with Old East Slavic and Old Church Slavonic spelling and morphology. The harmonization scripts can be found in our [Figshare repository](link to be provided). 
 
@@ -34,6 +34,7 @@ The parameters and hyperparameters files for each pretrained model (*model_NAME*
 OldSlavNet requires the following packages:
 - Python 3.4+ or 2.7
 - [`Dynet 2.0`](https://dynet.readthedocs.io/en/latest/python.html)
+- You can install your requirements, including Dynet, with: `pip install -r requirements.txt`
 
 Once you have downloaded the model folder ([OldSlavNet](link)), as well as the parameters and hyperparameters files from the [Figshare repo](link to be provided), run the following to annotate new texts:
 

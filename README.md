@@ -46,3 +46,6 @@ SOURCE_DIR$ python parser.py --predict --model <path-to-model_NAME> --params <pa
 `--test`: Specify path to 10-column (CoNLL-U) input file.<br/>
 `--outdir`: Specify path to directory where output file will be saved.<br/>
 `--output`: Specify name of the output file.<br/>
+
+## Update the model with new modern texts
+TODO

@@ -12,7 +12,7 @@ If you use our pretrained model to parse new pre-modern Slavic texts, please cit
    2) Pedrazzini, Nilo. 2020. Exploiting Cross-Dialectal Gold Syntax for Low-Resource Historical Languages: Towards a Generic Parser for Pre-Modern Slavic. In Folgert Karsdorp, Barbara McGillivray, Adina Nerghes & Melvin Wevers (eds.), *Proceedings of the Workshop on Computational Humanities Research*, November 18–20, 2020, Amsterdam, The Netherlands (CEUR Workshop Proceedings, Vol. 2723), 237-247. http://ceur-ws.org/Vol-2723/short48.pdf. 
    
 ## Training Data and parsing performance
-The parser was trained on data from the Tromsø Old Russian and Old Church Slavonic Treebank (TOROT) (https://torottreebank.github.io), 20200116 release, with the exception of the Serbian data, which are from Universal Dependencies (https://github.com/UniversalDependencies/UD_Serbian-SET). Modern Russian and Serbian data were harmonized with Old East Slavic and Old Church Slavonic spelling and morphology. The harmonization scripts can be found in our [Figshare repository](link to be provided). 
+The parser was trained on data from the Tromsø Old Russian and Old Church Slavonic Treebank (TOROT) (https://torottreebank.github.io), 20200116 release. Modern Russian data was harmonized with Old East Slavic and Old Church Slavonic spelling and morphology. The harmonization scripts can be found in our [Figshare repository](link to be provided). 
 
 Best results on test sets (described in details in paper [3]) are as follows (first three rows show the performance of the previous version of OldSlavNet:
 

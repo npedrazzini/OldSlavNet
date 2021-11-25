@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OldSlavNet on OldSlavNet v3.0.0</title>
-    <link>npedrazzini.github.io/OldSlavNet/</link>
+    <link>https://npedrazzini.github.io/OldSlavNet/</link>
     <description>Recent content in OldSlavNet on OldSlavNet v3.0.0</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Feb 2019 19:30:08 +1000</lastBuildDate><atom:link href="npedrazzini.github.io/OldSlavNet/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Feb 2019 19:30:08 +1000</lastBuildDate><atom:link href="https://npedrazzini.github.io/OldSlavNet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Install OldSlavNet</title>
-      <link>npedrazzini.github.io/OldSlavNet/docs/install/</link>
+      <link>https://npedrazzini.github.io/OldSlavNet/docs/install/</link>
       <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
       
-      <guid>npedrazzini.github.io/OldSlavNet/docs/install/</guid>
+      <guid>https://npedrazzini.github.io/OldSlavNet/docs/install/</guid>
       <description>Get started with OldSlavNet</description>
     </item>
     
     <item>
       <title>Data preprocessing</title>
-      <link>npedrazzini.github.io/OldSlavNet/docs/preprocess/</link>
+      <link>https://npedrazzini.github.io/OldSlavNet/docs/preprocess/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>npedrazzini.github.io/OldSlavNet/docs/preprocess/</guid>
+      <guid>https://npedrazzini.github.io/OldSlavNet/docs/preprocess/</guid>
       <description>Prepare your data.</description>
     </item>
     
     <item>
       <title>Annotate new texts</title>
-      <link>npedrazzini.github.io/OldSlavNet/docs/tag/</link>
+      <link>https://npedrazzini.github.io/OldSlavNet/docs/tag/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>npedrazzini.github.io/OldSlavNet/docs/tag/</guid>
+      <guid>https://npedrazzini.github.io/OldSlavNet/docs/tag/</guid>
       <description>Add syntactic annotation to your texts.</description>
     </item>
     
     <item>
       <title>Train a new model</title>
-      <link>npedrazzini.github.io/OldSlavNet/docs/train/</link>
+      <link>https://npedrazzini.github.io/OldSlavNet/docs/train/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>npedrazzini.github.io/OldSlavNet/docs/train/</guid>
+      <guid>https://npedrazzini.github.io/OldSlavNet/docs/train/</guid>
       <description>Train a new model</description>
     </item>
     
     <item>
       <title></title>
-      <link>npedrazzini.github.io/OldSlavNet/_footer/</link>
+      <link>https://npedrazzini.github.io/OldSlavNet/_footer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>npedrazzini.github.io/OldSlavNet/_footer/</guid>
+      <guid>https://npedrazzini.github.io/OldSlavNet/_footer/</guid>
       <description>(c) 2021 Nilo Pedrazzini, MIT Licence</description>
     </item>
     
     <item>
       <title>Credits</title>
-      <link>npedrazzini.github.io/OldSlavNet/credits/</link>
+      <link>https://npedrazzini.github.io/OldSlavNet/credits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>npedrazzini.github.io/OldSlavNet/credits/</guid>
+      <guid>https://npedrazzini.github.io/OldSlavNet/credits/</guid>
       <description>Contributors  Nilo Pedrazzini Hanne M. Eckhoff  Hugo DocDock Theme https://docdock.netlify.app</description>
     </item>
     

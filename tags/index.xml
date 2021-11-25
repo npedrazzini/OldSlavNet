@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on OldSlavNet v3.0.0</title>
-    <link>npedrazzini.github.io/OldSlavNet/tags/</link>
+    <link>https://npedrazzini.github.io/OldSlavNet/tags/</link>
     <description>Recent content in Tags on OldSlavNet v3.0.0</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="npedrazzini.github.io/OldSlavNet/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://npedrazzini.github.io/OldSlavNet/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

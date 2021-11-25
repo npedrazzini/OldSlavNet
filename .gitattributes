@@ -1,1 +1,2 @@
-models/ filter=lfs diff=lfs merge=lfs -text
+models/OldSlavNet/model filter=lfs diff=lfs merge=lfs -text
+models/OldSlavNet/model.params filter=lfs diff=lfs merge=lfs -text

@@ -1,83 +1,83 @@
 [
 {
-	"uri": "/docs/install/",
+	"uri": "npedrazzini.github.io/OldSlavNet/docs/install/",
 	"title": "Install OldSlavNet",
 	"tags": [],
 	"description": "",
 	"content": "1. Requirements  Python\u0026gt;=3.10.0  OldSlavNet v2.1 has only been tested on Python 3.10.0. There is no guarantee that it will work properly on earlier versions. Please update your Python version to 3.10.0 to make sure OldSlavNet works as expected.\n2. Get OldSlavNet Clone OldSlavNet\u0026rsquo;s GitHub repository:\ngit clone https://github.com/npedrazzini/OldSlavNet 3. Configure it From the root directory run:\nmake This will update pip if needed, install the following dependnencies in new virtual environment called oldslavnet-venv:\n cmake==3.22.0 Cython==0.29.24 numpy==1.21.4 dyNET  "
 },
 {
-	"uri": "/docs/",
+	"uri": "npedrazzini.github.io/OldSlavNet/docs/",
 	"title": "Docs",
 	"tags": [],
 	"description": "",
 	"content": "Full documentation on how to install and use OldSlavNet, as well as on how to train your own model. Click on any of the subsections in the sidebar to get started.\n"
 },
 {
-	"uri": "/docs/preprocess/",
+	"uri": "npedrazzini.github.io/OldSlavNet/docs/preprocess/",
 	"title": "Data preprocessing",
 	"tags": [],
 	"description": "",
 	"content": "Input format OldSlavNet requires the Universal Dependencies 10-column CoNLL-U format as input. A ready-to-be-tagged CoNLL-U file may look like the following:\n1\tда\t_\t_\t_\t_\t_\t_\t_\t_ 2\tтѹтъ\t_\t_\t_\t_\t_\t_\t_\t_ 3\tесми\t_\t_\t_\t_\t_\t_\t_\t_ 4\tжил\t_\t_\t_\t_\t_\t_\t_\t_ 5\tв\t_\t_\t_\t_\t_\t_\t_\t_ 6\tчебокарѣ\t_\t_\t_\t_\t_\t_\t_\t_ 7\tѕ҃\t_\t_\t_\t_\t_\t_\t_\t_ 8\tмсць\t_\t_\t_\t_\t_\t_\t_\t_ 1\tда\t_\t_\t_\t_\t_\t_\t_\t_ 2\tв\t_\t_\t_\t_\t_\t_\t_\t_ 3\tсарѣ\t_\t_\t_\t_\t_\t_\t_\t_ 4\tжил\t_\t_\t_\t_\t_\t_\t_\t_ 5\tмсць\t_\t_\t_\t_\t_\t_\t_\t_ 6\tв\t_\t_\t_\t_\t_\t_\t_\t_ 7\tмаздраньскои\t_\t_\t_\t_\t_\t_\t_\t_ 8\tземли\t_\t_\t_\t_\t_\t_\t_\t_ Since OldSlavNet will only add annotation to columns 4 (part of speech), 7 (parent node\u0026rsquo;s index) and 8 (dependency relation), the other columns may already be filled and will not be overwritten (e.g. if you have already added lemmatization and morphological analysis). Any comment preceding each sentence will be disregarded. A partially filled, ready-to-be-annoted input file may then also look like this:\n# source = Afanasij Nikitin’s journey beyond three seas, 7 # text = во индѣискои земли гости сѧ ставѧть по подворьемь # sent_id = 195775 1\tво\tвъ\t_\t_\t_\t_\t_\t_\t_ 2\tиндѣискои\tиндѣискыи\t_\t_\tCase=Loc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak\t_\t_\t_\t_ 3\tземли\tземля\t_\t_\tCase=Loc|Gender=Fem|Number=Sing\t_\t_\t_\t_ 4\tгости\tгость\t_\t_\tCase=Nom|Gender=Masc|Number=Plur\t_\t_\t_\t_ 5\tсѧ\tсебе\t_\t_\tCase=Acc|Number=Sing|Person=3\t_\t_\t_\t_ 6\tставѧть\tставити\t_\t_\tMood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act\t_\t_\t_\t_ 7\tпо\tпо\t_\t_\t_\t_\t_\t_\t_ 8\tподворьемь\tподворие\t_\t_\tCase=Dat|Gender=Neut|Number=Plur\t_\t_\t_\t_ # source = Afanasij Nikitin’s journey beyond three seas, 7 # text = а ѣсти варѧть на гости господарыни и постелю стелють и спѧть с гостьми # sent_id = 195118 1\tа\tа\t_\t_\t_\t_\t_\t_\t_ 2\tѣсти\tѣсти\t_\t_\tTense=Pres|VerbForm=Inf|Voice=Act\t_\t_\t_\t_ 3\tварѧть\tварити\t_\t_\tMood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act\t_\t_\t_\t_ 4\tна\tна\t_\t_\t_\t_\t_\t_\t_ 5\tгости\tгость\t_\t_\tCase=Acc|Gender=Masc|Number=Plur\t_\t_\t_\t_ 6\tгосподарыни\tгосподарыни\t_\t_\tCase=Nom|Gender=Fem|Number=Plur\t_\t_\t_\t_ 7\tи\tи\t_\t_\t_\t_\t_\t_\t_ 8\tпостелю\tпостеля\t_\t_\tCase=Acc|Gender=Fem|Number=Sing\t_\t_\t_\t_ 9\tстелють\tстьлати\t_\t_\tMood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act\t3\t_\t_\t_ 10\tи\tи\t_\t_\t_\t_\t_\t_\t_ 11\tспѧть\tсъпати\t_\t_\tMood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act\t_\t_\t_\t_ 12\tс\tсъ\t_\t_\t_\t_\t_\t_\t_ 13\tгостьми\tгость\t_\t_\tCase=Ins|Gender=Masc|Number=Plur\t_\t_\t_\t_ Convert a text file to CoNLL-U Start from a tokenized and sentencized text file containing your to-be input file, looking like the following (i.e. one sentence per line, with tokens separated by white space, including any punctuation sign):\nда тѹтъ есми жил в чебокарѣ ѕ҃ мсць да в сарѣ жил мсць в маздраньскои земли а ѿтѹды ко амили и тѹтъ жилъ есми мсць а ѿтѹды к димовантꙋ а из димовантѹ ко рѣю а тѹ ꙋбили шаꙋсенѧ алеевых детеи и внѹчатъ махметевых . и ѡнъ их проклѧлъ ино о҃ городовъ сѧ розвалило а изд рѣѧ к кашени и тѹтъ есми был мсць . а из кашени к наинѹ а из наина ко ездѣи и тѹтъ жилъ есми мсць а из диесъ къ сырчанѹ Assuming such text file is called text1 (avoid adding .txt extension to the file name), run the following:\npython3 ./scripts/preprocess/converter.py path/to/text1 This will generate a text1.conllu output ready to be annotated by OldSlavNet.\n"
 },
 {
-	"uri": "/data/",
+	"uri": "npedrazzini.github.io/OldSlavNet/data/",
 	"title": "Data",
 	"tags": [],
 	"description": "",
 	"content": "Training set: language varieties Below we report details of each text included as training data for OldSlavNet. This is to provide users who wish to replicate or improve our results with a transparent dataset breakdown.\nIf you are not satisfied with OldSlavNet\u0026rsquo;s parsing performance on your particular texts, you are very welcome to send us any suggestions (here) on how we might improve it, particularly on the basis of expert evaluation of the data themselves (e.g. distribution and representativeness of different pre-modern Slavic varieties and Church Slavonic recensions). Alternative, you may want to train your own model!\nThe following are all the texts used as training data, their language variety, and number of tokens. The proposed language classification is by no means definitive, since several texts present mixed regional features and are contained in much later manuscripts than the varieties they represent as a whole.\n   Variety Text Tokens     OCS Codex Marianus 58,269    Codex Suprasliensis 79,070    Codex Zographensis 1,098    Kiev Missal 370    Psalterium Sinaiticum 248   SCS Vita Constantini 890   RCS Vita Methodii 331   OES Primary Chronicle (Codex Laurentianus) 56,725    Suzdal Chronicle (Codex Laurentianus) 23,760    Primary Chronicle (Codex Hypathianus) 3,610    First Novgorod Chronicle (Synodal) 17,838    Kiev Chronicle (Codex Hypathianus) 544    Colophon (Mstislav\u0026rsquo;s Gospel) 259    Colophon (Ostromir Codex) 199    Missive (Archbishop of Riga) 171    Mstislav\u0026rsquo;s letter 158    Novgorod’s treaty with Jaroslav 423    Russkaja pravda 4,174    Statute of Prince Vladimir 495    Treaty (Smolensk-Riga-Gotland) 1,421    The Tale of Igor’s Campaign 2,850    Russkaja pravda 4,174    Uspenskij Sbornik (excerpts) 25,189    Varlaam Xutynskij\u0026rsquo;s Grant Charter 148   MRus Afanasij Nikitin\u0026rsquo;s \\textit{Journey} 6,842    Charter of Prince Jurij Svjatoslavich 344    Correspondence of Peter the Great 100    Domostroj 23,459    Life of Sergij of Radonezh 20,361    History of the schism (materials) 1,835    Missive (Ivan of Pskov) 339    Testament (Ivan Jur\u0026rsquo;evič Graznoj) 421    Life of Avvakum 22,835    Tale of Dracula 2,487    The tale of Luka Koločskij 906    The taking of Pskov 2,326    The tale of the fall of Constantinople 9,258    Vesti-Kuranty 1,154    Zadonščina 2,399   ONov Birchbark letters 1,965    Novgorod service book marginalia 93    Novgorodians' losses 187   ModRus SynTagRus 18,355   BCS UD Serbian-SET 17,622    "
 },
 {
-	"uri": "/docs/tag/",
+	"uri": "npedrazzini.github.io/OldSlavNet/docs/tag/",
 	"title": "Annotate new texts",
 	"tags": [],
 	"description": "",
 	"content": "Requirements All the texts to be annotated must be preprocessed as shown in the Data Preprocessing section and placed inside the folder ./test_data/tobeannotated/:\n📦ROOT ┣ 📂models ┣ 📂oldslavnet-venv ┣ 📂scripts ┣ 📂test_data ┃ ┣ 📂annotated ┃ ┣ 📂gold ┃ ┗ 📂tobeannotated ┃ ┣ 📜text1.conllu ┃ ┗ 📜text2.conllu ┣ 📂training_data ┣ 📜LICENSE ┣ 📜Makefile ┣ 📜README.md ┣ 📜requirements.txt ┣ 📜tag.sh ┗ 📜train.sh Annotate your texts From the ROOT directory run:\n./tag.sh You will be prompted to enter:\n The name of the model you want to use to tag your texts (press Enter for \u0026lsquo;OldSlavNet\u0026rsquo;) The name of the text you want to annotate (press Enter for \u0026lsquo;everything inside the folder ./test_data/tobeannotated/').  Your tagged texts will be saved under ./test_data/annotated/ with the same name as the original text:\n📦ROOT ┣ 📂models ┣ 📂oldslavnet-venv ┣ 📂scripts ┣ 📂test_data ┃ ┣ 📂annotated ┃ ┃ ┣ 📜text1.conllu ┃ ┃ ┗ 📜text2.conllu ┃ ┣ 📂gold ┃ ┗ 📂tobeannotated ┃ ┣ 📜text1.conllu ┃ ┗ 📜text2.conllu ┣ 📂training_data ┣ 📜LICENSE ┣ 📜Makefile ┣ 📜README.md ┣ 📜requirements.txt ┣ 📜tag.sh ┗ 📜train.sh "
 },
 {
-	"uri": "/contacts/",
+	"uri": "npedrazzini.github.io/OldSlavNet/contacts/",
 	"title": "Contacts",
 	"tags": [],
 	"description": "",
 	"content": "Contact us for collaborations, assistance, or suggestions for improvement:\nnilo.pedrazzini@ling-phil.ox.ac.uk or nilo.pedrazzini@gmail.com\n"
 },
 {
-	"uri": "/docs/train/",
+	"uri": "npedrazzini.github.io/OldSlavNet/docs/train/",
 	"title": "Train a new model",
 	"tags": [],
 	"description": "",
 	"content": "Requirements To train your own parser, you will need:\n train.conllu: the training data. Put this file inside the folder ./training_data/new/ dev.conllu: the development data. Put this file inside the folder ./training_data/new/ (Optional) validation and gold data: while the training script will still work without these data, it is of course good practice to test the parser\u0026rsquo;s performance on a small batch of unseen data representative of the kind of texts you may want to use the parser for. Put any number of \u0026lsquo;gold-standard\u0026rsquo; texts for which you wish to check the parser\u0026rsquo;s performance individually inside the folder ./test_data/gold/, and a copy of each of these inside ./test_data/tobeannotated/  After adding these files to the right directories, the project directory should look like the following (note the placement of train.conllu, dev.conllu, and of the gold-test data, named text1.conllu and text2.conllu):\n📦ROOT ┣ 📂models ┃ ┗ 📂OldSlavNet ┃ ┣ 📜model ┃ ┗ 📜model.params ┣ 📂oldslavnet-venv ┣ 📂scripts ┣ 📂test_data ┃ ┣ 📂annotated ┃ ┣ 📂gold ┃ ┃ ┣ 📜text1.conllu ┃ ┃ ┗ 📜text2.conllu ┃ ┗ 📂tobeannotated ┃ ┣ 📜text1.conllu ┃ ┗ 📜text2.conllu ┣ 📂training_data ┃ ┣ 📂new ┃ ┃ ┣ 📜dev.conllu ┃ ┃ ┗ 📜train.conllu ┃ ┗ 📂past ┃ ┗ 📂OldSlavNet ┃ ┣ 📜dev.conllu ┃ ┗ 📜train.conllu ┣ 📜LICENSE ┣ 📜Makefile ┣ 📜README.md ┣ 📜requirements.txt ┣ 📜tag.sh ┗ 📜train.sh Train the model From the ROOT directory, run:\n./train.sh You will be prompted to enter:\n A name for your new model (e.g. newmodel1) Your choice of hyperparameters (press Enter to keep default):  training epochs number of BiLSTM dimensions number of BiLSTM layers size of MLP hidden layer size of word embeddings size of character embeddings size of POS tag embeddings    This will:\n Create a folder under ./models/ named after the name you entered for your model, where the trained model itself (the model and model.params files) will be saved Move your training and development data from ./training_data/new/ to a new folder under ./training_data/past/ named after the name you entered for your model Train your model Annotate the texts in ./test_data/tobeannotated/, compare them with those with the same name under ./test_data/gold/ and generate a text file for each of them with performance metrics under ./models/yourmodelname/validation-output/  After the model has been trained, the project directory should look like the following:\n📦ROOT ┣ 📂models ┃ ┣ yourmodelname ┃ ┃ ┣ 📜model ┃ ┃ ┣ 📜model.params ┃ ┃ ┗ 📂validation-output ┃ ┃ ┣ 📜text1-validated.txt ┃ ┃ ┗ 📜text2-validated.txt ┃ ┗ 📂OldSlavNet ┃ ┣ 📜model ┃ ┗ 📜model.params ┣ 📂oldslavnet-venv ┣ 📂scripts ┣ 📂test_data ┣ 📂training_data ┃ ┣ 📂new ┃ ┗ 📂past ┃ ┗ 📂yourmodelname ┃ ┣ 📜dev.conllu ┃ ┗ 📜train.conllu ┃ ┗ 📂OldSlavNet ┃ ┣ 📜dev.conllu ┃ ┗ 📜train.conllu ┣ 📜LICENSE ┣ 📜Makefile ┣ 📜README.md ┣ 📜requirements.txt ┣ 📜tag.sh ┗ 📜train.sh "
 },
 {
-	"uri": "/",
+	"uri": "npedrazzini.github.io/OldSlavNet/",
 	"title": "OldSlavNet",
 	"tags": [],
 	"description": "Pre-modern Slavic PoS tagger and dependency parser",
 	"content": "OldSlavNet OldSlavNet is a generic pre-modern Slavic dependency parser, described in:\n Pedrazzini, Nilo \u0026amp; Hanne M. Eckhoff. 2021. OldSlavNet: A scalable Early Slavic dependency parser trained on modern language data. Software Impacts 100063.  @article{oldslavnet, title={OldSlavNet: A scalable Early Slavic dependency parser trained on modern language data}, author={Pedrazzini, Nilo and Eckhoff, Hanne M.}, journal={Software Impacts}, pages={100063}, year={2021}, } Version 3.0.0 Version 3.0.0 has simplified the parser\u0026rsquo;s configuration and usage.\n To install all the dependencies users only need to run a Makefile. To annotate a text or series of texts, they only need to add the pre-preocessed texts to a specific directory and run a single Shell script which by default will tag all the texts in that directory. A new Shell script has been added to train, give a name to and test your own model.  "
 },
 {
-	"uri": "/_footer/",
+	"uri": "npedrazzini.github.io/OldSlavNet/_footer/",
 	"title": "",
 	"tags": [],
 	"description": "",
 	"content": "(c) 2021 Nilo Pedrazzini, MIT Licence\n"
 },
 {
-	"uri": "/categories/",
+	"uri": "npedrazzini.github.io/OldSlavNet/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "/credits/",
+	"uri": "npedrazzini.github.io/OldSlavNet/credits/",
 	"title": "Credits",
 	"tags": [],
 	"description": "contributors and packages used by hugo-theme-docdock",
 	"content": "Contributors  Nilo Pedrazzini Hanne M. Eckhoff  Hugo DocDock Theme https://docdock.netlify.app\n"
 },
 {
-	"uri": "/tags/",
+	"uri": "npedrazzini.github.io/OldSlavNet/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",

@@ -1,0 +1,1168 @@
+# source = Vita Constantini, 14
+# text = събрaвⸯ же съборь цaрь и призвa Костaнⸯтинa философa и сътвори слꙑшaти рѣчь сию и рече
+# sent_id = 217583
+1	събрaвⸯ	събьрати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=14.6
+2	же	же	ADV	Df	_	1	discourse	_	ref=14.6
+3	съборь	съборъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	obj:dir	_	ref=14.6
+4	цaрь	цѣсарь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj:pass	_	ref=14.6
+5	и	и	CCONJ	C-	_	1	cc	_	ref=14.6
+6	призвa	призъвати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=14.6
+7	Костaнⸯтинa	константинъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	obj:dir	_	ref=14.6
+8	философa	философъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	appos	_	ref=14.6
+9	и	и	CCONJ	C-	_	1	cc	_	ref=14.6
+10	сътвори	сътворити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=14.6
+11	слꙑшaти	слꙑшати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	xcomp	_	ref=14.6
+12	рѣчь	рѣчь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	11	obj:dir	_	ref=14.6
+13	сию	сь	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	12	det	_	ref=14.6
+14	и	и	CCONJ	C-	_	1	cc	_	ref=14.6
+15	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=14.6
+
+# source = Vita Constantini, 14
+# text = вѣмⸯ те трѹдⸯнa сѹщa философе
+# sent_id = 217584
+1	вѣмⸯ	вѣдѣти	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=14.7
+2	те	тꙑ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obj:dir	_	ref=14.7
+3	трѹдⸯнa	троудьнъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	4	xcomp	_	ref=14.7
+4	сѹщa	бꙑти	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	1	xcomp	_	ref=14.7
+5	философе	философъ	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	ref=14.7
+
+# source = Vita Constantini, 14
+# text = нъ потрѣбa ѥсть тебѣ тaмо ити
+# sent_id = 217586
+1	нъ	нъ	CCONJ	C-	_	3	cc	_	ref=14.7
+2	потрѣбa	потрѣба	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	ref=14.7
+3	ѥсть	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=14.7
+4	тебѣ	тꙑ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	iobj	_	ref=14.7
+5	тaмо	тамо	ADV	Df	_	6	advmod	_	ref=14.7
+6	ити	ити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	acl	_	ref=14.7
+
+# source = Vita Constantini, 14
+# text = сїю бо рѣчⸯ не можеть инь никто испрaвити ꙗкоже тꙑ
+# sent_id = 217587
+1	сїю	сь	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	3	det	_	ref=14.8
+2	бо	бо	ADV	Df	_	5	discourse	_	ref=14.8
+3	рѣчⸯ	рѣчь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obj:dir	_	ref=14.8
+4	не	не	ADV	Df	Polarity=Neg	5	advmod	_	ref=14.8
+5	можеть	мощи	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=14.8
+6	инь	инъ	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=14.8
+7	никто	никъто	DET	Px	Case=Nom|Gender=Neut|Number=Sing	6	det	_	ref=14.8
+8	испрaвити	исправити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	xcomp	_	ref=14.8
+9	ꙗкоже	ꙗкоже	ADV	Df	_	5	advcl	_	ref=14.8
+10	тꙑ	тꙑ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	ref=14.8
+
+# source = Vita Constantini, 14
+# text = ѡтвещa же философь
+# sent_id = 217588
+1	ѡтвещa	отъвѣщати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=14.9
+2	же	же	ADV	Df	_	1	discourse	_	ref=14.9
+3	философь	философъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=14.9
+
+# source = Vita Constantini, 14
+# text = и трꙋдⸯнь сꙑ и болⸯнь тѣломь съ рaдостию идѹ тaмо aще имaють бꙋкⸯвꙑ въ ѥзꙑкь свои
+# sent_id = 217589
+1	и	и	CCONJ	C-	_	2	cc	_	ref=14.9
+2	трꙋдⸯнь	троудьнъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	3	xcomp	_	ref=14.9
+3	сꙑ	бꙑти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	9	advcl	_	ref=14.9
+4	и	и	CCONJ	C-	_	2	cc	_	ref=14.9
+5	болⸯнь	больнъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	2	conj	_	ref=14.9
+6	тѣломь	тѣло	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	5	obl	_	ref=14.9
+7	съ	съ	ADP	R-	_	8	case	_	ref=14.9
+8	рaдостию	радость	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	9	obl	_	ref=14.9
+9	идѹ	ити	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=14.9
+10	тaмо	тамо	ADV	Df	_	9	advmod	_	ref=14.9
+11	aще	аще	SCONJ	G-	_	12	mark	_	ref=14.9
+12	имaють	имати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	ref=14.9
+13	бꙋкⸯвꙑ	боукꙑ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	12	obj:dir	_	ref=14.9
+14	въ	въ	ADP	R-	_	15	case	_	ref=14.9
+15	ѥзꙑкь	ѩзꙑкъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	13	nmod	_	ref=14.9
+16	свои	свои	ADJ	Pt	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	15	nmod	_	ref=14.9
+
+# source = Vita Constantini, 14
+# text = глaголa же цaрь къ нѥмѹ
+# sent_id = 217591
+1	глaголa	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=14.10
+2	же	же	ADV	Df	_	1	discourse	_	ref=14.10
+3	цaрь	цѣсарь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=14.10
+4	къ	къ	ADP	R-	_	5	case	_	ref=14.10
+5	нѥмѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	ref=14.10
+
+# source = Vita Constantini, 14
+# text = дѣдь мои и ѡтьць мои и инїи мнѡзїи искaвⸯше того нѣсѹть ѡбрѣли
+# sent_id = 217592
+1	дѣдь	дѣдъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	ref=14.10
+2	мои	мои	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=1|Poss=Yes	1	nmod	_	ref=14.10
+3	и	и	CCONJ	C-	_	1	cc	_	ref=14.10
+4	ѡтьць	отьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	ref=14.10
+5	мои	мои	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=1|Poss=Yes	4	nmod	_	ref=14.10
+6	и	и	CCONJ	C-	_	1	cc	_	ref=14.10
+7	инїи	инъ	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	8	det	_	ref=14.10
+8	мнѡзїи	мъногъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	1	conj	_	ref=14.10
+9	искaвⸯше	искати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	12	advcl	_	ref=14.10
+10	того	тъ	ADJ	Pd	Case=Gen|Gender=Neut|Number=Sing	9	iobj	_	ref=14.10
+11	нѣсѹть	не.бꙑти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	_	ref=14.10
+12	ѡбрѣли	обрѣсти	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=14.10
+
+# source = Vita Constantini, 14
+# text = то кaко aзь могꙋ то ѡбрѣсти
+# sent_id = 217593
+1	то	то	ADV	Df	_	4	advmod	_	ref=14.10
+2	кaко	како	ADV	Du	PronType=Int	4	advmod	_	ref=14.10
+3	aзь	азъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	ref=14.10
+4	могꙋ	мощи	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=14.10
+5	то	тъ	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	6	obj:dir	_	ref=14.10
+6	ѡбрѣсти	обрѣсти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	xcomp	_	ref=14.10
+
+# source = Vita Constantini, 0
+# text = Пaметь и житїе блaженaго ѹчителꙗ нaшего Костaнⸯтинa философa пръвaго нaстaвⸯникa словенⸯскꙋ ѥзꙑкꙋ
+# sent_id = 216258
+1	Пaметь	памѧть	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=0.
+2	и	и	CCONJ	C-	_	1	cc	_	ref=0.
+3	житїе	житиѥ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	1	conj	_	ref=0.
+4	блaженaго	блаженъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	5	amod	_	ref=0.
+5	ѹчителꙗ	оучитель	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	ref=0.
+6	нaшего	нашь	ADJ	Ps	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes	5	nmod	_	ref=0.
+7	Костaнⸯтинa	константинъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	appos	_	ref=0.
+8	философa	философъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	appos	_	ref=0.
+9	пръвaго	прьвъ	NUM	Ma	Case=Gen|Gender=Masc|Number=Sing	10	nummod	_	ref=0.
+10	нaстaвⸯникa	наставьникъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	ref=0.
+11	словенⸯскꙋ	словѣньскъ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	12	amod	_	ref=0.
+12	ѥзꙑкꙋ	ѩзꙑкъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	10	nmod	_	ref=0.
+
+# source = Vita Constantini, 0
+# text = блaгослови
+# sent_id = 216260
+1	блaгослови	благословити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=0.
+
+# source = Vita Constantini, 14
+# text = Веселещѹ же се ѡ боѕѣ философꙋ пaкꙑ дрꙋгa рѣчь приспѣ и трꙋдь не мьни пръвꙑихь
+# sent_id = 217572
+1	Веселещѹ	веселити	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	10	advcl	_	ref=14.1
+2	же	же	ADV	Df	_	10	discourse	_	ref=14.1
+3	се	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	1	aux	_	ref=14.1
+4	ѡ	о	ADP	R-	_	5	case	_	ref=14.1
+5	боѕѣ	богъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	1	obl	_	ref=14.1
+6	философꙋ	философъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	nsubj	_	ref=14.1
+7	пaкꙑ	пакꙑ	ADV	Df	_	10	advmod	_	ref=14.1
+8	дрꙋгa	дроугъ	ADJ	Mo	Case=Nom|Gender=Fem|Number=Sing	9	nmod	_	ref=14.1
+9	рѣчь	рѣчь	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	ref=14.1
+10	приспѣ	приспѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=14.1
+11	и	и	CCONJ	C-	_	9	cc	_	ref=14.1
+12	трꙋдь	троудъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	conj	_	ref=14.1
+13	не	не	ADV	Df	Polarity=Neg	14	advmod	_	ref=14.1
+14	мьни	мьнии	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	12	amod	_	ref=14.1
+15	пръвꙑихь	прьвъ	ADJ	Mo	Case=Gen|Gender=Masc|Number=Plur	14	iobj	_	ref=14.1
+
+# source = Vita Constantini, 14
+# text = Рaстислaвⸯ бо морaвⸯскꙑ кнеѕь богомь ѹстимь съвѣть сътвори съ кнеѕꙑ своими морaвлꙗни и послa къ цaрѹ Михaилꙋ глaголѥ
+# sent_id = 217574
+1	Рaстислaвⸯ	растиславъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=14.2
+2	бо	бо	ADV	Df	_	8	discourse	_	ref=14.2
+3	морaвⸯскꙑ	моравьскъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=14.2
+4	кнеѕь	кънѧѕь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	ref=14.2
+5	богомь	богъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	6	obl:agent	_	ref=14.2
+6	ѹстимь	оустити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Pass	8	advcl	_	ref=14.2
+7	съвѣть	съвѣтъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obj:dir	_	ref=14.2
+8	сътвори	сътворити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=14.2
+9	съ	съ	ADP	R-	_	10	case	_	ref=14.2
+10	кнеѕꙑ	кънѧѕь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	8	obl	_	ref=14.2
+11	своими	свои	ADJ	Pt	Case=Ins|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	10	nmod	_	ref=14.2
+12	морaвлꙗни	моравлꙗнинъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	10	appos	_	ref=14.2
+13	и	и	CCONJ	C-	_	8	cc	_	ref=14.2
+14	послa	посълати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	ref=14.2
+15	къ	къ	ADP	R-	_	16	case	_	ref=14.2
+16	цaрѹ	цѣсарь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	14	obl	_	ref=14.2
+17	Михaилꙋ	михаилъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	16	appos	_	ref=14.2
+18	глaголѥ	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	14	advcl	_	ref=14.2
+
+# source = Vita Constantini, 14
+# text = людемь нaшимь погaнⸯствa се ѡтврьгⸯшимь и по христїaнⸯскꙑ се зaконь дрьжещемь ѹчителꙗ не имaмꙑ тaкого иже ни бꙑ въ свои ѥзꙑкь истѹю вѣрꙋ христїaнⸯскꙋю скaзaль дa се бꙑше и инꙑ стрaнꙑ зреще подобили нaмь
+# sent_id = 217575
+1	людемь	людиѥ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	5	nsubj	_	ref=14.3
+2	нaшимь	нашь	ADJ	Ps	Case=Dat|Gender=Masc|Number=Plur|Person=1|Poss=Yes	1	nmod	_	ref=14.3
+3	погaнⸯствa	поганьство	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	5	iobj	_	ref=14.3
+4	се	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	5	aux	_	ref=14.3
+5	ѡтврьгⸯшимь	отъврѣщи	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	14	advcl	_	ref=14.3
+6	и	и	CCONJ	C-	_	5	cc	_	ref=14.3
+7	по	по	ADP	R-	_	10	case	_	ref=14.3
+8	христїaнⸯскꙑ	крьстиꙗньскъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	10	amod	_	ref=14.3
+9	се	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	11	aux	_	ref=14.3
+10	зaконь	законъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	11	obl	_	ref=14.3
+11	дрьжещемь	дрьжати	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	5	conj	_	ref=14.3
+12	ѹчителꙗ	оучитель	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	14	obj:dir	_	ref=14.3
+13	не	не	ADV	Df	Polarity=Neg	14	advmod	_	ref=14.3
+14	имaмꙑ	имати	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=14.3
+15	тaкого	таковъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	12	amod	_	ref=14.3
+16	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	25	nsubj	_	ref=14.3
+17	ни	мꙑ	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	25	iobj	_	ref=14.3
+18	бꙑ	бꙑти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	25	aux	_	ref=14.3
+19	въ	въ	ADP	R-	_	21	case	_	ref=14.3
+20	свои	свои	ADJ	Pt	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	21	nmod	_	ref=14.3
+21	ѥзꙑкь	ѩзꙑкъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	25	obl	_	ref=14.3
+22	истѹю	истъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	23	amod	_	ref=14.3
+23	вѣрꙋ	вѣра	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	25	obj:dir	_	ref=14.3
+24	христїaнⸯскꙋю	крьстиꙗньскъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	23	amod	_	ref=14.3
+25	скaзaль	съказати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	15	advcl	_	ref=14.3
+26	дa	да	SCONJ	G-	_	33	mark	_	ref=14.3
+27	се	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	33	aux	_	ref=14.3
+28	бꙑше	бꙑти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	33	aux	_	ref=14.3
+29	и	и	ADV	Df	_	31	advmod	_	ref=14.3
+30	инꙑ	инъ	DET	Px	Case=Nom|Gender=Fem|Number=Plur	31	det	_	ref=14.3
+31	стрaнꙑ	страна	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	33	nsubj	_	ref=14.3
+32	зреще	зьрѣти	VERB	V-	Case=Nom|Gender=Fem|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	33	advcl	_	ref=14.3
+33	подобили	подобити	VERB	V-	Aspect=Res|Case=Nom|Gender=Fem|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	25	advcl	_	ref=14.3
+34	нaмь	мꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=1|PronType=Prs	33	iobj	_	ref=14.3
+
+# source = Vita Constantini, 14
+# text = то посли нꙑ влaдꙑко епископa и ѹчителꙗ тaкого
+# sent_id = 217579
+1	то	то	ADV	Df	_	2	advmod	_	ref=14.4
+2	посли	посълати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=14.4
+3	нꙑ	мꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=1|PronType=Prs	2	iobj	_	ref=14.4
+4	влaдꙑко	владꙑка	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	ref=14.4
+5	епископa	епискоупъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	obj:dir	_	ref=14.4
+6	и	и	CCONJ	C-	_	5	cc	_	ref=14.4
+7	ѹчителꙗ	оучитель	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	conj	_	ref=14.4
+8	тaкого	таковъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	5	amod	_	ref=14.4
+
+# source = Vita Constantini, 14
+# text = ѡть вaсь бо нa вⸯсе стрaнꙑ добрь зaконь исходить
+# sent_id = 217582
+1	ѡть	отъ	ADP	R-	_	2	case	_	ref=14.5
+2	вaсь	вꙑ	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	9	obl	_	ref=14.5
+3	бо	бо	ADV	Df	_	9	discourse	_	ref=14.5
+4	нa	на	ADP	R-	_	6	case	_	ref=14.5
+5	вⸯсе	вьсь	DET	Px	Case=Acc|Gender=Fem|Number=Plur	6	det	_	ref=14.5
+6	стрaнꙑ	страна	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	9	obl	_	ref=14.5
+7	добрь	добръ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	8	amod	_	ref=14.5
+8	зaконь	законъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	ref=14.5
+9	исходить	исходити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=14.5
+
+# source = Vita Constantini, 14
+# text = философⸯ же рече
+# sent_id = 217594
+1	философⸯ	философъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=14.11
+2	же	же	ADV	Df	_	3	discourse	_	ref=14.11
+3	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=14.11
+
+# source = Vita Constantini, 14
+# text = то кто можеть нa водꙋ бесѣдꙋ писaти и ѥретичьско име себе ѡбрѣсти
+# sent_id = 217595
+1	то	то	ADV	Df	_	3	advmod	_	ref=14.11
+2	кто	къто	ADJ	Px	Case=Nom|Number=Sing	3	nsubj	_	ref=14.11
+3	можеть	мощи	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=14.11
+4	нa	на	ADP	R-	_	5	case	_	ref=14.11
+5	водꙋ	вода	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	ref=14.11
+6	бесѣдꙋ	бесѣда	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj:dir	_	ref=14.11
+7	писaти	пьсати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=14.11
+8	и	и	CCONJ	C-	_	7	cc	_	ref=14.11
+9	ѥретичьско	еретичьскъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	10	amod	_	ref=14.11
+10	име	имѧ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	12	obj:dir	_	ref=14.11
+11	себе	себе	PRON	Pk	Case=Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	12	obl	_	ref=14.11
+12	ѡбрѣсти	обрѣсти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	conj	_	ref=14.11
+
+# source = Vita Constantini, 14
+# text = ѡтвещa ѥмѹ пaкꙑ цaрь и съ Вaрⸯдою и ѹмомь своимь
+# sent_id = 217596
+1	ѡтвещa	отъвѣщати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=14.12
+2	ѥмѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	ref=14.12
+3	пaкꙑ	пакꙑ	ADV	Df	_	1	advmod	_	ref=14.12
+4	цaрь	цѣсарь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=14.12
+5	и	и	CCONJ	C-	_	7	cc	_	ref=14.12
+6	съ	съ	ADP	R-	_	7	case	_	ref=14.12
+7	Вaрⸯдою	варъда	PROPN	Ne	Case=Ins|Gender=Masc|Number=Sing	1	obl	_	ref=14.12
+8	и	и	CCONJ	C-	_	7	cc	_	ref=14.12
+9	ѹмомь	оумъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	7	conj	_	ref=14.12
+10	своимь	свои	ADJ	Pt	Case=Ins|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	9	nmod	_	ref=14.12
+
+# source = Vita Constantini, 14
+# text = aще тꙑ хощеши то можеть то тебѣ богъ дaти иже и дaѥть въсѣмь просещимь бе сѹмнѣнїa и ѡтврьзaѥть тлькѹщимь
+# sent_id = 217597
+1	aще	аще	SCONJ	G-	_	3	mark	_	ref=14.12
+2	тꙑ	тꙑ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	ref=14.12
+3	хощеши	хотѣти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	ref=14.12
+4	то	то	ADV	Df	_	5	advmod	_	ref=14.12
+5	можеть	мощи	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=14.12
+6	то	тъ	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	9	obj:dir	_	ref=14.12
+7	тебѣ	тꙑ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	iobj	_	ref=14.12
+8	богъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=14.12
+9	дaти	дати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	xcomp	_	ref=14.12
+10	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	12	nsubj	_	ref=14.12
+11	и	и	ADV	Df	_	12	advmod	_	ref=14.12
+12	дaѥть	даꙗти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl	_	ref=14.12
+13	въсѣмь	вьсь	DET	Px	Case=Dat|Gender=Masc|Number=Plur	14	det	_	ref=14.12
+14	просещимь	просити	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	12	iobj	_	ref=14.12
+15	бе	без	ADP	R-	_	16	case	_	ref=14.12
+16	сѹмнѣнїa	сѫмьнѣниѥ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	14	obl	_	ref=14.12
+17	и	и	CCONJ	C-	_	12	cc	_	ref=14.12
+18	ѡтврьзaѥть	отврьзати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	ref=14.12
+19	тлькѹщимь	тлъкнѫти	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	18	advcl	_	ref=14.12
+
+# source = Vita Constantini, 14
+# text = шьдь же философь по прьвомꙋ ѡбꙑчaю нa молитвꙋ се нaложи и съ инѣми поспѣшⸯникꙑ
+# sent_id = 217600
+1	шьдь	ити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	10	advcl	_	ref=14.13
+2	же	же	ADV	Df	_	10	discourse	_	ref=14.13
+3	философь	философъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	ref=14.13
+4	по	по	ADP	R-	_	6	case	_	ref=14.13
+5	прьвомꙋ	прьвъ	ADJ	Mo	Case=Dat|Gender=Masc|Number=Sing	6	nmod	_	ref=14.13
+6	ѡбꙑчaю	обꙑчаи	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	10	obl	_	ref=14.13
+7	нa	на	ADP	R-	_	8	case	_	ref=14.13
+8	молитвꙋ	молитва	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	ref=14.13
+9	се	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	10	aux	_	ref=14.13
+10	нaложи	наложити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=14.13
+11	и	и	ADV	Df	_	12	advmod	_	ref=14.13
+12	съ	съ	ADP	R-	_	14	case	_	ref=14.13
+13	инѣми	инъ	DET	Px	Case=Ins|Gender=Masc|Number=Plur	14	det	_	ref=14.13
+14	поспѣшⸯникꙑ	поспѣшьникъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	10	obl	_	ref=14.13
+
+# source = Vita Constantini, 14
+# text = въскорѣ же ѥ ѥмѹ богъ ꙗви послѹшaѥ молитвь своихь рaбь
+# sent_id = 217601
+1	въскорѣ	въскорѣ	ADV	Df	Degree=Pos	6	advmod	_	ref=14.14
+2	же	же	ADV	Df	_	6	discourse	_	ref=14.14
+3	ѥ	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	ref=14.14
+4	ѥмѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	ref=14.14
+5	богъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=14.14
+6	ꙗви	авити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=14.14
+7	послѹшaѥ	послоушати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	ref=14.14
+8	молитвь	молитва	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	7	iobj	_	ref=14.14
+9	своихь	свои	ADJ	Pt	Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	10	nmod	_	ref=14.14
+10	рaбь	рабъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	ref=14.14
+
+# source = Vita Constantini, 14
+# text = и aбиѥ сложи писменa и нaчеть бесѣдꙋ писaти еѵaггелⸯскꙋ
+# sent_id = 218010
+1	и	и	CCONJ	C-	_	3	cc	_	ref=14.14
+2	aбиѥ	абиѥ	ADV	Df	_	3	advmod	_	ref=14.14
+3	сложи	съложити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=14.14
+4	писменa	писмѧ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	3	obj:dir	_	ref=14.14
+5	и	и	CCONJ	C-	_	3	cc	_	ref=14.14
+6	нaчеть	начѧти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=14.14
+7	бесѣдꙋ	бесѣда	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obj:dir	_	ref=14.14
+8	писaти	пьсати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	6	xcomp	_	ref=14.14
+9	еѵaггелⸯскꙋ	евангельскъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	7	amod	_	ref=14.14
+
+# source = Vita Constantini, 14
+# text = испрьвa бѣ слово и слово бѣ ѹ богa и богъ бѣ слово и прочеѥ
+# sent_id = 217603
+1	испрьвa	испрьва	ADV	Df	_	2	advmod	_	ref=14.14
+2	бѣ	бꙑти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=14.14
+3	слово	слово	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	ref=14.14
+4	и	и	CCONJ	C-	_	2	cc	_	ref=14.14
+5	слово	слово	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=14.14
+6	бѣ	бꙑти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=14.14
+7	ѹ	оу	ADP	R-	_	8	case	_	ref=14.14
+8	богa	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	xcomp	_	ref=14.14
+9	и	и	CCONJ	C-	_	2	cc	_	ref=14.14
+10	богъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	ref=14.14
+11	бѣ	бꙑти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=14.14
+12	слово	слово	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	11	xcomp	_	ref=14.14
+13	и	и	CCONJ	C-	_	2	cc	_	ref=14.14
+14	прочеѥ	прочеѥ	ADV	Df	_	2	conj	_	ref=14.14
+
+# source = Vita Constantini, 14
+# text = възвесели же се цaрь и богa прослaви съ своими съвѣтⸯникꙑ
+# sent_id = 217604
+1	възвесели	възвеселити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=14.15
+2	же	же	ADV	Df	_	1	discourse	_	ref=14.15
+3	се	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	1	aux	_	ref=14.15
+4	цaрь	цѣсарь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=14.15
+5	и	и	CCONJ	C-	_	1	cc	_	ref=14.15
+6	богa	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	obj:dir	_	ref=14.15
+7	прослaви	прославити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=14.15
+8	съ	съ	ADP	R-	_	10	case	_	ref=14.15
+9	своими	свои	ADJ	Pt	Case=Ins|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	10	nmod	_	ref=14.15
+10	съвѣтⸯникꙑ	съвѣтьникъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	7	obl	_	ref=14.15
+
+# source = Vita Constantini, 14
+# text = и послa ѥго съ дaрꙑ мнѡгꙑ писaвь къ Рaстислaвꙋ епистолїѹ сице
+# sent_id = 218011
+1	и	и	CCONJ	C-	_	2	cc	_	ref=14.15
+2	послa	посълати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=14.15
+3	ѥго	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj:dir	_	ref=14.15
+4	съ	съ	ADP	R-	_	5	case	_	ref=14.15
+5	дaрꙑ	даръ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	2	obl	_	ref=14.15
+6	мнѡгꙑ	мъногъ	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	5	amod	_	ref=14.15
+7	писaвь	пьсати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	2	advcl	_	ref=14.15
+8	къ	къ	ADP	R-	_	9	case	_	ref=14.15
+9	Рaстислaвꙋ	растиславъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	ref=14.15
+10	епистолїѹ	епистолиꙗ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj:dir	_	ref=14.15
+11	сице	сице	ADV	Df	_	7	advmod	_	ref=14.15
+
+# source = Vita Constantini, 14
+# text = богъ же велить въсaкомѹ дa бꙑ въ рaзѹмь истинⸯнꙑи пришьль и нa болⸯши се чинь стежaль
+# sent_id = 217606
+1	богъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=14.16
+2	же	же	ADV	Df	_	3	discourse	_	ref=14.16
+3	велить	велѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=14.16
+4	въсaкомѹ	вьсꙗкъ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	3	iobj	_	ref=14.16
+5	дa	да	SCONJ	G-	_	10	mark	_	ref=14.16
+6	бꙑ	бꙑти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	aux	_	ref=14.16
+7	въ	въ	ADP	R-	_	8	case	_	ref=14.16
+8	рaзѹмь	разоумъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	10	obl	_	ref=14.16
+9	истинⸯнꙑи	истиньнъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	8	amod	_	ref=14.16
+10	пришьль	приити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	3	ccomp	_	ref=14.16
+11	и	и	CCONJ	C-	_	10	cc	_	ref=14.16
+12	нa	на	ADP	R-	_	15	case	_	ref=14.16
+13	болⸯши	болии	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing|Strength=Strong	15	amod	_	ref=14.16
+14	се	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	16	aux	_	ref=14.16
+15	чинь	чинъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	16	obl	_	ref=14.16
+16	стежaль	сътѧжати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	10	conj	_	ref=14.16
+
+# source = Vita Constantini, 14
+# text = видѣвь вѣрꙋ твою и подвигь сътвори нꙑнꙗ въ нaшa лѣтa ꙗвль бꙋкⸯвꙑ въ вaшь ѥзꙑкь ѥгоже не бѣ испрьвa бꙑло нъ тъкмо въ прьвa лѣтa дa и вꙑи причⸯтете се великꙑхь ѥзꙑцѣхⸯ иже слaветь богa своимь ѥзꙑкомь
+# sent_id = 218012
+1	видѣвь	видѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	6	advcl	_	ref=14.16
+2	вѣрꙋ	вѣра	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj:dir	_	ref=14.16
+3	твою	твои	ADJ	Ps	Case=Acc|Gender=Fem|Number=Sing|Person=2|Poss=Yes	2	nmod	_	ref=14.16
+4	и	и	CCONJ	C-	_	2	cc	_	ref=14.16
+5	подвигь	подвигъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	conj	_	ref=14.16
+6	сътвори	сътворити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=14.16
+7	нꙑнꙗ	нꙑнѣ	ADV	Df	_	6	advmod	_	ref=14.16
+8	въ	въ	ADP	R-	_	10	case	_	ref=14.16
+9	нaшa	нашь	ADJ	Ps	Case=Acc|Gender=Neut|Number=Plur|Person=1|Poss=Yes	10	nmod	_	ref=14.16
+10	лѣтa	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	6	obl	_	ref=14.16
+11	ꙗвль	авити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	6	advcl	_	ref=14.16
+12	бꙋкⸯвꙑ	боукꙑ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	11	obj:dir	_	ref=14.16
+13	въ	въ	ADP	R-	_	15	case	_	ref=14.16
+14	вaшь	вашь	ADJ	Ps	Case=Acc|Gender=Masc|Number=Sing|Person=2|Poss=Yes	15	nmod	_	ref=14.16
+15	ѥзꙑкь	ѩзꙑкъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	12	nmod	_	ref=14.16
+16	ѥгоже	иже	PRON	Pr	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	20	nsubj	_	ref=14.16
+17	не	не	ADV	Df	Polarity=Neg	20	advmod	_	ref=14.16
+18	бѣ	бꙑти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	aux	_	ref=14.16
+19	испрьвa	испрьва	ADV	Df	_	20	advmod	_	ref=14.16
+20	бꙑло	бꙑти	VERB	V-	Aspect=Res|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	15	acl	_	ref=14.16
+21	нъ	нъ	CCONJ	C-	_	20	cc	_	ref=14.16
+22	тъкмо	тъкъмо	ADV	Df	_	23	advmod	_	ref=14.16
+23	въ	въ	ADP	R-	_	25	case	_	ref=14.16
+24	прьвa	прьвъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Strong	25	amod	_	ref=14.16
+25	лѣтa	лѣто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	20	conj	_	ref=14.16
+26	дa	да	SCONJ	G-	_	29	mark	_	ref=14.16
+27	и	и	ADV	Df	_	28	advmod	_	ref=14.16
+28	вꙑи	вꙑ	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	29	nsubj	_	ref=14.16
+29	причⸯтете	причисти	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	ref=14.16
+30	се	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	29	aux	_	ref=14.16
+31	великꙑхь	великъ	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	32	amod	_	ref=14.16
+32	ѥзꙑцѣхⸯ	ѩзꙑкъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Plur	29	iobj	_	ref=14.16
+33	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	34	nsubj	_	ref=14.16
+34	слaветь	славити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	acl	_	ref=14.16
+35	богa	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	34	obj:dir	_	ref=14.16
+36	своимь	свои	ADJ	Pt	Case=Ins|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	37	nmod	_	ref=14.16
+37	ѥзꙑкомь	ѩзꙑкъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	34	obl	_	ref=14.16
+
+# source = Vita Constantini, 14
+# text = и тѹ ти послaхѡмь и того ѥмꙋже ѥ богъ ꙗви мѹжa чьстивa и блaговѣрнa книжнa ѕѣло философa
+# sent_id = 217614
+1	и	и	CCONJ	C-	_	4	cc	_	ref=14.17
+2	тѹ	тоу	ADV	Df	_	4	advmod	_	ref=14.17
+3	ти	тꙑ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	iobj	_	ref=14.17
+4	послaхѡмь	посълати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=14.17
+5	и	и	ADV	Df	_	6	advmod	_	ref=14.17
+6	того	тъ	ADJ	Pd	Case=Gen|Gender=Masc|Number=Sing	4	obj:dir	_	ref=14.17
+7	ѥмꙋже	иже	PRON	Pr	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	10	iobj	_	ref=14.17
+8	ѥ	и	PRON	Pp	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	10	obj:dir	_	ref=14.17
+9	богъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	ref=14.17
+10	ꙗви	авити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	acl	_	ref=14.17
+11	мѹжa	мѫжь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	appos	_	ref=14.17
+12	чьстивa	чьстивъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	11	amod	_	ref=14.17
+13	и	и	CCONJ	C-	_	12	cc	_	ref=14.17
+14	блaговѣрнa	благовѣрьнъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	12	conj	_	ref=14.17
+15	книжнa	кънижьнъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	11	amod	_	ref=14.17
+16	ѕѣло	ѕѣло	ADV	Df	_	15	advmod	_	ref=14.17
+17	философa	философъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	appos	_	ref=14.17
+
+# source = Vita Constantini, 14
+# text = и съ прїими дaрь болⸯшїи и чьстнѣи пaче въсaко злaтa и сребрa и кaменїa дрaгaго и богaтьствa прѣходещaго
+# sent_id = 217618
+1	и	и	CCONJ	C-	_	3	cc	_	ref=14.18
+2	съ	сь	DET	Pd	Case=Acc|Gender=Masc|Number=Sing	4	det	_	ref=14.18
+3	прїими	приѩти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=14.18
+4	дaрь	даръ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obj:dir	_	ref=14.18
+5	болⸯшїи	болии	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=14.18
+6	и	и	CCONJ	C-	_	5	cc	_	ref=14.18
+7	чьстнѣи	чьстьнъ	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing|Strength=Weak	5	conj	_	ref=14.18
+8	пaче	паче	ADV	Df	Degree=Cmp	5	advmod	_	ref=14.18
+9	въсaко	вьсꙗкъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	10	amod	_	ref=14.18
+10	злaтa	злато	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	5	iobj	_	ref=14.18
+11	и	и	CCONJ	C-	_	10	cc	_	ref=14.18
+12	сребрa	сьребро	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	10	conj	_	ref=14.18
+13	и	и	CCONJ	C-	_	10	cc	_	ref=14.18
+14	кaменїa	камениѥ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	10	conj	_	ref=14.18
+15	дрaгaго	драгъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	14	amod	_	ref=14.18
+16	и	и	CCONJ	C-	_	10	cc	_	ref=14.18
+17	богaтьствa	богатьство	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	10	conj	_	ref=14.18
+18	прѣходещaго	прѣходити	VERB	V-	Case=Gen|Gender=Neut|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	17	acl	_	ref=14.18
+
+# source = Vita Constantini, 14
+# text = подвигни се с нимь спѣшно и ѹтврьди рѣчь всѣмь срьдцемь възꙑскaти богa
+# sent_id = 217619
+1	подвигни	подвигнѫти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=14.19
+2	се	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	1	aux	_	ref=14.19
+3	с	съ	ADP	R-	_	4	case	_	ref=14.19
+4	нимь	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	ref=14.19
+5	спѣшно	спѣшьнъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	1	advmod	_	ref=14.19
+6	и	и	CCONJ	C-	_	1	cc	_	ref=14.19
+7	ѹтврьди	оутврьдити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=14.19
+8	рѣчь	рѣчь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj:dir	_	ref=14.19
+9	всѣмь	вьсь	DET	Px	Case=Ins|Gender=Neut|Number=Sing	10	det	_	ref=14.19
+10	срьдцемь	срьдьце	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	11	obl	_	ref=14.19
+11	възꙑскaти	възискати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	acl	_	ref=14.19
+12	богa	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	11	iobj	_	ref=14.19
+
+# source = Vita Constantini, 14
+# text = ѡбⸯщaго спaсенїa не ѡтрини
+# sent_id = 218013
+1	ѡбⸯщaго	обьщь	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	2	amod	_	ref=14.19
+2	спaсенїa	съпасениѥ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	4	obj:dir	_	ref=14.19
+3	не	не	ADV	Df	Polarity=Neg	4	advmod	_	ref=14.19
+4	ѡтрини	отъринѫти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=14.19
+
+# source = Vita Constantini, 14
+# text = нъ въсе подвигни не лѣнити се нъ ѥти се по истинⸯнꙑ пѹтⸯ дa и тꙑ приведь ѥ подвигомь твоимь въ божїи рaзꙋмь прїимеши свою мъздѹ въ того мѣсто и въ сь вѣкь и въ бꙋдꙋщи зa вⸯсе дѹше хотещеѥ вѣровaти въ Христa богa нaшего ѡть нꙑнꙗ и до конⸯчинꙑ и пaметь свою ѡстaвлꙗѥ прочимь родомь подобно великомѹ цaрꙋ Конⸯстaнⸯтинꙋ
+# sent_id = 217620
+1	нъ	нъ	CCONJ	C-	_	3	cc	_	ref=14.19
+2	въсе	вьсь	ADJ	Px	Case=Acc|Gender=Masc|Number=Plur	3	obj:dir	_	ref=14.19
+3	подвигни	подвигнѫти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=14.19
+4	не	не	ADV	Df	Polarity=Neg	5	advmod	_	ref=14.19
+5	лѣнити	лѣнити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=14.19
+6	се	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	5	aux	_	ref=14.19
+7	нъ	нъ	CCONJ	C-	_	5	cc	_	ref=14.19
+8	ѥти	ѩти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	conj	_	ref=14.19
+9	се	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	8	aux	_	ref=14.19
+10	по	по	ADP	R-	_	12	case	_	ref=14.19
+11	истинⸯнꙑ	истиньнъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	12	amod	_	ref=14.19
+12	пѹтⸯ	пѫть	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	ref=14.19
+13	дa	да	SCONJ	G-	_	23	mark	_	ref=14.19
+14	и	и	ADV	Df	_	15	advmod	_	ref=14.19
+15	тꙑ	тꙑ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	23	nsubj	_	ref=14.19
+16	приведь	привести	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	23	advcl	_	ref=14.19
+17	ѥ	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	16	obj:dir	_	ref=14.19
+18	подвигомь	подвигъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	16	obl	_	ref=14.19
+19	твоимь	твои	ADJ	Ps	Case=Ins|Gender=Masc|Number=Sing|Person=2|Poss=Yes	18	nmod	_	ref=14.19
+20	въ	въ	ADP	R-	_	22	case	_	ref=14.19
+21	божїи	божии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	ref=14.19
+22	рaзꙋмь	разоумъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	16	obl	_	ref=14.19
+23	прїимеши	приѩти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	ref=14.19
+24	свою	свои	ADJ	Pt	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	25	nmod	_	ref=14.19
+25	мъздѹ	мьзда	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	23	obj:dir	_	ref=14.19
+26	въ	въ	ADP	R-	_	28	case	_	ref=14.19
+27	того	тъ	DET	Pd	Case=Gen|Gender=Neut|Number=Sing	28	det	_	ref=14.19
+28	мѣсто	мѣсто	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	23	obl	_	ref=14.19
+29	и	и	CCONJ	C-	_	32	cc	_	ref=14.19
+30	въ	въ	ADP	R-	_	32	case	_	ref=14.19
+31	сь	сь	DET	Pd	Case=Acc|Gender=Masc|Number=Sing	32	det	_	ref=14.19
+32	вѣкь	вѣкъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	23	obl	_	ref=14.19
+33	и	и	CCONJ	C-	_	32	cc	_	ref=14.19
+34	въ	въ	ADP	R-	_	35	case	_	ref=14.19
+35	бꙋдꙋщи	бꙑти	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Strength=Weak|Tense=Fut|VerbForm=Part|Voice=Act	32	conj	_	ref=14.19
+36	зa	за	ADP	R-	_	38	case	_	ref=14.19
+37	вⸯсе	вьсь	DET	Px	Case=Acc|Gender=Fem|Number=Plur	38	det	_	ref=14.19
+38	дѹше	доуша	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	23	obl	_	ref=14.19
+39	хотещеѥ	хотѣти	VERB	V-	Case=Acc|Gender=Fem|Number=Plur|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	38	acl	_	ref=14.19
+40	вѣровaти	вѣровати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	39	xcomp	_	ref=14.19
+41	въ	въ	ADP	R-	_	42	case	_	ref=14.19
+42	Христa	христ(ос)ъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	40	obl	_	ref=14.19
+43	богa	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	42	appos	_	ref=14.19
+44	нaшего	нашь	ADJ	Ps	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes	43	nmod	_	ref=14.19
+45	ѡть	отъ	ADP	R-	_	40	advmod	_	ref=14.19
+46	нꙑнꙗ	нꙑнѣ	ADV	Df	_	45	advmod	_	ref=14.19
+47	и	и	CCONJ	C-	_	45	cc	_	ref=14.19
+48	до	до	ADP	R-	_	49	case	_	ref=14.19
+49	конⸯчинꙑ	коньчина	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	45	conj	_	ref=14.19
+50	и	и	CCONJ	C-	_	23	cc	_	ref=14.19
+51	пaметь	памѧть	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	53	obj:dir	_	ref=14.19
+52	свою	свои	ADJ	Pt	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	51	nmod	_	ref=14.19
+53	ѡстaвлꙗѥ	оставлꙗти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	23	conj	_	ref=14.19
+54	прочимь	прочь	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	55	amod	_	ref=14.19
+55	родомь	родъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	53	obl	_	ref=14.19
+56	подобно	подобьно	ADV	Df	Degree=Pos	53	advmod	_	ref=14.19
+57	великомѹ	великъ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	58	amod	_	ref=14.19
+58	цaрꙋ	цѣсарь	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	56	iobj	_	ref=14.19
+59	Конⸯстaнⸯтинꙋ	константинъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	58	appos	_	ref=14.19
+
+# source = Vita Constantini, 15
+# text = Дошьдьшꙋ же ѥмѹ Морaвꙑ съ великою чьстию приѥть ѥго Рaстислaвь и ѹченикꙑ събрaвь и въдaсть и ѹчити
+# sent_id = 217626
+1	Дошьдьшꙋ	доити	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	_	ref=15.1
+2	же	же	ADV	Df	_	8	discourse	_	ref=15.1
+3	ѥмѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	ref=15.1
+4	Морaвꙑ	морава	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	1	iobj	_	ref=15.1
+5	съ	съ	ADP	R-	_	7	case	_	ref=15.1
+6	великою	великъ	ADJ	A-	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	ref=15.1
+7	чьстию	чьсть	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	8	obl	_	ref=15.1
+8	приѥть	приѩти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=15.1
+9	ѥго	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj:dir	_	ref=15.1
+10	Рaстислaвь	растиславъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=15.1
+11	и	и	CCONJ	C-	_	8	cc	_	ref=15.1
+12	ѹченикꙑ	оученикъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	13	obj:dir	_	ref=15.1
+13	събрaвь	събьрати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	8	conj	_	ref=15.1
+14	и	и	CCONJ	C-	_	13	cc	_	ref=15.1
+15	въдaсть	въдати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	ref=15.1
+16	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	obj:dir	_	ref=15.1
+17	ѹчити	оучити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	15	advcl	_	ref=15.1
+
+# source = Vita Constantini, 15
+# text = и ѡтвръзоше се пророчьскомꙋ словесе ѹшесa глѹхꙑихь и ѹслꙑшaше книжⸯнaa словесa и ѥзꙑкь ꙗсьнь бꙑсть гѹгнивꙑихь
+# sent_id = 217629
+1	и	и	CCONJ	C-	_	2	cc	_	ref=15.3
+2	ѡтвръзоше	отъврѣщи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=15.3
+3	се	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=15.3
+4	пророчьскомꙋ	пророчьскъ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	5	amod	_	ref=15.3
+5	словесе	слово	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	2	obl	_	ref=15.3
+6	ѹшесa	оухо	NOUN	Nb	Case=Nom|Gender=Neut|Number=Dual	2	nsubj	_	ref=15.3
+7	глѹхꙑихь	глоухъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	6	amod	_	ref=15.3
+8	и	и	CCONJ	C-	_	2	cc	_	ref=15.3
+9	ѹслꙑшaше	оуслꙑшати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=15.3
+10	книжⸯнaa	кънижьнъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	11	amod	_	ref=15.3
+11	словесa	слово	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	9	obj:dir	_	ref=15.3
+12	и	и	CCONJ	C-	_	2	cc	_	ref=15.3
+13	ѥзꙑкь	ѩзꙑкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	ref=15.3
+14	ꙗсьнь	ꙗснъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	15	xcomp	_	ref=15.3
+15	бꙑсть	бꙑти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=15.3
+16	гѹгнивꙑихь	гоугнивъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	13	amod	_	ref=15.3
+
+# source = Vita Constantini, 15
+# text = богъ же възвесели ѡ семь
+# sent_id = 217630
+1	богъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=15.4
+2	же	же	ADV	Df	_	3	discourse	_	ref=15.4
+3	възвесели	възвеселити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=15.4
+4	ѡ	о	ADP	R-	_	5	case	_	ref=15.4
+5	семь	сь	ADJ	Pd	Case=Loc|Gender=Neut|Number=Sing	3	obl	_	ref=15.4
+
+# source = Vita Constantini, 15
+# text = a дїaволь постꙑдѣ
+# sent_id = 217631
+1	a	а	CCONJ	C-	_	3	cc	_	ref=15.4
+2	дїaволь	диꙗволъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=15.4
+3	постꙑдѣ	постꙑдѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=15.4
+
+# source = Vita Constantini, 15
+# text = рaстещꙋ же божїю ѹченїю злꙑ зaвистивꙑи испрьвa трꙑклетꙑ дїaволь не трьпе сего добрa нъ въшьдь въ своѥ съсѹдꙑ и нaчеть мнѡгꙑи въздвизaти глaголѥ имь
+# sent_id = 217632
+1	рaстещꙋ	растити	VERB	V-	Case=Dat|Gender=Neut|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	11	advcl	_	ref=15.5
+2	же	же	ADV	Df	_	11	discourse	_	ref=15.5
+3	божїю	божии	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	4	amod	_	ref=15.5
+4	ѹченїю	оучениѥ	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	1	nsubj	_	ref=15.5
+5	злꙑ	зълъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	9	amod	_	ref=15.5
+6	зaвистивꙑи	завистивъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	9	amod	_	ref=15.5
+7	испрьвa	испрьва	ADV	Df	_	6	advmod	_	ref=15.5
+8	трꙑклетꙑ	триклѧтъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	9	amod	_	ref=15.5
+9	дїaволь	диꙗволъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	ref=15.5
+10	не	не	ADV	Df	Polarity=Neg	11	advmod	_	ref=15.5
+11	трьпе	трьпѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=15.5
+12	сего	сь	DET	Pd	Case=Gen|Gender=Neut|Number=Sing	13	det	_	ref=15.5
+13	добрa	добро	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	11	obj:dir	_	ref=15.5
+14	нъ	нъ	CCONJ	C-	_	11	cc	_	ref=15.5
+15	въшьдь	вънити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	11	conj	_	ref=15.5
+16	въ	въ	ADP	R-	_	18	case	_	ref=15.5
+17	своѥ	свои	ADJ	Pt	Case=Acc|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	18	nmod	_	ref=15.5
+18	съсѹдꙑ	сѫсѣдъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	15	obl	_	ref=15.5
+19	и	и	CCONJ	C-	_	15	cc	_	ref=15.5
+20	нaчеть	начѧти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	conj	_	ref=15.5
+21	мнѡгꙑи	мъногъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	22	obj:dir	_	ref=15.5
+22	въздвизaти	въздвиѕати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	20	xcomp	_	ref=15.5
+23	глaголѥ	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	22	advcl	_	ref=15.5
+24	имь	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	23	iobj	_	ref=15.5
+
+# source = Vita Constantini, 15
+# text = не слaвит се богъ ѡ семь
+# sent_id = 217637
+1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	ref=15.5
+2	слaвит	славити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=15.5
+3	се	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=15.5
+4	богъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=15.5
+5	ѡ	о	ADP	R-	_	6	case	_	ref=15.5
+6	семь	сь	ADJ	Pd	Case=Loc|Gender=Neut|Number=Sing	2	obl	_	ref=15.5
+
+# source = Vita Constantini, 15
+# text = aще бо би ѥмѹ сице годѣ бꙑло то не бꙑ ли могль сътворити дa бꙑше и сїи испрьвa писменꙑ пишꙋще бесѣдꙑ своѥ слaвили богa
+# sent_id = 217638
+1	aще	аще	SCONJ	G-	_	7	mark	_	ref=15.6
+2	бо	бо	ADV	Df	_	12	discourse	_	ref=15.6
+3	би	бꙑти	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	ref=15.6
+4	ѥмѹ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	ref=15.6
+5	сице	сице	ADV	Df	_	7	ccomp	_	ref=15.6
+6	годѣ	годѣ	ADV	Df	_	7	xcomp	_	ref=15.6
+7	бꙑло	бꙑти	VERB	V-	Aspect=Res|Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	8	advcl	_	ref=15.6
+8	то	то	ADV	Df	_	12	advmod	_	ref=15.6
+9	не	не	ADV	Df	Polarity=Neg	12	advmod	_	ref=15.6
+10	бꙑ	бꙑти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	aux	_	ref=15.6
+11	ли	ли	ADV	Du	PronType=Int	12	advmod	_	ref=15.6
+12	могль	мощи	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=15.6
+13	сътворити	сътворити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	12	xcomp	_	ref=15.6
+14	дa	да	SCONJ	G-	_	23	mark	_	ref=15.6
+15	бꙑше	бꙑти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	23	aux	_	ref=15.6
+16	и	и	ADV	Df	_	17	advmod	_	ref=15.6
+17	сїи	сь	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	23	nsubj	_	ref=15.6
+18	испрьвa	испрьва	ADV	Df	_	23	advmod	_	ref=15.6
+19	писменꙑ	писмѧ	NOUN	Nb	Case=Ins|Gender=Neut|Number=Plur	23	obl	_	ref=15.6
+20	пишꙋще	пьсати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	23	advcl	_	ref=15.6
+21	бесѣдꙑ	бесѣда	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	20	obj:dir	_	ref=15.6
+22	своѥ	свои	ADJ	Pt	Case=Acc|Gender=Fem|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	21	nmod	_	ref=15.6
+23	слaвили	славити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	13	ccomp	_	ref=15.6
+24	богa	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	23	obj:dir	_	ref=15.6
+
+# source = Vita Constantini, 15
+# text = нъ трїи ѥзꙑкꙑ ѥсть тъкмо избрaль ѥѵвреискꙑи и грьчⸯскꙑ и лaтинⸯскꙑи имиже достоить богѹ слaвꙋ въздaти
+# sent_id = 217641
+1	нъ	нъ	CCONJ	C-	_	6	cc	_	ref=15.7
+2	трїи	триѥ	NUM	Ma	Case=Acc|Gender=Masc|Number=Plur	3	nummod	_	ref=15.7
+3	ѥзꙑкꙑ	ѩзꙑкъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	6	obj:dir	_	ref=15.7
+4	ѥсть	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	ref=15.7
+5	тъкмо	тъкъмо	ADV	Df	_	2	advmod	_	ref=15.7
+6	избрaль	избьрати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=15.7
+7	ѥѵвреискꙑи	евреискъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	3	appos	_	ref=15.7
+8	и	и	CCONJ	C-	_	7	cc	_	ref=15.7
+9	грьчⸯскꙑ	грьчьскъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	7	conj	_	ref=15.7
+10	и	и	CCONJ	C-	_	7	cc	_	ref=15.7
+11	лaтинⸯскꙑи	латиньскъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	7	conj	_	ref=15.7
+12	имиже	иже	PRON	Pr	Case=Ins|Gender=Masc|Number=Plur|PronType=Rel	16	obl	_	ref=15.7
+13	достоить	достоꙗти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	ref=15.7
+14	богѹ	богъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	16	iobj	_	ref=15.7
+15	слaвꙋ	слава	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	16	obj:dir	_	ref=15.7
+16	въздaти	въздати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	13	xcomp	_	ref=15.7
+
+# source = Vita Constantini, 15
+# text = бѣхꙋ же се глaголюще лaтинⸯсцїи съпричестници aрїереи и ѥреи и ѹченици
+# sent_id = 217644
+1	бѣхꙋ	бꙑти	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=15.8
+2	же	же	ADV	Df	_	1	discourse	_	ref=15.8
+3	се	сь	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	4	obj:dir	_	ref=15.8
+4	глaголюще	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	1	nsubj	_	ref=15.8
+5	лaтинⸯсцїи	латиньскъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	6	amod	_	ref=15.8
+6	съпричестници	съпричѧстьникъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	1	xcomp	_	ref=15.8
+7	aрїереи	архиереи	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	appos	_	ref=15.8
+8	и	и	CCONJ	C-	_	7	cc	_	ref=15.8
+9	ѥреи	иѥреи	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	7	conj	_	ref=15.8
+10	и	и	CCONJ	C-	_	7	cc	_	ref=15.8
+11	ѹченици	оученикъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	7	conj	_	ref=15.8
+
+# source = Vita Constantini, 15
+# text = и брaвⸯ же се съ ними ꙗко Дaвидь съ иноплеменⸯникꙑ книжⸯними словеси побѣждь ѥ нaрече ѥ триѥзꙑчникꙑ ꙗко Пилaтѹ тaко нaписaвшꙋ нa титлѣ господи
+# sent_id = 217646
+1	и	и	CCONJ	C-	_	15	cc	_	ref=15.9
+2	брaвⸯ	брати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	15	advcl	_	ref=15.9
+3	же	же	ADV	Df	_	15	discourse	_	ref=15.9
+4	се	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=15.9
+5	съ	съ	ADP	R-	_	6	case	_	ref=15.9
+6	ними	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obl	_	ref=15.9
+7	ꙗко	ꙗко	ADV	Dq	PronType=Rel	8	orphan	_	ref=15.9
+8	Дaвидь	давꙑдъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	obl	_	ref=15.9
+9	съ	съ	ADP	R-	_	10	case	_	ref=15.9
+10	иноплеменⸯникꙑ	иноплеменьникъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	8	orphan	_	ref=15.9
+11	книжⸯними	кънижьнъ	ADJ	A-	Case=Ins|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	12	amod	_	ref=15.9
+12	словеси	слово	NOUN	Nb	Case=Ins|Gender=Neut|Number=Plur	13	obl	_	ref=15.9
+13	побѣждь	побѣдити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	15	advcl	_	ref=15.9
+14	ѥ	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	obj:dir	_	ref=15.9
+15	нaрече	нарещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=15.9
+16	ѥ	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	obj:dir	_	ref=15.9
+17	триѥзꙑчникꙑ	триѩзꙑчьникъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	15	xcomp	_	ref=15.9
+18	ꙗко	ꙗко	SCONJ	G-	_	21	mark	_	ref=15.9
+19	Пилaтѹ	пилатъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	21	nsubj	_	ref=15.9
+20	тaко	тако	ADV	Df	_	21	advmod	_	ref=15.9
+21	нaписaвшꙋ	напьсати	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	15	advcl	_	ref=15.9
+22	нa	на	ADP	R-	_	23	case	_	ref=15.9
+23	титлѣ	титьлъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	21	obl	_	ref=15.9
+24	господи	господь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	23	nmod	_	ref=15.9
+
+# source = Vita Constantini, 15
+# text = не тькмо же се ѥдино глaголaхꙋ
+# sent_id = 217650
+1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	ref=15.10
+2	тькмо	тъкъмо	ADV	Df	_	4	advmod	_	ref=15.10
+3	же	же	ADV	Df	_	6	discourse	_	ref=15.10
+4	се	сь	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	6	obj:dir	_	ref=15.10
+5	ѥдино	ѥдинъ	NUM	Ma	Case=Acc|Gender=Neut|Number=Sing	4	appos	_	ref=15.10
+6	глaголaхꙋ	глаголати	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=15.10
+
+# source = Vita Constantini, 15
+# text = нъ и иномѹ бесчьстию ѹчaхꙋ глaголюще ꙗко под землѥю живꙋть чловѣци вельглaвꙑ и въсь гaдь дїaволꙗ твaрь ѥсть и aще кто ѹбиѥть змїю ѳ҃ грѣхь избѹдеть тоѥ рaди aще чловѣкa ѹбиѥть кто три месеци дa пиѥть въ дрѣвѣнѣ чaши a стꙑклѣне се не прикaсaѥ
+# sent_id = 217651
+1	нъ	нъ	CCONJ	C-	_	5	cc	_	ref=15.10
+2	и	и	ADV	Df	_	4	advmod	_	ref=15.10
+3	иномѹ	инъ	DET	Px	Case=Dat|Gender=Neut|Number=Sing	4	det	_	ref=15.10
+4	бесчьстию	бещьстиѥ	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	5	iobj	_	ref=15.10
+5	ѹчaхꙋ	оучити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=15.10
+6	глaголюще	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	5	advcl	_	ref=15.10
+7	ꙗко	ꙗко	SCONJ	G-	_	10	mark	_	ref=15.10
+8	под	подъ	ADP	R-	_	9	case	_	ref=15.10
+9	землѥю	землꙗ	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	10	obl	_	ref=15.10
+10	живꙋть	жити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	ref=15.10
+11	чловѣци	чловѣкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	ref=15.10
+12	вельглaвꙑ	вельглава	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	11	appos	_	ref=15.10
+13	и	и	CCONJ	C-	_	10	cc	_	ref=15.10
+14	въсь	вьсь	DET	Px	Case=Nom|Gender=Masc|Number=Sing	15	det	_	ref=15.10
+15	гaдь	гадъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	ref=15.10
+16	дїaволꙗ	диꙗволь	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	17	amod	_	ref=15.10
+17	твaрь	тварь	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	18	xcomp	_	ref=15.10
+18	ѥсть	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	ref=15.10
+19	и	и	CCONJ	C-	_	10	cc	_	ref=15.10
+20	aще	аще	SCONJ	G-	_	22	mark	_	ref=15.10
+21	кто	къто	ADJ	Px	Case=Nom|Number=Sing	22	nsubj	_	ref=15.10
+22	ѹбиѥть	оубити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	advcl	_	ref=15.10
+23	змїю	змиꙗ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	22	obj:dir	_	ref=15.10
+24	ѳ҃	девѧть	NUM	Ma	Case=Gen|Gender=Fem|Number=Sing	26	iobj	_	ref=15.10
+25	грѣхь	грѣхъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	24	nmod	_	ref=15.10
+26	избѹдеть	избꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	ref=15.10
+27	тоѥ	тъ	ADJ	Pd	Case=Gen|Gender=Fem|Number=Sing	26	obl	_	ref=15.10
+28	рaди	ради	ADP	R-	_	27	case	_	ref=15.10
+29	aще	аще	SCONJ	G-	_	31	mark	_	ref=15.10
+30	чловѣкa	чловѣкъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	31	obj:dir	_	ref=15.10
+31	ѹбиѥть	оубити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	36	advcl	_	ref=15.10
+32	кто	къто	ADJ	Px	Case=Nom|Number=Sing	31	nsubj	_	ref=15.10
+33	три	триѥ	NUM	Ma	Case=Acc|Gender=Masc|Number=Plur	34	nummod	_	ref=15.10
+34	месеци	мѣсѧць	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	36	obl	_	ref=15.10
+35	дa	да	ADV	Df	_	36	advmod	_	ref=15.10
+36	пиѥть	пити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	ref=15.10
+37	въ	въ	ADP	R-	_	39	case	_	ref=15.10
+38	дрѣвѣнѣ	дрѣвѣнъ	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	39	amod	_	ref=15.10
+39	чaши	чаша	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	36	obl	_	ref=15.10
+40	a	а	CCONJ	C-	_	36	cc	_	ref=15.10
+41	стꙑклѣне	стьклѣнъ	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	44	iobj	_	ref=15.10
+42	се	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	44	aux	_	ref=15.10
+43	не	не	ADV	Df	Polarity=Neg	44	advmod	_	ref=15.10
+44	прикaсaѥ	прикасати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	36	conj	_	ref=15.10
+
+# source = Vita Constantini, 15
+# text = и не брaнꙗхꙋ жрьтвь творити по прьвомꙋ ѡбꙑчaю ни женитвѣ бесчьстнꙑихь
+# sent_id = 217658
+1	и	и	CCONJ	C-	_	3	cc	_	ref=15.11
+2	не	не	ADV	Df	Polarity=Neg	3	advmod	_	ref=15.11
+3	брaнꙗхꙋ	бранити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=15.11
+4	жрьтвь	жрьтва	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	5	obj:dir	_	ref=15.11
+5	творити	творити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=15.11
+6	по	по	ADP	R-	_	8	case	_	ref=15.11
+7	прьвомꙋ	прьвоѥ	ADJ	Mo	Case=Dat|Gender=Masc|Number=Sing	8	nmod	_	ref=15.11
+8	ѡбꙑчaю	обꙑчаи	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	5	obl	_	ref=15.11
+9	ни	ни	CCONJ	C-	_	5	cc	_	ref=15.11
+10	женитвѣ	женитва	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	5	iobj	_	ref=15.11
+11	бесчьстнꙑихь	бещьстьнъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	10	amod	_	ref=15.11
+
+# source = Vita Constantini, 15
+# text = вⸯсе же сїе ꙗко и трьнїе посѣкь словеснꙑмь ѡгнѥмь попaли глaголѥ
+# sent_id = 217659
+1	вⸯсе	вьсь	DET	Px	Case=Acc|Gender=Neut|Number=Sing	3	det	_	ref=15.12
+2	же	же	ADV	Df	_	10	discourse	_	ref=15.12
+3	сїе	сь	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	7	obj:dir	_	ref=15.12
+4	ꙗко	ꙗко#1	ADV	Df	_	7	advmod	_	ref=15.12
+5	и	и	ADV	Df	_	6	advmod	_	ref=15.12
+6	трьнїе	трьниѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obj:dir	_	ref=15.12
+7	посѣкь	посѣщи	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	10	advcl	_	ref=15.12
+8	словеснꙑмь	словесьнъ	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	9	amod	_	ref=15.12
+9	ѡгнѥмь	огнь	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	10	obl	_	ref=15.12
+10	попaли	попалити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=15.12
+11	глaголѥ	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	10	advcl	_	ref=15.12
+
+# source = Vita Constantini, 15
+# text = пожри богѹ жрьтвѹ хвaлⸯнѹю и въздaждь вꙑшнѥмꙋ молитвꙑ твоѥ
+# sent_id = 217662
+1	пожри	пожрьти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=15.12
+2	богѹ	богъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	ref=15.12
+3	жрьтвѹ	жрьтва	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj:dir	_	ref=15.12
+4	хвaлⸯнѹю	хвальнъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	3	amod	_	ref=15.12
+5	и	и	CCONJ	C-	_	1	cc	_	ref=15.12
+6	въздaждь	въздати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=15.12
+7	вꙑшнѥмꙋ	вꙑшьнь	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	6	iobj	_	ref=15.12
+8	молитвꙑ	молитва	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	6	obj:dir	_	ref=15.12
+9	твоѥ	твои	ADJ	Ps	Case=Acc|Gender=Fem|Number=Plur|Person=2|Poss=Yes	8	nmod	_	ref=15.12
+
+# source = Vita Constantini, 15
+# text = женꙑ же юности твоѥ не ѡтпꙋсти
+# sent_id = 217663
+1	женꙑ	жена	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	obj:dir	_	ref=15.13
+2	же	же	ADV	Df	_	6	discourse	_	ref=15.13
+3	юности	юность	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	ref=15.13
+4	твоѥ	твои	ADJ	Ps	Case=Gen|Gender=Fem|Number=Sing|Person=2|Poss=Yes	3	nmod	_	ref=15.13
+5	не	не	ADV	Df	Polarity=Neg	6	advmod	_	ref=15.13
+6	ѡтпꙋсти	отъпоустити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=15.13
+
+# source = Vita Constantini, 15
+# text = aще бо ю възненaвидѣвⸯ ѡтпѹстиши не покрїеть нечесть похоти твоѥ
+# sent_id = 217664
+1	aще	аще	SCONJ	G-	_	5	mark	_	ref=15.13
+2	бо	бо	ADV	Df	_	7	discourse	_	ref=15.13
+3	ю	и	PRON	Pp	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj:dir	_	ref=15.13
+4	възненaвидѣвⸯ	възненавидѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	5	advcl	_	ref=15.13
+5	ѡтпѹстиши	отъпоустити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	ref=15.13
+6	не	не	ADV	Df	Polarity=Neg	7	advmod	_	ref=15.13
+7	покрїеть	покрꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=15.13
+8	нечесть	нечьсть	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	ref=15.13
+9	похоти	похоть	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	obj:dir	_	ref=15.13
+10	твоѥ	твои	ADJ	Ps	Case=Gen|Gender=Fem|Number=Sing|Person=2|Poss=Yes	9	nmod	_	ref=15.13
+
+# source = Vita Constantini, 15
+# text = глaголѥть господь вседрьжитель
+# sent_id = 218014
+1	глaголѥть	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=15.13
+2	господь	господь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=15.13
+3	вседрьжитель	вьседрьжитель	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	ref=15.13
+
+# source = Vita Constantini, 15
+# text = и съхрaните се дѹхомь вaшимь дa не ѡстaвить къждо вaсь женꙑ юности своѥ
+# sent_id = 217667
+1	и	и	CCONJ	C-	_	2	cc	_	ref=15.14
+2	съхрaните	съхранити	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=15.14
+3	се	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	2	aux	_	ref=15.14
+4	дѹхомь	доухъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	2	obl	_	ref=15.14
+5	вaшимь	вашь	ADJ	Ps	Case=Ins|Gender=Masc|Number=Sing|Person=2|Poss=Yes	4	nmod	_	ref=15.14
+6	дa	да	SCONJ	G-	_	8	mark	_	ref=15.14
+7	не	не	ADV	Df	Polarity=Neg	8	advmod	_	ref=15.14
+8	ѡстaвить	оставити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	ref=15.14
+9	къждо	къжьдо	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=15.14
+10	вaсь	вꙑ	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	9	nmod	_	ref=15.14
+11	женꙑ	жена	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	obj:dir	_	ref=15.14
+12	юности	юность	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	ref=15.14
+13	своѥ	свои	ADJ	Pt	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	12	nmod	_	ref=15.14
+
+# source = Vita Constantini, 15
+# text = и си ихⸯже ненaвидѣхь творесте
+# sent_id = 217669
+1	и	и	CCONJ	C-	_	5	cc	_	ref=15.14
+2	си	сь	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	5	obj:dir	_	ref=15.14
+3	ихⸯже	иже	PRON	Pr	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	4	obj:dir	_	ref=15.14
+4	ненaвидѣхь	ненавидѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	acl	_	ref=15.14
+5	творесте	творити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=15.14
+
+# source = Vita Constantini, 15
+# text = ꙗко свѣдѣтелⸯствовa междꙋ тобою и междꙋ женою юности твоѥ юже ѥси ѡстaвиль
+# sent_id = 218015
+1	ꙗко	ꙗко#2	ADV	Df	_	2	discourse	_	ref=15.14
+2	свѣдѣтелⸯствовa	съвѣдѣтельствовати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=15.14
+3	междꙋ	междоу	ADP	R-	_	4	case	_	ref=15.14
+4	тобою	тꙑ	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	obl	_	ref=15.14
+5	и	и	CCONJ	C-	_	4	cc	_	ref=15.14
+6	междꙋ	междоу	ADP	R-	_	7	case	_	ref=15.14
+7	женою	жена	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	4	conj	_	ref=15.14
+8	юности	юность	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	ref=15.14
+9	твоѥ	твои	ADJ	Ps	Case=Gen|Gender=Fem|Number=Sing|Person=2|Poss=Yes	8	nmod	_	ref=15.14
+10	юже	иже	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	12	obj:dir	_	ref=15.14
+11	ѥси	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	_	ref=15.14
+12	ѡстaвиль	оставити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	7	acl	_	ref=15.14
+
+# source = Vita Constantini, 15
+# text = и тa ѡбьщницa твоꙗ и женa зaвѣтa твоѥго
+# sent_id = 217674
+1	и	и	CCONJ	C-	_	3	cc	_	ref=15.14
+2	тa	тъ	ADJ	Pd	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	ref=15.14
+3	ѡбьщницa	обьщьница	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=15.14
+4	твоꙗ	твои	ADJ	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes	3	nmod	_	ref=15.14
+5	и	и	CCONJ	C-	_	3	cc	_	ref=15.14
+6	женa	жена	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	conj	_	ref=15.14
+7	зaвѣтa	завѣтъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	ref=15.14
+8	твоѥго	твои	ADJ	Ps	Case=Gen|Gender=Masc|Number=Sing|Person=2|Poss=Yes	7	nmod	_	ref=15.14
+
+# source = Vita Constantini, 15
+# text = и въ еѵaггелїи господь
+# sent_id = 217675
+1	и	и	CCONJ	C-	_	0	root	_	ref=15.15
+2	въ	въ	ADP	R-	_	3	case	_	ref=15.15
+3	еѵaггелїи	евангелиѥ	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	1	obl	_	ref=15.15
+4	господь	господь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=15.15
+
+# source = Vita Constantini, 15
+# text = слꙑшaсте ꙗко речено бꙑсть дрѣвнꙑми
+# sent_id = 217676
+1	слꙑшaсте	слꙑшати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=15.15
+2	ꙗко	ꙗко	SCONJ	G-	_	4	mark	_	ref=15.15
+3	речено	рещи	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	4	xcomp	_	ref=15.15
+4	бꙑсть	бꙑти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	ref=15.15
+5	дрѣвнꙑми	древльнь	ADJ	A-	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	3	iobj	_	ref=15.15
+
+# source = Vita Constantini, 15
+# text = не сътвориши прѣлюбꙑ
+# sent_id = 217678
+1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	ref=15.15
+2	сътвориши	сътворити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=15.15
+3	прѣлюбꙑ	прѣлюбꙑ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj:dir	_	ref=15.15
+
+# source = Vita Constantini, 15
+# text = aз же глaголю вaмⸯ ꙗко въсaкь иже възрить нa женѹ похотѣти ѥи юже прѣлюбꙑ ѥсть сътворилⸯ с нѥю срьдьцемь своимь
+# sent_id = 217679
+1	aз	азъ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	ref=15.15
+2	же	же	ADV	Df	_	3	discourse	_	ref=15.15
+3	глaголю	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=15.15
+4	вaмⸯ	вꙑ	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	iobj	_	ref=15.15
+5	ꙗко	ꙗко	SCONJ	G-	_	16	mark	_	ref=15.15
+6	въсaкь	вьсꙗкъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	16	nsubj	_	ref=15.15
+7	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	_	ref=15.15
+8	възрить	възьрѣти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	ref=15.15
+9	нa	на	ADP	R-	_	10	case	_	ref=15.15
+10	женѹ	жена	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	ref=15.15
+11	похотѣти	похотѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	advcl	_	ref=15.15
+12	ѥи	и	PRON	Pp	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	iobj	_	ref=15.15
+13	юже	оуже	ADV	Df	_	16	advmod	_	ref=15.15
+14	прѣлюбꙑ	прѣлюбꙑ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	16	obj:dir	_	ref=15.15
+15	ѥсть	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	aux	_	ref=15.15
+16	сътворилⸯ	сътворити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	3	ccomp	_	ref=15.15
+17	с	съ	ADP	R-	_	18	case	_	ref=15.15
+18	нѥю	и	PRON	Pp	Case=Ins|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	obl	_	ref=15.15
+19	срьдьцемь	срьдьце	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	16	obl	_	ref=15.15
+20	своимь	свои	ADJ	Pt	Case=Ins|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	19	nmod	_	ref=15.15
+
+# source = Vita Constantini, 15
+# text = и пaкꙑ
+# sent_id = 217683
+1	и	и	CCONJ	C-	_	0	root	_	ref=15.16
+2	пaкꙑ	пакꙑ	ADV	Df	_	1	advmod	_	ref=15.16
+
+# source = Vita Constantini, 15
+# text = глaголю вaмь ꙗко же пѹстить женѹ свою рaзвѣ словесе любодѣинaго творить ю прѣлюбꙑ дѣꙗти
+# sent_id = 217684
+1	глaголю	глаголати	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=15.16
+2	вaмь	вꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=2|PronType=Prs	1	iobj	_	ref=15.16
+3	ꙗко	ꙗко	SCONJ	G-	_	11	mark	_	ref=15.16
+4	же	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	ref=15.16
+5	пѹстить	поустити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	nsubj	_	ref=15.16
+6	женѹ	жена	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	ref=15.16
+7	свою	свои	ADJ	Pt	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	6	nmod	_	ref=15.16
+8	рaзвѣ	развѣ	ADP	R-	_	9	case	_	ref=15.16
+9	словесе	слово	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	5	obl	_	ref=15.16
+10	любодѣинaго	любодѣꙗньнъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	9	amod	_	ref=15.16
+11	творить	творити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	ref=15.16
+12	ю	и	PRON	Pp	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj:dir	_	ref=15.16
+13	прѣлюбꙑ	прѣлюбꙑ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	14	obj:dir	_	ref=15.16
+14	дѣꙗти	дѣꙗти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	11	xcomp	_	ref=15.16
+
+# source = Vita Constantini, 15
+# text = и иже ѡтпѹщенѹю ѡть мѹжa поѥмлѥть прѣлюбꙑ дѣѥть
+# sent_id = 217688
+1	и	и	CCONJ	C-	_	8	cc	_	ref=15.16
+2	иже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	ref=15.16
+3	ѡтпѹщенѹю	отъпоустити	VERB	V-	Case=Acc|Gender=Fem|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	6	obj:dir	_	ref=15.16
+4	ѡть	отъ	ADP	R-	_	5	case	_	ref=15.16
+5	мѹжa	мѫжь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	obl	_	ref=15.16
+6	поѥмлѥть	поимати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	nsubj	_	ref=15.16
+7	прѣлюбꙑ	прѣлюбꙑ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obj:dir	_	ref=15.16
+8	дѣѥть	дѣꙗти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=15.16
+
+# source = Vita Constantini, 15
+# text = aпостоль рече
+# sent_id = 217690
+1	aпостоль	апостолъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=15.17
+2	рече	рещи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=15.17
+
+# source = Vita Constantini, 15
+# text = ѥже ѥсть богъ съчетaль чловѣкь дa не рaзлѹчи
+# sent_id = 217691
+1	ѥже	иже	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	4	obj:dir	_	ref=15.17
+2	ѥсть	бꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	ref=15.17
+3	богъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=15.17
+4	съчетaль	съчетати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	8	obj:dir	_	ref=15.17
+5	чловѣкь	чловѣкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=15.17
+6	дa	да	ADV	Df	_	8	advmod	_	ref=15.17
+7	не	не	ADV	Df	Polarity=Neg	8	advmod	_	ref=15.17
+8	рaзлѹчи	разлѫчити	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=15.17
+
+# source = Vita Constantini, 15
+# text = м҃ же месець створи въ Морaвѣ и иде свести ѹченикꙑ своѥ
+# sent_id = 217693
+1	м҃	четꙑрe.десѧтe	NUM	Ma	Case=Nom|Gender=Fem,Masc|Number=Plur	4	obl	_	ref=15.18
+2	же	же	ADV	Df	_	4	discourse	_	ref=15.18
+3	месець	мѣсѧць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	ref=15.18
+4	створи	сътворити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=15.18
+5	въ	въ	ADP	R-	_	6	case	_	ref=15.18
+6	Морaвѣ	морава	PROPN	Ne	Case=Loc|Gender=Fem|Number=Sing	4	obl	_	ref=15.18
+7	и	и	CCONJ	C-	_	4	cc	_	ref=15.18
+8	иде	ити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	ref=15.18
+9	свести	съвести	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	advcl	_	ref=15.18
+10	ѹченикꙑ	оученикъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	9	obj:dir	_	ref=15.18
+11	своѥ	свои	ADJ	Pt	Case=Acc|Gender=Masc|Number=Plur|Person=3|Poss=Yes|Reflex=Yes	10	nmod	_	ref=15.18
+
+# source = Vita Constantini, 15
+# text = прѣѥтⸯ же ѥго идѹщa Коцⸯлꙑ кнезь пaнонⸯскꙑ
+# sent_id = 217694
+1	прѣѥтⸯ	приѩти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=15.19
+2	же	же	ADV	Df	_	1	discourse	_	ref=15.19
+3	ѥго	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj:dir	_	ref=15.19
+4	идѹщa	ити	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	ref=15.19
+5	Коцⸯлꙑ	коцьлъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=15.19
+6	кнезь	кънѧѕь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	appos	_	ref=15.19
+7	пaнонⸯскꙑ	паноньскъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	6	amod	_	ref=15.19
+
+# source = Vita Constantini, 15
+# text = и възлюбль велⸯми словенⸯскꙑи книгꙑ нaѹчити се имь
+# sent_id = 217696
+1	и	и	CCONJ	C-	_	6	cc	_	ref=15.19
+2	възлюбль	възлюбити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	6	advcl	_	ref=15.19
+3	велⸯми	вельми	ADV	Df	_	2	advmod	_	ref=15.19
+4	словенⸯскꙑи	словѣньскъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	5	amod	_	ref=15.19
+5	книгꙑ	кънигꙑ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	2	obj:dir	_	ref=15.19
+6	нaѹчити	наоучити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=15.19
+7	се	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	6	aux	_	ref=15.19
+8	имь	и	PRON	Pp	Case=Dat|Gender=Fem|Number=Plur|Person=3|PronType=Prs	6	iobj	_	ref=15.19
+
+# source = Vita Constantini, 15
+# text = и въдa до и҃ ѹченикьь ѹчити се имь
+# sent_id = 218585
+1	и	и	CCONJ	C-	_	2	cc	_	ref=15.19
+2	въдa	въдати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=15.19
+3	до	до	ADP	R-	_	4	case	_	ref=15.19
+4	и҃	осмь	NUM	Ma	Case=Gen|Gender=Fem|Number=Sing	2	obj:dir	_	ref=15.19
+5	ѹченикьь	оученикъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	ref=15.19
+6	ѹчити	оучити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	advcl	_	ref=15.19
+7	се	себе	AUX	Pk	Case=Acc|Number=Sing|Person=3	6	aux	_	ref=15.19
+8	имь	и	PRON	Pp	Case=Dat|Gender=Fem|Number=Plur|Person=3|PronType=Prs	6	iobj	_	ref=15.19
+
+# source = Vita Constantini, 15
+# text = велию чьсть ѥмꙋ сътворь мимо проводи и
+# sent_id = 217697
+1	велию	велии	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	2	amod	_	ref=15.20
+2	чьсть	чьсть	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj:dir	_	ref=15.20
+3	ѥмꙋ	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	ref=15.20
+4	сътворь	сътворити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	6	advcl	_	ref=15.20
+5	мимо	мимо	ADV	Df	_	6	advmod	_	ref=15.20
+6	проводи	проводити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=15.20
+7	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj:dir	_	ref=15.20
+
+# source = Vita Constantini, 15
+# text = не възетⸯ же ни ѡть Рaстислaвa ни ѡть Коцⸯлa ни злaтa ни сребрa ни иноѥ вещи
+# sent_id = 217699
+1	не	не	ADV	Df	Polarity=Neg	2	advmod	_	ref=15.21
+2	възетⸯ	възѧти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=15.21
+3	же	же	ADV	Df	_	2	discourse	_	ref=15.21
+4	ни	ни	CCONJ	C-	_	6	cc	_	ref=15.21
+5	ѡть	отъ	ADP	R-	_	6	case	_	ref=15.21
+6	Рaстислaвa	растиславъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	obl	_	ref=15.21
+7	ни	ни	CCONJ	C-	_	6	cc	_	ref=15.21
+8	ѡть	отъ	ADP	R-	_	9	case	_	ref=15.21
+9	Коцⸯлa	коцьлъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	conj	_	ref=15.21
+10	ни	ни	CCONJ	C-	_	11	cc	_	ref=15.21
+11	злaтa	злато	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	2	obj:dir	_	ref=15.21
+12	ни	ни	CCONJ	C-	_	11	cc	_	ref=15.21
+13	сребрa	сьребро	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	11	conj	_	ref=15.21
+14	ни	ни	CCONJ	C-	_	11	cc	_	ref=15.21
+15	иноѥ	инъ	DET	Px	Case=Gen|Gender=Fem|Number=Sing	16	det	_	ref=15.21
+16	вещи	вещь	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	11	conj	_	ref=15.21
+
+# source = Vita Constantini, 15
+# text = положивь еѵaггелⸯскоѥ слово и бес пище тъкмо плѣнⸯникь испрошь ѡть обѡю ѳ҃ съть и ѡтпѹсти ихь
+# sent_id = 217700
+1	положивь	положити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	9	advcl	_	ref=15.21
+2	еѵaггелⸯскоѥ	евангельскъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	3	amod	_	ref=15.21
+3	слово	слово	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	obj:dir	_	ref=15.21
+4	и	и	ADV	Df	_	5	advmod	_	ref=15.21
+5	бес	без	ADP	R-	_	6	case	_	ref=15.21
+6	пище	пища	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	1	obl	_	ref=15.21
+7	тъкмо	тъкъмо	ADV	Df	_	9	advmod	_	ref=15.22
+8	плѣнⸯникь	плѣньникъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	ref=15.22
+9	испрошь	испросити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=15.22
+10	ѡть	отъ	ADP	R-	_	11	case	_	ref=15.22
+11	обѡю	оба	NUM	Ma	Case=Gen|Gender=Masc|Number=Dual	9	obl	_	ref=15.22
+12	ѳ҃	девѧть	NUM	Ma	Case=Acc|Gender=Fem|Number=Sing	9	obj:dir	_	ref=15.22
+13	съть	съто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	12	nmod	_	ref=15.22
+14	и	и	CCONJ	C-	_	9	cc	_	ref=15.22
+15	ѡтпѹсти	отъпоустити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	ref=15.22
+16	ихь	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	15	obj:dir	_	ref=15.22
+
+# source = Vita Constantini, 17
+# text = И ѹвѣдѣвь и римскꙑи пaпa послa по нь
+# sent_id = 217901
+1	И	и	CCONJ	C-	_	6	cc	_	ref=17.1
+2	ѹвѣдѣвь	оувѣдѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	6	advcl	_	ref=17.1
+3	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj:dir	_	ref=17.1
+4	римскꙑи	римьскъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	5	amod	_	ref=17.1
+5	пaпa	папа	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=17.1
+6	послa	посълати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=17.1
+7	по	по	ADP	R-	_	8	case	_	ref=17.1
+8	нь	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl	_	ref=17.1

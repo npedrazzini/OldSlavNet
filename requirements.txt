@@ -1,4 +1,4 @@
-pip>=19.0.3
-cython==0.29.21
-numpy==1.19.1
-dynet==2.0
+cmake==3.22.0
+Cython==0.29.24
+numpy==1.21.4
+dyNET @ git+https://github.com/clab/dynet@93a5cd2d6aabeb8c506f07e51ef3a779506da68b

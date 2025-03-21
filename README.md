@@ -3,6 +3,8 @@
 # OldSlavNet 
 > Full documentation here: https://npedrazzini.github.io/OldSlavNet/.
 
+> 📦💾 Data and model now stored on [HuggingFace](https://huggingface.co/datasets/npedrazzini/OldSlavNet_model_and_data/tree/main) 🤗
+
 Pre-modern Slavic neural-network (Bi-LSTM) dependency parser.
 
 If you use our pretrained model to parse new pre-modern Slavic texts, please cite [1].
